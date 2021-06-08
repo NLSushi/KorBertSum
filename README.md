@@ -5,9 +5,10 @@
 **!New: Please see our [full paper](https://arxiv.org/abs/1908.08345) with trained models**
 
 **Hugging Face의 Multilangual 라이브러리를 적용하여 한글 뉴스 문서에 적용할 수 있습니다.**
+
 **데이터는 DACON의 뉴스 추출요약 데이터셋을 활용했습니다.**
 
-
+**Work Flow는 Jupyter Notebook을 이용하시면 됩니다.**
 
 Results on CNN/Dailymail (25/3/2019):
 
