@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['농림 축산 식품 부 는 오 는 22 일 부터 9 월 24 일 까지 전국 식품 기업 등 을 대상 으로 지역 순회 투자 설 명회 를 개최 한다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'이번 전국 설 명회 는 신규 잠재 투자 기업 을 발굴 하 고 국가 식품 클러스터 인지도 를 높이 기 위한 것 으로</a>
-</body>
-</html>

@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['더불 어 민주당 은 28 일 설 명절 을 앞두 고 ‘ 외교 안 보통 일자 문회 의 ’ 를 열 어 평화 이슈 를 부각 했 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'이 대표 는 이어 “ 뉴스 를 보 니 김영철 부위원장 이 트럼프 대통령 의 친서 를 김정 은 북한 국무 위원장 에게 전달 했 는데</a>
-</body>
-</html>

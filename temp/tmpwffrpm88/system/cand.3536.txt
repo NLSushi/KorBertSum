@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['실로 암 안 과 병원 의료진 이 청주 맹학교 를 방문 해 시각 장애 학생 을 위한 안 과 이동진 료 를 실시 하 고 있 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'사진 = 청주 맹학교 제공'</a>
-</body>
-</html>

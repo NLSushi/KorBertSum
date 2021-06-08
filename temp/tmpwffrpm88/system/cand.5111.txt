@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['‘ 테니스 황제 ’ 로저 페더러 ( 세계 랭킹 7 위 · 스위스 ) 가 남자 프로 테니스 ( atp ) 투어 단식 에서 통산 100 번 째 우승 의 위업 을 달성 했 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'우승 상금 은 56 만 5635 달러 ( 약 6 억 3000 만 원 ) 다 .'</a>
-</body>
-</html>

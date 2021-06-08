@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'자유 한 국당 강효상 의원 ( 대구 달서 병 당 협 위원장</a>
-<a name="2">[2]</a> <a href="#2" id=2>'현재 막 가동 을 시작 한 대구 물 산업 클러스터 의 연착륙 을 위해 증액 이 필요 한 예산 은 유체 성능 시험 센터 건립 예산 122 억 원 과 한국 물 기술 인 증원 운영비 12 억 7 천만 원</a>
-</body>
-</html>

@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'자신 이 보 고 온 영화 내용 을 퍼트리 려는 빌 런 ( ? ) 네티즌 과 영화 를 보 러 갈 예정 인 네티즌 들 의 수 싸움 이 벌어지 고 있 는 것 이 다 .'</a>
-</body>
-</html>

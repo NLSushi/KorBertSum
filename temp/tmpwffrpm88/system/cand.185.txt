@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'동국 대 전 산원 의 주말 학사 과정 은 △ 컴퓨터 공학 전공 ( 컴퓨터 공학 ) △ 경영학 전공 ( 경영 ) △ 관광 경영학 전공 ( 호텔 관광 경영 ) △ 심리학 전공 ( 상담 심리 ) △ 행정학 전공 ( 행정 ) 등 5 개 전공 5 개 트랙 이 있 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'야간 대학 개념 과정</a>
-</body>
-</html>

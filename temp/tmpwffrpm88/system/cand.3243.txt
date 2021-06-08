@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['손정 의 소프트 뱅크 회장 이 문재인 대통령 을 만나 ‘ 인공지능 ’( ai ) 기술 이 미래 먹 을 거리 라며 기술 개발 과 상용 화 에 아낌없 는 투자 가 이뤄져야 한다고 강조 했 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'문 대통령 은 “ 손 회장 은 김대중 대통령 당시 초고속 인터넷 망 필요 성 을</a>
-</body>
-</html>

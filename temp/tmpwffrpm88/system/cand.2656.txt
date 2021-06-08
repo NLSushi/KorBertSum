@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['정종순 ( 가운데 ) 장흥 군수 가 국회 를 찾 아 황주홍 ( 왼쪽 ) 의원 에게 지역 현안 사업 에 대해 설명 하 고 있 다 .'</a>
-</body>
-</html>

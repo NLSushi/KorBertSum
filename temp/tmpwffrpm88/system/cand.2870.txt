@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['성공 적 인 입시 전략 을 위한 ‘ 대입 변화 분석 설 명회 ’ 가 광주 에서 열린다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'이번 설 명회 에 는 20 여 년 교육 입시 분야 의 노하우 를 가지 고 있 는 이강학 원 의 이강현 대표 가 강연자 로 나선다 .'</a>
-</body>
-</html>

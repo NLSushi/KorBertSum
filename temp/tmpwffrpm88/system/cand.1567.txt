@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'천주교 대전교구 신 합덕 성당'</a>
-<a name="2">[2]</a> <a href="#2" id=2>['▲ 신 합덕 성당 신자 들 이 매스트르 신부 선종 160 주기 기념행사 를 황무 실 성지 에서 지난달 20 일 실시 했 다 .'</a>
-</body>
-</html>

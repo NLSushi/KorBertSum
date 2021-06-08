@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['문재인 대통령 이 이르 면 다음 주 후반 비서 실장 · 정무 수석 · 국민 소통 수석 교체 인선 을 단행 할 것 으로 보인다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'한 사람 만 검증 에서 문제 가 생겨도 전체 인사 가 늦 어 질 수 있 다 ” 고 설명 했 다 .'</a>
-</body>
-</html>

@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['가평군 이 올해 특수 시책 으로 ‘ 특화 도서관 ’ 을 운영 하 며 선진 도서관 서비스 확충 을 통한 지식 경쟁력 강화 에 나섰 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'인문 학도 서 6 천 300 권 을 보유 하 고 있 는 한석봉 도서관 에서 는 인문학 을 주제 로 한 인문학 아카데미 및 동아리</a>
-</body>
-</html>

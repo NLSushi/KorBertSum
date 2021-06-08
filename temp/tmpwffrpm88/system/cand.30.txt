@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['조선 독립 에 일생 을 바쳤 지만 알려 지 지 않 은 독립운동가 서영 해 선생 의 삶 을 기록 한 책 이 출간 됐 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'현재 대통령 직속 국가 균형발전 위원회 에 재직 중 인 저자 는 역사 에 대한 열정 과 관심 으로 꾸준 하 게 공부 하 고 집필 을 계속 한 전문가 다 .'</a>
-</body>
-</html>

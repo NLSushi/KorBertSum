@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'( 사진 = vast 엔터 테 인 먼 트 )'</a>
-<a name="2">[2]</a> <a href="#2" id=2>['신인 배우 정유 안 이 성추행 혐의 로 경찰 조사 를 받 았 다 .'</a>
-</body>
-</html>

@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'학벌 없 는 사회 를 위한 시민 모임 과 핵 없 는 사회 를 위한 광주 전남 공동 행동 은 2 일 교육부 로부터 받 은 재난 대비 훈련 실적 을 확인 한 결과 를 발표 했 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>['최근 연이 은 한빛 원자력 발전소 사고 에 도 불구 하 고</a>
-</body>
-</html>

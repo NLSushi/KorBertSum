@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['매월 1 회 이동형 야간 시장 실 운영 갈매 지구 시설 부족 등 현안 담론'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'야간 시장 실은 직장인 등 을 배려 해 매월 1 회 오후 7 시 부터 2 시간 동안 열려 호응 을 얻 고 있 다 .'</a>
-</body>
-</html>

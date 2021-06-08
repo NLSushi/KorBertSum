@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>["[ 음성 ] 음성군 의회 서효석 의원 은 원남 산업단지 에 e 38 ( 폐기물 수집</a>
-<a name="2">[2]</a> <a href="#2" id=2>처리 및 원료 재 생업 ) 업종 의 획지 제한 과 추가 입주 나 증축 을 금지 하 도록 ' 관리 기본 계획 ' 을 변경 해 줄 것 을 군 에 제안 했 다 ."</a>
-</body>
-</html>

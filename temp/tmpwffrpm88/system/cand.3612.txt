@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['이용섭 광주시장 이 17 일 오후 북구 문흥동 일 대 탁한 수 돗 믈 과 관련 해 상수도 본부 직원 들 과 현장 점검 을 벌이 고 있 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'지난 7 일 남구 주월 · 월산동 및 서구 화정 · 염주 동 일원 에 수도관 코팅 막 가루 등 이 물질 이 포함 된 수돗물 이 공급 됐 는데</a>
-</body>
-</html>

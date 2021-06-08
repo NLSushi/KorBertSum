@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['서산시 는 서산사 랑 상품권 을 운영 할 관련 조례 가 시 의회 본회의 를 통과 함 에 따라 후속 조치 에 들어갔 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>가맹점 준수 사항 △ 판매 대행 점 등 의 지정 및 관리</a>
-</body>
-</html>

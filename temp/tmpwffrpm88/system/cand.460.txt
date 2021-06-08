@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'임태혁 ( 수원 시청 ) 과 최 희화 ( 안산 시청 ) 가 ‘ 위더스 제약 2019 설날 장사 씨름 대회 ’ 남자 금 강급 ( 90 ㎏ 이하 ) 과 여자 무궁화 급 ( 80 ㎏ 이하 ) 에서 나란히 장사 에 등극 했 다 .'</a>
-</body>
-</html>

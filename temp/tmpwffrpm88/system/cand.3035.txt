@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['김재종 군수 가 옥천 이 원면 읍 면 순방 모습 .'</a>
-</body>
-</html>

@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['제 2 회 크린 토피아 배 전국 유소년 야구 대회 에서 아산 시유 소년 야구단 이 우승 을 차지 했 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'사진 = 대한 유소년 야구 연맹 제공'</a>
-</body>
-</html>

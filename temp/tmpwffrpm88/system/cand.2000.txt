@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'당진 문화 재단 이 선정 하 는 2019 당진 올해 의 사진 작가 로 선정 된 최영근 사진 작가 가 당진 올해 의 사진작 가전 < 왜 목마 을 일출 이야기 > 를 지난 19 일 부터 25 일 까지 일 주일 간 당진 문예 의 전당 제 1 전시실 에서 개최 했 다 .'</a>
-</body>
-</html>

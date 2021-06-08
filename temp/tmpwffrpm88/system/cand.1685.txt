@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['[ 천안 ] 법원 이 공장 신축 공사 에서 내화 페인트 를 기준 미달 로 시공 한 건설사 와 감리 의무 를 소홀히 한 감리사 에게 건축주 가 제기 한 손해 배상 책임 을 인정 했 다 .'</a>
-</body>
-</html>

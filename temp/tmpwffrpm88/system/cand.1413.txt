@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'도 는 대구경북 통합 신 공항 건설 사업 추진 에 박차 를 가하 기 위해 8 일 ‘ 대구경북 통합 신 공항 추 진단 ( tf ) ’ 을 발족 하 고 본격 가동 을 알리 는 킥오프 회의 를 개최 했 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>환경 등 을 책임지 는 20 여 개 의 부서 들 이 대거 포함 됐 다 .'</a>
-</body>
-</html>

@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['광주시 가 내년 국비 지원 예산 으로 2 조 5 천 379 억 원 을 확보 하 는 등 국회 증액 심사 과정 에서 신규 사업 이 대폭 추가 되 는 등 인공지능 중심 산업 융합 집 적 단지 조성 사업 에 파란불이 커졌 다 .'</a>
-</body>
-</html>

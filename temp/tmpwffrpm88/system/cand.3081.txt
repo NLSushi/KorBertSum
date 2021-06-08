@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['평택시 는 5 일 시청 대외 협력 실 에서 미국 에 관한 다양 한 정보 와 교육 프로그램 등 을 제공 하 는 아메리칸 코너 설립 을 위해 주한 미국 대사관 과 ‘ 평택 아메리칸 코너 개관 협약 ’ 을 체결 했 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>미 대사관 은 다양 한 미국 관련 도서</a>
-</body>
-</html>

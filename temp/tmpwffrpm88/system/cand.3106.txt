@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['[ 아산 ] 더불 어 민주당 충남 도당 이 회의 도중 물 컵 을 던진 자유 한 국당 a 의원 의 부적절 한 행위 를 비난 했 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'토론 하 고 설득 하 고 때로 는 설전 을 벌일 수 는 있 지만 어떠 한 폭력 도 정당 화 될 수 없 다 .'</a>
-</body>
-</html>

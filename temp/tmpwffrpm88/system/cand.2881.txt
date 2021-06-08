@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'a 씨 는 지난 5 월 26 일 오후 8 시 께 대구 의 한 아파트 에서 옛 여자 친구 의 남자 친구 인 b 씨 의 목 을 와이어 로 졸라 살해 하 려 한 혐의 를 받 고 있 다 .'</a>
-</body>
-</html>

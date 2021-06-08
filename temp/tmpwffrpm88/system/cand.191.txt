@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['대전 지역 자율 개선 대학 간 대학 혁신 지원 사업비 확보 를 두 고 총성 없 는 전쟁 이 시작 됐 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>대학 마다 작성 중 인 사업 계획서 에 따라 가 배정 된 사업비 를 온전히 확보 할 수 도 있 고 감액 될 가능 성 도 있 다 .'</a>
-</body>
-</html>

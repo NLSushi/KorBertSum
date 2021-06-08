@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['최종태 대구 · 경북 광고 산업 협회 장 이 설명 한 하반기 대구 분양 시장 전망 이 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2> '6 대 광역시 가운데 대전 ( 55 . 9 대 1 ) 과 광주 ( 47 . 6 대 1 ) 에 이어 세 번 째 높 은 경쟁 률 을 보였 다 .'</a>
-</body>
-</html>

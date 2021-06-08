@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>수창 공원 건너편 ) 에 들어설 ‘ 대구역 경남 센트로 팰리스 ’ 가 성공 분양 의 기대감 을 높이 고 있 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>['대구 중구 태평로 3 가 ( 중구 보건소 옆</a>
-</body>
-</html>

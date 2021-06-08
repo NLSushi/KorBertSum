@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'한국 관광 100 선 은 2013 년 부터 2 년 에 한 번 씩 문화 체육관 광부 와 한국관광공사 가 한국인 이 꼭 가 봐야 할 우수 관광지 100 개소 를 선정 해 국내외 에 홍보 하 는 사업 으로 이동 통신사</a>
-<a name="2">[2]</a> <a href="#2" id=2>sns 빅 데이터 분석 과 전문가 평가 등 을 통해 결정 한다 .'</a>
-</body>
-</html>

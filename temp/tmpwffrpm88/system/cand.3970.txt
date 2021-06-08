@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'‘ 청 중평 가단 ’ 은 다음 달 24 일 경기 창조 경제 혁신 센터 에서 열리 는 최종 오디션 에 참가 해 1 차 오디션 등 을 거쳐 본선 에 오른 10 개 팀 가운데 ‘ top 5 ’ 를 직접 선발 하 는 역할 을 맡 게 되 며</a>
-<a name="2">[2]</a> <a href="#2" id=2>'오디션 현장 에 는 게임 대결 이벤트</a>
-</body>
-</html>

@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['삼성전자 ‘ 갤럭시 a 30 ’ 제품 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>네이버 는 네이버 페이 5 만 포인트 와 영화 예매권 2 장 을 지급 하 는 혜택 을 제공 한다 .'</a>
-</body>
-</html>

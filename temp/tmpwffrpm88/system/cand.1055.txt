@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['부산시 와 부산시 장애 인 권익 옹호 기관 은 16 개 구 · 군 의 장애 인 복지 및 사례 관리 담당자 430 여 명 을 대상 으로 오 는 5 월 30 일 까지 ‘ 장애 인 학대 예방 및 대처 방안 교육 ’ 을 실시 한다고 23 일 밝혔 다 .'</a>
-</body>
-</html>

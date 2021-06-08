@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['청년 작가 를 발굴 · 지원 육성 하 기 위해 2005 년 시작 한 광주 시립 미술관 ( 관장 전 승보 ) ‘ 지역 청년 작가 1 인 초 대전 ’ 올해 의 작가 로 하루 k ( 본명 김형진 ) 가 선정 됐 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'기존 산수화 가 지니 고 있 는 이상향 에 대한 생각 을 현실 속 음식</a>
-</body>
-</html>

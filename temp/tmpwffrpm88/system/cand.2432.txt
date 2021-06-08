@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'당진 문화 재단 ( 이사장 이명남 ) 과 당진 문예 의 전당 이 주최 · 주관 한 생활 문화 예술제 는 지역 내 에서 자생 한 문화 동아리 가 내 실 있 고 지속 적 인 예술 활동 을 펼치 고 활동 무대 를 넓힐 수 있 도록 기획 된 사업 으로</a>
-<a name="2">[2]</a> <a href="#2" id=2>지난 2014 년 부터 진행 돼 왔 다 .'</a>
-</body>
-</html>

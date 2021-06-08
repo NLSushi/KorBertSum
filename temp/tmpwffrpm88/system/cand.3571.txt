@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['대구 지방 경찰청 이 여름 방학 을 맞 아 지역 사회 유관 기관 및 단체 와 의 협업 을 통한 공동체 치안 활동 으로 청소년 선도 · 보호 활동 을 펼친다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'사진 은 경찰 이 침산 중학교 학생 40 여 명 과 북구 청소년 밀집 지역 을 합동 순찰 하 는 모습 .'</a>
-</body>
-</html>

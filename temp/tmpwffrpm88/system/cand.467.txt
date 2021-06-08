@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['다음 달 1 일 운영 을 시작 하 는 대구 북구 칠성 시장 야시장 의 조감도 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'칠성 시장 야시장 은 ‘ 상권 르네상스 프로젝트 ’ 사업 의 일환 으로 추진 됐 다 .'</a>
-</body>
-</html>

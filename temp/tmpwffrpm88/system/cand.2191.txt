@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['첫 참여 작 유지 희 展 6 월 까지 sk 텔레콤 은 티 월드 인천 지점 을 신진 청년 작가 의 작품 을 전시 하 는 ‘ 청년 갤러리 ’ 로 새롭 게 단장 했 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'sk 텔레콤 고객 이 휴대폰 업무 를 보 는 티 월드 ( tworld ) 지점 이 미술 작품 을 감상 하 는 갤러리 로 확 바뀐다 .'</a>
-</body>
-</html>

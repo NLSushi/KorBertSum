@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['▲ 경기도 교육청 ‘ 꿈 의 학교 ’ 인 수원 청소년 의회 학교 학생 들 이 24 일 경기도 의회 본 회의장 에서 ‘ 경기도 교육청 일본 전범 기업 기억 에 관한 조례 안 ’ 을 직접 심의 하 는 체험 을 가진 뒤 조이 화 교장 및 관계자 들 과 기념 촬영 을 하 고 있 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'홍승남 기자 nam 1432 @ kihoilbo . co . kr'</a>
-</body>
-</html>

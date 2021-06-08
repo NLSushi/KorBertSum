@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['금융 당국 이 일본 의 백색 국가 ( 화이트 리스트 ) 명단 제외 조치 로 피해 를 보 는 기업 을 지원 하 기 위해 지난 2 일 부터 ‘ 일본 수출 규제 금융 부문 비상 대응 tf ’( 태 스 크 포스 ) 를 가동 하 고 있 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'최종구 금융 위원장 은 지난 3 일 시중 은행장 들</a>
-</body>
-</html>

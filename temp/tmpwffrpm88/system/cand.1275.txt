@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['[ 영동 ] 영동군 이 야간 식별 에 용이 하 고 도시 미관 개선 을 위해 led 자율 형 건물 번호판 설치 를 적극 장려 하 고 있 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'led 조명 을 사용 해 야간 응급 상황 시 는 물론 지역 을 찾 는 주민 과 관광객 들 이 알 기 쉽 고 빠르 게 찾 을 수 있 는 이정표 역할 을 톡톡히 할 것 으로 보인다 .'</a>
-</body>
-</html>

@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['‘ 축구 국가 대표 팀 공식 파트너 조인식 ’ 을 갖 고 행사 에 참석 한 kt 마케팅 부문장 이필재 부사장 과 대한축구협회 정몽규 회장 이 기념 촬영 을 하 고 있 다 .'</a>
-</body>
-</html>

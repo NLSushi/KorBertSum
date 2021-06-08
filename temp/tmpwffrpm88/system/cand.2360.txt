@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['제조업 의 글로벌 가치 사슬 ( gvc ) 체제 에서 부품 생산 이나 연구개발 ( r & d ) 등 ‘ 전방 참여 ’ 가 높 을수록 전 세계 에서 차지 하 는 부 가 가치 수출 비중 이 올라간다는 분석 이 나왔 다 .'</a>
-</body>
-</html>

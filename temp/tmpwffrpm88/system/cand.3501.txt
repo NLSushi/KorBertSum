@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>새로운 부스트 hd 기술 적용 ‘ 펄스 부스트 hd ’ 출시'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'글로벌 리딩 스포츠 브랜드 아디 다스 가 다양 한 환경 의 도심 속 에서 스릴 넘치 는 러닝 을 즐기 는 진정 한 러너 들 을 위한</a>
-</body>
-</html>

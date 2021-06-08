@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['목포 과학 대가 팀 창단 이후 4 번 째 전국 정상 에 우뚝 섰 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'목포 과학 대 는 지난해 창단 해 ‘ 호남 라이벌 ’ 로 떠오른 호남 대 와 의 첫 경기 를 세트 스코어 3 대 1 로 승리 하 며 기분 좋 게 출발 했 다 .'</a>
-</body>
-</html>

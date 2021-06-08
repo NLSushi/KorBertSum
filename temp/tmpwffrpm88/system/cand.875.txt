@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['문재인 대통령 은 15 일 청와대 에서 레우벤 리 블린 이스라엘 대통령 과 정상 회담 을 갖 고 한 - 이스라엘 양자 관계 심화 방안 을 비롯 해 지역 정세 등 을 논의 했 다 .'</a>
-</body>
-</html>

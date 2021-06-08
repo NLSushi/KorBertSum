@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['기자 경북 도 의회 가 11 일 도 의회 본 회의장 에서 열린 제 306 회 임시회 제 1 차 본회의 를 시작 으로 올해 의정 활동 에 돌입 했 다 .'</a>
-</body>
-</html>

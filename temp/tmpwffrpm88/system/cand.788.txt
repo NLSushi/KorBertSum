@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['이 천시 가 아프리카 돼지 열 병 ( asf ) 차단 을 위해 유해 야생 동물 기동포 획단 을 상시 집중 포획 체계 로 전환 해 매일 24 시간 운영 하 고 있 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>기존 4 개 반 36 명 이 던 기동포 획단 인원 을 12 명 증원</a>
-</body>
-</html>

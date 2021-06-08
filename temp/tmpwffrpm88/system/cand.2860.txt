@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['시기 는 이르 면 이달 중 전망 2 차 북 · 미 정상 회담 이 오 는 27 일 부터 이틀 간 베트남 에서 열리 는 것 으로 확정 되 자 개성 공단 기업인 들 의 기대감 이 다시 고조 되 고 있 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'대구 는 침구 를 생산 하 는 업체 평안 과 손수건</a>
-</body>
-</html>

@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>신평 농협 조합원 a 씨 가 합덕 농협 직원 b 씨 를 허위 사실 유포 로 당진 경찰서 와 당진시 선거관리위원회 에 고발 했 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>['제 2 회 전국 조합장 동시 선거 를 앞둔 지난 11 일</a>
-</body>
-</html>

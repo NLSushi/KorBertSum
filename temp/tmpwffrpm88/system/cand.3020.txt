@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['세종 서 대 정부 결의문 발표 수원시 등 전국 기초자치단체 16 곳 으로 구성 돼 있 는 ‘ 군 소음 법 제정 을 위한 지방 자치 단체 협의회 ’( 군지 협 ) 가 결의문 을 발표 하 고 조속 한 법 제정 을 촉구 하 고 나섰 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'수원시 는 그해 10 월 가입 했 다 .'</a>
-</body>
-</html>

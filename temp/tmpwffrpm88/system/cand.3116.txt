@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['대구 상원 초등 학교 ( 교장 이정원 ) 에서 는 학생 들 과 학부모 의 적극 적 인 참여 로 지난해 에 이어 리딩 맘 활동 을 실시 하 였 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'지난 3 일 에 는 상원 초 달빛 샘 도서관 에서 남부 도서관 소속 동화 구연 지도 사 를 초빙 해 리딩 맘 연수 를 진행 했 다 .'</a>
-</body>
-</html>

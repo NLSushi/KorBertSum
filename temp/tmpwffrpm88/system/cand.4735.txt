@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['부천시 는 지난 10 일 g 2 b ( government to business ) 42 개 회원 사 와 홍보 네트워크 회의 를 개최 했 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'시 는 분기 별 로 회원 사 를 순회 하 며 회의 를 열 어 정보 와 노하우 를 공유 하 는 협력 의 장 을 마련 하 고 있 다 .'</a>
-</body>
-</html>

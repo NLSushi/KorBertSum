@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['충청북도 지방 세정 연찬회 수상자 중 옥천 군청 이 형창 ( 사진 · 오른쪽 ) 주무관 모습 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'이번 연찬회 에서 는 충북 도 내 11 개 시군 세무 업무 직원 들 이 참석 해 세정 일반</a>
-</body>
-</html>

@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['서울 당산 에 위치 한 서울 현대 직업 전문학교 의 드론 학과 과정 ( 드론 전공 정보 처리 / 공업 전문 학사 ) 이 교내 에서 실무 자격증 수업 을 진행 해 드론 it 인 재 양성 에 기여 하 고 있 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'실제 이 학교 는 타 드론 학과 대학 과 달리 드론 촬영</a>
-</body>
-</html>

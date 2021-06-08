@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['국회 환경 노동 위원회 의 8 일 전체 회의 에서 는 인천 붉 은 수돗물 사태 에 대한 야당 의 질 타가 있 었 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'환노위 소속 자유 한 국당 의원 들 은 인천시 등 에서 발생 한 적수 사태 와 관련 해 환경부 가 관리 · 감독 책임 을 제대로 하 지 않 았 다고 따졌 다 .'</a>
-</body>
-</html>

@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['대구 달서구 월배 · 월성 지역 에서 는 유일 한 중 · 대형 전 용단지 로 소문난 ‘ 월배 삼정 그린코 아 카운티 ’ 가 이 지역 의 중대 형 아파트 시세 를 주도 할 단지 로 주목 받 고 있 다 .'</a>
-</body>
-</html>

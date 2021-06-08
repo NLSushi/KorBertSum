@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['당진 지역 의 태양광 발전시설 설치 가 계속 해서 증가 하 고 있 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'지자 체장 이 승인 하 는 500 kw 이하 의 설비 의 경우 허가 받 은 195 건 중 46 건 이 현재 설치 완료 된 상태 이 며</a>
-</body>
-</html>

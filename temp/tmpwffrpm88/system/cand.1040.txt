@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['삼성전자 가 14 일 qled tv 와 함께 사용 하 기 좋 은 사운드 바 ‘ q 시리즈 ’ 4 종 을 삼성 하만 카돈 브랜드 로 국내 시장 에 출시 한다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>tv 의 ai 모드 를 ‘ 켜 짐 ’ 으로 설정 하 면 사운드 바도 ‘ 어 댑티브 사운드 ’ 모드 로 자동 전환 돼 조작 이 간편 하 다 .'</a>
-</body>
-</html>

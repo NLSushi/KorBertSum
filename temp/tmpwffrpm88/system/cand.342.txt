@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['그룹 방탄소년단 의 ‘ we are bulletproof pt . 2 ’ 뮤직 비디오 가 1 억 뷰 를 돌파 했 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>방탄소년단 의 소속 사 빅 히트 엔터 테 인 먼 트 공식 유튜브 계정 의 뮤직 비디오 조 회수 와 합산 하 면 1 억 1940 만 건 을 넘 는다 .'</a>
-</body>
-</html>

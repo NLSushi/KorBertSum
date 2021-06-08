@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'70 여 명 의 보청기 센터 대표 들 이 참석 한 이날 워크 샵 에 스타키 그룹 은 리비 오 r 소개 및 보청기 급여 제도 변경 과 스타키 그룹 의 계획 을 발표 하 였으며</a>
-<a name="2">[2]</a> <a href="#2" id=2>특별 초청 강의 로 동아 대학교 병원 이비인후과 정성욱 교수 가 보청기 피팅 에 대한 강의 를 진행 했 다 .'</a>
-</body>
-</html>

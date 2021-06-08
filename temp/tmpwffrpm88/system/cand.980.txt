@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['경기도 를 휩쓸 고 있 는 아프리카 돼지 열 병 ( asf ) 혼란 속 에 열리 는 18 일 국회 행정 안전 위원회 의 국정 감사 는 경기도 를 비롯 한 방역 당국 의 방역 체계 에 대한 의원 들 의 거센 질의 가 예상 된다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'홍승남 기자 nam 1432 @ kihoilbo . co . kr'</a>
-</body>
-</html>

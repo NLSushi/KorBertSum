@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['정 현복 시장 이 지난 2 일 확대 간부 회의 에서 포스코 리튬 공장 황금 산단 유치 에 적극 적 으로 나서 야 한다고 강조 했 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>포스코 가 아직 까지 긍정 적 인 답변 을 내 놓 지 않 고 있 다 .'</a>
-</body>
-</html>

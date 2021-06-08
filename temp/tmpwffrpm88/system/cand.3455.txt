@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['세 종시 는 지역 · 산업 맞춤 형 인력 양성 을 위해 고려 대학교 세종 캠퍼스 에 공동 훈련 센터 를 연다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'교육 과정 은 스마트 시티 시범 도시 이 자 자율 주행 대중교통 연구 개발 도시 인 세 종시 의 특성 에 맞춰 자율 주행 차 sw 토털 솔루션 실무 과정</a>
-</body>
-</html>

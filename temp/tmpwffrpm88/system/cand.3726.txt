@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['1 억 5 천만 원 들여 명소 화 추진 의성군 은 지난달 한국관광공사 에서 공모 한 ‘ 강소 형 잠재 관광지 발굴 · 육성 사업 ’ 에 대구 · 경북 지역 사업 대상지 로 조문국 사적지 ( 금성산 고분군 ) 가 최종 선정 됐 다고 17 일 밝혔 다 .'</a>
-</body>
-</html>

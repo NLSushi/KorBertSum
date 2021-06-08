@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['‘ 군산 상생 형 일자리 모델 ’ 이 시민 참여 공론 화 과정 을 거치 며 구체 화 할 전망 이 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'25 일 군산시 에 따르 면 전북 도 와 군산시 노사 민정 협의회 는 명신 군산 공장 ( 옛 한국 gm 공장 )</a>
-</body>
-</html>

@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['올해 서울특별시 에서 주관 하 는 ‘ 제 100 회 전국 체육 대회 ’ 와 내년 구미 에서 개최 되 는 ‘ 제 101 회 전국 체육 대회 ’ 의 양궁 경기 종목 을 예 천진호 국제 양궁 장 에서 2 년 연속 으로 열린다 .'</a>
-</body>
-</html>

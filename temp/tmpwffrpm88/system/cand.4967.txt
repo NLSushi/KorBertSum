@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'글로벌 인재 를 위한 성공 적 인 마인드 교육 을 주제 로 세계 총장 포럼 을 진행 했 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'수 성대 는 지난 12 일 4 차 산업 시대 드론 교육 ?'</a>
-</body>
-</html>

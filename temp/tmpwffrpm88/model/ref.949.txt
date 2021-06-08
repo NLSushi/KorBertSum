@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'금융 당국 이 지난해 11 월 </a>
-<a name="2">[2]</a> <a href="#2" id=2> 12 월 의 은행 권 신규 가계 대출 을 점검 한 결과</a>
-</body>
-</html>

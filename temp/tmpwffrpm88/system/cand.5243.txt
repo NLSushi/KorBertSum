@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['농협 “ 설 명절 앞두 고 다시 쌀 공급 키로 ” 면천 농협 rpc 가 한 대 형 마트 에 공급 한 해 나 루 쌀 에서 쥐 사체 가 발견 된 것 이 뒤늦 게 알려져 충격 을 주 고 있 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'농협 측 에서 는 생산 단계 가 아닌 유통 단계 에서 문제 가 있 었 던 것 으로 추정 하 고 있 는 가운데</a>
-</body>
-</html>

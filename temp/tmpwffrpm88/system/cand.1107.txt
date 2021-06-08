@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'광주시 위탁 을 받 은 ‘ 광주 도시 여행 청 ’ 이 2015 년 부터 진행 하 고 있 는 ‘ 도심 관광 트레일 ’ 은 acc 를 핵심 축 으로 도심 역사 · 인물</a>
-<a name="2">[2]</a> <a href="#2" id=2>관광 명소 등 의 특색 있 는 테마 별 도보 관광 코스 와 스토리텔링 을 개발 · 운영 하 는 무료 관광 프로그램 이 다 .'</a>
-</body>
-</html>

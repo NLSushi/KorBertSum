@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['인천 국제공항 제 3 국제 업무 지구 ( ibc - 3 ) 에 들 어서 는 인스파이어 복합 리조트 < 조감도 > 가 한화건설 과 건설 공사 수주 계약 을 새로 진행 하 며 정상 궤도 에 올라설 전망 이 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'인스파이어 복합 리조트 조감도 .'</a>
-</body>
-</html>

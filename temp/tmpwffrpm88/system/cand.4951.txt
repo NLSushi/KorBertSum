@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'/ 광양 시청 볼링 팀 제공'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'왼쪽 부터 이춘수 광 양 시청 감독</a>
-</body>
-</html>

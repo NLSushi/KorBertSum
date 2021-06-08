@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['대구 실내 빙상 장 의 얼음 을 정리 하 는 차량 에서 일산 화 탄소 가 누출 돼 이용객 들 이 대피 하 는 소동 을 빚 었 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'빙 상장 측 은 강사 와 선수 를 모두 내보내 고 이후 입장객 을 받 지 않 았 다 .'</a>
-</body>
-</html>

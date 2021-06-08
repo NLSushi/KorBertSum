@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>만남 이 있 는 섬 삼 학도 에서 ‘ 한 여름 밤 의 꿈 ’ 섬 의 날 총감독 김기정 씨 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'세 마리 의 학 이 섬 이 됐 다는 전설 을 간직 한 행사 가 열리 는 목포 삼 학도 는 하의 도 출신 인 김대중 대통령 의 노벨 평화상 기념관 이 소재 하 고 있 어 의미 가 남다른 곳 이 다 .'</a>
-</body>
-</html>

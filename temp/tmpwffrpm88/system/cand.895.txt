@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['▲ 지난달 30 일 당 진번 영회 가 김홍장 당진 시장 과 의 간담회 를 진행 했 다 .'</a>
-</body>
-</html>

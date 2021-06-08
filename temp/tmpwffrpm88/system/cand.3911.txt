@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['고흥군 농수산물 수출 촉 진단 단장 으로 체코 를 찾 은 송귀근 군수 가 체코 크로 스카페 기업 대표 와 수출 협약 을 맺 고 기념 촬영 을 하 고 있 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'고흥군 이 지역 명품 특산물 인 유자 수출 을 위해 체코 와 이탈리아 등 유럽 시장 공략 에 나섰 다 .'</a>
-</body>
-</html>

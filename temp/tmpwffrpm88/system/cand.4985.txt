@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['광주시 북구 가 주민 참여 형 골목 재생 사업 으로 노래 ‘ 하얀 나비 ’ 를 부른 가수 고 ( 故 ) 김정호 ( 본명 조용호 · 1952 ∼ 1985 · 사진 ) 의 음악 적 자산 을 활용 한 ‘ 김정호 거리 ’ 를 조성 한다 .'</a>
-</body>
-</html>

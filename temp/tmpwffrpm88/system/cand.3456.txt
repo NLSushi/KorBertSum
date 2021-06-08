@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['지역 주민 이 직접 발전소 에 대해 안 내와 홍보 를 담당 하 는 ‘ 에너지 도 슨 트 ( energy docent ) ’ 가 다음 달 부터 부산 발전 본부 에서 본격 활동 을 시작 한다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'부산 남구 문현동 본사 에서 도슨 트 교육 을 실시 하 고 있 다 .'</a>
-</body>
-</html>

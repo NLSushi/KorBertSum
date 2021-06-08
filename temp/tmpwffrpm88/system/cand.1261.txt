@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['‘ 교양 교육 성과 확산 포럼 - 대학 교육 혁신 과 교양 교육 의 미래 ’ 란 주제 의 포럼 이 지난 14 일 오후 동아 대 부민 캠퍼스 종합 강의 동 경동 홀 에서 열리 고 있 다 .'</a>
-</body>
-</html>

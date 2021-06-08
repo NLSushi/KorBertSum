@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['한 여름 에 도 17 ~ 18 ℃ 의 서늘 한 온도 를 유지 하 는 광양 와인 동굴 에 최근 때 이른 피서객 이 몰리 고 있 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'지난 5 월 초 광양읍 용강리 에 전국 최초 동굴 체험 학습장 으로 야심 차 게 개장 한 광양 에 코 파크 는 갯벌</a>
-</body>
-</html>

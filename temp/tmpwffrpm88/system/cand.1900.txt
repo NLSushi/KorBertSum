@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['신안군 의 섬마을 작 은 중학교 가 전국 단위 관악 경연 대회 에서 2 년 연속 은상 을 수상 해 화제 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'안좌 중 관악 오케스트라 < 사진 > 는 전교 생 29 명 전원 이 단원 으로 이번 대회 에서 행진곡 아리랑 겨레 와 oregon 을 연주 해 수상 의 영예 를 얻 었 다 .'</a>
-</body>
-</html>

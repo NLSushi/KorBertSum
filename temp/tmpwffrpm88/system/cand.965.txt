@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['근무 환경 관련 개선 입장 보여 대구시 교육청 에서 농 성 을 벌인 대구 지역 초등 학교 돌봄 전 담사 들 이 나흘 만 에 본관 농성 을 풀 었 다 .'</a>
-</body>
-</html>

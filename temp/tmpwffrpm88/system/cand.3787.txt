@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>노하우 등 을 활용 한 농촌 어르신 복지 실천 시범 사업 을 통해 어르신 들 의 소일거리 소득 활동 을 지원 하 고 생산 적 여가 활동 을 돕 고 있 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'특히 지난해 는 동이 면 금암 1 리 와 안 내 면 서대리 에서 밤 호박</a>
-</body>
-</html>

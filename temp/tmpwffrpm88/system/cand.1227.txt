@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['지난 1 월 31 일 2019 년 대구 희망 나눔 캠페인 을 통해 동성로 에 세워진 사랑 의 온도 탑 의 모습 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'경북 사회 복지 공동 모 금회 는 154 억 6 천만 원 이 다 .'</a>
-</body>
-</html>

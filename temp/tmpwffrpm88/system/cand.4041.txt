@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['이마트 트 레이더스 가 오 는 14 일 서울 첫 점포 인 월계 점 오픈 과 함께 1 등 창고 형 할인점 도약 원년 을 선언 한다고 밝혔 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'월계 점 오픈 을 시작 으로 부천 옥길 지구 와 부산 명지 국제 신 도시 에 신 규점 을 출점 할 예정 이 다 .'</a>
-</body>
-</html>

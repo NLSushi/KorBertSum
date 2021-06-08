@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['국립 목포 대학교 ( 총장 박민서 ) 도서 문화 연구원 ( 원장 강봉룡 ) 은 오 는 4 일 ~ 7 일 제 주대 와 제주도 해안 일대 에서 전국 의 해양 문화 학자 250 여 명 이 참여 하 는 “ 제 9 회 전국 해 양문 화학자 대회 ” 를 개최 한다고 밝혔 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2> 2013 )</a>
-</body>
-</html>

@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['▲ 당진시 농업기술센터 가 지난달 26 일 부터 30 일 까지 청년 농업 인 마케팅 플랜 역량 개발 교육 을 진행 했 다 .'</a>
-</body>
-</html>

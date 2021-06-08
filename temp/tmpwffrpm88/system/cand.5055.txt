@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['김주오 농산물 직거래 정보 를 한눈 에 확인 할 수 있 는 직거래 종합 정보 사이트 가 오픈 한다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'‘ 바로 정보 ’ 는 생산자 와 소비자 가 농산물 을 ‘ 바로 ’ 직거래 한다는 의미 를 담 고 있 다 .'</a>
-</body>
-</html>

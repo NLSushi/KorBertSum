@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['전 남도 가 2020 년 7 월 일몰 제 를 앞둔 장기 미 집행 도시 계획 시설 에 대해 우선 해제 시설 과 집행 가능 시설 등 구체 적 실행 가능 계획 마련 에 나섰 다 .'</a>
-</body>
-</html>

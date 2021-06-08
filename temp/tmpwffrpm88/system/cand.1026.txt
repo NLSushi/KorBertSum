@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['▲ 지난달 27 일 당진 에서 열린 충청남도 시장 · 군수 협의회 에서 충남 지역 15 개 시 · 군 지자체 가 미세먼지 문제 와 도계 분쟁 에 대해 공동 으로 대응 키로 결의 했 다 .'</a>
-</body>
-</html>

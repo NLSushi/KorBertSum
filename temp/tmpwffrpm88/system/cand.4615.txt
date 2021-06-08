@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'“ 즐겁 게 기부 하 며 주 거 빈곤 아이 들 을 돕 습니다 . ” 최근 ( 주 ) 상상 오 는 최근 주거 빈곤 아동 들 을 위해 광주일보 와 초록 우산 광주 전남 지역 본부 가 공동 실시 하 고 있 는 ‘ 집 다운 집 으로 ’ 캠페인 후원금 을 전달 했 다 .'</a>
-</body>
-</html>

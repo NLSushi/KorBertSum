@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['지역 it 기업 · 학생 위한 세미나 개최 … it 신 기술 개발 로 지역 경제 활성 화 기대 기자 dgb 대구은행 ( 은행장 김태오 ) 이 정보 기술 ( it ) 센터 육성 을 통해 디지털 금융 확장 에 나선다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'이 를 위해 대구은행 은 최근 3 기 r ＆ d 센터 발대식 을 가지 는 동시 에 다양 한 대외 it 활동 강화 사업 도 계획 하 고 있 다 .'</a>
-</body>
-</html>

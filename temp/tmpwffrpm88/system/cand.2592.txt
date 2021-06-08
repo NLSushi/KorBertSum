@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['이재용 삼성전자 부회장 이 20 일 삼성 청년 소프트웨어 아카데미 ( ssafy ) 광주 교육 센터 에서 소프트웨어 교육 을 참 관한 뒤 교육 생 들 과 함께 기념 촬영 하 고 있 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'ssafy 는 삼성 이 지난해 8 월 발표 한 총 180 조 원 규모 의 ‘ 경제 활성 화 · 일자리 창출 방안 ’ 의 하나 로</a>
-</body>
-</html>

@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['다음 달 16 일 칠성 시장 야시장 개장 을 앞두 고 칠성 시장 공영 주차장 부지 일부 가 용도 폐지 되 면서 상 인회 가 적극 반발 하 고 나섰 다 .'</a>
-</body>
-</html>

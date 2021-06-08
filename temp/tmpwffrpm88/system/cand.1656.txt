@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>김현미 국토 부 장관 면담 … 지역 soc 현안 건의'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'경전선 전철 화 · 훈련 용 항공기 전용 비행장 건설 등 국가 차원 지원 요청'</a>
-</body>
-</html>

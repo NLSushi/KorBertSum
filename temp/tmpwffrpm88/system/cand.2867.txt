@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['보안 을 이유 로 당진 화력 내 음식 배달 이 전면 금지 되 면서 이 에 반발 한 석문면 교로 3 리 상인 들 과 마을 주민 들 은 “ 당진 화력 이 9 · 10 호기 건설 이후 주민 들 의 생계 를 무시 하 고 있 다 ” 며 계속 해서 집회 를 벌이 고 있 다 .'</a>
-</body>
-</html>

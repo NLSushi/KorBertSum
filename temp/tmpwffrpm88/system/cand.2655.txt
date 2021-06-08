@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['농수산 식품 유통 공사 ( at ) 노 · 사 는 최근 나주 혁신 도시 본사 에서 ‘ 갑 질 근절 선언식 ’ 과 성희롱 예방 교육 을 열 었 다 .'</a>
-</body>
-</html>

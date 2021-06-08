@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['▲ 차성욱 쩍 컴퍼니 대표 가 풋 살장 대관 o 2 o 서비스 인 ‘ 아이 엠 그라운드 ’ 에 이어 시작 한 오프라인 플랫 폼 ‘ 로꼬 풋살 ’ 에서 환하 게 웃 고 있 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'또한 예약 날짜 와 시간</a>
-</body>
-</html>

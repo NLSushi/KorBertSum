@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['광명시 는 7 일 수도 권 대기 질 개선 의 일환 으로 ‘ 운행 경유 차 배출 가스 저감 사업 ’ 을 지난 달 28 일 부터 실시 하 고 있 다고 밝혔 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'이번 사업 은 노후 경유 차 가 배출 하 는 미세먼지</a>
-</body>
-</html>

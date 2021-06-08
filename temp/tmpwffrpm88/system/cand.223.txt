@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['- 한 달 새 물량 779 · 466 채 씩 급증'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'hug 는 부산 진구 와 영도구 가 제 30 차 미분양 관리 지역 으로 추가 지정 됐 다고 28 일 밝혔 다 .'</a>
-</body>
-</html>

@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>["태안군 안면읍 중장 5 리 마을 회 는 지난 16 일 안면읍 지역 사회 보장 협의 체가 추진 하 는 ' 안면읍 행복 한 기부 ' 에 100 만 원 을 기탁 했 다 ."</a>
-</body>
-</html>

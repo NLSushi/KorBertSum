@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['대안 신 당 윤영일 의원 ( 해남 · 완도 · 진도 ) 이 20 대 국회 마지막 인 올해 국정 감사 에서 그동안 소외 됐 던 호남 지역 에 대한 soc 투자 가 필요 하 다는 점 을 끈질기 게 파고들 어 ‘ 지역 균형발전 전도사 ’ 라는 평가 를 받 았 다 .'</a>
-</body>
-</html>

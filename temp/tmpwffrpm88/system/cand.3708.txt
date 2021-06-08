@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['현대 자동차 ‘ 투싼 ’ 이 독일 의 유력 자동차 잡지 ‘ 아우 토빌 트 ( auto bild ) ’ 의 준중 형 suv 3 종 을 대상 으로 한 평가 에서 가장 경쟁력 있 는 차 로 선정 됐 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'c - suv 차급 은 유럽 시장 에서 통상 적 으로 suv 를 나누 는 a 부터 e 까지 의 차체 크기 별 분류 에서 세 번 째 에 해당 되 는 차급 으로</a>
-</body>
-</html>

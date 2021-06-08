@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['- 생활 불편 신고 앱 단속 규정 은 구 ㆍ군청별로 달라 기자 불법 주 · 정차 주민 신고 제 단속 규정 이 8 개 구 · 군청 별 로 달라 운전자 들 이 혼란 을 겪 는다는 지적 ( 본보 4 월 10 일 5 면 ) 에 따라 대구시 가 단속 규정 을 통일 했 다 .'</a>
-</body>
-</html>

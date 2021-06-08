@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['[ 당진 ] 유니세프 아동 친화 도시 인 당진시 가 13 일 발대식 을 시작 으로 아동 참여 위원회 의 본격 적 인 운영 에 돌입 했 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>아동 에게 영향 을 미치 는 정책 의제 에 아동 의 의견 을 반영 하 는 데 목적 이 있 다 .'</a>
-</body>
-</html>

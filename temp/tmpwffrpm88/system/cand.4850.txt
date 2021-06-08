@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['더불 어 민주당 경남 도당 은 ‘ 김경수 지사 도정 복귀 추진 위원회 ’ 를 구성 해 진실 규명 에 나설 것 이 라고 31 일 밝혔 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'경남 도당 은 이날 도청 프레스 센터 에서 기자 회견 을 갖 고 “ 1 심 선고 내용 에 대해 결코 납득 할 수 없 다 .'</a>
-</body>
-</html>

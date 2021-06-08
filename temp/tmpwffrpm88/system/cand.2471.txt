@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'사진 = 공정거래위 원회 제공 한국 닛산 이 차량 의 연비 를 부풀려 광고 하 고 배출 가스 량 을 조작 해 과징금 9 억 원 을 물 고 검찰 수사 까지 받 게 됐 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'한국 닛산 은 2014 년 2 월 부터 11 월 까지 인피니티 q 50 2 . 2 d 승용차 를 판매 하 면서 차량 부착 스티커</a>
-</body>
-</html>

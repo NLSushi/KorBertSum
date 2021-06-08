@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['亞 문화원 ‘ 국가 지속 가능 발전 동반성 장상 ’ 수상'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'콘텐츠 산업 생태 계 조성 성과 인정'</a>
-</body>
-</html>

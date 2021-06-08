@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['기자 대구 · 경북 지역 중소기업 들 의 경기 전망 이 5 개월 연속 하락 했 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>'전년 동월 ( 75 . 6 ) 과 비교 해서 는 11 . 7 포인트 떨어졌 다 .'</a>
-</body>
-</html>

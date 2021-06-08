@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'이 는 목표 하 는 연간 매출 의 10 % 수준 이 다 .'</a>
-<a name="2">[2]</a> <a href="#2" id=2>['국내 주요 제약사 들 이 올해 연간 매출 중 10 ~ 20 % 수준 을 연구 개발 ( r & d ) 에 쏟 아 붇 겠 다며 과감 한 투자 를 예고 했 다 .'</a>
-</body>
-</html>

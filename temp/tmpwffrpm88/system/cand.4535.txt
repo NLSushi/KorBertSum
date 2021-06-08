@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>['대전 야구장 신축 부지 가 중구 대사동 한밭 종합 운동장 으로 결정 되 면서 구단 인 한화이글스 는 기존 구 장 인 한화 생명 이 글 스파크 에서 일정 대로 경기 를 진행 하 게 된다 .'</a>
-</body>
-</html>

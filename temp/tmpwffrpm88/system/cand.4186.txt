@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>["서산 공용 버스 터미널 이전 과 맞물려 잠정 중단 된 ' 서산시 수석 지구 도시 개발 사업 ' 의 즉각 시행 을 촉구 하 는 현수막 이 내걸렸 다 ."</a>
-<a name="2">[2]</a> <a href="#2" id=2>'지난해 에 이 어 2 차 현수막 이 다 .'</a>
-</body>
-</html>

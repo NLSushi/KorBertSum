@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>dummy title</title>
-</head>
-<body bgcolor="white">
-<a name="1">[1]</a> <a href="#1" id=1>'2019 하남도 시공사 사회 공헌 사업 은 하남 지역 소외 계층 의 삶 의 질 을 향상 하 고 지역 사회 복지 이슈 를 해결 하 기 위해 하 남 시미 사강 변종 합사 회복 지관 등 21 개 기관 이 선정 됐으며</a>
-<a name="2">[2]</a> <a href="#2" id=2>총 8 천 518 만 9 천 320 원 이 지원 된다 .'</a>
-</body>
-</html>
