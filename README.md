@@ -105,3 +105,4 @@ python train.py -mode validate -bert_data_path ../bert_data/cnndm -model_path MO
 * https://github.com/raqoon886/KorBertSum
 * https://github.com/huggingface/transformers
 * https://github.com/SOMJANG/Mecab-ko-for-Google-Colab
+* https://dacon.io/competitions/official/235671/overview/description
