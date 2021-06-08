@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 2019 대구 · 경북 그랜드 포럼 ’ 이 7 일 대구 중구 엑스코 3 층 그랜드 볼 룸 에서 열렸 다 .'</a>
+</body>
+</html>

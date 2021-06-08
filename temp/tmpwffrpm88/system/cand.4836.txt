@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['김종현 대구 사격장 은 공공용물 명칭 제 · 개정 ’ 에 따라 2019 년 1 월 7 일부 로 대구 국제 사격장 ( daegu international shooting range ) 으로 명칭 이 변경 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'또한 시민 들 을 위한 서바이벌 체험 장 및 vr 사격 체험 장도 설치 해 다양 한 레저 문화 도 조성 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'공단 은 대구 사격장 을 국제 사격장 으로 조성 하 기 위해 실내 사격장 수동 표적 의 전자 표적 교체</a>
+</body>
+</html>

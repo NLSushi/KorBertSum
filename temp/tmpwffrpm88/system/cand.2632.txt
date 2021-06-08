@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['충주시 와 한국전력공사 충주 지사</a>
+<a name="2">[2]</a> <a href="#2" id=2>'왼쪽 부터 신동식 참 빛 충북 도시 가스 사장</a>
+<a name="3">[3]</a> <a href="#3" id=3>이재수 한국전력 충주 지사장 .'</a>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['신평면 금천리 와 순성면 성북리 아미 미술관 앞 에서 로컬 푸드 매장 을 운영 하 는 k 농산물 업체 p 대표 가 농산물 을 납품 한 농민 들 에게 대금 을 지불 하 지 않 아 농민 들 의 피해 가 이어지 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'농민 들 은 농산물 을 생산 하 는 것 보다 돈 을 받 는 일 이 더 힘들 다면서</a>
+</body>
+</html>

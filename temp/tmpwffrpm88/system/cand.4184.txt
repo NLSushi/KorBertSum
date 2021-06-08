@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>사용 자 늘려줄 게임 ‘ 니오 플레이 - e ’ 출시'</a>
+<a name="2">[2]</a> <a href="#2" id=2>이 더리 움 으로 게임 을 하 고 리워드 를 받 는 커다란 변동 이 있 었 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>지갑 등 기능 이 있 다 .'</a>
+</body>
+</html>

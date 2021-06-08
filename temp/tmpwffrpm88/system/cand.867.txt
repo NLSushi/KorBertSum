@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'광양 시청 은 2 인 조전 에서 최복음 · 가수 형 조 가 230 . 5 점 을 따 내 금메달 을 목 에 걸 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['‘ 전통 의 강호 ’ 광양 시청 볼링 팀 이 2 개 대회 연속 종합 우승 을 달성 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>은메달 3 개 를 포함 해 모두 5 개 의 메달 을 획득</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['tvn ‘ 스페인 하숙 ’ 에서 특식 을 준비 하 는 차승원</a>
+<a name="2">[2]</a> <a href="#2" id=2>배정남 의 모습 이 그려졌 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>아침 으로 북엇국 과 동그랑땡 을 준비 했 고</a>
+</body>
+</html>

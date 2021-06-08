@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['2019 년 국정 감사 에서 국회의원 들 의 막말 이 이어지 고 있 는 가운데 이번 에 는 모 정당 용인 지역 당 협 위원장 a 씨 의 거친 언사 가 도마 위 에 올랐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 자리 에 는 a 씨 와 b 동 동장</a>
+<a name="3">[3]</a> <a href="#3" id=3>이 들 은 동장 실 에서 1 시간 가량 차 담회 를 가졌 다 .'</a>
+</body>
+</html>

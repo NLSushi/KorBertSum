@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['tvn 예능 ‘ 나 이거 참 ’ 이 오늘 ( 12 일</a>
+<a name="2">[2]</a> <a href="#2" id=2>전원책 과 이솔 립</a>
+<a name="3">[3]</a> <a href="#3" id=3>화 ) 첫 방송 된다 .'</a>
+</body>
+</html>

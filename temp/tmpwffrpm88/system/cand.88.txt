@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['김영록 전남 지사 가 3 일 오후 제 18 호 태풍 ‘ 미 탁 ’ 의 영향 으로 벼 쓰러짐 이 발생 한 보성군 겸백면 용산리 들녘 을 찾 아 피해 현황 을 살피 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'가을철 수확 을 앞둔 전남 들녘 에 태풍 ‘ 링링 ’</a>
+<a name="3">[3]</a> <a href="#3" id=3>벼 가 까맣 거나 하얗 게 변하 는 흑 · 백수 1 만 6 천 ㏊</a>
+</body>
+</html>

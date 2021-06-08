@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['동촌 종합 사회 복지 관 이 한국가스공사 의 다 문화 가족 청소년 지원 사업 ( yaof ) 기관 에 선정 돼 의 욕 적 으로 사업 을 펼치 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'yaof 사업 은 “ you are our future ” 의 줄 임 말 로써</a>
+</body>
+</html>

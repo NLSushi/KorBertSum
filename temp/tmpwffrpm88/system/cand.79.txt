@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>"' 풍문 쇼 ' 이의정 이 사망설 을 직접 해명 했 다 ."</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 에 이의정 은 " 나 도 놀랐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'아직 도 내 이름 을 검색 하 면 ( 연관 검색어 에 ) 사망 이 라고 뜬다 .'</a>
+</body>
+</html>

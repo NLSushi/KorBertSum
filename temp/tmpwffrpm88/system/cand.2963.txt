@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['보해 잎새 주 - 복분자주 인도네시아 시장 첫 진출'</a>
+<a name="2">[2]</a> <a href="#2" id=2>2 차 에 걸쳐 10 만 달러 규모 선적'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'광주 · 전남 지역 향토 기업 인 보해 양조 ( 대표 이사 임지선 ) 의 대표 제품 인 잎새 주 와 보해 복분자주 가 사상 처음 으로 인도네시아 시장 에 진출 하 게 됐 다 .'</a>
+</body>
+</html>

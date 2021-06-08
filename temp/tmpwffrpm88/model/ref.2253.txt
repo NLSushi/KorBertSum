@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 광산구 의 부 적정 행정가 무더기 적발 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 신분 상 조치 92 건 ( 기관 경고 3 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 훈계 59</a>
+</body>
+</html>

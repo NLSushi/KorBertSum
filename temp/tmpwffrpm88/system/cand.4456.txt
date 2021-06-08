@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'- “ 문화재 적 가치 활용 안 마련 해야 ”'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['- 옛 영도대교 부재 는 예산 탓 방치'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'하지만 옛 영도대교 철거 후 남 은 자재 를 박물관 에 보존 한다는 계획 은 10 년 째 공전 하 고 있 어 논란 이 인다 .'</a>
+</body>
+</html>

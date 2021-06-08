@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>주민 축제 의 장'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 서정진 순천시 의회 의장 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '이날 행사 는 어르신 국악 체조 등 식전 행사 를 시작 으로 추진 경과 보 고</a>
+</body>
+</html>

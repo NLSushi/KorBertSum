@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>["대전 지역 장기 미 집행 공원 중 하나 인 매봉 공원 민간 특례 사업 이 대전시 도시 계획 위원회 ( 도 계위 ) 로부터 ' 재 심의 ' 결정 을 받 았 다 ."</a>
+<a name="2">[2]</a> <a href="#2" id=2>'매봉 공원 은 그동안 여러 진통 을 거쳐왔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이 는 현장 을 방문 해 보 자는 일부 위원 들 의 의견 에 따른 것 이 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['우즈베키스탄 에 광주 의료관광 · 산업 알렸 다'</a>
+<a name="2">[2]</a> <a href="#2" id=2>의료관광 및 의료 기기 · 화장품 설 명회 개최'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'우즈베키스탄 은 지난해 광주 를 방문 해 치료 받 은 전체 외국인 환자 중 2 위 ( 679 명 ) 를 차지 할 정도 로 광주 의료관광 주요 국가 중 하나 다 .'</a>
+</body>
+</html>

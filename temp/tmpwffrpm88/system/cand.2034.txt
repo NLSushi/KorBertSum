@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'시비 와 선악 을 판단 하 는 능력 을 지녔 다고 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'지식 백 과 해치 캡처'</a>
+<a name="3">[3]</a> <a href="#3" id=3>['sbs 드라마 해치 에 대한 관심 이 뜨겁 다 .'</a>
+</body>
+</html>

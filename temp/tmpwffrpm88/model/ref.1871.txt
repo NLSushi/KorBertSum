@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['mbc ‘ pd 수첩 ’ 이 취재 한 해외 의대 유학 실태 는 충격 적 이 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 그레 나 다 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 2 학년 이 배우 는 원서 로 수업 을 하 고 있 었 다 .'</a>
+</body>
+</html>

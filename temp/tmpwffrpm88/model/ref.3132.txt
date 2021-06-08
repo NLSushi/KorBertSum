@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>27 일 삼 척 경기 서 21 - 25 패 || 인천 과 서울 추격 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '이날 경기 에서 대구 는 삼척 에 21 - 25 로 패 하 면서 홈경기 연승 행진 이 끝났 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '전반 에 다소 부진 했 던 박소리 가 후반 들 어 눈 부신 선방 으로 기세 를 올렸 다 .'</a>
+</body>
+</html>

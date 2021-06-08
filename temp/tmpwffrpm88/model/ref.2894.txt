@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'부산 에 있 는 한국 해양 과학 기술원 ( kisost ) 부설 기관 인 선박 해 양 플랜트 연구소 ( kriso ) </a>
+<a name="2">[2]</a> <a href="#2" id=2> 부산대 등 8 개 기관 의 2017 년 해양 플랜트 국책 과제 사업비 는 총 4244 억 원 이 었 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '선박 해 양 플랜트 연구소 ( kriso ) 가 운영 할 심해 해양 공학 수조 건물 과 건립 논란 이 일 고 있 는 엔지니어링 센터 부지 전경 .'</a>
+</body>
+</html>

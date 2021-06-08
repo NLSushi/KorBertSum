@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['김명선 도 의원 이 제 313 회 임시회 중 농업 경제 환경 위원회 소관 실 · 국 별 2019 년 주요 업무 추진 상황 보고 에서 예산 대비 추진 실적 이 미흡 한 사업 에 대해 질의 하 고 대책 을 주문 했 다 .'</a>
+</body>
+</html>

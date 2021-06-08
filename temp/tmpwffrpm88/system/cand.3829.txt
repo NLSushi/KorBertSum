@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'흡연 이 보편 화 되 면서 급격히 증가 하 기 시작 한 폐암 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['권선 중 건양 대 병원 호흡기 알레르기 내과 교수'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'많 은 사람 들 이 금연 을 시도 하 고 있 으며</a>
+</body>
+</html>

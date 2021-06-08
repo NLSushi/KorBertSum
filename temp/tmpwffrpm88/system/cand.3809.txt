@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['화성시 향남읍 과 성남시 상대원동</a>
+<a name="2">[2]</a> <a href="#2" id=2>'9 일 경기도 에 따르 면 기술 장인 들 이 몰려 있 는 화성시 향남읍 · 팔 탄면 · 정남면 ( 기계 장비 )</a>
+<a name="3">[3]</a> <a href="#3" id=3>용인 영덕 ( 전자 부품 )</a>
+</body>
+</html>

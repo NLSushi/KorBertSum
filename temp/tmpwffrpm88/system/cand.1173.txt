@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'별도 의 스피커 없이 화면 에서 소리 가 난다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['lg 전자 는 오 는 24 일 스페인 바르셀로나 에서 전략 스마트폰 신 제품 ‘ lg g 8 씽 큐 ’ 에 화면 전체 가 스피커 역할 을 하 는 기능 을 탑재 한다고 14 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'cso 는 올레드 패널 을 스피커 진동판 처럼 활용 하 는 기술 이 다 .'</a>
+</body>
+</html>

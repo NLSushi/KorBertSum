@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['현 일고 출신 의 이 신빈</a>
+<a name="2">[2]</a> <a href="#2" id=2>김현재 선수 등 고교 출신 선수 6 명 을 영입 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'코치 는 국가 대표 출신 방지섭 씨 ( 45 )</a>
+</body>
+</html>

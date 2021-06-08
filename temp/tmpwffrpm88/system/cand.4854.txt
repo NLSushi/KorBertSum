@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>농림 어업 ( 3 천 명 ) 부문 은 늘 었 으나</a>
+<a name="2">[2]</a> <a href="#2" id=2>'동북 지방 통계청 이 16 일 발표 한 11 월 대구 고용 동향 에 따르 면</a>
+<a name="3">[3]</a> <a href="#3" id=3>'대구 지역 고용 한파 가 수개월 째 이어지 고 있 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>원작 의 구성 을 따르 되 1982 년 당시 우리나라 인물 들 의 이야기 로 꾸며진다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['연극 ‘ 월곡동 산 2 번지 ’ 가 5 일 오후 3 시</a>
+<a name="3">[3]</a> <a href="#3" id=3>'한국 문화예술 위원회 와 광주시 서구 문화 센터 가 공동 주최 하 는 이번 공연 은 ‘ 창작 그룹 가족 ’ 이 출연 해 무대 를 꾸민다 .'</a>
+</body>
+</html>

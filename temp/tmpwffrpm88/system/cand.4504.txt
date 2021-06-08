@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['학벌 없 는 사회 를 위한 시민 모임 은 14 일 광주 소재 사립 대학교 학칙 이 인권 침해 조항 들 을 담 고 있 다며 국가 인권 위원회 에 진정서 를 제출 했 다고 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>호남 대 를 들 었 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'시민 모임 은 집회 및 행사 에 대한 사전 승인 을 명시 한 경우 로 광주 가톨릭 대</a>
+</body>
+</html>

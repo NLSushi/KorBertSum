@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>소각 폐기물 1 천 800 t 등 25 . 5 t 덤프트럭 2 천 69 대분 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['의정부 시 는 현재 까지 신 곡동 보람 장례식장 뒤편 일명 ‘ 쓰레기 산 ’ 의 방치 폐기물 4 만 8 천 700 t 을 처리 ( 처리율 73 . 8 %) 했 다고 8 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>현재 까지 집행 된 분량 은 건설 폐 재류 2 만 900 t</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'유니클로 제공'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '유니클로 가 세계 적 인 팝 아티스트 ‘ 카우스 ( kaws ) ’ 와 4 년 연속 콜라보레이션 을 진행 하 고 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 그래픽</a>
+</body>
+</html>

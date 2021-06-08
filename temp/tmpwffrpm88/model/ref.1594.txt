@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'매년 외형 은 커졌 지만 출혈 경쟁 으로 수익 은 악화 일로 를 겪 는 저 비용 항공사 가 생존 을 위해 수익 성 강화 에 나선다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '매뉴얼 에 관련 사항 을 넣 는 등 의 사전 작업 을 현재 진행 중 ” 이 라며 조만간 재개 할 것 을 시사 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 포인트 추가 지급</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['경기도 교육청 은 ‘ 2020 년 경기도 교육비 특별회계 세입 · 세출 예산안 ’ 을 경기도 의회 에 제출 했 다고 28 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '2020 년 도 교육청 본 예산안 은 총 16 조 4 천 647 억 원 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 지방 자치 단체 이전 수입 3 조 441 억 원</a>
+</body>
+</html>

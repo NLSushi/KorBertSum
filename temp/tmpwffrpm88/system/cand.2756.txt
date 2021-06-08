@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'/ 김진수 기자 jeans @ kwangju . co . kr'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['아프리카 돼지 열 병 ( asf ) 이 국내 에서 처음 으로 확진 판정 이 난 17 일 오전 나주시 금천면 의 한 교차로 에서 축협 에서 나온 방제 단원 들 이 도로 에 소독약 을 뿌리 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'축협 관계자 는 공중 으로 분사 하 면 지나 는 차량 의 겉면 에 소독약 이 묻 어 운전자 들 의 민원 이 발생 하 기 때문 에 바닥 에 만 뿌린다고 밝혔 다 .'</a>
+</body>
+</html>

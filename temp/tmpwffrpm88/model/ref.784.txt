@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['카카오 ( 공동 대표 여민 수 조수용 ) 는 k - ifrs ( 한국 국제회계기준 ) 기준 으로 지난해 연결 매출 2 조 4167 억 원 을 달성 하 며 역대 최고 매출 을 경신 했 다고 14 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '4 분기 연결 매출 은 전 분기 대비 12 %</a>
+<a name="3">[3]</a> <a href="#3" id=3> 전년 동기 대비 24 % 증가 한 6731 억 원 으로 집계 됐 다 .'</a>
+</body>
+</html>

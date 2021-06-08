@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>게시판 등 에서 개별 토지 산정 지 가 열람 을 시행 하 고 의견 을 접수 한다고 14 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['부산시 는 15 일 부터 다음 달 7 일 까지 16 개 구 · 군 홈페이지</a>
+<a name="3">[3]</a> <a href="#3" id=3>'지난 1 월 1 일 기준 개별 공시지가 산정 이 완료 돼 다음 달 31 일 결정 · 공시 를 앞두 고 있 다 .'</a>
+</body>
+</html>

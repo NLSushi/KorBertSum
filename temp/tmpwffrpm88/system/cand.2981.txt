@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['김광림 최고 위원 자유 한 국당 최고 위원 인 김광림 의원 ( 경북 안동 ) 이 17 일 문재인 대통령 의 경제 청문회 결단 을 촉구 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'김 의원 은 이날 한국 당 최고 위원 회의 를 통해 “ ( 대통령 ) 의 북유럽 3 개국 순방 을 통해 직접 보 시 고</a>
+</body>
+</html>

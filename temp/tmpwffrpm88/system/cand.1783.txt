@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'사업비 5 천만 원 확보 · 전국 최초 로 추진'</a>
+<a name="2">[2]</a> <a href="#2" id=2>일 차 의료 만성 질환 관리 사업 공모 선정'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이번 공모 사업 은 만성 질 환자</a>
+</body>
+</html>

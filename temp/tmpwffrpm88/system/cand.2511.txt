@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['남 도 일보 사설 - 담양 외 다 지구 개발</a>
+<a name="2">[2]</a> <a href="#2" id=2>주민 설 명회 도 없 었 다니 …'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'앞서 담양군 은 ‘ 군 관리 계획 변경 안 ’ 에 따라 전 남도 에 해당 지역 을 준 공업 지역 에서 ‘ 준 주거 지역 ’ 으로 용 도변 경안 을 제출 했 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 지역 자본 역외 유출 막자 ’'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'광주시 는 지역 자본 의 역외 유출 을 막 고 소 상공 인 매출 증대 를 위해 지역 에서 통용 되 는 ‘ 광주 상생 카드 ’ 를 20 일 공식 출시 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>경제 · 건설 단체 관계자 등 59 개 기관 · 단체 가 mou 를 체결 한 후 기념 촬영 을 하 고 있 다 .'</a>
+</body>
+</html>

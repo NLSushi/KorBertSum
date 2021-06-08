@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['웨이브 즈 가 파 죽의 3 연승 을 거뒀 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'아직 개막 후 첫 승 을 거두 지 못한 행오버 는 하 이 원 출신 의 공격수 오 세안 과 수비수 황 우태 등 공수 양면 에서 전력 보강 에 나섰 고</a>
+<a name="3">[3]</a> <a href="#3" id=3>'앞선 두 경기 에서 양 팀 은 18 골 을 넣 으며 난 타전 을 벌여</a>
+</body>
+</html>

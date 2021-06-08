@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>폭염 · 풍수 해 주민 안전 대책 추진'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'광주광역시 남구 가 여름철 폭염 과 풍수해 등 을 사전 에 대비 하 기 위한 ‘ 여름철 주민 생활 안전 대책 ’ 을 추진 한다고 2 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'경찰 · 소방 등 11 개 기관 협조'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['수원시 의회 김미경 ( 민</a>
+<a name="2">[2]</a> <a href="#2" id=2>'2 일 수원시 의회 에 따르 면 김 위원장 이 발 의 한 해당 법안 은 화재 로부터 시민 의 생명 과 신체 를 보호 하 기 위해 마련 된 조례 안 은 자치 단체장 이 공공 기관</a>
+<a name="3">[3]</a> <a href="#3" id=3>보육 시설 등 에 방연 마스크 비치 를 권장 할 수 있 도록 했 고</a>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 충주 ] 충주 j 병원 이 전직 직원 들 에게 임금 과 퇴직금 을 지급 하 지 않 아 빈축 을 사 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 에 퇴직 직원 들 은 이 를 대전 지방 고용 노동청 충주 지청 에 진 성서 와 함께 고소 고발 했 다 .'</a>
+</body>
+</html>

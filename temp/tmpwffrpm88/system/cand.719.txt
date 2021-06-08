@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 슬픈 연극 ’ ‘ 일 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'‘ 제 22 회 광주 소극장 연극 축제 ( gjstf ) ’ 가 오 는 18 ~ 27 일 오후 7 시 30 분 예린 소극장</a>
+<a name="3">[3]</a> <a href="#3" id=3>'상 ’ 등 무대 에'</a>
+</body>
+</html>

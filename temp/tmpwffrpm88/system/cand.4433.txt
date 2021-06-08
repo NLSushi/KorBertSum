@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이 는 전국 여자 대학교 ( 4 년 제 포함 ) 평균 취업률 66 % 보다 6 % 높 은 수 치 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>2017 년 75 % 로 4 년 연속 취업률 이 상승 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>2015 년 68 . 3 %</a>
+</body>
+</html>

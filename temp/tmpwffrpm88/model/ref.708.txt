@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'대구 지역 교육 전문가 와 시민 단체 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 교사 등 으로 꾸려진 대구 미래 교육 정책 기 획단 이 출범 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '이 들 은 지능 정보 미래 사회 에서 모든 아이 들 이 성공 하 는 대구 미래 역량 교육 의 항해도 를 그려 나가 는 게 목적 이 다 .'</a>
+</body>
+</html>

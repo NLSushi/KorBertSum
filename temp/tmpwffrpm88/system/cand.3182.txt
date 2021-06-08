@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['정부 근로 장려금 원활 집행 위해 374 명 충원'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'국세청 에 빅 데이터 센터 신설 도'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'국세청 은 18 일 확대 · 개편 된 장려금 제도 를 차질 없이 집행 하 는 등 세정 서비스 를 보다 강화 하 기 위해 조직 과 인력 을 확충 하 기 로 했 다고 밝혔 다 .'</a>
+</body>
+</html>

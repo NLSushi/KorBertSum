@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'성남시 고등동 일원 에 세계 적 인 컴퓨터 관련 업체 ‘ hp ’ 의 연구 개발 센터 가 들어선다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> hp 는 21 일 경기도 청 상황실 에서 이재명 경기 지사 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 김광석 hp 프린팅 코리아 대표 이사 가 참석 한 가운데 상호 간 양해 각서 ( mou ) 를 체결 하 고</a>
+</body>
+</html>

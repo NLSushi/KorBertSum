@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'보해 양조 에 따르 면 이날 인도네시아 로 수출 할 잎새 주 와 보해 복분자주 를 출고 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>다음 달 에 는 2 차 추가 물량 이 수출 돼 10 만 달러 상당 의 제품 이 선적 될 예정 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'2 억 6 천만 명 이 사 는 인구 대국 인도네시아</a>
+</body>
+</html>

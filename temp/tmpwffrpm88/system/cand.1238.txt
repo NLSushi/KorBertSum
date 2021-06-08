@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'- 시민 단체 는 “ 자연 경관 훼손 ” 반발'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['- 업계 · 학계 는 “ 랜드마크 로 필요 성'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'- 교통 혼잡 피할 대책 도 있 다 ” 환영'</a>
+</body>
+</html>

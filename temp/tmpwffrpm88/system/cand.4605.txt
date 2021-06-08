@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['여주 시 는 행복 실현 지방 정부 협의회 부탄 ( bhutan ) 연 수단 을 이끄 는 이 항진 시장 이 지난 24 일</a>
+<a name="2">[2]</a> <a href="#2" id=2>'25 일 첫 일정 으로 부탄 사람 들 의 생활상 과 문화 를 알 수 있 는 국립 박물관 을 방문 했 고</a>
+<a name="3">[3]</a> <a href="#3" id=3>26 일 에 는 부탄 의 수도 인 팀푸 ( thimphu ) 로 이동해 디첸 완 모 ( dechen wangmo ) 보건복지부 장관 을 만나 부탄 의 무상 의료 시스템 등 에 관해 많 은 의견 을 나눴 다 .'</a>
+</body>
+</html>

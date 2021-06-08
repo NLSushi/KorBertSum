@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 불굴 의 산악인 ’ 김홍빈 대장 ‘ 가셔브룸 ⅰ ’ 원정'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'15 일 발대식 … 히말라야 8 천 m 급 14 좌 중 13 번 째 도전'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'세계 11 위 고봉 … 성공 땐 파키스탄 브로드피크 만 남 아'</a>
+</body>
+</html>

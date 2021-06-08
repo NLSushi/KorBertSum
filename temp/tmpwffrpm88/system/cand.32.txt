@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'/ 김영창 기자 seo @ namdonews . com'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'대한민국 여자 수구 대표 팀 이 22 일 광주 남부 대 수구 경기장 에서 열린 ‘ 2019 광주 세계 수영 선수 권 대회 ’ 여자 수구 15 · 16 위 결정 전 에서 쿠바 를 만나 0 - 30 으로 대패 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'사상 첫 국제 대회 ‘ 높 은 벽 ’ 실감 … 최종 16 위'</a>
+</body>
+</html>

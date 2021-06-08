@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['그룹 2 pm 멤버 닉쿤 이 첫 솔로 앨범 서 전곡 을 자작곡 으로 채운 가운데 ‘ 싱어 송라이터 ’ 로서 의 면모 가 돋보이 는 티저 이미지 를 선보여 시선 을 모은다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '2 pm 의 소속 사 jyp 엔터 테 인 먼 트 ( 이하 jyp ) 는 오 는 18 일 닉쿤 의 첫 솔로 앨범 ‘ me ’ 발매 에 앞서 트랙 리스트 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 건반 과 함께 우수 에 찬 분위기 를 연출 했 다 .'</a>
+</body>
+</html>

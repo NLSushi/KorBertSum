@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['인천 영종 국제 도시 에 병원 급 의료 기관 이 처음 으로 개원 해 진료 에 들어갔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'영종 국제 병원 의 병상 수 는 11 실</a>
+<a name="3">[3]</a> <a href="#3" id=3>'성세 의료 재단 측 은 현재 용도 변경 을 추진 중 인 4 층 으로 병상 수 ( 73 병상 ) 를 늘려 향후 에 는 100 병상 을 운영 할 계획 이 다 .'</a>
+</body>
+</html>

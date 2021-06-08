@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주시 교육청 이 일선 고등학교 의 기숙사 폐지 에 나섰 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'지난해 말 기준 광주 에서 는 29 개 일 반고 에서 기숙사 를 운영 해 3 천 700 여 명 이 생활 하 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'성적 상위 권 학생 들 을 대상 으로 대입 심화 반 을 운영 하 는 차별 행위 를 개선 하 기 위해서 라는데</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 수성 범어 w ’ 투시도 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'지난 3 일 단지 내상 가 ‘ 수성 범어 더블유 스퀘어 ’ 공개 청약 및 공개 추첨 에 1 천 여 명 이 참여</a>
+<a name="3">[3]</a> <a href="#3" id=3>최고 150 대 1 의 경쟁 률 을 나타내 며 계약 이틀 만 에 118 개 상가 를 모두 완 판 해 화제 다 .'</a>
+</body>
+</html>

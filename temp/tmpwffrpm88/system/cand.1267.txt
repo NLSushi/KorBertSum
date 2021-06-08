@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['플랜 에 이 엔터 테 인 먼 트'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'찰리 푸 스 는 지난 6 일 ( 한국 시각 ) 에이핑크 팬 이 올린 박초롱 의 콘서트 솔로 무대 영상 을 자신 의 트위터 계정 에 리 트윗 하 며 칭찬 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'세계 적 인 싱어 송라이터 찰리 푸 스 ( charlie puth ) 가 에이핑크 박초롱 에게 반했 다 .'</a>
+</body>
+</html>

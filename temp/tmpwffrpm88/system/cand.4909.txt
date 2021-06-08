@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['부산 과 경남 양산시 가 광역 알뜰 교통 카드 시범 사업 대상지 로 선정 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'선정 된 시범 사업 지는 ▷ 5 개 광역자치단체 ( 부산 인천 대전 울산 세종 ) ▷ 6 개 기초자치단체 ( 경기 수원</a>
+<a name="3">[3]</a> <a href="#3" id=3>'국토 부 는 오 는 6 월 부터 시범 사업 시행 에 착수 할 예정 이 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'한국 이 주도 적 으로 설립 한 국제기구 인 gggi 는 지난 21 일 부터 24 일 까지 gggw 2019 행사 를 서울 coex 인터 컨티넨탈 호텔 에서 개최 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['인천 글로벌 캠퍼스 ( igc ) 가 국제기구 와 협력 해 외국 대학 들 의 글로벌 역량 을 발휘 하 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'igc 는 글로벌 녹색 성장 연구소 ( gggi ) 가 개최 하 는 글로벌 녹색 성 장주 간 행사 에 글로벌 교육 허브 로서 의 역할 을 수행 했 다고 27 일 밝혔 다 .'</a>
+</body>
+</html>

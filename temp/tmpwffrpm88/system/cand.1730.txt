@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['소위 ‘ 갭 투자 ’ 를 했 다가 세입자 들 에게 전세금 을 돌려주 지 않 은 40 대 에게 법원 이 실형 을 선고 했 다 .'</a>
+</body>
+</html>

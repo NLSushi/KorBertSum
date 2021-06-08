@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'광주 시가 지역 전문 건설 업체 의 하도급 수주 지원 에 나섰 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '지역 건설 업체 의 경쟁력 강화 를 위해 지자체 가 발벗고 나선 것 은 매우 드문 일 이 지만 과정 은 결과 못지 않 게 매우 긍정 적 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 현대건설 ㈜</a>
+</body>
+</html>

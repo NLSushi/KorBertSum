@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'김병조 는 " 방송사 와 집 으로 항 의 전화 가 빗발쳤 다 " 며 " 가족 들 을 위협 하 는 협박 전화 까지 감당 해야 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '현재 선배 의 추천 으로 학자 의 길 을 걷 고 있 는 김병조 는 수십 년 째 매주 수요일 조선 대학교 강당 에 선다 .'</a>
+</body>
+</html>

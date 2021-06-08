@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'그곳 에 있 는 검봉 산 ( 530 m ) 은 그리 높 은 산 은 아니 지만 암 릉 이 그려 내 는 수려 한 산세 와 빼어난 조망 덕분 에 많 은 이 들 의 사랑 을 받 는 곳 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['그윽 한 호수 와 봉긋 한 산 들 이 어우러져 수채화 같 은 풍경 을 자아내 는 도시</a>
+<a name="3">[3]</a> <a href="#3" id=3>'( 사진 = kbs 2 tv ‘ 영상앨범 산 ’)'</a>
+</body>
+</html>

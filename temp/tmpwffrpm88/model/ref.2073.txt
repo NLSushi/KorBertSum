@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'부산 디자인 센터 는 올해 중소 벤처 기업 부 의 창업 도약 패키지 지원 사업 에 부울 경 거점 기관 으로 선정 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '부산 디자인 센터 는 공공 디자인 영역 에서 도 경쟁력 이 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 폐가 터 를 활용 한 미니 공원 조성 등 의 사업 을 벌였 다 .'</a>
+</body>
+</html>

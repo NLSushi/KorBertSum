@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['무서운 상승세 로 뜨거운 반응 을 불러일으킨 ‘ 눈 이 부시 게 ’ 분당 최고 시청 률 이 11 . 3 % 까지 치솟 았 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '26 일 방송 된 jtbc 월화드라마 ‘ 눈 이 부시 게 ’( 연출 김석윤 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 제작 드라마 하우스 ) 6 회 가 시청 률 8 % 를 돌파 하 며 위엄 을 과시 했 다 .'</a>
+</body>
+</html>

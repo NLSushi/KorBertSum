@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['보성군 ‘ 웰빙 햇감자 ’ 수확 한창 총 165 억 원 농가 소득 예상'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'회천 · 득량면 970 여 ha … 2 만 2 천 여 톤 수확'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'보성군 회천면 과 득량면 들녘 에서 햇감자 수확 이 한창 이 다 .'</a>
+</body>
+</html>

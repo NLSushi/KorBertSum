@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>완벽 한 비서 의 모습 과 불륜 을 저지르 는 모습 까지 두 얼굴 을 드러내 며 시청자 들 의 눈길 을 사로잡 았 다 ."</a>
+<a name="2">[2]</a> <a href="#2" id=2>"' 봄 이 오 나 봄 ' 손은서 가 첫 방송 부터 앙큼 한 열연 을 펼쳤 다 ."</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이날 방송 에서 는 이 봄 의 비서 로서 빈틈없이 보필 하 는가 하 면</a>
+</body>
+</html>

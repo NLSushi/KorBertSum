@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'올해 설 명절 에 는 지상파</a>
+<a name="2">[2]</a> <a href="#2" id=2>'1 일 부터 특선 영화 가 시작 된다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이후 2 일 부터 영화 는 아래 정리 돼 있 다 .'</a>
+</body>
+</html>

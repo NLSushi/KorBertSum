@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>잔디 광장 금지 에 반발 ‘ 사용 불허 ’ 통보 에 도 집회 진행 시 " 법 적 문제 없 어 … 대응 검토 "'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이진우 기자 ljw @ kihoilbo . co . kr'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'인천 시청 앞 잔디 광장 인 ‘ 인천 애 ( 愛 ) 뜰 ’ 이 뚫렸 다 .'</a>
+</body>
+</html>

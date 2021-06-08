@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'국제 선박 전자 협회 는 미국 선박 전자 협회 ( nmea : national maritime electronics association ) 의 산하 단체 로서 선박 전자 기자재 에 사용 되 는 nmea 0183</a>
+<a name="2">[2]</a> <a href="#2" id=2>['△ imea 스티브 슈 피처 ( steve spitzer ) 표준 이사</a>
+<a name="3">[3]</a> <a href="#3" id=3>제품 및 도구 들 에 대한 적합 성 및 상호 연동 성 테스트 를 지원 하 고 관련 교육 및 훈련 을 제공 하 는 데 합의 했 다 .'</a>
+</body>
+</html>

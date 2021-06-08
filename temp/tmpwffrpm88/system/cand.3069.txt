@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['기자 경북 지역 에서 초등학생 수 는 늘어나 고</a>
+<a name="2">[2]</a> <a href="#2" id=2>'경북 도 교육청 은 지난 3 월 1 일 기준 으로 조사</a>
+<a name="3">[3]</a> <a href="#3" id=3>'조사 결과 올해 도내 유치원 과 초 · 중 · 고등학교 전체 학교수 는 지난해 보다 6 개 가 줄어든 1 천 640 교 ( 분교장 제외 ) 이 다 .'</a>
+</body>
+</html>

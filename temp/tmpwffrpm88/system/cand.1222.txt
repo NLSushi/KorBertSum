@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['필자 는 운전 을 많이 하 는 편 이 라 도로 위 에 있 는 시간 이 많 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'그 들 은 정말 나쁜 운전 습관 을 가지 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'오늘 은 시한폭탄 을 차 에 가득 싣 고 달리 는 사람 들 에 대해서 생각 을 나눠 보 려 한다 .'</a>
+</body>
+</html>

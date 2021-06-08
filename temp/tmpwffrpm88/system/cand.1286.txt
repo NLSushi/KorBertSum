@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['송원 대 명예 교수 인 평론가 이 돈 배 시인 이 제 11 회 한국 현대시 작품상 수상 시집 인 ‘ 유형 열차 ’( 현대시 ) 를 펴냈 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>역사 적 공간 등 다양 한 공간 을 상징 성 을 통해 정제 되 면서 도 서정 적 인 언어 로 그려낸다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'특히 시인 은 일상 적 공간</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['영광군 의회 한빛 원전 대책위</a>
+<a name="2">[2]</a> <a href="#2" id=2>'지난 7 일 대책위 회의 서 의원 들 같 은 질문 반복'</a>
+<a name="3">[3]</a> <a href="#3" id=3>준비 부족 · 운영 미숙 ‘ 여전 ’'</a>
+</body>
+</html>

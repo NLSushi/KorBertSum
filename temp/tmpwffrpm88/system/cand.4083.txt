@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'규모 도 그렇 지만 연체 율 마저 올라가 는 상황 이 영 불안 하 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['자영업 자 들 의 금융 권 빚 이 400 조 원 을 넘 었 고</a>
+<a name="3">[3]</a> <a href="#3" id=3>대출 연체 율 도 반등 했 다 .'</a>
+</body>
+</html>

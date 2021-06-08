@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['동강 대 야구부 가 2019 년 u 리그 전반기 를 조 3 위 로 마치 며 왕 중 왕전 진출 가능 성 을 높였 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '동강 대 야구부 ( 감독 홍현우 ) 는 지난 11 일 순천 팔마 구장 에서 끝난 ‘ 2019 kusf ( 한국 대학 스포츠 총장 협의회 ) 대학 야구 u 리그 ’ 전반기 리그 에서 d 조 3 위 를 기록 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 4 연승 을 달렸 다 .'</a>
+</body>
+</html>

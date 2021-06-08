@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['충남 도 는 시내 · 농어촌 버스 요금 인상 안 을 검토 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 는 주 52 시간 근무 제 도입 으로 오 는 7 월 부터 근무 시간 단축 에 따른 버스 기사 채용 등 의 이유 로 요금 인상 이 불가피 한 데 따른 것 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'요금 인상 시기 는 빠르 면 8 - 9 월 로 보인다 .'</a>
+</body>
+</html>

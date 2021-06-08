@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['연말연시 등 의 특별 한 날 이 되 면 어김없이 숙박비 가 치솟 는 바가지 현상 이 반복 되 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'심지어 크리스마스 전날 에 는 방 하나 에 20 만 원 까지 올랐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'직장 인 이기섭 ( 34 ) 씨 는 지난해 크리스마스 를 생각 하 면 영 기분 이 좋 지 않 다 .'</a>
+</body>
+</html>

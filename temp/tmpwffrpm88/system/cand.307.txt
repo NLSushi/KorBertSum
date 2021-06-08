@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주신세계 안과 ( 대표 원장 김재봉 · 사진 ) 가 호남 최초 로 광각 안저 촬영 장비 ‘ clarus 500 ’ 와 초 정밀 백 내장 수술 용 검사 장비 인 ‘ iolmaster 700 ’ 을 동시 도입 해 보다 안 전하 고 정밀 한 검사 가 가능 해졌 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>시력 교정술 검사 에서 도 활용 도 가 높 아 졌 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이 장비 로 인해 당뇨 망막 병증</a>
+</body>
+</html>

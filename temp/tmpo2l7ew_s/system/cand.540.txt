@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['규제 지역 인 대구 수성구 의 아파트 매매 가격 이 상승세 로 돌아섰 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'하락세 를 이 어 가 던 수성구 아파트 매매 가 는 4 월 5 주 보합세 를 기록 했었 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>4 월 29 일 기준 ) 보다 0 . 02 % 상승 했 다 .'</a>
+</body>
+</html>

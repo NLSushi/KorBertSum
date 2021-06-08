@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 배틀 트립 ’ mc 들 사이 에 ‘ 태국 댁 ’ 신주아 의 번호 쟁탈전 이 발발 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 가운데 앞서 화제 를 불러모은 신주아 - 이혜정 의 ‘ 태국 방콕 ’ 여행기 공개 이후</a>
+<a name="3">[3]</a> <a href="#3" id=3>'사진 제공 | kbs 2 tv ‘ 배틀 트립 ’'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'요시모토 바나나 는 “ 영화 를 보 고서 아쉽 다</a>
+<a name="2">[2]</a> <a href="#2" id=2>소감 을 전했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'현장 에서 감독 이 멋있 었 다 .'</a>
+</body>
+</html>

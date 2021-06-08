@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'비 제조업 업 황 전망 bsi 는 77 로 지난달 보다 4 포인트 올랐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['올해 마지막 달인 12 월 에 도 광주 · 전남 지역 기업 들 의 업 황 현황 이 어두운 것 으로 나타났 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>11 월 61 로 계속 해서 기준치 100 을 밑돌 고 있 다 .'</a>
+</body>
+</html>

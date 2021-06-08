@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'부산 프리미엄 아울렛 이 민족 최대 의 설 명절 을 앞두 고 다음 달 1 일 부터 10 일 까지 ‘ 뉴 이 어 골든 위크 ( new year golden week ) ’ 행사 를 개최 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'스포츠 빅 브랜드 인 나이키 가 신발 과 용품 전 품목 15 %</a>
+<a name="3">[3]</a> <a href="#3" id=3>설 맞이 꿀꿀 별 미전 등 귀 성 ?'</a>
+</body>
+</html>

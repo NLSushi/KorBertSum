@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['23 일 토요일 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '그리고 vip 와 별도 로 초대 된 9 명 의 여성 들 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 이 들 의 정체 는 무엇 일까 ?'</a>
+</body>
+</html>

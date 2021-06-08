@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'희망 문화 협동조합 은 오 는 9 월 27 일 과 28 일 충장 아트홀 에서 연극 ‘ 우성 씨 의 주부 일기 ’ 를 무대 에 올린다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['객석 을 넘 어 연극 무대 주인공 이 된 시민 들'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'배우 · 극본 · 음향 · 연출 등 일반 시민 14 명 참여'</a>
+</body>
+</html>

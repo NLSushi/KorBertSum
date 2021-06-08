@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['최근 대형 신약 기술 수출 등 좋 은 소식 을 들려주 며 빠른 성장 행보 를 보이 는 제약 ㆍ바이오업계 주요 기업 들 이 인재 를 찾 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '현재 채용 을 진행 중 인 동아 쏘 시 오 그룹 ㆍ삼성바이오로직스ㆍ유한양행이 대표 적 으로 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 이 들 기업 의 1 인 평균 급여액 은 5</a>
+</body>
+</html>

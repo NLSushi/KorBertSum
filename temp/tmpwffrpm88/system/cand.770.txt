@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 살림 남 2 ’ 김성수 가 “ 마음 에 대못 이 박혔 다 ” 고 말 한 이유 는 무엇 일까 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'중학교 에 올라가 는 혜빈 이 를 위해 아빠 김성수 는 딸 의 방 을 새로 꾸며 주 기 로 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'지난 6 년 간 방 구조 를 바꾸 지 않 았 기 에 쌓여 있 던 짐 이 많 아 힘든 작업 이 었 지만</a>
+</body>
+</html>

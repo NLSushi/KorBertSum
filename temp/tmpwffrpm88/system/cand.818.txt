@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>대구 대학교 가 참여 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['김종현 전국 최초 강좌 개설 대구시 는 올해 부터 지역 대학 에 ‘ 대구경북 지역학 ’ 과목 을 개설 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>가을 학기 는 경북 으로 확대 해 영남대 학교</a>
+</body>
+</html>

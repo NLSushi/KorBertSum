@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'4 일 한국 농수산 식품 유통 공사 ( at ) 에 따르 면 이날 적 상추 와 시금치 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 애호박 등 의 가격 이 무려 5 배 가까이 오르 는 등 올해 최고 치 를 기록 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 지난달 ( 1 만 2 천 원 ) 보다 는 133 . 3 % 가 올랐으며</a>
+</body>
+</html>

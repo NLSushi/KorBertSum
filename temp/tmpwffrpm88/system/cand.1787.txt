@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>8 월 18 까지 천체관측 휴가철 특별 운영'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 기간 은 초 여름 부터 관측 되 던 목성 에 이 어 7 월 말 부터 토성 도 저녁 시간 에 볼 수 있 으며 특히 8 월 초 에 는 달 까지 저녁 시간 에 등장 해 달</a>
+<a name="3">[3]</a> <a href="#3" id=3>목성 을 모두 관측 할 수 있 는 천체관측 의 최적기 로 꼽힌다 .'</a>
+</body>
+</html>

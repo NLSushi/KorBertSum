@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'[ 기호일보 = 디지털 뉴스 부 ] 한국 책 쓰 기 1 인창 업 코칭 협회 ( 한 책 협 ) 는 자신 의 이야기 가 담긴 책 을 세상 에 펼쳐 내 길 희망 하 는 사람 들 은 누구 든지 함께 할 수 있 는 곳 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 원고 코칭 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '김 도사 에게 미국</a>
+</body>
+</html>

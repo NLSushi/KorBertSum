@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대구 강림 초등 학교 ( 교장 김규은 ) 는 지난 4 일 꿈 과 희망 을 향해 첫발 을 내딛 는 159 명 꿈 동이 들 의 입학식 을 거행 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 학부모 와 신입 생 들 의 마음 을 더욱 설레 게 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '입학식 은 6 학년 형</a>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['당진시 의회 양 기림 의원 이 5 분 발언 을 통해 부곡 공단 지반 침하 에 대한 원인 규명 과 안전 대책 수립 을 촉구 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이어 “ 2019 년 1 월 3 일 입주 기업 들 의 민원 제기 로 당진시 와 한국전력</a>
+</body>
+</html>

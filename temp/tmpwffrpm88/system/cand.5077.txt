@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대구 달서구 청 이 안전사고 우려 가 제기 됨 에 도 ( 옛 ) 두류 정수장 에서 ‘ kbs 전국노래자랑 ’ 을 추진 하 려 해 논란 이 일 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>나머지 구민 은 통제 하 겠 다고 밝혀 ‘ 구민 의 축제 ’ 라는 행사 의 미도 퇴색 됐 다는 지적 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'인근 에 야외 음악당</a>
+</body>
+</html>

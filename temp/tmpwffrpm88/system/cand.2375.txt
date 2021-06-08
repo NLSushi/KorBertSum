@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광양 마동 초등 학교 ( 교장 장완 표 ) 가 학생 들 에게 생존 수영 실기 교육 을 진행 하 고 있 어 눈길 을 끌 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이날 교육 에 참여 한 학생 들 은 활동 과정 에서 수영 의 의미 와 특성 을 이해 하 고</a>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'sk 엔카 직영 자동차 유통 플랫 폼 sk 엔카 닷컴 ( 대표 김상범 ) 이 최근 차량 조 회수 를 성별 · 연령 별 로 집계 한 결과 남녀 모두 국산 차 에서 는 그랜저 hg 를 가장 많이 조회 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'조 회수 는 남성 이 여성 보다 약 12 배 정도 많 았 고</a>
+</body>
+</html>

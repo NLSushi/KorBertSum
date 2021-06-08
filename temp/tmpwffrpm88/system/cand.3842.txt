@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['초 강력 태풍 ‘ 링링 ’ 이 7 일 전북 군산 앞바다 를 지나 인천 앞바다 를 향해 빠르 게 북상 중 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>중심 부근 최대 풍속 은 초속 37 ｍ ( 시속 133 ㎞) 에 달한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'태풍 은 이날 오후 3 시 께 서울 서북서 쪽 약 110 ㎞ 해상 까지 북상 할 것 으로 보인다 .'</a>
+</body>
+</html>

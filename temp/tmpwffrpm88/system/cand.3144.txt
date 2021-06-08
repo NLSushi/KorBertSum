@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대구 fc 가 달콤 한 a 매치 휴식기 동안 휴식 과 재 정비 를 통한 담금질 을 마무리 하 고 k 리그 로 돌아온다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'체력 훈련 에 가장 큰 비중 을 뒀 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'대구 는 휴식기 동안 바닥난 체력 을 보충 했 다 .'</a>
+</body>
+</html>

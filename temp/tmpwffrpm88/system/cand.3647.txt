@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 fc 엄 원상 u - 20 월드컵 호 승선'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'최종 명단 확정 … 금호 고 출신 해 외파 김정민 도 합류'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'금호 고 출신 으로 ‘ 제 2 의 기성용 ’ 으로 기대 되 는 김정민 ( 리퍼 링 ) 도 발탁 됐 다 .'</a>
+</body>
+</html>

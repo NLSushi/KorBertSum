@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>5 · 18 민주 화 운동 기념행사 안전사고 총력 대응'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'소방 력 전진 배치 · 소방 출동 로 확보 등 소방 안전 대책 추진'</a>
+<a name="3">[3]</a> <a href="#3" id=3>구급차 등 차량 4 대 와 인원 53 명 을 배치 한다 .'</a>
+</body>
+</html>

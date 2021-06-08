@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['오늘 ( 17 일 ) 발생 한 진주 묻 지 마 살인 사건 에 대한 논란 이 거세 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> "묻 지 마 살인 사건 이 아닌 ' 계획 적 범죄 ' 라는 데 무게 가 실리 고 있 는 것 ."</a>
+<a name="3">[3]</a> <a href="#3" id=3> '숨진 최 모양 은 시각 장애 인 이 었 던 것 으로 알려져 더욱 안타까움 을 자아내 고 있 다 .'</a>
+</body>
+</html>

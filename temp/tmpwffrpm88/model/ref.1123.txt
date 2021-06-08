@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['착한 브런치 카페 tvn ‘ 커피 프렌즈 ’ 가 흥미진진 함 과 진정 성 모두 잡 으며 성공 적 으로 첫 방송 을 마쳤 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '4 일 방송 된 tvn ‘ 커피 프렌즈 ’ 첫 방송 은 가구 평균 시청 률 4 . 9 %</a>
+<a name="3">[3]</a> <a href="#3" id=3> “ 지금 이 이번 년 도 중 에 제일 행복 한 것 같 다 ” 며 소감 을 전했 다 .'</a>
+</body>
+</html>

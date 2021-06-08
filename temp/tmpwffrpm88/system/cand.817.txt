@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['올해 23 마리 가족 단위 로 . ..'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'총 54 마리 야생 에서 서식'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'< 국립 공원 공단 제공 >'</a>
+</body>
+</html>

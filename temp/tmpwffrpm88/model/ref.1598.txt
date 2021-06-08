@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'전남 도 는 중 소농 의 농산물 판로 개척 어려움 을 해소 하 기 위해 로컬 푸드 직매장 설치 지원 사업 을 추진 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 지자체 가 출자 ( 출연 ) 한 공익 법인 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 대 도시 형 직매장 은 200 ㎡ 이상 이 다 .'</a>
+</body>
+</html>

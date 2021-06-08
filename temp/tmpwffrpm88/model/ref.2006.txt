@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'사진 = 산림청 제공'</a>
+<a name="2">[2]</a> <a href="#2" id=2> "산림청 국립 산림 과 학원 은 14 일 국내 토종 블루베리 ' 정금나무 ' 의 엽록체 dna 유전자 지도 를 세계 최초 로 해독 했 다고 밝혔 다 ."</a>
+<a name="3">[3]</a> <a href="#3" id=3> 'bp ( 베이스 페어 ) 는 유전자 를 구성 하 는 dna 의 길이 를 나타내 는 단위 를 말 한다 .'</a>
+</body>
+</html>

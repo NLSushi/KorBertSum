@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'페이스북 이 방송 통신 위원회 의 시정 명령 과 과징금 처분 에 불복 해 제기 한 행정소송 1 심 판결 이 다음 달 로 연기 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '양측 의 논리 싸움 이 더욱 치열 해 질 수 있 는 대목 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 양측 은 30 여 차례 에 걸쳐 자료 를 제출 했 다 .'</a>
+</body>
+</html>

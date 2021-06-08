@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'본지 는 지난달 27 일 공개 한 당진시 선출 직 공직자 재산 내역 을 토대 로 이 번호 부터 4 차례 에 걸쳐 국회의원 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 시장 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '재산 변동 내역 을 살펴보 면 고대면 과 정미 면</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>["오 는 3 월 13 일 치러 지 는 ' 제 2 회 전국 동시 조합장 ' 선거 를 앞두 고 대전 지역 조합 별 후보 자 가 윤곽 을 드러내 고 있 다 ."</a>
+<a name="2">[2]</a> <a href="#2" id=2>대전 충남 우유 농협 을 제외 하 고 14 곳 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>시 의원 후보 가 물망 에 오르 고 있 고 최다 선출 조합장 도 나타날지 주목 된다 .'</a>
+</body>
+</html>

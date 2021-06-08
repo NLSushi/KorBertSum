@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'‘ 학습 의 즐거움</a>
+<a name="2">[2]</a> <a href="#2" id=2>['대구광역시 서부 교육 지원 청 ( 교육장 송 승 면 ) 은 지난 21 일 ( 화 ) 오후 4 시 부터 8 시 까지 관내 중학교 교감 및 자유 학기 부장 교사 를 대상 으로 ‘ 2019 자유 학기제 관리자 연수 ’ 를 운영 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>개성 과 강점 발견</a>
+</body>
+</html>

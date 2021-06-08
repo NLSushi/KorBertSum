@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 실화 탐사대 ’ 스테로이드 불법 거래 … 잘 쓰 면 약</a>
+<a name="2">[2]</a> <a href="#2" id=2>'근 골격계 관련 파열 질환 이나 퇴행 성 관절염 에 있 어서 스테로이드 주사 를 맞 곤 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'스테로이드 의 불법 거래 등 을 다룬 실화 탐사대 가 화제 가 되 고 있 다 .'</a>
+</body>
+</html>

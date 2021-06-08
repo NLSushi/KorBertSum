@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>불법 카메라 범죄 로부터 안 전해 지 자 고흥 경찰서 정보 보안 과 경위 이순호'</a>
+<a name="2">[2]</a> <a href="#2" id=2>여름 해수욕장 이나 계곡 등지 에서 자주 발생 하 는 카메라 등 이용 촬영 범죄 에 대한 대비 는 필수 적 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'장마 가 끝나 면서 더위 가 맹위 를 떨치 는 계절 이 찾 아 왔 다 .'</a>
+</body>
+</html>

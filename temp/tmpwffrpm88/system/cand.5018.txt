@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>du 드림 - job 투게더 졸업 생 워크숍'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이번 행사 는 사회 각 분야 에서 활동 하 고 있 는 동강 대 졸업 생 들 을 초청 해 재학 생 후배 들 과 취업 정보 등 을 공유 하 며 네트워크 를 구축 했 다 .'</a>
+</body>
+</html>

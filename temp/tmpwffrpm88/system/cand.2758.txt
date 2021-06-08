@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['- 적발 되 면 벌금 내 고 다시 영업'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'판금 · 도색 작업 은 다량 의 미세 먼지 를 배출 하 는 건 물론 범행 을 숨기 는 데 악용 될 수 있 지만</a>
+<a name="3">[3]</a> <a href="#3" id=3>'- 인체 유해 유기 화합물 무단 배출'</a>
+</body>
+</html>

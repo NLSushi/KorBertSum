@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대홍기획 은 다음 소프트 와 공동 으로 소셜 빅 데이터 로 시장 트렌드 및 브랜드 현황 을 실시간 으로 분석 하 는 ‘ 디 빅스 2 . 0 ( daehong bigdata solution 2 . 0 ) ’ 솔루션 을 개발 했 다고 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 업종 별 tpo 및 관심 요인 분석 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 브랜드 심화 분석</a>
+</body>
+</html>

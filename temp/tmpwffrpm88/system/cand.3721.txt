@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'국내 최대 성매매 알선 사이트 ‘ 밤 의 전쟁 ’ 운영 자 가 필리핀 에서 자진 입국 해 경찰 에 붙잡혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'/ 사진 = 대전 지방 경찰청 제공'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'경찰 은 a 씨 가 벌어들인 범죄 수익 규모 등 자세 한 사건 경위 를 조사 하 는 한편</a>
+</body>
+</html>

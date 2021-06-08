@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>쇼핑 센터 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 마리나 등 이 들어선 관광단지로 개발 될 예정 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '하늘 에서 바라본 경도 전경 .'</a>
+</body>
+</html>

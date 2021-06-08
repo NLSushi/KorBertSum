@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'여기 에 북한 이 호응 할 경우 평화 프로세스 는 더욱 탄력 을 받 을 전망 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['노르웨이 를 국빈 방문 중 인 문재 인 대통령 이 12 일 북 · 미간 조속 한 만남 을 촉구 한 가운데</a>
+<a name="3">[3]</a> <a href="#3" id=3>도널드 트럼프 미국 대통령 이 김정 은 북한 국무 위원장 이 보낸 친서 를 높이 평가 했 다 .'</a>
+</body>
+</html>

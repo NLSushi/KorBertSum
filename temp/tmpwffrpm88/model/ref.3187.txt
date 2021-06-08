@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'부산시 는 2019 년 상반기 내 로 ‘ 대형 폐기물 수수료 권고 안 ’ 을 마련 할 계획 이 라고 4 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 품목 별 로 한눈 에 비교 할 수 있 도록 정리 하 고 규격 도 단순 화 해 적정 가격 범위 를 제시 할 예정 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 도로 여건 등 지역 환경 도 영향 을 끼친다 .'</a>
+</body>
+</html>

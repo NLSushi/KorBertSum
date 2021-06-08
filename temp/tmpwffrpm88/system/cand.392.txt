@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['하반기 75 ∼ 80 달러 선 전망 국제 유가 가 상승세 를 지속 해 5 개월 만 에 최고 치 를 기록 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>지난 5 일 발표 된 미국 고용 지표 호조 등 이 이날 유가 상승 요인 으로 작용 한 것 으로 분석 됐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'석유 수출국 기구 ( opec ) 와 opec + 의 감산 지속 미국 의 이란 · 베네수엘라 제재</a>
+</body>
+</html>

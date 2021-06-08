@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>"mbc ' pd 수첩 ' 이 방산 업체 와 국방부</a>
+<a name="2">[2]</a> <a href="#2" id=2>국방 기술 품질 원 에 이르 기 까지 오랜 시간 지속 되 어 온 무기 납품 커넥션 을 정조준 한다 ."</a>
+<a name="3">[3]</a> <a href="#3" id=3>아니면 적 에게 먼저 보이 느냐 가 승부 를 가른다 .'</a>
+</body>
+</html>

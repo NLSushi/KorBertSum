@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'( 사진 = mbc ‘ 봄 이 오 나 봄 ’)'</a>
+<a name="2">[2]</a> <a href="#2" id=2>치명 적 인 매력 을 흩날리 며 방광 규 ( 김광규 분 ) 뿐 만 아니 라 시청자 들 까지 제대로 홀렸 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이날 방송 에서 는 사장 과 방광 규 의 첫 만남 이 그려졌 다 .'</a>
+</body>
+</html>

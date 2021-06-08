@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['치킨 + 생맥주 배달 허용 … 업계 에 기대감 ‘ 업 ’'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'최근 주세법 개정 으로 인해 배달 음식 과 생맥주 를 함께 주문 할 수 있 게 되 면서 치킨 · 족발 · 피자 집 을 운영 하 는 자영업 자 들 은 기대감 에 부풀 었 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'지역 치킨 · 피자 업체 등 매상 오를까 ‘ 반색 ’'</a>
+</body>
+</html>

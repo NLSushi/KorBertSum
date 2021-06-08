@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['경기 지역 금융 의 열악 한 실태 가 여실히 드러난 ( 본보 22 일자 1 면 ) 가운데 경기도 가 지역 금융 구축 을 위한 첫발 을 내딛 는다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'사회 가치 벤처 펀드 란 도 의 사회 적 경제 기금 을 상호 금융 기관 을 통해 사회 적 경제 기업 에 지원 하 는 것 이 다 .'</a>
+</body>
+</html>

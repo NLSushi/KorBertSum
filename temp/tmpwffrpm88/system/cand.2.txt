@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['삼성전자 는 ‘ 비스 포크 ( bespoke ) ’ 냉장고 에 적용 한 다양 한 색상 적용 한 클린 민트</a>
+<a name="2">[2]</a> <a href="#2" id=2>'삼성전자 는 직 화 오븐 신 제품 을 출시 한다고 1 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>클린 그레이 3 가지 색상 을 시작 으로 다음 해 에 는 핑크 와 화이트 등 을 추가 로 도입 할 예정 이 다 .'</a>
+</body>
+</html>

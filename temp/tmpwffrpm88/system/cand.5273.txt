@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['6 일 오후 1 시 40 분 쯤 대전시 유성구 대정동 인근 의 한 야산 에서 산불 이나 1 시간 50 여 분 만 에 진화 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이렇게 큰 규모 의 산림 이 4 월 들 어 불과 보름 동안 발생 한 112 건 의 산불 로 사라졌 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'축구장 ( 7140 ㎡) 2558 개 를 지 을 수 있 고</a>
+</body>
+</html>

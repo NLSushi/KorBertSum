@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['구민 의 화합 과 북구 발전 을 위해 모범 적 인 의정 활동 을 펼치 며</a>
+<a name="2">[2]</a> <a href="#2" id=2>주민 들 의 삶 의 질 향상 에 힘써온 양일 옥 광주 북구 의회 의원 ( 운암 1</a>
+<a name="3">[3]</a> <a href="#3" id=3>3 동 · 동림동 · 사진 ) 은 ‘ 풀뿌리 민주주의 ’ 실현 에 앞장서 고 있 다는 평 을 받 고 있 다 .'</a>
+</body>
+</html>

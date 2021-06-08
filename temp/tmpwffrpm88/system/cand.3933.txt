@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>러시아 · 독일 수출 판로 ‘ 활짝 ’'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'6 개 기업 참여 … 9 건 507 만 달러 수출 양해 각서 체결'</a>
+<a name="3">[3]</a> <a href="#3" id=3>바이어 기업 현장 방문</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['lg 화학 이 2 차 전지 관련 핵심 기술 등 영업 비밀 보호 를 위해 법 적 대응 에 나섰 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'lg 화학 은 29 일 ( 현지 시간 ) 미국 국제 무역 위원회 ( itc</a>
+<a name="3">[3]</a> <a href="#3" id=3>샘플 등 의 미국 내 수입 전면 금지 를 요청 하 는 한편 sk 이노베이션 의 전지 사업 미국 법인 ( skbattery america ) 소재지 인 델라웨어 지방 법원 에 영업 비밀 침해 금지 및 손해배상 청구 소송 을 제기 했 다 .'</a>
+</body>
+</html>

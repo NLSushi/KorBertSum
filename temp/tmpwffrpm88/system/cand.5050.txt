@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['두산 인프라 코어 는 인도네시아 국영 엔진 생산 기업 인 bbi 와 손잡고 동남아시아 의 엔진 신흥 시장 공략 을 위한 거 점 을 확보 했 다고 21 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'양사 는 앞 으로 13 년 동안 엔진 의 단순 · 부분 조립</a>
+</body>
+</html>

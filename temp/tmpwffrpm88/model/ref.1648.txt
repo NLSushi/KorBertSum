@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['인천시 가 최근 청 딱지 개미반날개 출현 에 따른 시민 들 의 불안감 해소 를 위해 예방 차원 의 방역 을 실시 한다고 14 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '일명 ‘ 화상 벌레 ’ 로 불리 는 청 딱지 개미반날개 는 주로 강둑 이나 논밭 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 썩 은 식물 등 습한 지역 에 서식 한다 .'</a>
+</body>
+</html>

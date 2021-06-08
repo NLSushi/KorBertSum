@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 보령 ] 보령시 는 2019 년 지역 사회 주말 행복 배움터 사업 을 운영 할 기관 · 단체 · 개인 을 오 는 25 일 까지 공개 모집 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'학생 선호 및 지역 특성 을 반영 하 고 지역 사회 와 연계 한 체험 활동</a>
+<a name="3">[3]</a> <a href="#3" id=3>'지난해 에 는 직접 만들 어 보 는 ( diy ) 생활 목공</a>
+</body>
+</html>

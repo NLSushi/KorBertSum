@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['경남 도 ( 도지사 김경수 ) 가 전국 최초 로 유해 · 분진 작업 중 소영 세사 업장 노동자 들 을 위한 ‘ 노동자 작업복 공동 세탁소 시범 설치 사업 ’ 을 본격 적 으로 추진 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>류 조환 민주 노 총경 남지 역본 부장</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이날 협 약식 에 는 김경수 도지사</a>
+</body>
+</html>

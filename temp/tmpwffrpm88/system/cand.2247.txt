@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>부산 한화 리조트 에서 열린 2019 년 지역 사회 한 의약 건강 증진 사업 성과 평가 에서 ' 내 피부 에 촉 !"</a>
+<a name="2">[2]</a> <a href="#2" id=2>"시 에 따르 면</a>
+<a name="3">[3]</a> <a href="#3" id=3>목욕 보습 관리 교육 등 을 진행 하 면서 아토피 피부염 의 한 의약 적 접근 과 아동 · 청소년 대상 한 의약 사업 이 라는 점 에서 좋 은 평가 를 받 았 다 ."</a>
+</body>
+</html>

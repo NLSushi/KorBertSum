@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['농촌 인구 감소 와 고령화 로 인한 일손 부족 에 시달리 고 있 는 전남 농가 가 드론 ( 무인 항공기 ) 을 활용 한 농사 에 적극 나서 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'올해 지역 농협 별 실적 을 보 면 나주 영산포 농협 이 303 ㏊ 로 가장 많 았 고 강진 농협 279 ㏊</a>
+<a name="3">[3]</a> <a href="#3" id=3>신안 도초 농협 117 ㏊</a>
+</body>
+</html>

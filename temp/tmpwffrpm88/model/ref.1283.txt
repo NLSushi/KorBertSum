@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'- 주말 영업 단속 때 충돌 가능 성'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '폐쇄 위기 에 놓였 던 부산 서구 구덕 골문 화장터 ( 국제 신문 지난해 2 월 13 일 자 10 면 보도 ) 가 결국 문 을 닫 는다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '상인 협의회 서철 수 총무 는 “ 시작 부터 상인 들 이 스스로 노력 해 장터 를 알렸 는데</a>
+</body>
+</html>

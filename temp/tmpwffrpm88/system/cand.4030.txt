@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대구 강림 초등 학교 ( 학교장 김규은 ) 는 새 마을문고 달성 지부 와 함께 지난달 16 일 오후 3 시 부터 송해 공원 에서 자연 과 함께 하 는 송해 공원 시 ( 詩 ) 낭송 회 에 참여 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>후속 행사 로 시낭 송 회 가 열린 것 이 다 .'</a>
+</body>
+</html>

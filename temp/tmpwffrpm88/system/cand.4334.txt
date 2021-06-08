@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['한 신대 학교 는 최근 도서관 4 층 에서 재학 생 의 취 창업 역량 강화 를 위해 마련 된 ‘ 에 이치 에스 메이커 스페이스 ( hs maker space ) ’</a>
+<a name="2">[2]</a> <a href="#2" id=2>'186 ㎡ 규모 의 공간 에 는 3 d 존</a>
+<a name="3">[3]</a> <a href="#3" id=3>그리고 ‘ 1 인 미디어 실 ’ 개소식 을 가졌 다고 17 일 밝혔 다 .'</a>
+</body>
+</html>

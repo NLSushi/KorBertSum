@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'올 연말 이 면 농협 은행 과 광주시 · 전남 도 교육청 의 금고 약정 계약 기간 이 만료 된다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '따라서 오 는 9 월 께 부터 ‘ 교육 금고 ’ 담당 이 던 농협 은행 과 시중 은행 들 간 에 ‘ 금고 유치 전쟁 ’ 이 치열 해질 전망 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '교육청 금 고 지 기 에 선정 되 면</a>
+</body>
+</html>

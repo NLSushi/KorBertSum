@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'- 승강기 산업 대표 도시 기반 다져'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['- 관련 법 강화 로 인증 중요 성 커져'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'거창군 은 남상면 일반 산업 단지 내 승강기 r & d 센터 에 승강기 안전 인증 연구원 ( 이하 연구원 ) 이 3 월 개소 해 승강기 의 안전 인증 업무 를 담당 한다고 31 일 밝혔 다 .'</a>
+</body>
+</html>

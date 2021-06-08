@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'지난 시즌 우승컵 을 든 두 팀 이 격돌 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'두 팀 모두 막강 한 화력 을 자랑 하 는 만큼 개막전 부터 난 타전 이 예상 된다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'대구 는 지난해 fa 컵 우승컵 을</a>
+</body>
+</html>

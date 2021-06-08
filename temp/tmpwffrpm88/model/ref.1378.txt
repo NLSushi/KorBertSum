@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>부산시 와 수소 융합 얼라이언스 등 공동 으로 주최'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '2 월 18 일 오후 2 시 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '수소 경제 시대 에서 의 조선 해양 산업 의 역할 및 기능 에 대한 이제명 교수 의 발제</a>
+</body>
+</html>

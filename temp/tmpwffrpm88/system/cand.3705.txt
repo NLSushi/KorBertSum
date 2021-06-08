@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['1980 년 5 · 18 민주 화 운동 당시 신 군부 주역 인 전직 대통령 의 엇갈린 행보 에 눈길 이 쏠리 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'노 전 대통령 의 장녀 노소영 아트 센터 나비 관장 은 최근 전남 대 병원 에 성금 을 기탁 했 다 .'</a>
+</body>
+</html>

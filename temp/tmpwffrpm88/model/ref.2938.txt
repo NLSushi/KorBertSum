@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['28 일 밤 11 시 에 방송 된 tvn ‘ 인생 술집 ’ 에 는 브라운관 부터 스크린 까지 점령 한 명품 배우 장현성 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '그 지역 에 출마 하 면 당선 될 것 ” 이 라고 덧붙여 현장 을 웃음바다 로 만들 었 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '송영규 는 류승룡 때문 에 운 적 이 있 다고 고백 해 이목 을 사로잡 았 다 .'</a>
+</body>
+</html>

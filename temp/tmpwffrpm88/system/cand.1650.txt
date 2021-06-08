@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['일본 반도체 핵심 소재 수출 규제 여파 로 이른바 ‘ 보이콧 재팬 ’ 여론 이 확산 되 면서 사실상 중단 됐 던 경기도 의 회의 일본 전범 기업 표식 부착 조례 제정 의 불씨 가 되살아날지 관심 이 다 .'</a>
+</body>
+</html>

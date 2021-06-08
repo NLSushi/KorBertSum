@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['정부 가 올해 전국 50 만 필지 의 표준지 공시지가 를 9 . 42 % 올린 가운데 의견 청취 건수 가 지난해 보다 50 % 가까이 급증 한 것 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>후폭풍 이 예상 된다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'지역 별 로 는 경기도 에서 가장 많 은 764 건 이 들어왔 고 뒤이 어 서울 ( 408 건 )</a>
+</body>
+</html>

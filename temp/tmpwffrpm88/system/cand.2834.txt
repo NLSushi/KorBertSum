@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['비닐봉지 · 종이컵 구매 는 감소 정부 의 일회용품 규제 에 ‘ 착한 소비 ’ 가 뜨 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'온라인 쇼핑 사이트 g 마켓 은 텀 플 러 와 장바구니 판매량 이 전년 대비 급증 했 다고 9 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>지난해 같 은 기간 보다 45 % 증가 했 다 .'</a>
+</body>
+</html>

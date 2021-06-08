@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['오산시 신장동 행정 복지 센터 와 오산 세교 로 타리 클럽</a>
+<a name="2">[2]</a> <a href="#2" id=2>저소득 홀몸 노인 등 복지 대상자 맞춤 형 복지 서비스 개발 및 제공 · 운영 등 에 상호 협력 하 기 로 했 으며</a>
+<a name="3">[3]</a> <a href="#3" id=3>'협약 을 맺 은 3 개 기관 · 단체 는 아동 및 한 부모 가정</a>
+</body>
+</html>

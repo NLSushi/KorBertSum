@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>수도 가 끊긴 열악 한 원룸 에서 생활 을 이 어 온 것 으로 드러났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['전북 에서 임차인 들 이 낸 수십억 원 의 보증금 을 호화 생활 로 탕진 한 임대 사업자 등 이 구속 기소 됐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'임대 사업자 가 관리비 를 받 고 도 공과금 조차 내 지 않 은 탓 에 피해자 들 은 가스 와 전기</a>
+</body>
+</html>

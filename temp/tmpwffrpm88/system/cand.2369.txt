@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['진도군 이 바다 정화 행사 를 개최 하 며 미리 쓰레기 를 뿌려 놓 은 것 으로 드러나 논란 이 일 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이날 행사 는 문성혁 해양수산부 장관 과 전남 도 부지사</a>
+<a name="3">[3]</a> <a href="#3" id=3>'참석자 들 은 해변 가득 쌓여 있 는 쓰레기 를 2 시간 여 동안 열심히 치웠 다 .'</a>
+</body>
+</html>

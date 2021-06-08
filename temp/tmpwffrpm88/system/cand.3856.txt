@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 는 지금 세계 수영 선수 권 대회 열기 가득'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'공항 · 송정리 역 등 곳곳 에 기념 조형물 등장'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'시민 들 “ u 대회 이 어 성공 개최 저력 보여 주 자 ”'</a>
+</body>
+</html>

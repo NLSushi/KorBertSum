@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['그룹 방탄소년단 이 한국 가수 최초 로 국제 음반 산업 협회 에서 선정 한 ‘ 글로벌 앨범 톱 10 ’ 에 올랐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>방탄소년단 은 ‘ love yourself 結 ‘ answer ’’ 와 ‘ love yourself 轉 ‘ tear ’’ 로 글로벌 앨범 차트 2</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이 차트 에서 한국 가수 가 톱 10 에 선정 된 것 은 방탄소년단 이 최초 이 다 .'</a>
+</body>
+</html>

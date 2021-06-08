@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>구심점 없 어 조직 와해 될 지경 ”'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '정부 와 정책 공조 등 연결 고리 없 어 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '광양 지역 위 는 지난 7 월 중앙당 조직 강화 특별 위원회 ( 조강 특위 ) 로부터 7 곳 의 타 지역 위 와 함께 사고 지역 위원회 로 지정 됐 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['용인 지역 에 있 는 산 을 등산 하 면서 산 이 병들 지 않 게 묵묵히 청소 를 하 는 사람 들 이 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'의사 로부터 많이 걸어다니 라는 조언 을 들 은 황 회장 은 등산 을 시작 했 고</a>
+<a name="3">[3]</a> <a href="#3" id=3>'용인 ‘ 숲사랑 연합회 ’ 가 그 주인공 .'</a>
+</body>
+</html>

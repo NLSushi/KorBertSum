@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['올해 들 어 광주 지역 부동산 실 거래 가 위반 이 폭 증한 것 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>2 배 이상 늘어났 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>경북 1198 건 순 이 었 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['자유 한 국당 주광덕 의원 ( 남양주 병 ) 은 29 일 정부 의 예비 타당 성 조사 면제 사업 발표 와 관련</a>
+<a name="2">[2]</a> <a href="#2" id=2>“ 균형발전 을 빙자 한 역차별 과 포퓰리즘 을 강력 규탄 한다 ” 고 비판 했 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>동 행정 복지 센터 등 은 모바일 홈페이지 가 구축 되 지 않 는 상태 였 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['안양시 는 시 홈페이지 ( www . anyang . go . kr ) pc 와 모바일 버전 을 하나 로 통합 해 서비스 를 제공 하 고 있 다고 6 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'모바일 대중 화 에 부합 하 고 시민 중심 의 소통 을 강화 한 것 이 특징 이 다 .'</a>
+</body>
+</html>

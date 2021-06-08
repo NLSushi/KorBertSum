@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'홍승남 기자 nam 1432 @ kihoilbo . co . kr'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '내년 4 · 15 총선 에 나설 경기 도 내 출마 예정자 들 이 일제히 예비 후보 로 등록 하 면서 120 일 간 의 본격 적 인 총선 레이스 에 돌입 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 무 소속 1 명 이 다 .'</a>
+</body>
+</html>

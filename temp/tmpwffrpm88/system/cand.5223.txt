@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['지난해 11 월 부터 73 일 진행'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'광주 에서 진행 된 ‘ 사랑 의 온도 탑 ’ 이 얼 어 붙 은 경제 때문 인지 8 년 만 에 목표 모 금액 을 달성 하 지 못했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'전남 수은주 100 도 달성'</a>
+</body>
+</html>

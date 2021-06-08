@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['“ 야외 활동 시 야생 진드기 조심 하 세요 ”'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'전남 함평 군청 전경 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'최근 제주 에서 야생 진드기 에 물려 감염 된 중 증열 성 혈소판 감소 증후군 ( sfts ) 환자 가 올해 처음 발생 되 는 등 야생 진드기 매개 감염병 이 전국 에서 성행 하 고 있 다 .'</a>
+</body>
+</html>

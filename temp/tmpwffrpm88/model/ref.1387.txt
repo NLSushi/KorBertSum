@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'파세코 의 ‘ 파세코 창문 형 에어컨 ( 이하 창문 형 에어컨 ) ’ 이 하 이마트 를 시작 으로 올 여름 오프라인 시장 공략 에 나선다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '지난 12 일 부터 하 이마트 주요 매장인 서울 대 치점 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 압구정 점</a>
+</body>
+</html>

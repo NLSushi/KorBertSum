@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'사진 은 구미 금오 랜드 빙상 장 에서 열린 초등 부 저학년 예선전 모습 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> d 4 개 조 로 나뉘 어 토너먼트 진출 을 위해 싸운다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '초등 부 ( 저학년 · 고학년 ) 와 중 등 부 결승 은 3 일 진행 된다 .'</a>
+</body>
+</html>

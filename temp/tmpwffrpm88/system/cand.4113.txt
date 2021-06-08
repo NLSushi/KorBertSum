@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주시 는 세계 수영 대회 에 참가 한 선수단 과 관광객 들 을 위해 대회 협력 여행사 들 과 함께 광주 의 매력 을 담 은 다양 한 관광 상품 을 출시 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'k - pop 댄스 체험</a>
+<a name="3">[3]</a> <a href="#3" id=3>'광주 의 대표 적 쇼핑 거리 인 충장 로</a>
+</body>
+</html>

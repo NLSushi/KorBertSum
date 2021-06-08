@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'비리 신고 를 유형 별 로 보 면 유치원 회계 관리 와 급식 안전 문제</a>
+<a name="2">[2]</a> <a href="#2" id=2>['교육부 의 유치원 비리 신고 센터 에 100 일 만 에 250 건 에 달하 는 비리 신고 가 접수 됐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>인사 문제 가 중복 된 ‘ 혼합형 ’ 신고 가 75 건 으로 가장 많 았 다 .'</a>
+</body>
+</html>

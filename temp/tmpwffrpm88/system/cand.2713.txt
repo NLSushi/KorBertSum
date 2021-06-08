@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['어렸 을 때 남자 아이 들 중 구슬치기 를 안 해 본 사람 은 없 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'구슬치기 는 1936 년 도 에 일본 에서 들어온 놀이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'그 속 에 유리 로 된 구슬 을 넣 어 판매 하 면서 1897 년 에 는 그 구슬 이 아이 들 의 놀이 도구 로 보급 돼 구슬치기 놀이 가 시작 됐 다 .'</a>
+</body>
+</html>

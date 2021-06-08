@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['가족 경조사 등 을 이유 로 민간 공인 자격 시험 에 응시 하 지 못했 을 때 증빙 자료 를 제출 하 면 응시 수수료 를 돌려받 을 수 있 게 된다 .'</a>
+</body>
+</html>

@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['고양 · 오산 · 시흥 · 양주 등 경기도 내 4 개 지자체 의 시설 관리 공단 이 공기업 평가 에서 최상위 등급 인 ‘ 가 ’ 등급 으로 평가 됐 다 .'</a>
+</body>
+</html>

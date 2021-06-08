@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['유류 세 한시 적 인하 조치 가 끝나 고 원래 대로 돌아간 첫날 인 1 일 전국 기름 값 이 곧바로 반등 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'광주 는 ℓ 당 1 천 483 . 35 원 으로 전날 보다 8 . 65 원 올랐 고</a>
+<a name="3">[3]</a> <a href="#3" id=3>전남 도 전날 보다 7 . 87 원 오른 1 천 493 . 10 원 이 었 다 .'</a>
+</body>
+</html>

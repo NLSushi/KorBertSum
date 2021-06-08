@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['“ 국가인권위 시정 권고 에 도 현대제철 비정규직 차별 여전 ”'</a>
+<a name="2">[2]</a> <a href="#2" id=2>노동부 에 근로 감독 청원'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'금속 노조 현대제철 비정규직 지회</a>
+</body>
+</html>

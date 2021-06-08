@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'동두 천고 가 제 49 회 회장 배 전국 남녀 스피드 스케이팅 대회 남자 고등 부 종합 에서 2 연패 를 달성 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '김기문 총감독 이 이끄 는 동두천 고 는 4 일 서울 태릉 국제 스케이트장 에서 막 을 내린 대회 남 고 부 종합 에서 금메달 2 개 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 은메달 1 개</a>
+</body>
+</html>

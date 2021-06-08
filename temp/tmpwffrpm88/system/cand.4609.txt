@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>산업 통상 자원 부 에너지 자원 실장 등 참석자 들 이 비전 선포 를 알리 는 퍼포먼스 를 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>여수 시청 서 수소 경제 선도 비전 선포 식 가져'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'동부 권 · 중부 권 · 서부 권 권역 별 로 중점 육성 키로'</a>
+</body>
+</html>

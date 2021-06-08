@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이 는 환자 의 개인 신상 이 담겨 있 는 의료 차트 를 확인 하 지 않 은 간호사 와 담당 의사 의 1 차 적 인 실수 이 자 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '전문가 들 에 따르 면 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '피해자 들 이 겪 고 있 는 산부인과 의료 사고 의 피해</a>
+</body>
+</html>

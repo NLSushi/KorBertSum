@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['황 인옥 소수 를 향한 외침 … 진실 향한 몸부림 … 연극 저항 집단 백치 들 이 2019 해외 극작 가전 의 첫 작품 으로 연극 ‘ 민중 의 적 ’ 을 공연 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'백치 들 은 지금 까지 ‘ 햄릿 ’ 등 의 번역극 에 백치 들 의 색깔 을 입혀 왔 다 .'</a>
+</body>
+</html>

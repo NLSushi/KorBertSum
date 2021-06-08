@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>50 대 이상 1 인 가구 대상 iot 안심 led 센서 등 감지기 설치 정서 지원 프로 운영 · 가정 방문 도'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'사진 은 연수 · 세화 종합 사회 복지 관 에서 홀몸 노인 을 대상 으로 정서 지지 프로그램 을 운영 하 는 모습 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'구 는 9 월 부터 연말 까지 고독사 예방 프로젝트 인 ‘ 고 독 zero 연수 구 ! ’ 를 추진 한다고 18 일 밝혔 다 .'</a>
+</body>
+</html>

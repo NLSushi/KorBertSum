@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'여름 방학 과 휴가 시즌 을 맞 아 안경 과 렌즈 에 이별 을 고하 기 로 마음먹 었 다면 라식 과 라섹 중 어떤 것 이 내게 맞 는 수술 방법 인지</a>
+<a name="2">[2]</a> <a href="#2" id=2>['▲ 김학철 연수 김안 과 대표 원장'</a>
+<a name="3">[3]</a> <a href="#3" id=3>부작용 걱정 없이 안 전한 시력 교정 수술 을 받 으려면 어떻게 해야 할지 궁금 한 점 이 많 을 것 이 다 .'</a>
+</body>
+</html>

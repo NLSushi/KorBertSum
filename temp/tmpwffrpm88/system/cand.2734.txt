@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['타다 이용 방법 에 관심 이 높 아 지 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'15 일 서울 광화문 광장 에서 차량 공유 서비스 퇴출 을 촉구 하 는 대 규모 집회 가 열리 면서 ‘ 카카오 카풀 서비스 ’</a>
+<a name="3">[3]</a> <a href="#3" id=3>‘ 타다 ’ 등 의 이용 방법 이 덩달 아 눈길 을 끌 게 됐 다 .'</a>
+</body>
+</html>

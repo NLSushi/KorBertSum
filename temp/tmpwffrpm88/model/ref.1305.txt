@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['플랫 폼 게임 기업 카카오 게임즈 는 21 일 중국 텐센트 와 konami 에서 공동 으로 개발 하 고 있 는 신작 모바일 ‘ 콘트라 : 리턴즈 ’ 를 처음 으로 공개 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '‘ 콘트라 : 리턴즈 ’ 는 1980 년 대 오락실 게임 의 최 강자 로 불렸 던 ‘ 콘트라 ’ ip ( intellectual property </a>
+<a name="3">[3]</a> <a href="#3" id=3> '또 화려 한 총기 액션 및 시원 한 타격 감 을 선사 하 면서 스테이지 를 돌파 하 는 형식 의 pve ( player vs environment ) 모드 와 경쟁 의 묘미 가 강점 인 실시간 대결 콘텐츠 인 pvp ( player vs player ) 모드 를 갖췄 다 .'</a>
+</body>
+</html>

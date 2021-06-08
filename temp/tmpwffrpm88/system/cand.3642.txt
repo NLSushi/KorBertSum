@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'“ 5 · 18 을 미래 발전 동력 으로 승화 ”'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이용섭 < 사진 > 광주 시장 이 지난 10 일 ‘ 문재인 대통령 취임 2 년 에 즈음 하 여 ’ 라는 제목 으로 문 대통령 에게 보내 는 서한문 을 공개 해 눈길 을 끌 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>미래 비전 등 을 진솔 하 게 제시 했 다 .'</a>
+</body>
+</html>

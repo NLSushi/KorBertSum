@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'사진 은 구미 금오 랜드 빙상 장 에서 열린 초등 부 저학년 예선전 모습 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'초등 부 고학년 예선전 이 펼쳐지 는 1 ~ 2 일 은 16 개 팀 이 a</a>
+<a name="3">[3]</a> <a href="#3" id=3>'토너먼트 에 는 각 1</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>이달 중순 복수 직 서기관 승진 인사 단행'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'일반 승진 25 명 · 특별 승진 5 명 등 30 명 안팎 전망'</a>
+<a name="3">[3]</a> <a href="#3" id=3>작년 하반기 승진 자 배출 실패 만회 주목'</a>
+</body>
+</html>

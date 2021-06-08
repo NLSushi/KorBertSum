@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'“ 여름 피 서 남원 으로 오 세요 . ”'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'지리산 정령 치 전경 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'최근 30 도 에 육박 하 는 기온 을 보이 며 여름 이 일찍 찾아왔 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'수원시 는 18 일 오후 2 시 시청 중 회의실 에서 ‘ 2019 수원시 평생 학습 포럼 ’ 을 열 고 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 평생 학습 활성 화 방안 을 모색 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '평생 학습 전문가</a>
+</body>
+</html>

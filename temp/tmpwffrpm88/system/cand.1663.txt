@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['방역 멈춘 군 과 달리 강화 · 초지 대교 와 가까운 김포시 에서 방역 실시'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'강화대교 입구 에서 돼지 열병 소독 방역 작업 을 지속 하 고 있 는 김포시 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>김포시 는 여전히 이 들 대교 입구 에서 방역 을 계속 해 관광객 들 과 주민 들 에게 피해 를 주 고 있 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['- 활동 지원 제도 의 제대로 된 인정 조사 와 생활 시간 보장 촉구 기자 대구 지역 장애 인 단체 가 18 일 ‘ 장애 인 활동 지원 인정 조사 및 심의 ’ 재 조사 촉구 를 위한 집회 를 열 었 다 .'</a>
+</body>
+</html>

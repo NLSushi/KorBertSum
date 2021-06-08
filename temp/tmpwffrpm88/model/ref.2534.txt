@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'고흐 를 더 극 적 으로 만든 것 은 스스로 왼쪽 귀 를 자른 사건 과 자신 의 몸 에 총 을 쏘 아 결국 서른 일곱 의 나이 에 세상 을 떠나 게 된 미스터리 한 죽음 때문 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '미국 작가 데보라 하일 리그 먼 이 쓴 ‘ 빈센트 그리고 테오 ’ 는 다른 각도 에서 쓴 평전 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '화상</a>
+</body>
+</html>

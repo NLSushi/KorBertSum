@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'키움 이 9 일 오후 2 시 잠실 구장 에서 lg 트윈스 와 준 플레이오프 ( 준 po · 5 전 3 승제 ) 3 차 전 을 치른다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '안방 에서 열린 1 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '이 어 주 효상 이 2 루수 앞 으로 땅볼 을 날렸 고</a>
+</body>
+</html>

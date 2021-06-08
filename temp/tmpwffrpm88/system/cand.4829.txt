@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'민 교수 가 1 차 투표 에서 과반 에 성공 하 면서 결선 투표 는 치러 지 지 않 았 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'선거인 은 구성원 별 비율 을 반영 해 교수 622 명</a>
+<a name="3">[3]</a> <a href="#3" id=3>['조선 대학교 제 17 대 총장 선거 에서 민영돈 ( 61 ) 의학 과 교수 가 당선 했 다 .'</a>
+</body>
+</html>

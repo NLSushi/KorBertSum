@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['mbc 예능 프로그램 ‘ 킬 빌 ( target : billboard - kill bill </a>
+<a name="2">[2]</a> <a href="#2" id=2> 어디 로 튈지 모를 서바이벌 결과 가 시청자 들 의 궁금증 을 극대 화 시키 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '연이 어 일어난 이변 으로 ‘ 킬 빌 ’ 의 최종 왕좌 의 주인공 과 탈락자 들 의 정체 를 함부로 예측 할 수 없 게 된 상태 다 .'</a>
+</body>
+</html>

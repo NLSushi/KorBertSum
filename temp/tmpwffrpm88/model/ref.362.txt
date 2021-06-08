@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['lg 전자 가 국내 기업 가운데 처음 으로 자동차 부품 소프트웨어 분야 의 국제 표준 단체 인 ‘ 오 토사 ( autosar </a>
+<a name="2">[2]</a> <a href="#2" id=2> 'lg 전자 는 2017 년 오 토사 가입 과 동시 에 프리미엄 파트너 자격 을 획득 한 이후 오 토사 의 표준 플랫 폼 개발 에 앞장서 온 공로 를 인정받 아 상위 등급 으로 올라섰 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 디 벨 롭 먼 트 ( development )</a>
+</body>
+</html>

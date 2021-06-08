@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>취업 으로 연계 경 일 대 패션 디자인 전공 학생 6 명 이 최근 독일 베를린 박람 회장 ( messe berlin ) 에서 열린 세계 최대 규모 의 ‘ 아시아 패션 의류 박람회 ( asia apparel expo ) ’ 에 참가 하 고 돌아왔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'한국 을 대표 해 국내 대학 중 에서 유일 하 게 초청 받 은 학생 들 의 작품 은 바이어 들 로부터 디자인 과 편리 성 에서 호평 을 받 으며 아시아 패션 의 우수 성 을 과시 했 다 .'</a>
+</body>
+</html>

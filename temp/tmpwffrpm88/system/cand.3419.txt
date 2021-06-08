@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'8 일 방송 에서 는 깜짝 초대 를 받 은 청춘 들 이 문경 으로 속속들이 모인다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>"' 불타 는 청춘 ' 의 시무식 이 경상북도 문경 에서 열렸 다 ."</a>
+<a name="3">[3]</a> <a href="#3" id=3>'청춘 들 은 레드카 펫 대신 불청 표 멍석 카펫 을 직접 준비 했 다 .'</a>
+</body>
+</html>

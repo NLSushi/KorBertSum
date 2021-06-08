@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>미르 가 금메달 을 목 에 걸 고 환하 게 웃 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '주인공 은 강보라 ( 성주 여고 3 학년 ) - 강미 르 ( 성주 여고 1 학년 ) 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '강보라 는 7 일 고려대 화정 체육관 에서 열린 태권 도 여자 고등 부 53 ㎏ 급 에서 금메달 을 차지 했 다 .'</a>
+</body>
+</html>

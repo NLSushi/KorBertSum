@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>세계 수영 대회 대비 생물 테러 현장 훈련'</a>
+<a name="2">[2]</a> <a href="#2" id=2>11 개 기관 90 여 명 참여'</a>
+<a name="3">[3]</a> <a href="#3" id=3>광산구 보건소 가 주관 하 는 이번 훈련 은 광주 시소 방 안전 본부 119 특수 구조 단</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['인공지능 ( ai ) 이 교통사고 현장 사진 을 인식 해 수리비 견적 을 내 는 시스템 이 빠르 면 올해 하반기 부터 시작 된다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'보험 개발 원은 ai 기반 자동 차견 적 시스템 ‘ aos 알파 ’ 개발 에 들어갔 다고 7 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>해당 부품 의 손상 인식 정확도 는 81 % 로 측정 됐 다 .'</a>
+</body>
+</html>

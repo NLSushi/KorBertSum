@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 복면 가왕 ’ 황금 돼지 켄정</a>
+<a name="2">[2]</a> <a href="#2" id=2>밀젠코 등 역대 출연 외국인 스타 는 ?'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'특히 “ 완벽 한 뮤지션 이 등장 했 다 ” “ 할리우드 냄새 가 난다 ” 라는 평 이 나오 면서 ‘ 황금 돼지 ’ 가 할리우드 스타 가 아니 냐는 추측 이 이어지 고 있 다 .'</a>
+</body>
+</html>

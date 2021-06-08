@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'대파 막창 ? 오리 ?'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['지난달 옥곡면 에서 중마동 이전 … 아버지 의 대 를 잇 는 맛'</a>
+<a name="3">[3]</a> <a href="#3" id=3>더 많 은 손님 들 과 가까워 지 도록 지난달 중마동 으로 이전 했 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'- 정의선 “ 사고 · 업무 방식 바꿔야 ”'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['- 신동빈 “ 고객 기대 뛰어넘 어야 ”'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'- 구광모 “ 고객 위한 가치 창조 를 ”'</a>
+</body>
+</html>

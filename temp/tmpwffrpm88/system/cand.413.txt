@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'전라남도 교육청 이 전남 학생 들 을 4 차 산업 혁명 시대 창 의 융합 인재 로 이끌 ‘ 소프트웨어 ( sw ) 교육 체험 센터 ’ 를 구축 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'9 월 까지 목포 · 순천 · 나주 도'</a>
+</body>
+</html>

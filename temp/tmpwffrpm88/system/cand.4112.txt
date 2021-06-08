@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['백남준 아트 센터 가 올 한 해 풍성 한 프로그램 을 준비 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>미 디아 n 비디아 >( 가제 ) 展 은 백남준 의 실험 이 도달 하 고자 했 던 예술 적 지향 점 을 조명 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>백남준 에 대한 담론 을 펼치 는 국제 심포지엄 까지 다양 하 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>넥센 이 차례 로 2 ~ 4 위 를 꿰차 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'두산 이 정규 리그 1 위 로 한국 시리즈 진출 이 확실 시 되 는 가운데 sk 와 한화</a>
+<a name="3">[3]</a> <a href="#3" id=3>'삼성 라이온즈 가 ‘ 5 강 싸움 ’ 에서 살아남 을 수 있 을까 .'</a>
+</body>
+</html>

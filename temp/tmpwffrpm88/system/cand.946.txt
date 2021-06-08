@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['기자 상주시 의회 ( 의장 정재현 ) 는 지난달 29 일 의회 회의장 에서 의원 16 명 이 참석 한 가운데 상주시 신 성장 동력 발굴 을 위한 6 차 산업 연계 에 대한 특강 을 실시 했 다 .'</a>
+</body>
+</html>

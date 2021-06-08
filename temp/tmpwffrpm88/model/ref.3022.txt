@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['경북 테크노 파크 ( 원장 이재훈 ) 가 수행 하 는 경북 국가 혁신 클러스터 지원 사업 ( 비 r & d ) 1 단계 1 차년 도 가 지난 3 월 말 종료 되 면서 이 사업 은 이달 부터 2 차년 도 에 돌입 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '비 r & d 지원 사업 은 시제품 제작 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 혁신 주체 간 네트 워킹 활동 지원</a>
+</body>
+</html>

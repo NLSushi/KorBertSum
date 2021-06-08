@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'지자체 와 소방서 는 관내 시장 업주 들 의 안전 의식 을 고취 시키 고 점검 및 계 도 활동 에 분주 하 게 움직이 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 가스 등 의 해당 분야 별 공무원 으로 특별 반 을 구성 해 실시 했으며 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 자동 화 재 탐지 설비 관리 가 미흡 함 에 따라 단선 회로 수리 통보</a>
+</body>
+</html>

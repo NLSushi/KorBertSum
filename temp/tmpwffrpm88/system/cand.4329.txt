@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>["충북 도 가 어제 오 는 2030 년 까지 5 조 5000 억 원 을 투입 하 는 ' 바이오 · 헬스 산업 발전 전략 ' 을 내놨 다 ."</a>
+<a name="2">[2]</a> <a href="#2" id=2>증평 · 괴산 ( 유기농 )</a>
+<a name="3">[3]</a> <a href="#3" id=3>도비 3533 억 원</a>
+</body>
+</html>

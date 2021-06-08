@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'경남 양산시 상북면 석계 일반 산업단지 가 지난달 말 준공 됐으나 산단 과 국도 를 연결 하 는 주 진 · 출입 로 가 개통 되 지 않 아 큰 혼란 이 빚어지 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['- 화물차 주택가 질주 해 사고 까지'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'- 뒷짐 진 양산시 “ 곧 개통 될 것 ”'</a>
+</body>
+</html>

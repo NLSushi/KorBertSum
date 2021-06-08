@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>모바일 로 아파트 등기 열람'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'광주은행 ( 은행장 ) 송종욱 은 오 는 28 일 부터 모바일 웹 뱅킹 ( 모바일 포탈 에서 광주은행 검색 ) 을 통해 ‘ 아파트 등기 열람 서비스 ’ 를 제공 한다고 26 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'편리 한 금융 정보 연계 제공'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['국가 5 산업단지 최적지 강조 수도 권 총량 제 준수 요구 도 구미시 장세용 시장 은 지난 25 일 경북 도 전우헌 경제 부지사 와 함께 청와대 비서실</a>
+<a name="2">[2]</a> <a href="#2" id=2>협조 를 당부 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이날 장 시장 은 청와대 비서실 에서 강기정 정무 수석</a>
+</body>
+</html>

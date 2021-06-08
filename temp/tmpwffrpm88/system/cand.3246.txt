@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'hk + 사업 은 대학 내 인문학 연구소 의 집중 육성 을 통해 인문학 연구 인프라 를 구축 하 고</a>
+<a name="2">[2]</a> <a href="#2" id=2>['조선 대학교 인문학 연구원 이 ‘ 동아시아 재난 의 기억</a>
+<a name="3">[3]</a> <a href="#3" id=3>'조선대 인문학 연구원 은 지난 5 월 교육부 와 한국연구재단 의 재원 으로 이뤄지는 이 사업 에 최종 선정 된 바 있 다 .'</a>
+</body>
+</html>

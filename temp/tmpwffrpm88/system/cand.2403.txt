@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'작품 을 처음 접한 이 에게 는 영락없 는 포르노 성 그림 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['네덜란드인 들 에게 자유 와 독립 의 아이콘 이 된 그림 이 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이 작품 은 성 스러운 인간 정신 의 아름다움 을 표현 한 성화 ( 聖 畵 ) 다 .'</a>
+</body>
+</html>

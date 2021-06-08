@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'추성훈 은 아 길란 타니 ( 말레이시아 ) 와 맞붙 는다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>6 월 종합 격투기 복귀전 … 하와 이 서 훈련'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'지난 연말 계약 한 one championship 데뷔 전 이 기 도 하 다 .'</a>
+</body>
+</html>

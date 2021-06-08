@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'지난 13 일 향 아 식당 에서 열린 정기 총회 에서 는 임원 선출 을 비롯 해 2017 년 도 결산 및 2018 년 도 사업 계획 ( 안 ) 을 승인 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>부지 회장 에 는 박근식 한국 음악 협회 전 당진 지부장</a>
+<a name="3">[3]</a> <a href="#3" id=3>'임원 선출 로 는 지회 장 에 임세 광 시인 이</a>
+</body>
+</html>

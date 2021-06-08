@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['국가 산단 이 위치 한 전국 의 20 개 지방 정부 가 ‘ 국가 산업단지 상생 발전 을 위한 지방 정부 협의회 ’ 를 출범 시켰 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'총회 에서 는 김윤식 경기도 시흥 시장 이 회장 으로</a>
+<a name="3">[3]</a> <a href="#3" id=3>주철현 여수 시장 이 부회장 으로 선임 됐 다 .'</a>
+</body>
+</html>

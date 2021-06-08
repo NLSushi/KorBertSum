@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>2 루 루 상 에서 삼성 김상수 가 쥔 볼 을 잡 으며 태그 아웃 당하 면서 서로 쑥스럽 게 웃 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '삼성 라이온즈 제공'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '2 연패 에 빠진 삼성 은 시즌 8 승 13 패 째 를 기록 했 다 .'</a>
+</body>
+</html>

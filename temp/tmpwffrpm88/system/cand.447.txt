@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>2017 년 11 월 ‘ 512 gb eufs 2 . 1 ’ 을 발표 했 고</a>
+<a name="2">[2]</a> <a href="#2" id=2>['삼성전자 가 세계 최초 로 ‘ 테라바이트 ( tb ) 모바일 메모리 ( eufs ㆍ embedded universal flash storage ) 시장 을 연다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>불과 1 년 만 에 저장 용량 을 두 배 늘려 테라바이트 시대 를 열 었 다 .'</a>
+</body>
+</html>

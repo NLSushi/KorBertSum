@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['농경지 는 한 번 오염 되 면 원상 회복 이 거의 불 가능 하 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'게다가 오염 된 토양 에서 수확 한 농작물 은 식용 으로서 도 가치 를 상실 하 게 된다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'되돌린다 해도 장구 한 세월 과 막대 한 비용 이 소요 된다 .'</a>
+</body>
+</html>

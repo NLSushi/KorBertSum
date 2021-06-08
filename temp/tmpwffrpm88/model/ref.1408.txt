@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'필리핀 으로 수출 했 던 불법 폐기물 의 평택항 반입 ( 본보 2 월 7 일자 6 면 ) 과 관련 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 평택 직 할 세관 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 평택 컨테이너 터 미 날 ( 주 ) 등 에 따르 면 필리핀 으로 수출 했 다 평택항 으로 반입 된 불법 폐기물 1 천 211 t ( 컨테이너 51 개 분량 ) 에 대한 실태 조사 가 환경부</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대구 전세 가격 은 하락 전환 기자 대구 의 아파트 가격 이 5 주간 이어진 하락세 를 멈추 고 보합 으로 돌아섰 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'달서구 ( - 0 . 06 %) 는 내렸 고 정비 사업 호재 가 있 는 중구 와 남구 는 각각 0 . 12 %</a>
+<a name="3">[3]</a> <a href="#3" id=3>8 일 기준 ) 와 변동 없 는 0 . 00 % 를 기록 했 다 .'</a>
+</body>
+</html>

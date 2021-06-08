@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'김영선 광주 서구 의회 ( 화정 3 · 4 동 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 지역 주력 사업 의 활로 모색 과 함께 미래 먹거리 사업 에서 유리 한 위치 를 선점 할 수 있 는 발판 마련 이 무엇 보다 시급 하 다고 강조 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '그 는 “ 사통팔달 의 도로망 과 각종 대중교통 은 물론</a>
+</body>
+</html>

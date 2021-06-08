@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['전남 도 는 ‘ 낭 만 가득 남도 의 아름다운 섬 ’ 을 테마 로 보성 장도</a>
+<a name="2">[2]</a> <a href="#2" id=2>'섬 의 형태 가 노루 처럼 생겨 ‘ 장도 ’ 라 불린다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'보성 장도 는 전남 도의 ‘ 가 고 싶 은 섬 ’ 으로 지정 된 아름다운 곳 이 다 .'</a>
+</body>
+</html>

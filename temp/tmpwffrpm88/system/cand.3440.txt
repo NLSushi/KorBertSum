@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['들불 처럼 번지 는 ‘ 홍역 대란 ’ 에 백신 ( mmr ) 예방 접종 을 위한 보건소 ㆍ병원행 발길 이 늘 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'29 일 질병관리본부 와 보건 당국 에 따르 면 경기도 내 홍역 확진 자 는 지난달 1 일 부터 이날 까지 총 17 명 으로</a>
+<a name="3">[3]</a> <a href="#3" id=3>안 산 ㆍ부천ㆍ김포ㆍ화성 등 지역 에서 발생 했 다 .'</a>
+</body>
+</html>

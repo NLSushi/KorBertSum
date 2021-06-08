@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['옥탑방 의 문제 아들 에 나온 얼룩말 줄무늬 역할 에 대해 관심 이 뜨겁 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'실제로 얼룩말 은 거의 유일 하 게 자연 적 으로 체체파리 에 의한 감염 률 이 극도 로 낮 은 동물 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'실험 에 의하 면 얼룩말 의 줄무늬 가 체체파리 의 시야 를 흩 뜨 린 다 고 한다 .'</a>
+</body>
+</html>

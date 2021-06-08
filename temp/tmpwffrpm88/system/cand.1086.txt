@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['지난달 27 일 열린 ‘ 제 16 회 전국 장애 인 동계 체전 전남 선수단 해단식 ’ 에서 남 백 원 전남 도 장애 인 체육회 상임 부회장 이 전남 을 빛낸 선수 들 과 기념사진 을 찍 고 있 다 .'</a>
+</body>
+</html>

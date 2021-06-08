@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['지방 의원 의 갑 질 이 좀처럼 수그러들 지 않 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '이해충돌 금지 위반 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 보좌관 월급 착복 등 잊 을 만 하 면 터지 는 추태 로 인해 지역민 의 인내심 이 임계점 에 다 다르 고 있 다 .'</a>
+</body>
+</html>

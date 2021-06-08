@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>국무 회의 서 민 의 반영 된 정책 발굴 · 시행 등 강조'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이낙연 국무총리 는 5 일 문재인 정부 출범 반환점 을 맞 아 내각 의 새로운 마음가짐 을 주문 하 고 국민 의 성원 을 당부 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'그러나 과제 또한 많 다 .'</a>
+</body>
+</html>

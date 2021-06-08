@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'2017 년 대기 오염 물질 측정값 을 축소 하 거나 조작 한 측정 대행업체 는 전국 에 모두 39 곳 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '정부 는 지금 이 라도 국민 의 눈높이 에 맞 는 법체계 를 갖춰야 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '그 동안 우리 는 미세먼지 책임 의 상당 부분 을 중국 탓 으로 돌려 왔 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'제인 은 과연 이 사랑 을 지켜낼 수 있 을까 ?'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['4 년 간 일본 유학 을 마치 고 태국 으로 돌아온 제인 ( 야야 ) .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'자신 의 뭘 하 든 무신경 하 던 첫 은 이제 와 오빠 노릇 을 자청 하 며 제인 의 연애 를 방해 한다 .'</a>
+</body>
+</html>

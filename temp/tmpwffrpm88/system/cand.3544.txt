@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이날 1 만 원 권 200 만 장</a>
+<a name="2">[2]</a> <a href="#2" id=2>['성남 지역 화폐 인 지류 ‘ 성남 사랑 상품권 ’ 이 발행 13 년 만 에 새로운 디자인 으로 출시 된다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'새 상품권 은 휴대 하 기 간편 하 도록 종전 ( 15 . 7 ㎝ × 7 . 1 ㎝) 보다 크기 를 줄여 가로 14 . 8 ㎝</a>
+</body>
+</html>

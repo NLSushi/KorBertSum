@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['지난해 세 종시 간선 급행 버스 체계 ( brt ) 노선 이용객 수 가 운행 을 시작 한 이래 가장 많 은 것 으로 드러났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'세종 시의 brt 체계 는 지역 도로 특성 에 맞춰 타 도심 의 지하철 시스템 을 버스 에 운용 한 것 으로 전용도로 를 통해 목적지 까지 막힘 없이 갈 수 있 으며</a>
+<a name="3">[3]</a> <a href="#3" id=3>1001 번 3 개 brt 노선 이 운행 중 이 다 .'</a>
+</body>
+</html>

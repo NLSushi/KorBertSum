@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['동계 장애 인 체전 에 출전 하 는 전남 아이스하키 팀 이 광 양부 영빙 상장 에서 김대식 코치 의 지도 아래 구슬땀 을 흘리 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'전남 선수단 은 이번 장애 인 동계 체전 전국 10 위 권 진입 을 목표 로 알파인 스키</a>
+<a name="3">[3]</a> <a href="#3" id=3>'전남 장애 인 체육회 가 내달 12 - 15 일 강원</a>
+</body>
+</html>

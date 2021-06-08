@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['무등 현대 미술관 에서 ‘ 제 7 회 환경 미술 제 ’ 가 열리 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 바닥 에 깔 아 둔 문학열 작가 의 ‘ 공명 - 제의 ( 祭儀 ) ’ 는 신성 한 느낌 을 준다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> ‘ 자연 과 인간</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 2019 파주시 읍 · 면 · 동 시민 과 의 대화 ’ 가 31 일 성황리 에 마쳤 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'특히 ‘ 탈 권위</a>
+<a name="3">[3]</a> <a href="#3" id=3>주민 친화 적 ’ 분위기 조성 을 위해 불 필요 한 식순 과 과도 한 의전 등 기존 의 격식 을 과감히 버려 주민 들 로부터 호평 을 받 았 다 .'</a>
+</body>
+</html>

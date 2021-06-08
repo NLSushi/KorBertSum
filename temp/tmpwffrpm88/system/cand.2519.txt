@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 청주 ] 충북 도 는 올해 부터 지존 지적 위주 에서 문제 해결 형 감사 를 위한 사전 컨설팅 태 스 크 포스 ( tf ) 를 구성</a>
+<a name="2">[2]</a> <a href="#2" id=2>법무 혁신 담당관 실 변호사 등 18 명 으로 구성</a>
+<a name="3">[3]</a> <a href="#3" id=3>'사전 컨설팅 감사 는 도 본청 및 도내 11 개 시군</a>
+</body>
+</html>

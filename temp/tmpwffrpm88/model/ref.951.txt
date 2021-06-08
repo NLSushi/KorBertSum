@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'삼성전자 의 ‘ 2019 년 형 qled tv ’ 가 영국 · 독일 등 유럽 전역 에서 호평 을 받 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '영국 의 권위 있 는 제품 평가 전문지 트 러스티드 리뷰 ( trusted review ) 는 최근 삼성 qled 8 k tv ( 82 q 950 r ) 에 ‘ 적극 추천 ( highly recommended ) ’ 등급 을 부여 하 며 “ 8 k 해상도 에 놀라운 밝기 와 명암 비 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 색 표현 력 이 더해져 지금껏 본 적 없 는 최고 의 초대 형 tv ” 라고 언급 했 다 .'</a>
+</body>
+</html>

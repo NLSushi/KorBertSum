@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['10 개 군 · 구 행정 원문 공개 59 . 6 % 작년 比 8 . 5 % p ↓ 시민 알 권리 외면'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'사진 = 인천 시청 전경 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'올해 부터 기초 단체 행정 실적 평가 에서 도 원문 공개 항목 이 빠지 는 등 비 공개 관행 을 개선 하 겠 다던 민선 7 기 목표 에 도 역행 하 는 모양새 다 .'</a>
+</body>
+</html>

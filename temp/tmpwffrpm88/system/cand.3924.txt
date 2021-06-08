@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['수원시 는 ‘ 시민 의 눈 으로 본 소소 하 고 일상 적 인 우리 동네 모습 ’ 을 주제 로 다룬 사진 을 공모 한다고 17 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>사물 등 을 배경 으로 jpeg 파일 형태</a>
+<a name="3">[3]</a> <a href="#3" id=3>'일상 속 에서 마주 하 는 소소 한 감성 을 표현 하 는</a>
+</body>
+</html>

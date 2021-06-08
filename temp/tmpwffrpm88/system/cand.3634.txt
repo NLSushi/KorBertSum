@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['당진 지역 휘발유 평균 가격 은 1534 원</a>
+<a name="2">[2]</a> <a href="#2" id=2>67 원 씩 상승 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>경유 평균 가 는 1332 . 47 원 인 것 으로 나타났 다 .'</a>
+</body>
+</html>

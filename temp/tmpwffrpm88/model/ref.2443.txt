@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'일손 이 절실 한 순간 등장 한 조재윤 은 곧바로 실전 에 투입 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '그 는 설거지 부터 행주 삶 기 까지 꼼꼼 한 세척 본능 을 발휘 하 며 ‘ 인간 세척기 ’ 의 면모 를 과시 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '또한 손호준 은 핫초코 와 아이스 초코 를 2 일 차 신 메뉴 로 추가 했 고</a>
+</body>
+</html>

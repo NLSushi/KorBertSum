@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'롯데 백화점 광 주점 이 오 는 21 일 부터 30 일 까지 각종 와인 을 저렴 한 가격 에 살 수 있 는 와인 박람회 를 연다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>2019 년 첫 와인 박람회'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'최대 60 % 까지 저렴 하 게 판매'</a>
+</body>
+</html>

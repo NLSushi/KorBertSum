@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['중국 의료관광 큰손 들 ‘ 전남 대 병원 ’ 주목'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'정저우 대표 에이전시 등 전남 대치 과 병원 방문'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'광동 성 대표단 도 투어 … 진료 시스템 관심 보여'</a>
+</body>
+</html>

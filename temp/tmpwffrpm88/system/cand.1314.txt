@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'( 사진 = sbs ‘ 너 는 내 운명 ’)'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'그러나 전날 나무 를 심 느라 무리 한 상현 에게 몸살 기운 이 찾아왔 고 설상가상 으로 나 겸 이 까지 감기 로 복통 을 호소 하 며 시작 도 전 에 위기 를 맞 았 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>메이비 의 막내아들 희성 이 의 백 일 잔치 가 공개 된다 .'</a>
+</body>
+</html>

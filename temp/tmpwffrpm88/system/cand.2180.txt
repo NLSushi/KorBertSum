@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['당시 대구 교구 의 역할 재조명 대구 가톨릭 대 유스 티노 캠퍼스 성유 스티 노 성당 에서 열린 ‘ 3 · 5 만세 운동 기념 작 은 음악회 ’ 에서 참석자 들 이 태극기 를 흔들 며 “ 대한 독립 만세 ” 를 함께 외쳤 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'천주교 대구 대교구 조환길 대주교</a>
+</body>
+</html>

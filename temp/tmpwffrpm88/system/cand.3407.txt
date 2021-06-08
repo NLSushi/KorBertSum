@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['독일 기업 쿼츠 베르크 ( quarzwerke ) 가 지난달 23 일 송산 2 - 1 외국인 투자 지역 에 공장 을 설립 하 기 위한 기공식 을 진행 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'쿼츠 베르크 는 1900 만 불 ( 약 200 억 원 ) 을 투자 해 산업 용 광물 을 활용 한 전기 전자 소재</a>
+<a name="3">[3]</a> <a href="#3" id=3>'정제 해 세계 50 여 국가 에 판매 하 는 135 년 의 역'</a>
+</body>
+</html>

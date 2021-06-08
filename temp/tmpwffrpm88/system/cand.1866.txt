@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'영주시 기술 자문 위원회 는 건설 공사 의 타당 성 과 구조물 안전 및 공사 시행 적정 성</a>
+<a name="2">[2]</a> <a href="#2" id=2>건설 공사 설계 관련 심의 를 더욱 꼼꼼 하 게 진행 한다고 7 일 밝혔 다 . ( 사진 )'</a>
+</body>
+</html>

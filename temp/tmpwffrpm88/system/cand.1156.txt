@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주시 · 전남 도 교육청 이 한국 유치원 총 연합회 ( 한 유총 ) 의 개학 연기 선언 과 관련</a>
+<a name="2">[2]</a> <a href="#2" id=2>'전면 적 인 개학 연기 는 없 을 것 으로 보 면서 도 만일 에 생길 수 있 는 대 규모 돌봄 공백 을 우려 해 고심 하 는 모습 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>긴급히 대책 마련 에 들어갔 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>k - mooc 및 플립 드 러닝 교육 과정 을 담 은 k - mooc 소셜 벤처 강좌 공동 개발 프로젝트 데모 데이 를 건국대 계명 대 동신 대 교육부 한국연구재단 한국 청년 기업가 정신 재단 등 과 함께 중앙 대 본관 에서 가졌 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이날 ▲ 건국대 노영희 linc + 단장</a>
+<a name="3">[3]</a> <a href="#3" id=3>['동명 대 ( 총장 정홍섭 ) 는 2 월 20 일 성공 적 인 소셜 벤처 창업 을 위한 실무 개론</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'부모 와 아이 가 함께 하 는 책 읽 기 의 중요 성 과 필요 성 에 모두 가 공감 하 는 가운데 좋 은 책 은 어떤 책 인지 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '오 고 가 는 질문 과 대답 속 에서 단지 책 안 의 텍스트 에 갇힌 이야기 가 아니 라 학생 과 학부모 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 선생 님 이 함께 만들 어 가 는 이야기 가 완성 하 였 다 .'</a>
+</body>
+</html>

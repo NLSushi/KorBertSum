@@ -12,7 +12,8 @@ import signal
 import time
 
 import torch
-from pytorch_pretrained_bert import BertConfig
+#from pytorch_pretrained_bert import BertConfig
+from transformers import BertConfig
 
 import distributed
 from models import data_loader, model_builder
@@ -177,7 +178,8 @@ def validate(args,  device_id, pt, step):
             setattr(args, k, opt[k])
     print(args)
 
-    config = BertConfig.from_json_file(args.bert_config_path)
+    # config = BertConfig.from_json_file(args.bert_config_path)
+    config = BertConfig.from_pretrained('bert-base-multilingual-cased')
     model = Summarizer(args, device, load_pretrained_bert=False, bert_config = config)
     model.load_cp(checkpoint)
     model.eval()
@@ -204,7 +206,8 @@ def test(args, device_id, pt, step):
             setattr(args, k, opt[k])
     print(args)
 
-    config = BertConfig.from_json_file(args.bert_config_path)
+    # config = BertConfig.from_json_file(args.bert_config_path)
+    config = BertConfig.from_pretrained('bert-base-multilingual-cased')
     model = Summarizer(args, device, load_pretrained_bert=False, bert_config = config)
     model.load_cp(checkpoint)
     model.eval()

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이날 합덕 종합체 육관 의 38 명 의 선수 들 은 품새</a>
+<a name="2">[2]</a> <a href="#2" id=2>['▲ 지난 5 일 문화 체육관 광부 장관 상 제 12 회 전국 화 랑 대기 무예 대회 가 열린 가운데</a>
+<a name="3">[3]</a> <a href="#3" id=3>동 19 개 를 획득 했 다 .'</a>
+</body>
+</html>

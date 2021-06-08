@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['인천 서 민간 임대 주택 의무 기간 ( 8 년 ) 을 지키 지 않 고 매각 한 사례 가 5 년 간 44 건 으로 파악 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '1 건 당 과태료 가 1 천만 원 도 되 지 않 아 솜방망이 처벌 이 라는 지적 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 올해 ( 3 월 기준 ) 11 건 등 이 다 .'</a>
+</body>
+</html>

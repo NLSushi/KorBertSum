@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'< 시도 유형문화재 제 192 호 >'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'문화재 보호법 과 전남 도 조례 는 각각 문화재 주변 500 m 와 300 m 이내 를 보호 지역 으로 관리 토록 하 고 있 지만 해당 축사 는 문화 재 인접 2 m 거리 에 위치 해 담양군 의 축사 건립 허가 가 잘못 된 것 아니 냐는 지적 까지 나온다 .'</a>
+</body>
+</html>

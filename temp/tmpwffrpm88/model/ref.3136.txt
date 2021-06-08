@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'경기도 와 강원도 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 문화재청 이 비무장 지대 ( dmz ) 세계유산 남북 공동 등재 를 함께 추진 < 본보 6 월 25 일자 3 면 보도 > 하 기 로 합의 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '협약 에 는 dmz 세계유산 남북 공동 등재 와 관련 한 참여 기관 의 역할 과 협조 사항</a>
+</body>
+</html>

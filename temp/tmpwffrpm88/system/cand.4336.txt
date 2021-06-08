@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['무더위 를 넘 어 뜨거운 열기 가 가득 한 2019 광주 수영 선수 권 대회 경기장 현장 에서 선수 들 의 건강 을 책임지 는 현장 의사 ( fop ) 들 의 활약 이 눈길 을 끌 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'21 일 청연 에 따르 면 청연 한방 병원 과 수완 청연 요양 병원</a>
+<a name="3">[3]</a> <a href="#3" id=3>'경기장 최 일선 에 배치</a>
+</body>
+</html>

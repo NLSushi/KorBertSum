@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['걸 그룹 블랙 핑크 가 미국 유명 음악 축제 인 ‘ 코 첼라 페스티벌 ’ 에서 현지 관객 과 소통 하 며 폭발 적 인 반응 을 얻 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>팝 스타 두아 리파 와 협업 한 ‘ 키스 앤드 메이크업 ( kiss and make up ) ’</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이 어 데뷔 곡 ‘ 휘파람 ’</a>
+</body>
+</html>

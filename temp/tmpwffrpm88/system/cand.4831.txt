@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>실시간 으로 기상 · 강우 정보 알린다'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'앞 으로 전남 지역 의 기상 과 강우 정보 를 실시간 으로 접할 수 있 게 됐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'기존 에 는 기상청 운영 관측 장비 89 개 지점 에서 만 강우량 을 측정 했 기 때문 에 시군 내 에서 도 편차 가 심했 던 문제점 이 있 었 다 .'</a>
+</body>
+</html>

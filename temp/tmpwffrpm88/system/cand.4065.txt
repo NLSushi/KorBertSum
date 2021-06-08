@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['한전 공대 설립 광주 · 전남 범 시 도민 지원 위원회 ( 위원장 에너지 밸리 포럼 대표 이재훈 ) 가 한전 공대 설립 은 국가 와 지역 균형 발전 을 위해 반드시 추진 돼야 한다는 성명서 를 발표 했 다 .'</a>
+</body>
+</html>

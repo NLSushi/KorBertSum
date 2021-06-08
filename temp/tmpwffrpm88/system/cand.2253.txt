@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 광산구 의 부 적정 행정가 무더기 적발 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'시 감사 위원회 는 광산구 종합 감사 결과 를 20 일 시 홈페이지 에 공개 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'기부 금품 법 에 따라 지방 자치 단체 는 기부 금품 을 모집 하 거나 의뢰</a>
+</body>
+</html>

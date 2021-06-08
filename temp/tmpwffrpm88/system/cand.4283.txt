@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['- 옛 보림 극장 자리 … 193 가구'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'보림 극장 자리 에 지 어 지 는 ‘ 서면 베스티 움 더 시티 ’ 의 조감도 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'부산 의 대표 건설사 중 한 곳 인 ㈜ 동부 토건 이 자금 부담 이 적 은 소형 주택 분양 에 나선다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['▲ 사진 = 인천시 교육청 전경 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'또 이 의 제기 과정 에서 받 았 다는 인권 침해 주장 에 대한 조사 도 함께 진행 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'인천시 교육청 이 최근 불거진 교장 승진 순위 명부 문제 < 본보 7 월 23 일자 23 면 보도 > 에 대한 자체 감사 에 돌입 한다 .'</a>
+</body>
+</html>

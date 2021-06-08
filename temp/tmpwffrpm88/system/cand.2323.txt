@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['바른 미래 당 경북 도당 과 낙동 포럼 이 공동 주최 한 경북 지역 발전 정책 세미나 가 10 일 오후 2 시 경북 유교 문화 회관 4 층 대회 의 장 에서 열렸 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'중앙선 복선 전철 은 2020 년 청량리 - 안동 구간 이 개통 예정 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>지역 발전 위기 인가 ?'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이번 보고회 와 함께 본격 적 인 시작 을 알린 양주 테크노 밸리 는 양주시 남방동 및 마전동 일원 30 만 1 천 ㎡ 부지 에 조성</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이날 보고회 에 는 손 임성 경기도 도시 정책 관 과 이성호 양주 시장</a>
+<a name="3">[3]</a> <a href="#3" id=3>박재만 · 박태희 도 의원 등 20 여 명 이 참석 했 다 .'</a>
+</body>
+</html>

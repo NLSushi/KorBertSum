@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['일본 작가 요시모토 바나나 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 배우 최수영 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 다나카 슌스케 가 참석 한 가운데 영화 ‘ 막다른 골목 의 추억 ( 최현영 감독 ) ’ 의 언론 시사회 및 기자 간담회 가 25 일 서울 광화문 씨네 큐브 광화문 에서 열렸 다 .'</a>
+</body>
+</html>

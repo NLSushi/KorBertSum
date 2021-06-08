@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['지난 7 일 방송 된 jtbc ‘ 이규연 의 스포트라이트 ’ 에서 수많 은 의혹 의 중심지 인 강남 클럽 ‘ 버 닝 썬 ’ 을 조명 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '버 닝 썬 은 강남 클럽 중 그룹 빅뱅 멤버 승리 가 홍보 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '그러나 최근 버 닝 썬 은 각종 의혹 에 중심 에 섰 다 .'</a>
+</body>
+</html>

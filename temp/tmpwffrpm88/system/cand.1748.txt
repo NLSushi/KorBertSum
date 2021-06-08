@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['서울 현대 직업 전문학교 ( 서현 전 ) 가 ‘ 2019 서울 컵 대학 야구 대회 ’ 에서 우승 을 차지 해 눈길 을 끌 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이번 대회 에 는 전 프로 출신</a>
+<a name="3">[3]</a> <a href="#3" id=3>독립 리그 출신 의 쟁쟁 한 대학 야구팀 이 출전 해 열띤 경쟁 을 펼쳤으며</a>
+</body>
+</html>

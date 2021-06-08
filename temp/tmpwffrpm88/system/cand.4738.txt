@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 공유 교통 시대 가 온다 ] 중 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'/ 사진 = 수원시 제공'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'카셰어링 은 필요 한 시간 만큼 돈 을 지불 하 고 차 를 빌려 쓰 는 서비스 다 .'</a>
+</body>
+</html>

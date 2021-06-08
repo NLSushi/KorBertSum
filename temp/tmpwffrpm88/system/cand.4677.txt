@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['오픈 스퀘어 - d 대전 이 16 일 대전 창조 경제 혁신 센터 에서 개소 한 가운데 김부겸 ( 가운데 왼쪽 다섯 번 째 ) 행안 부 장관</a>
+</body>
+</html>

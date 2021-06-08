@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'경기도 자동차 560 만 시대 가 열렸 지만</a>
+<a name="2">[2]</a> <a href="#2" id=2>'17 일 도 에 따르 면 올해 2 월 기준 경기도 에 등록 된 자동차 는 564 만 1 천 689 대 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>하루 평균 9 천 건 의 불 법주 차 가 단속 되 는 것 으로 드러났 다 .'</a>
+</body>
+</html>

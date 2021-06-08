@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'올해 결혼 후 두 번 째 설 을 보낸 조모 ( 여 · 33 · 대구 달성군 유가 읍 ) 씨 는 7 일 오전 몸 이 무거워 평소 보다 30 분 늦 게 일어나 출근 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['정 은 빈 길 었 던 명절</a>
+<a name="3">[3]</a> <a href="#3" id=3>'연휴 다음 날 에 는 오히려 더 큰 피로감 을 호소 하 는 경우 가 잦 은데 특히 운전</a>
+</body>
+</html>

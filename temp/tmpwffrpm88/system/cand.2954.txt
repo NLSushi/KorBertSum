@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>미세먼지 등 으로 인해 더욱 건조 해 지 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['[ 기호일보 = 디지털 뉴스 부 ] 겨울 이 되 면서 히터 의 바람</a>
+<a name="3">[3]</a> <a href="#3" id=3>'실내 가 건조 하 면 기관지</a>
+</body>
+</html>

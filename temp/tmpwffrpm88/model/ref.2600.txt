@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>"</a>
+<a name="2">[2]</a> <a href="#2" id=2> '이 에 시우민 은 김밥 을 먹이 려는 최강창민 의 고군분투 에 눈시울 을 붉혔 다는 후문 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '승부 욕 을 장전 하 고 눈꽃 슛 을 연발 하 는 시우민 과 달리 최강창민 은 다리 에 힘 이 풀리 고 계속 넘어지 고 엎어져 상반 되 는 두 사람 의 체력 차이 가 폭소 를 안긴다 .'</a>
+</body>
+</html>

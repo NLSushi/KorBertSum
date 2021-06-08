@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'총상 속 재산 이 100 억 원 을 초과 할 경우 의 상속세 실효 세율 은 명목 세율 과 큰 차이 가 없 는 것 으로 확인 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>대구 달성군 ) 은</a>
+<a name="3">[3]</a> <a href="#3" id=3>'4 일 국회 기획 재정 위원회 조세 소위 위원장 인 추경호 의원 ( 자유 한 국당</a>
+</body>
+</html>

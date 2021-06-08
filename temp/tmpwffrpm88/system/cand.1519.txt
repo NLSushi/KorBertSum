@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'대구 와 경북 이 모처럼 함께 웃 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['10 일 오후 열린 제 100 회 전국 체육 대회 폐회식 에서 이철우 경북 도 지사 가 대한 체육회 로부터 전달 받 은 대 회기 를 흔들 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'대구 선수단 은 당초 내걸 었 던 목표 순위 9 위 를 넘 어 7 위 의 성적 을 냈 다 .'</a>
+</body>
+</html>

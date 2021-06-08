@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['국민 10 명 중 6 명 이상 이 올해 임시 정부 100 주년 을 맞 아 4 월 11 일 을 임시 공휴일 로 지정 하 는 방 안 에 찬성 한다는 여론 조사 결과 가 25 일 발표 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 반대 는 27 . 8 % 인 것 으로 나타났 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 정의당 지지층 ( 81 . 7 % vs 11 . 4 %)</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['# 집행 위원장 에 김성연 관장'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'- 통합 운영 · 관리 겸직 맡 기 로'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'- 오랜 현장 경험 능동 성 발휘'</a>
+</body>
+</html>

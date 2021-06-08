@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>내년 상반기 경부 고속 道 서울 방향 안성 휴게소 에 첫 개설'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'응급 환자 처치 + 휴게소 종사자 · 운전기사 건강 관리 등 서비스'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'도 는 ‘ 경기도 고속도로 휴게소 등 의료 취약 지역 의료 기관 설치 및 운영 조례 ’ 제 정안 을 16 일 입법 예고 했 다 .'</a>
+</body>
+</html>

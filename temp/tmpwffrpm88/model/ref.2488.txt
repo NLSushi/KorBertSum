@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['학동 인회 ( 회장 이상옥 ) 회원 들 이 7 개월 간 함께 야외 스케치 한 작품 을 모아 오 는 5 일 까지 다원 갤러리 에서 ‘ 어느 좋 은 날 展 ’ 을 개최 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '학동 인회 는 그 동안 매월 1 회 야외 스케치 를 실시 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '이상옥 회장 은 “ 항상 실내 에서 그림 을 그리 다</a>
+</body>
+</html>

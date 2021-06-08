@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['토요타 가주 레이싱 월드 랠리 팀 이 지난 17 일 스웨덴 에서 열린 2019 년 fia 월드 랠리 챔피언 십 2 차 전 에서 우승 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>호주 등 전 세계 의 다양 한 환경 과 기후 속 에서 진행 되 며</a>
+<a name="3">[3]</a> <a href="#3" id=3>'2019 년 fia wrc 는 1 월 부터 11 월 까지 14 회 에 걸쳐 영국</a>
+</body>
+</html>

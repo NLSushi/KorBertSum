@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>내달 재 정비 종합 계획 발표'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'부산시 가 서부산 전시 컨벤션 센터 와 대학 병원 급 의료 기관 을 강서구 에 각각 조성 · 유치 하 는 등 서부산 권 대형 사업 전반 을 재 정비 하 기 로 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>['- 13 개 방향 전환 · 24 개 계속 추진'</a>
+</body>
+</html>

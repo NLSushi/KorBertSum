@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['- kia 해 즐 베이커</a>
+<a name="2">[2]</a> <a href="#2" id=2>'- lg 조셉 도 기대 이하 성적 보여'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'kia 가 2017 년 시즌 한국 시리즈 우승 을 차지 하 며 엘 롯 기 현상 은 희석 된 측면 이 있 지만 올 시즌 들 어 다시 엘 롯 기 동맹 이 야구팬 의 입 에 오르내린다 .'</a>
+</body>
+</html>

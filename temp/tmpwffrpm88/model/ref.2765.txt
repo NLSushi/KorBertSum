@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>"20 년 전통 의 ' 어가 참치 ' 는 고품질 의 참다랑어 를 코스 로 제공 하 는 부천 중동 맛집 으로 참치 를 먹 어 봤 다 하 는 사람 들 사이 에서 도 인정받 는 곳 이 다 ."</a>
+<a name="2">[2]</a> <a href="#2" id=2> '다년간 의 조리 경력 을 가진 실력파 쉐프 에 의해 에피 타이 저 가 만들 어 지 며 실버 스페셜 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 칼슘</a>
+</body>
+</html>

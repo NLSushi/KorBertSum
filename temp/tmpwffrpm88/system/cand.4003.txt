@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 지지율 전국 1 위 10 차례 ’</a>
+<a name="2">[2]</a> <a href="#2" id=2>'김영록 전남 지사 가 취임 한 지 1 년 만 에 일궈낸 성과 는 화려 하 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>‘ 사상 최대 규모 국비 확보 ’</a>
+</body>
+</html>

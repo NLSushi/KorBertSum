@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['장경식 경북 도 의회 의장 ( 왼쪽 ) 이 18 일 장익 위 덕대 총장 에게 ‘ 명예 경영학 박사 ’ 학위 를 받 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이날 학위 수여식 에 는 이철희 회당 학원 이사장</a>
+<a name="3">[3]</a> <a href="#3" id=3>이철우 경북 도 지사 등 300 여 명 이 참석 했 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['무등 경기장 내 국민 체육 센터 건립 본격화'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'2 천 956 ㎡ 규모 … 수영장 · 다 목적 체육관 포함'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'기본 계획 수립 용역 발주 … 2020 년 완공 목표'</a>
+</body>
+</html>

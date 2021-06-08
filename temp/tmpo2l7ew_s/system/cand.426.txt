@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['정은 빈 - 우리 복지 시민 연합 등 21 개 시민 단체</a>
+<a name="2">[2]</a> <a href="#2" id=2>지난 6 일 대구시 에 감사 요청서 제출 대구 지역 시민 단체 가 이태훈 달서 구청장 의 ‘ 1 % 나눔 운동 ’ 기금 유용 의혹 에 관한 철저 한 규명 을 촉구 했 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'부산시 는 서구 암남동 과 사하구 구평동 을 잇 는 천마산 터널 이 개통 됐 다고 29 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 중형 차량 2400 원 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 대형 차량 3200 원 을 정했 지만</a>
+</body>
+</html>

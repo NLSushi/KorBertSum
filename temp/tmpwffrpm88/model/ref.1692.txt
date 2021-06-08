@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'사냥 을 그만두 었 을 때 도 이 총 으로 짐승 이 아닌 왜놈 들 을 사냥 하 겠 다는 다짐 으로 구국 운동 을 하 는 계기 가 되 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 포계 ( 砲 契 ) 라는 포수 권익 단체 를 만들 고 대장 이 된다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 그 로부터 불과 4 개월 뒤 청산리 전투 에 참여</a>
+</body>
+</html>

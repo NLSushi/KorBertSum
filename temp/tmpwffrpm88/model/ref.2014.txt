@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광양시 가 6 개 지구 택지 개발 을 통해 정주 인프라 를 구축 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '현재 공영 과 민간 개발 을 포함 한 총 6 개 지구 431 만 ㎡ 에 2 만 7735 세대 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '공정 률 은 66 % 로 공사 가 차질 없이 진행 되 고 있 으며</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'광양제철 고 학생 들 이 동남아시아 라오스 에서 직접 기획 한 봉사 활동 을 펼쳐 현지 학생 들 에게 큰 호응 을 얻 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '지난달 21 일 부터 3 박 4 일 간 라오스 비엔 티 엔 ‘ 푸른 하늘 배움터 ’ 에서 전남 도 교육청 청소년 미래 도전 프로젝트 에 선발 된 학생 들 이 현지 학생 들 에게 한국어 를 가르쳤 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 교내 동아리 ‘ undt ( united nations diplomatic teenagers ) ’ 에 소속 돼 국제기구 나 외교 분야 진출 꿈 을 키워 가 고 있 는 학생 들 이 다 .'</a>
+</body>
+</html>

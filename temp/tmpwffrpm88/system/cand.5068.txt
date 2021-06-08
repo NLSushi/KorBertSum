@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['문재인 대통령 은 18 일 " 2 차 북미 정상 회담 에서 비핵화 와 북미 관계 정상 화 에서 큰 진전 이 있 을 것 " 이라고 전망 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>앞 으로 그 진도 가 더 이어질 것 으로 생각 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'문 대통령 은 특히 남남 갈등 을 우려 하 며</a>
+</body>
+</html>

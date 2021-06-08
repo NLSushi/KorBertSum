@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이날 진경 은 드라마 ‘ 하나 뿐 인 내편 ’ 에서 자신 이 맡 은 캐릭터 나 홍주 에 대해 말 하 며 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '이어 “ 그런데 인터넷 에 는 미혼 으로 뜬다 ” 고 말 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '이 에 진경 은 “ 거짓말 은 안 했 지만</a>
+</body>
+</html>

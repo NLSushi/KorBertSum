@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'지난 20 일 방송 된 tvn ‘ 스페인 하숙 ’ 에서 는 하숙집 영업 5 일 차 를 맞 은 차승원</a>
+<a name="2">[2]</a> <a href="#2" id=2>['다국적 순례자 들 이 차승원 이 요리 한 한식 에 매료 됐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'외국인 순례자 들 은 어설픈 젓가락질 을 하 면서 도 한식 을 폭풍 흡입 했 다 .'</a>
+</body>
+</html>

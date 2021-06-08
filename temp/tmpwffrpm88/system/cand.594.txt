@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>미래 차 등 과 관련 한 신 산업 육성 을 위한 국비 160 억 원 을 확보 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['충남 도 가 재활 헬스 케 어</a>
+<a name="3">[3]</a> <a href="#3" id=3>'재활 헬스 케어 힐링 스파 다각화 사업 은 지역 특화 자원 인 온천 과 연계 한 재활 헬스 케어 산업 의 시험 평가 · 인증 의 실증 지원 플랫 폼 을 구축 하 는 것 이 다 .'</a>
+</body>
+</html>

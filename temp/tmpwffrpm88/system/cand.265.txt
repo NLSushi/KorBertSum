@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대덕 특구 소재 한국 기초 과학 지원 연구원 이 정부 r & d 지원 을 받 아 과제 를 추진 하 면서 연구 실적 을 허위 보 고 하 고 예산 을 부적절 하 게 집행 하 는 등 국가 예산 을 낭비 했 다는 의혹 을 받 고 있 다 .'</a>
+</body>
+</html>

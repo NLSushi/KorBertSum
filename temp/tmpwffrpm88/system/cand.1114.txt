@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'여성 · 청년 등 모든 농어민 포함 … 기존 100 만 원 준수'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'23 일 전남 도 의회 에 따르 면 이보라미 의원 ( 영암 2 ) 은 도 의회 브리핑 룸 에서 ‘ 농어민 기본 수당 지급 조례 안 ’ 발 의 기자 회견 을 열 었 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>최현주 ) 이 참석 했 다 .'</a>
+</body>
+</html>

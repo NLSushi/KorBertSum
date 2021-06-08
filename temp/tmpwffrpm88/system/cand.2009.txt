@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['호텔 인터 불고 에서 열린 ‘ 국제 로 타리 3700 지구 총재 취임식 ’ 에서 조만현 신임 총재 가 취임사 를 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'취임식 에 는 이승호 대구시 경제 부시장</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이날 조 총재 는 차기 연도 의 지구 목표 를 ‘ 회원 3 천 700 명</a>
+</body>
+</html>

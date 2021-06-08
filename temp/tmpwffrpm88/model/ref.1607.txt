@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['오늘 ( 19 일 ) 방송 되 는 mbc ‘ 휴먼다큐 사람 이 좋 다 ’ 에 는 대한민국 댄스 가수 의 원조 박남정 이 출연 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '노안 에 무릎 통증 까지 몸 상태 가 하루하루 달라지 는 것 을 느끼 지만 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '70 대</a>
+</body>
+</html>

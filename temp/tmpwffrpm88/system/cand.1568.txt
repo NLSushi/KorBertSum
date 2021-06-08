@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['배우 설경구 가 전도연 이 영화 ‘ 생일 ’ 의 출연 을 처음 에 거절 했 을 때 “ 좌절 했 다 ” 고 전했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'그럼 누가 하 겠 는가 라는 생각 이 들 었 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이 에 전도연 은 “ 내 가 애 를 먹였 나 보 다 .'</a>
+</body>
+</html>

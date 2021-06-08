@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['바른 미래 당 유 의 동 의원 ( 평택 을 ) 이 미세먼지 대책 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 장애 인 체육 지원 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 검색 포털 의 검색 순위 조작 으로 여론 개입 을 방지 하 는 법률 등 정치 개혁 관련 법률 3 건 을 동시 에 제출 했 다고 14 일 밝혔 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['정부 의 유류 세 인 하폭 이 축소 되 면서 대 구 · 경북 소비자 물가 지수 도 슬금슬금 오르 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'지출 목적 별 로 보 면 전월 대비 교통 ( 3 . 0 %)</a>
+<a name="3">[3]</a> <a href="#3" id=3>의류 및 신발 ( 0 . 1 %) 등 물가 지수 가 높 아 졌 다 .'</a>
+</body>
+</html>

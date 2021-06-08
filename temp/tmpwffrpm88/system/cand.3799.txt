@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'2023 년 전 세계 500 여 명 의 퍼지 이론 ( fuzzy theory ) 관련 전문가 들 이 대구 를 방문 할 예정 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['대구시 는 ‘ 2023 년 국제 지능 시스템 학회 국제 학술 대회 ( 이하 ifsa 2023 ) ’ 를 유치 했 다고 23 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'‘ ifsa 2023 ’ 은 인공지능 및 지능 시스템 분야 주요 국제 학술회의 중 하나 다 .'</a>
+</body>
+</html>

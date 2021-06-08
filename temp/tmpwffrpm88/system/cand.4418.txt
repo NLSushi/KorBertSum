@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>사세 대폭 축소 전망 금호 아시아 나 그룹 이 핵심 계열사 인 아시아나항공 을 매각 키로 15 일 결정 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 는 현재 시장 가격 으로 약 3 천억 원 에 해당 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>우선 협상 대상자 선정 등 매각 절차 를 진행할 예정 이 다 .'</a>
+</body>
+</html>

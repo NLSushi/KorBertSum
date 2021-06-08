@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'인천시 의회 건설 교통 위원회 에서 개정 조례 안건 에 대한 회의 가 열린 지난 10 일 인천시 의회 로비 에서 지하상가 상인 연합회 회원 들 이 회의 영상 을 지켜보 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['인천시 올해 지하도 상가 조례 개정 무산 ‘ 후폭풍 ’'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이진우 기자 jw @ kihoilbo . co . kr'</a>
+</body>
+</html>

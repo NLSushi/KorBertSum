@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['27 일 영암 종합 체육관 에서 열린 제 31 회 전남 도 생활 체육 대축전 폐회식 에서 최우 수상 을 수상 한 해남군 등 입장 상 수상자 들 이 전동평 영암군 수 와 정건 배 전남 도 체육회 사무 처장 등 내빈 들 과 기념 촬영 을 하 고 있 다 .'</a>
+</body>
+</html>

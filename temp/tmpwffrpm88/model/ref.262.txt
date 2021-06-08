@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['부산 관광공사 ( 이하 공사 ) 가 역대 최대 규모 의 조직 개편 과 인사 를 단행 했 다고 17 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '지난 3 년 간 tf 팀 으로 운영 되 던 bof ( 부산 원 아시아 페스티벌 ) 사업 팀 은 마케팅 실 내 에 직제 화 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> bof 사업 단장</a>
+</body>
+</html>

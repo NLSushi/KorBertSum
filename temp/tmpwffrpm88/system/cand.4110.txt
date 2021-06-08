@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['배우 이유영 이 영화 ‘ 집 이야기 ’ 에 출연 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이유영 은 주인공 인 신문사 편집 기자 은서 역 을 맡 았 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'은서 는 계약 이 만료 된 원룸 대신 새 보금자리 를 찾 던 중 헤어져 살 았 던 아버지 와 어쩔 수 없이 시한부 동거 를 하 게 되 는 인물 이 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['저출산 고령화 늪 에 빠진 우리나라 가 ‘ 합계 출산율 0 명 대 ’ 시대 로 진입 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'여성 한 명 이 평생 낳 는 출생 아 수 가 한 명 도 안 된다는 의미 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'우려 했 던 출산율 ‘ 쇼크 ’ 가 현실 화 되 면서 인구 감소 가 예상 보다 가파르 게 진행 될 것 이 란 우려 가 나온다 .'</a>
+</body>
+</html>

@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이 자료 에 따르 면 지난해 광주 · 전남 제조업 부채 비율 은 113 % 로 전년 ( 112 . 2 %) 보다 0 . 8 % 포인트 상승 했 다 .'</a>
+</body>
+</html>

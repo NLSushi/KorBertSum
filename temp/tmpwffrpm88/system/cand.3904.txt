@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['래퍼 지코 가 가수 정준영 의 황금 폰 에 대해 해명 한 가운데</a>
+<a name="2">[2]</a> <a href="#2" id=2>과거 정준영 이 자신 의 sns 에 올린 게 시물 이 눈길 을 끈다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'해당 글 은 현재 삭제 됐 다 .'</a>
+</body>
+</html>

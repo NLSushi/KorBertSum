@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주시 대표 도서관 건립 사업 의 창의 적 이 고 우수 한 설계안 선정 을 위해 ‘ 국제 건축 설계 공모 ’ 가 진행 된다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '18 일 시 에 따르 면 대표 도서관 은 혐오 시설 이 었 던 상무 소각장 부지 를 활용 하 기 위해 시민 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '이어 2020 년 2 월 7 일 작품 접수</a>
+</body>
+</html>

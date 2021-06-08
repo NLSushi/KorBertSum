@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>["충북 도민 들 로 구성 된 ' 히말라야 기후 변화 탐사대 ' 가 지진 피해 를 입 은 네 팔 바드라 칼리 초등 학교 에 사랑 의 후원금 을 전달 했 다 ."</a>
+</body>
+</html>

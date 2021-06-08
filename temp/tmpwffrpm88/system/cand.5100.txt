@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['순천시 가 생태 경제 도시 로 발돋움 하 기 위해 비전 포럼 을 개최 하 는 등 도시 브랜드 활성 화 에 박차 를 가하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'‘ 3 e 프로젝트 ’ 는 순천시 의 교육 ( education ) 과 생태 ( ecology ) 의 강점 을 살려 경제 ( economy ) 를 특화 시키 는 혁신 성장 전략 으로</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['경북 도 의회 교육 위원회 는 18 일 구미 교육 지원 청 에서 김천 · 구미 교육 지원 청 에 대한 행정 사무 감사 를 실시 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이날 감사 에서 는 초등 돌봄 교실 을 비롯 해 미 활용 관사</a>
+<a name="3">[3]</a> <a href="#3" id=3>설계 변경 건 등 이 도마 에 올랐 다 .'</a>
+</body>
+</html>

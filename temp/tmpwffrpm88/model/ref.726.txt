@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['고용 노동부 경기 지청 은 ‘ 청년 추가 고용 장려금 ’ 의 신규 신청 을 접수 한다고 22 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '‘ 청년 추가 고용 장려금 ’ 은 중소 · 중견 기업 이 청년 을 추가 로 신규 채용 하 는 경우 사업주 에게 최대 3 년 간 연 900 만 원 을 지원 하 는 사업 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 안양</a>
+</body>
+</html>

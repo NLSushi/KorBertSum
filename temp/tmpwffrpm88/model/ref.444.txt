@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'하지만 서재인 에게 믿 을 동아줄 은 고 태림 뿐 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '그 어떤 변호사 도 항소심 을 맡 지 않 겠 다던 이유 였 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '하지만 고 태림 은 달랐 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['최근 경기 부진 등 의 영향 으로 상가 공실 이 늘 고 있 는 가운데 대구 중대 형 상가 의 공실 률 은 14 . 1 %</a>
+<a name="2">[2]</a> <a href="#2" id=2> 4 % 인 것 으로 나타났 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '지역 산업 이 침체 한 울산 은 16 . 5 % 를 기록 했 다 .'</a>
+</body>
+</html>

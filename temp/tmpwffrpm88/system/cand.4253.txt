@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['19 일 조현아 전 대한항공 부사장 과 이혼 소송 중 인 남편 박 씨 가 조 전 부사장 을 상해 등 의 혐의 로 고소 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>근거 로 경찰 에 제출 한 사진 과 영상 이 공개 돼 화제 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>죽 어 버려 ” 등 의 폭언 을 내뱉 는 장면 이 담겨 있 었 다 .'</a>
+</body>
+</html>

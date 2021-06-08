@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'광주 는 지난 라운드 서울 이랜드 와 의 원정 경기 에서 2 대 0 승리 를 거두 며 승점 45 점 을 기록</a>
+<a name="2">[2]</a> <a href="#2" id=2>'또 창단 첫 6 연승 과 함께 2017 년 경남 이 세운 18 경기 를 제치 고 k 리그 2 최다 무패 ( 19 경기</a>
+<a name="3">[3]</a> <a href="#3" id=3>'올 시즌 광주 의 뜨거운 함성 은 멈출 기미 를 보이 지 않 는다 .'</a>
+</body>
+</html>

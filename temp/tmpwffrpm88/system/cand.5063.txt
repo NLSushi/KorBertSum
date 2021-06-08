@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'오염 물질 을 배출 하 지 않 는 사업장 은 드물 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'때문 에 공해 물질 배출 정도 에 따라 사업장 마다 공해 방지 시설 을 갖추 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>['환경 을 오염 시키 는 행위 야말로 시민 건강 을 해치 는 불법행위 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'참석자 들 은 디자인 싱 킹 기법 실습 을 통해 조직 문화</a>
+<a name="2">[2]</a> <a href="#2" id=2>'워크숍 은 정부 혁신 추진 방향 에 대한 이해도 를 높이 고</a>
+<a name="3">[3]</a> <a href="#3" id=3>업무 현장 에서 이 를 어떻게 적용 할 것 인지 논의 하 기 위해 마련 됐 다 .'</a>
+</body>
+</html>

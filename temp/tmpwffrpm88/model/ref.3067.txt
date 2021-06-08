@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'해수부 는 14 일 인천 지방 해양 수산청 대 회의실 에서 연안 해운 정책 설 명회 를 열 고 도 서민 생필품 운송비 지원 과 차량 운임 지원 확대 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 전자 승선 관리 시스템 도입 등 연안 해운 관련 주요 정책 을 설명 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '하지만</a>
+</body>
+</html>

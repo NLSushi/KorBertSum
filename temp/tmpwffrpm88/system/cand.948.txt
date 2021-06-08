@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['“ 잠시 쉬 었 다가 안 전하 게 건너 세요 ”'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'전남 화순군 광덕 택지 지구 국민은행 교차로 횡단보도 앞 에 설치 된 장수 의자 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'앞 으로 도 점진 적 으로 확대 설치 할 계획 이 다 .'</a>
+</body>
+</html>

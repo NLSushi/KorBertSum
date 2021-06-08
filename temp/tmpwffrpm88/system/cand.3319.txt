@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'26 일 인천 경찰청 에 따르 면 윤창 호법 이 시행 되 기 전 인 지난해 6 월 25 일 부터 8 월 25 일 까지 지역 내 음주 단속 건수 는 총 1 천 433 건 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'/ 사진 = 기호일보 db'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'뚜껑 을 열 어 보 니 음주운전 적발 건수 가 전년 동기 대비 크 게 줄 었 다 .'</a>
+</body>
+</html>

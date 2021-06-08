@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['일제 강점기 와 광복 의 역사 현장</a>
+<a name="2">[2]</a> <a href="#2" id=2>1900 년 대 광주 의 모습 을 생생 하 게 볼 수 있 는 사진 전시 가 열린다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'광주시 는 13 일 부터 17 일 까지 시청 1 층 시민 숲 에서 ‘ 사진 으로 만나 는 광주 100 년 ’ 전시 를 개최 한다 .'</a>
+</body>
+</html>

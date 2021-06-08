@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'인천시 교육청 의 보결 수업 수당 지급 규정 이 불 합리 하 다는 지적 이 제기 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'타 시도 와 달리 수당 지급 을 제한 하 는 단서 조항 이 있 기 때문 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'수당 은 1 시간 당 1 만 원 이하 범위 에서 학교 운영 위원회 의 심의 를 거쳐 결정 된다 .'</a>
+</body>
+</html>

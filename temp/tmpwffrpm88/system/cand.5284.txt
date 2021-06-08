@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>광명 7 동 을 선정 했으며 행정 안 전부 의 최종 승인 을 받 았 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['광명시 가 오 는 11 월 부터 풀뿌리 민주주의 를 실현 하 기 위한 ‘ 주민 자치회 ’ 를 시범 운영 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'8 월 에 는 ‘ 광명시 주민 자치회 시범 실시 에 관한 조례 ’ 를 제정 해 제도 적 장치 를 마련 했 다 .'</a>
+</body>
+</html>

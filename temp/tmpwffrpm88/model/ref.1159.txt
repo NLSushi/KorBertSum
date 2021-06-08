@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 막강 ’ 벤츠 가 8 월 수입 차 베스트 셀링 ‘ 톱 10 ’ 에 6 개 차종 의 이름 을 올렸 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '메르세데스 - 벤츠 는 다양 한 차종 들 이 상위 권 에 포진 하 면서 자연 스럽 게 점유 율 을 독주 했 고 </a>
+<a name="3">[3]</a> <a href="#3" id=3> bmw 는 풍부 한 라인업 에 힘입 어 점유 율 20 % 를 돌파 했 다 .'</a>
+</body>
+</html>

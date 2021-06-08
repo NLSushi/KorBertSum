@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'[ 천안 ] 천안시 서북구 지역 에서 발생 한 화재 는 주거 시설 내 의 부주의 가 가장 큰 원인 인 것 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '장소 별 화재 발생 순위 1 위 는 주거 시설 ( 주택 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 아파트 등 ) 로 20 건 의 화재 가 발생 해 전체 화재 의 34 . 5 % 를 차지 했으며 이어 산업 시설 ( 공장</a>
+</body>
+</html>

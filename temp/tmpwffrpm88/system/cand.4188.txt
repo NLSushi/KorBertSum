@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['영남 권 유일 의 자동차 통합 전시회 가 19 일 부터 3 일 간 열린다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'지난해 부산 해운대구 벡스코 에서 열린 중고차 박람회 ‘ 부카 2018 ’ 을 찾 은 관람객 이 중고차 를 둘러보 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'‘ bnk 캐피탈 과 함께 하 는 부카</a>
+</body>
+</html>

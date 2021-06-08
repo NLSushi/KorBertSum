@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ tv 는 사랑 을 싣 고 ’ 에 출연 한 가수 현미 나이 와 이봉조 가 화제 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'현미 는 “ 지금 으로 말 하 면 거의 100 만 장 팔렸 다 ” 고 당시 ‘ 밤안개 ’ 인기 에 대해 이야기 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이 에 현미 는 “ 아이유 보다 인기 가 많 았 다 ” 면서 “ 큰 길 을 못 다닐 정도 였 다 .'</a>
+</body>
+</html>

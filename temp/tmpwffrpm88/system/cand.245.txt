@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['남승현 대구시 교육청 이 초등 돌봄 교실 을 전 학년 으로 확대 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>국고 보조금 및 kb 그룹 기부금 68 억 원 을 유치 해 돌봄 공간 확충 을 추진 해 오 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이번 에 확충 개선 하 는 돌봄 교실 은 단순히 머무 는 공간 이 아닌 학생 들 의 활동 성 을 고려 한 놀이 와 쉼</a>
+</body>
+</html>

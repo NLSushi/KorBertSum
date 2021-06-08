@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>그간 의 치료비 와 아버지 의 병원 비 는 가족 을 짓누르 는 짐 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'하지만 소미 에겐 말 못 할 고민 이 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>['- 중 3 에 학용품 · 학습 비 지원'</a>
+</body>
+</html>

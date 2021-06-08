@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['그룹 god 김태우 가 비 만 관리 회사 모델 로서 체중 관리 를 안 해 수천만 원 을 물 게 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'유재환 이 16 kg 이나 감량 하 며 다이어트 의 성공 한 모습 을 올리 자 화제 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이 에 많 은 사람 들 이 다이어트 비법 에 관심 이 쏠렸 다 .'</a>
+</body>
+</html>

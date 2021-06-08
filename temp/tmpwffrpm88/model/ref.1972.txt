@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'keb 하나 은행 ( 은행장 함영주 ) 은 18 일 부터 아동 수당 신청 손님 을 대상 으로 한 ‘ 아동 수당 수급 계좌 신청 ’ 이벤트 를 실시 한다고 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '이번 이벤트 는 오 는 4 월 30 일 까지 keb 하나 은행 입출금 계좌 를 아동 수당 수급 계좌 로 신청 하 고 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 인터넷 뱅킹</a>
+</body>
+</html>

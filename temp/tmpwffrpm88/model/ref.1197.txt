@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'bmw 차량 화재 사태 가 전국 적 으로 이어지 고 있 는 가운데 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 광양시 가 지역 내 리콜 대상 차량 소유자 25 명 에게 운행 정지 명령서 를 발송 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 이중 리콜 대상 차량 은 235 대 로 지난 15 일 210 대 가 긴급 안전 점검 을 실시 한 것 으로 확인 됐 다 .'</a>
+</body>
+</html>

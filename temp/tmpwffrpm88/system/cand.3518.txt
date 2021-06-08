@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['본격 여름철 을 맞 아 대구 도심 속 물놀이장 이 잇따라 문 을 연다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'먼저 수성구 청 은 고모동 수성 패밀리 파크 및 수성 4 가동 수성 근린공원 물놀이장 을 오 는 22 일 부터 8 월 25 일 까지 운영 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이용 시간 은 매일 오전 11 시 부터 오후 5 시 까지 다 .'</a>
+</body>
+</html>

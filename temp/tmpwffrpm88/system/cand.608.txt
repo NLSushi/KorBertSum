@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'1 ∼ 5 지망 학교 가 배정 된 비율 은 99 . 2 % 로 지난해 보다 0 . 3 % 늘 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>학생 1 만 7 천 794 명 을 대상 으로 선 지망 후 추첨 한 결과</a>
+<a name="3">[3]</a> <a href="#3" id=3>['2019 학년도 인천시 평준 화 지역 일반 고등학교 신입 생 들 의 학교 배정 이 마무리 됐 다 .'</a>
+</body>
+</html>

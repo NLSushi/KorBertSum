@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'제 100 회 전국 체육 대회 에서 경북선 수단 이 당초 목표 인 종합 3 위 를 차지 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '대구 선수단 은 당초 내걸 었 던 목표 순위 9 위 를 넘 어 7 위 의 성적 을 냈 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '경북 은 금메달 79 개 ( 은메달 79 개</a>
+</body>
+</html>

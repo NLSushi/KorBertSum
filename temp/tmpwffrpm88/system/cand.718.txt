@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>거실 등 119 . 7 ㎡( 36 평 ) 규모 의 그 의 집 은 쓰레기 로 가득 차 있 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'대구 남구 청 이 저장 강박 증 을 앓 아 쓰레기 더미 에 살 고 있 던 국가 유공자 배씨 에게 도움 의 손길 을 건냈 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'그 의 집 에서 나온 쓰레기 는 모두 18 t 가량 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'경기도 가 공정 경제 생태 계 조성 을 위해 중소기업 의 기술 탈취 예방 과 기술 보호 에 나선다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['▲ 경기도 기술 보호 데스크 이미지 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이 사업 은 기술 탈취 피해 를 봤 지만 법률 적 지식 과 인력 부족 등 으로 대응 이 어려운 중소기업 을 지원 하 기 위해 마련 됐 다 .'</a>
+</body>
+</html>

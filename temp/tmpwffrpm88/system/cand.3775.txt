@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'지난 15 일 부터 5 일 간 서울 일원 에서 열린 제 39 회 전국 장애 인 체육 대회 에 참가 한 ‘ fc 광주 엔젤 ’ 지적 장애 인 축구단 이 금메달 을 목 에 걸 며 체전 8 번 째 우승 이 라는 대기록 을 작성 했 다 .'</a>
+</body>
+</html>

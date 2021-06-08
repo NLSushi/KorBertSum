@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['경남 밀양시 무안면 에서 생산 되 는 명품 풋고추 ( 맛나 향 ) 가 올해 평년작 이상 의 수확 을 올렸 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '밀양 무안면 고추 가 인기 를 끌 고 있 는 것 은 노화 예방 과 피 로 회복 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 농가 의 열정 이 합쳐 지난 2004 년 부터 ‘ 맛나 향 ’ 명품 브랜드 를 탄생 시켰 다 .'</a>
+</body>
+</html>

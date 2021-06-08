@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['내년 4 · 15 총선 지역구 를 250 석</a>
+<a name="2">[2]</a> <a href="#2" id=2>'더불 어 민주당 과 바른 미래 당</a>
+<a name="3">[3]</a> <a href="#3" id=3>연동 률 50 % 적용 ’ 방안 을 검토 해 왔 다 .'</a>
+</body>
+</html>

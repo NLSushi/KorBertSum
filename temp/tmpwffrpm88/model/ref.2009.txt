@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'조만현 국제 로 타리 3700 지구 총재 취임식 이 지난 1 일 호텔 인터 불고 에서 열렸 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 장상수 대구시 의회 부의장 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 조재구 남구 청장</a>
+</body>
+</html>

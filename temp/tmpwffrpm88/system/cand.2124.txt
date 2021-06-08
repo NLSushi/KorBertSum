@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['여수 거북선 축제 3 일 간 ‘ 39 만 명 ’ 방문 인기'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'날짜 별 로 보 면 통제영 길놀이 가 펼쳐진 3 일 은 11 만 7 천 600 명</a>
+<a name="3">[3]</a> <a href="#3" id=3>패밀리 테마 존 등 주목'</a>
+</body>
+</html>

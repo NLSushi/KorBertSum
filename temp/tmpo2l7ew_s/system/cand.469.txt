@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'4 살 이 되 던 때 까지 도 뛰어다녔 다는 예지 양 은 ‘ 물 주세요 ’</a>
+<a name="2">[2]</a> <a href="#2" id=2>['뮤 코다 당증 뭐 길래 ?'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'기저귀 까지 뗐 던 아이 였 지만 다섯 살 무렵 부터 예기 치 않 은 시련 이 찾아왔 다 .'</a>
+</body>
+</html>

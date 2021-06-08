@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>자신 은 모르 지만 그것 이 크 든 작 든 사고 로 이어졌 을 수 도 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '그 들 에게 큰 책임 이 있 다는 걸 알 아야 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '필자 가 운전 을 처음 했 을 때 어른 들 이 운전 잘 한다고 자랑 하 지 마 라 얘기 했 다 .'</a>
+</body>
+</html>

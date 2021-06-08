@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['생신 맞 은 어르신 10 명 생신 상 ‘ 대접 ’'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'요양원 은 24 명 의 요양 보호사 를 비롯</a>
+<a name="3">[3]</a> <a href="#3" id=3>모두 40 여 명 의 종사자 가 60 분 의 어르신 들 을 내 부모 섬기 듯 알뜰히 보살피 며 이용 어르신 들 의 손발 이 돼 주 고 있 다 .'</a>
+</body>
+</html>

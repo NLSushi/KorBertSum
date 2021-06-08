@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>"2019 스프링 페스티벌 의 첫 작품 인 가족 오페라 ' 피노키오 ' 가 20 일 까지 대전 예술 의 전당 앙상블 홀 에 오른다 ."</a>
+<a name="2">[2]</a> <a href="#2" id=2> 요정 의 도움 으로 사람 처럼 말 하 고 행동 하 게 된다는 내용 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '이탈리아 작곡가 피 에 란젤 로 발 티 노니 ( pierangelo valtinoni ) 가 피노키오 를 원작 으로 오페라 를 작곡 했 고</a>
+</body>
+</html>

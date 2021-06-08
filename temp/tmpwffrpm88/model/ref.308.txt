@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'조현 병 은 환각 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 망상 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '전 세계 인구 중 조현 병 증상 으로 영향 을 받 고 있 는 사람 은 0 . 3 ~ 0 . 7 % 정도 인 것 으로 알려져 있 고</a>
+</body>
+</html>

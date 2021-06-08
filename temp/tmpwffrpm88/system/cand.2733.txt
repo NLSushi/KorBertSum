@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>가을 낙지 ’ 라는 말 이 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'둥근 머리 에 다리 도 8 개</a>
+<a name="3">[3]</a> <a href="#3" id=3>언뜻 비슷 하 긴 하 지만 주꾸미 는 낙지 에 비해 몸체 와 머리 크기 가 작 고</a>
+</body>
+</html>

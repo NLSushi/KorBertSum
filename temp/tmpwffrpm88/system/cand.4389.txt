@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>438 명 ( 정원 외 포함 ) 선발</a>
+<a name="2">[2]</a> <a href="#2" id=2>4 종 입학 우수 장학금 혜택'</a>
+<a name="3">[3]</a> <a href="#3" id=3>지역 인 재 59 명</a>
+</body>
+</html>

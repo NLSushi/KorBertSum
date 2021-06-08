@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'특급 신인 베리 베리 가 화려 한 데뷔 신호탄 을 쏘 아 올렸 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>유튜브 를 통해 전 세계 로 동시 중계 되 는 데뷔 쇼 ' premiere showcase ( 프리미어 쇼 케이스 ) : verivery ' 를 통해 데뷔 곡 ' 불러줘 ( ring ring ring ) ' 무대 를 최초 로 선보이 고 데뷔 소감 을 밝히 는 등 감격 스러운 정식 데뷔 의 꿈 을 이뤘 다 ."</a>
+<a name="3">[3]</a> <a href="#3" id=3>"베리 베리 는 m . net</a>
+</body>
+</html>

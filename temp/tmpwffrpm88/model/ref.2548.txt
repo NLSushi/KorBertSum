@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['인구 감소 가속 화 로 8000 여 채 에 달하 는 전남 도내 농어촌 빈집 이 이렇 다 할 대책 없이 방치 되 고 있 는 것 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '전남 인구 는 지난달 말 기준 186 만 8856 명 으로 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 지난 2016 년 190 만 3914 명 에 견줘 3 만 명 넘 게 줄 었 다 .'</a>
+</body>
+</html>

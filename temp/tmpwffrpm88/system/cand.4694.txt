@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'그리고 주위 에 있 는 작 은 것 들</a>
+<a name="2">[2]</a> <a href="#2" id=2>'멋진 경치 를 보 고 마음 의 울림 을 받 으면 사진기 의 셔터 를 눌러 대 어요 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>['“ 난 자연 을 너무나 좋 아 하 지요 .'</a>
+</body>
+</html>

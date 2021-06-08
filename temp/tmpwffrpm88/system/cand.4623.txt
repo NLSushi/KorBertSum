@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대한 건설 단체 총 연합회 가 기해 년 신 기술 개발 과 해외 시장 개척 등 을 통해 업계 위기 를 돌파 하 고 윤리 경영 을 통해 국민 을 보듬 는다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>박순자 국회 국토 교통 위원장 등 국회의원</a>
+<a name="3">[3]</a> <a href="#3" id=3>이 같이 다짐 했 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'aips 는 전 세계 160 개국 의 국제 일간지</a>
+<a name="2">[2]</a> <a href="#2" id=2>['전 세계 스포츠 기자 들 을 대상 으로 올해 최대 의 국제 체육 행사 인 제 18 회 광주 세계 수영 선수 권 대회 준비 상황 을 알린다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>tv 채널 에서 활동 하 는 기자 9 천 여 명 의 회원 이 가입 한 국제 스포츠 기자 단체 로</a>
+</body>
+</html>

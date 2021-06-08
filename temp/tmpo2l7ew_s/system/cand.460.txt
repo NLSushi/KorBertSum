@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'현행법 상 폐기물 은 수집 장소 에 버리 거나 허가 를 받 은 폐기물 처리 시설 을 통해서 처리 할 수 있 고</a>
+<a name="2">[2]</a> <a href="#2" id=2>농어촌 미세먼지 감소 법안 발의'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'국회 농해 수 위원장 인 민주 평화 당 황주홍 ( 고흥 · 보성 · 장흥 · 강진 ) 의원 은 2 일</a>
+</body>
+</html>

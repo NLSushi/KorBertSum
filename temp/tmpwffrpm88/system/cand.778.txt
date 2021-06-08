@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 봄 ( 春 ) ’ 을 맞이 한 3 월 광주 · 전남 지역 간 산업 활동 희비 가 갈렸 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'특히 광주 는 생산 · 출하 · 재고 · 소비 · 건설 등 모두 하락세 를 보였으나 전남 은 소비 만 제외 하 고 일제히 상승 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>고무 및 플라스틱 등 은 줄 었 다 .'</a>
+</body>
+</html>

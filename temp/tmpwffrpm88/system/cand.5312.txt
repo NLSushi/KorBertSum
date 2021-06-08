@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['한국 도박 문제 관리 센터 서울 북부 센터 와 서울 남부 센터 는 지난 19 일 서울 창동역 광장 에서 ‘ 2019 ng ( no gambling ) 댄싱 ’ 을 진행 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>청소년 동아리 8 팀 이 참가 해 창작 한 안무 를 선보였 다</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이번 행사 는 도박 문제 예방 을 위해 마련 된 청소년 댄스 경연 대회 로</a>
+</body>
+</html>

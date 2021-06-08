@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['1 월 경기 북부 지역 중소기업 업 황 전망 이 하락 한 것 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'그 중 제조업 은 전월 대비 6 . 8 p 하락 한 84 . 2</a>
+<a name="3">[3]</a> <a href="#3" id=3>'업 황 전망 중소기업 건강 도 지수 ( sbhi ) 는 응답 내용 을 5 점 척도 로 세분 화 하 고 각 빈도 에 가중치 를 곱해 산출 한 지수 로</a>
+</body>
+</html>

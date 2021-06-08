@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'일상 속 예상 치 못한 각종 재난 과 일상 사고 를 당한 시민 에게 정신 적 안정 과 경제 적 지원 을 위한 취지 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['목포시 는 횡단 보도 와 교차로 등 총 80 개소 에 그늘막 을 설치 하 는 등 폭염 저감 시설 을 확대 운영 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'/ 목포 = 고 규석 기자 yousou @ kwangju . co . kr'</a>
+</body>
+</html>

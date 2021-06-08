@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['제 13 호 태풍 ‘ 링링 ’ 이 북상 한 7 일 오전 광주 북구 오치동 의 한 공사장 가림막 이 강풍 을 견디 지 못해 기울어져 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'/ 김진수 기자 jeans @ kwangju . co . kr'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'< 관련 기사 6 면 >'</a>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'올해 1 ~ 5 월 국내 · 국제 여객 운항 정시 성 자료 를 보 면 국내선 의 경우 정시 율 이 지난해 와 비교 해 4 . 9 % p 개선 된 것 으로 파악 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['아시아나항공 이 올해 초 부터 전개 한 안전 강화 노력 들 이 최근 결실 을 맺 고 있 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['올해 경기 지역 공장 건축 총 허용량 이 145 만 6 천 ㎡ 인 것 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'올해 도내 공장 건축 허용량 은 개별 입지 101 만 9 천 ㎡</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이중 화성 은 28 만 6 ㎡ 로 최다 배정 받 았 으며</a>
+</body>
+</html>

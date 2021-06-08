@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['여자 의 마음 을 담 은 소형 주거 시설 기자 ‘ 대구 테크노폴리스 줌 시티 ’ 가 이달 중 분양 에 들어간다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'◆ 대구 테크노폴리스 마지막 자리'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'롯데시네마 ( 예정 )</a>
+</body>
+</html>

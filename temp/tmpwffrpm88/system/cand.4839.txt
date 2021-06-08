@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['11 조 2616 억 최종 의결'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'예산안 은 최근 시 의회 내부 에서 뜨거운 감자 였 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'본회의 에서 예산안 처리 과정 을 문제 삼 는 의사 진행 발언 이 있 을 것 이 라는 예상 이 있 었 지만 결국 조용히 의결 은 마무리 됐 다 .'</a>
+</body>
+</html>

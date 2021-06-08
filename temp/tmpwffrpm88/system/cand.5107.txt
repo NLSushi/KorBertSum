@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['포스코 인재 창조 원 이 포항 청림 초등 학교</a>
+<a name="2">[2]</a> <a href="#2" id=2>13 일 ‘ 주니어 인성 교실 - 꿈 과 희망 with posco ’ 프로그램 첫 차수 를 운영 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'주니어 인성 교실 은 포스코 그룹 의 역량 과 자원 을 활용 하 여 회사 의 경영 이념 인 ‘ 더불 어 함께 발전 하 는 기업 시민 ’ 을 실현 하 고자</a>
+</body>
+</html>

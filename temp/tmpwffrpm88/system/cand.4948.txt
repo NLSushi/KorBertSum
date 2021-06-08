@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'‘ 당진 시민 과 외국인 근로자</a>
+<a name="2">[2]</a> <a href="#2" id=2>['▲ 제 10 회 보덕사 호수 음악회 가 지난 10 일 열렸 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'공연 에 앞서 열린 개회식 에서 보덕사 종 광 스님 은 미얀마 산디 마 스님 과 스리랑카 담 마 끼 띠 스님 에게 성금 을 전달 했 다 .'</a>
+</body>
+</html>

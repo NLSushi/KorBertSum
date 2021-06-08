@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['야외 활동 시 말벌 에 쏘였 다면 ?'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'말벌 은 봄철 에 동면 에서 깨어난 여왕벌 이 단독 으로 집 을 짓 기 시작 하 며</a>
+<a name="3">[3]</a> <a href="#3" id=3>잘 못 알려진 상식 으로 2 차 피해 를 입 지 않 도록</a>
+</body>
+</html>

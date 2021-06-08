@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ the truth of mystery ’'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'30 년 넘 게 함께 였 던 ‘ 김유미 ’ 라는 이름 대신 ‘ 김 이 오 ’ 라는 새로운 이름 으로 작업 하 기 시작 한 그녀 역시 마찬가지 였 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'새로운 이름 ‘ 이오 ’ 는 전속 을 맺 고 있 는 서울 금산 갤러리 와 대화 중 자연스레 나왔 다 .'</a>
+</body>
+</html>

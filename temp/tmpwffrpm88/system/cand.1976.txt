@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['- 통산 상대 11 g 9 골 로 천적 입증'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'- 최근 팀 승리 보증 수표 떠올라'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'노란색 만 만나 면 강해 지 는 ‘ 양봉업 자 ’ 손흥민 ( 토트넘 ) 이 도르트문트 ( 독일 ) 를 상대 로 4 경기 연속 골 을 꽂 았 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['국방부 는 2 일 최근 논란 이 된 함박 도 는 서해 북방 한계선 ( nll ) 을 기준 으로 북쪽 약 700 m 지점 에 있 고 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 군 은 유사시 즉각 타격 가능 태세 를 유지 하 고 있 다고 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '군 은 함박 도 등 북한 의 무인 도 감시 기지 화 작업 시작 단계 부터 정밀 감시 활동 을 펼쳤 고</a>
+</body>
+</html>

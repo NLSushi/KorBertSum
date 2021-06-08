@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['“ 대학 명 적힌 교생 명찰 은 학벌주의 조장 ”'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'일선 학교 에 배치 된 교육 실습생 ( 교생 ) 들 이 출신 대 학명 이 적힌 명찰 을 차 는 관행 은 학벌주의 를 조장 할 수 있 다는 지적 이 나왔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'학벌 없 는 사회 시민 모임</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['#. 광주 에 거주 하 는 주부 이모 ( 43 · 여 ) 씨 는 최근 치솟 는 물가 때문 에 외출 하 기 가 두렵 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'외식비 는 물론 이 고 농산물 가격 이 10 % 넘 게 오르 면서 집 에서 밥 먹 는 것 역시 부담 으로 찾아왔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'그러 던 중 반가운 소리 가 들렸 다 .'</a>
+</body>
+</html>

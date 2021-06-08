@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'법원 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 환자 · 가족 에 1 억 여 원 배상 판결'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '이 과정 에서 a 씨 에게 과도 한 신경 압박 이 가해졌 고 좌측 총비 골 신경 손상 진단 을 받 았 다 .'</a>
+</body>
+</html>

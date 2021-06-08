@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['서구 4 곳 ‘ 최다 ’ 연수 · 계양 · 강화 2 곳 씩 … 16 건 신청 1 건 제외 국비 확보'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'정부 의 내년도 생활 사회 간접 자본 ( soc ) 복합 화 사업 에 인천 지역 사업 이 대거 선정 됐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'체육 · 문화 · 주차 통합 형 시설 등 건립 … 인프라 한 단계 도약 계기 기대'</a>
+</body>
+</html>

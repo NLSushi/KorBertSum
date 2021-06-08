@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'코스닥 시장 에 등록 된 121 개 기업 가운데 1 위 에 는 네이버 가 올랐 고 2 위 cj enm ( 7 . 2 %)</a>
+<a name="2">[2]</a> <a href="#2" id=2>['대학생 이 가장 일 하 고 싶 은 기업 1 위 로 ‘ 네이버 ’ 가 꼽혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>10 위 호텔신라 ( 3 . 0 %) 가 뒤 를 이 었 다 .'</a>
+</body>
+</html>

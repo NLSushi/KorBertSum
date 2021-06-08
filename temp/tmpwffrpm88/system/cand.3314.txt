@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['추신수 ( 37 · 텍사스 레인저스 ) 는 2019 시즌 에 도 미국 프로야구 메이저 리그 ( mlb ) 고액 연봉 자 에 이름 을 올렸 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'추신수 의 2019 시즌 연봉 순위 는 공동 31 위 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'추신수 는 2013 시즌 종료 뒤 텍사스 와 7 년 1 억 3000 만 달러 에 계약 했 다 .'</a>
+</body>
+</html>

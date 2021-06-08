@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['의류 및 코 스메 틱 브랜드 ‘ 임 블리 ’ 로고 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'현재 지역 에 는 신세계백화점 대구 점 에 임 블리 가 유일 하 게 입점 해 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'지난달 초 임 블리 사태 발생 후 대구 매장 매출 은 평소 대비 60 ~ 70 % 떨어졌 다 .'</a>
+</body>
+</html>

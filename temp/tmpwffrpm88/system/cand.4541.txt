@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주시 는 최근 장마 전선 이 물러나 고 본격 적 인 무더위 가 시작 됨 에 따라 폭염 재난 대응 체계 를 가동 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>평년 기온 보다 는 다소 높 을 것 으로 예상 하 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'지난해 광주 지역 의 7 월 폭염 일 수 는 20 일</a>
+</body>
+</html>

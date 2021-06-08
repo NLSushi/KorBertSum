@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['경영인 이 책임 경영 을 했 다면 기업 이 진 빚 을 갚 지 못해 경영 인 개인 이 신용 정보 상 불이익 을 받 는 일 이 사라진다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '중소기업 인 의 재기 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '이 정보 는 금융 회사</a>
+</body>
+</html>

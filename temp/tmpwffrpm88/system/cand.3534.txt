@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>중기 가족 친화 경영 우수 사업 선정'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'각 200 만 원 지원 … 직장 교육 관련 컨설팅 등 실시'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'비타민 하우스 ㈜· 미래 로 21 병원 등 10 개 기업'</a>
+</body>
+</html>

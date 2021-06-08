@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'올해 장애 인 기능 경기 대회 는 6 월 26 일 부터 28 일 까지 목포시 일원 에서 열리 며 △ 정규 직종 19 개 △ 시범 직종 7 개 △ 레저 및 생활 기술 직종 3 개 등 총 29 개 직종 으로 펼쳐진다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'정규 직종 은 가구 제작</a>
+<a name="3">[3]</a> <a href="#3" id=3>cnc 선반 등 이 다 .'</a>
+</body>
+</html>

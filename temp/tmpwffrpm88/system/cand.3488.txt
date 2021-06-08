@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['금강 대학교 가 행정 및 경영학 · 거시 금융 분야 에서 권위 있 는 최고 의 학자 들 을 석좌 교수 로 대거 위촉 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'정용덕 교수 는 서울 대학교 식품 공학 과 졸업 하 고</a>
+<a name="3">[3]</a> <a href="#3" id=3>공공 리더십 분야 의 최고 석학 으로 한국 행정 학회 회장</a>
+</body>
+</html>

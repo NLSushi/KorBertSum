@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'전라남도 교육청 이 한국 언론 진흥 재단 과 손 잡 고 민주 시민 교육 활성 화 에 나선다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '전남 교육청 은 8 일 오후 도 교육청 에서 한국 언론 진흥 재단 과 업무 협약 을 체결 하 고 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '신문</a>
+</body>
+</html>

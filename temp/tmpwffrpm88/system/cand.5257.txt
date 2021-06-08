@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['16 일 중국 상하이 컨벤션 센터 에서 개막 한 ‘ 2019 상하 이 국제 모터쇼 ’ 에서 처음 선보인 중국 전략 형 신차 ‘ 올 뉴 k 3 ’.'</a>
+<a name="2">[2]</a> <a href="#2" id=2>우수 한 실내 공간</a>
+<a name="3">[3]</a> <a href="#3" id=3>동급 최고 수준 의 연비</a>
+</body>
+</html>

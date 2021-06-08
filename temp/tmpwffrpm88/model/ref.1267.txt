@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'찰리 푸 스 는 지난 6 일 ( 한국 시각 ) 에이핑크 팬 이 올린 박초롱 의 콘서트 솔로 무대 영상 을 자신 의 트위터 계정 에 리 트윗 하 며 칭찬 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> "박초롱 은 지난 5 일 열린 에이핑크 5 번 째 단독 콘서트 ' 2019 pink collection : red & white ( 2019 핑크 컬렉션 : 레드 & 화이트 ) ' 에서 찰리 푸 스 의 ' done for me ' 를 커버 한 솔로 무대 를 선보였 다 ."</a>
+<a name="3">[3]</a> <a href="#3" id=3> 워너 원 하 성운 등 의 스타 들 을 언급 해 화제 를 모았 던 바 있 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['전 남도 가 시름 에 잠긴 양파 · 마늘 생산 농가 의 판로 확대 와 소비 촉진 에 두 팔 을 걷 어 붙였 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'전남 도 는 오 는 28 일 까지 서울시 와 광주시</a>
+<a name="3">[3]</a> <a href="#3" id=3>'지난 7 일 가락시장 의 양파 도매가격 은 1 kg 당 425 원 으로 지난해 같 은 기간 보다 38 . 4 % 가량 내렸 다 .'</a>
+</body>
+</html>

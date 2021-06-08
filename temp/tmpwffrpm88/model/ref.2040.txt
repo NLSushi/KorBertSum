@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['지난해 6 · 13 지방 선거 이후 광주 · 전남 전 · 현직 단체장 13 명 이 재판 에 넘겨 지 거나 수사 를 받 고 있 는 것 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '6 일 법조 계 에 따르 면 광주 · 전남 에서 공직 선거법 위반 혐의 로 재판 이 진행 중 인 현직 단체장 은 5 명 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 전직 단체장 은 2 명 이 다 .'</a>
+</body>
+</html>

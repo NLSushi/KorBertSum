@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'kbs 2 tv 예능 프로그램 ‘ 해피 투게더 4 ’ 에 출연 한 김성은 은 21 년 전 인기 시트콤 ‘ 순풍산부인과 ’ 에서 미달 이 로 출연 했 던 과거 를 회상 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '이 어 그 는 “ 그걸로 아파트 도 사고 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '김성은 은 “ 도리어 젊 은 친구 들 이 유튜브 로 ‘ 미달 이 하이라이트 ’ 를 접해서 알아봐 주 신다 .'</a>
+</body>
+</html>

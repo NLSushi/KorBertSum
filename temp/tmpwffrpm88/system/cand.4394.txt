@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['22 개국 200 명 해외 바이어</a>
+<a name="2">[2]</a> <a href="#2" id=2>'8 일 까지 이어지 는 대국 국제 섬유 박람회 는 국내외 315 개 섬유 업체 와 22 개국 200 여 명 의 해외 바이어 가 참가 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'한국 섬유 마케팅 센터 ( ktc )</a>
+</body>
+</html>

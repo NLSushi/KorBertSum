@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>진행 상황 등 을 점검 하 고 철저 한 안전 관리 로 고품질 무하 자 완벽 시공 에 총력 을 기해 줄 것 을 당부 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '/ 김영근 기자'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '“ 안전 관리 최우선 하 에 고품질 · 무하 자 시공 에 최선 의 노력 을 다 해야 할 것 입니다 . ”'</a>
+</body>
+</html>

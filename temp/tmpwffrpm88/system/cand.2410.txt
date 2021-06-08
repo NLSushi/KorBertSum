@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'학교 법인 동아 학원 산하 영암 여자 고등학교 가 전남 지역 최초 로 ‘ 공영 형 사립 학교 ’ 로 지정 됐 다 .'</a>
+</body>
+</html>

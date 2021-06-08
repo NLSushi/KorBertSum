@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'신 · 구 회장 이 · 취임식 … 김영록 지사</a>
+<a name="2">[2]</a> <a href="#2" id=2>['배 기술 대한 노인회 전남 연합회 회장 취임'</a>
+<a name="3">[3]</a> <a href="#3" id=3>지역 사회 발전 에 역할 부탁'</a>
+</body>
+</html>

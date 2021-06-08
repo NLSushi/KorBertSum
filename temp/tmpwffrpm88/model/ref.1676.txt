@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'인천 구단 은 지난 6 일 인천 축구 전용 경기장 에서 전달수 대표 와 유럽 ( 이탈리아 ) 스포츠 용품 기업 ‘ 마크 론 ( macron ) ’ 의 지오바니 마루 찌 영업부 사장 ( cso ) 등 이 참석 한 가운데 신규 공식 용품 후원 계약 을 체결 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '후원 기간 은 5 년 이 며 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 영국 프리미어 리그 스토크 시티</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'경남 지역 에서 는 와이즈 유가 유일 하 게 선정 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['와이즈 유 ( 영산 대</a>
+<a name="3">[3]</a> <a href="#3" id=3>'‘ 초기 창업 패키지 사업 ’ 은 중소 벤처 기업 부 와 창 업진 흥원 이 주관 하 는 창업 사업 화 지원 사업 으로 기존 세대 융합 창업 캠퍼스 사업</a>
+</body>
+</html>

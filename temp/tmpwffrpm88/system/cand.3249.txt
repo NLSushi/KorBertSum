@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>나머지 22 건 은 조치 중 인 것 으로 확인 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'6 일 국회 국토 교통 위원회 소속 자유 한 국당 민경욱 의원 ( 인천 연수구 을 ) 이 lh 로부터 제출 받 은 ‘ 최근 5 년 간 공공 임대 주택 불법 거주 현황 ’ 자료 에 따르 면</a>
+<a name="3">[3]</a> <a href="#3" id=3>지난해 43 건 등 총 592 건 이 었 다 .'</a>
+</body>
+</html>

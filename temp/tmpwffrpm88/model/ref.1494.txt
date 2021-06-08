@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'/ 임문 철 기자 35 mm @ namdonews . com'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '남 도 일보 와 광주광역시 배드민턴 협회 가 ‘ 코리아 마스터즈 국제 배드민턴 대회 ’ 광주 유치 및 개최 에 공동 노력 키로 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '협 약식 에 는 김성 의 남 도 일보 대표 이사 와 홍성길 광주 배드민턴 협회 장 등 양 기관 주요 인사 들 이 참석 했 다 .'</a>
+</body>
+</html>

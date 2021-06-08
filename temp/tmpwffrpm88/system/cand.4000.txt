@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['市 재 인증 앞두 고 정례회 의 실적 확인 ~ 영향 평가 논의'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'2021 년 아동 친화 도시 재 인증 을 앞둔 수원시 가 내년 에 아동 친화 정책 에 대한 종합 적 인 평가 와 효과 성 을 검증 하 기 로 했 다 .'</a>
+</body>
+</html>

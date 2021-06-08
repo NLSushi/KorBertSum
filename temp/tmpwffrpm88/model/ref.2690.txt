@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>청년 대학생 이 살린다'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '< 사진 >'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '주요 협약 내용 으로 는 △ 전남 농촌 마을 의 부 가 가치 증대 및 마을 공동체 활성 화 를 위한 교류 협력 △ 대학생 농촌 봉사 활동 공동 협력 △ 마을 공동체 활성 화 를 위한 단위 사업 발굴 및 연계 추진 등 을 협력 하 기 로 하 였 다 .'</a>
+</body>
+</html>

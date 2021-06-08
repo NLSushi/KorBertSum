@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'배러 댄 코코넛 은 필리핀 에서 생산 되 는 신선 한 코코넛 을 원료 로 만든 잼 ( 스프 레드 ) 으로 생생 한 코코넛 과육 이 씹히 는 식감 을 맛본 고객 들 이 중독 성 있 는 이 잼 을 ‘ 악마 의 잼 ’ 으로 부르 기 시작 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 당류 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 항산 화</a>
+</body>
+</html>

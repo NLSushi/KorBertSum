@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'눈 만 은 여전 하 게 볼 수 는 있 겠 지만'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'그렇지만 그게 무슨 대단 한 것 이 라고 뿌리친 조선 사대부 가 있 어 이목 이 집중 된다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'사람 의 속성 은 자기 의 흔적 을 남기 려 한다 .'</a>
+</body>
+</html>

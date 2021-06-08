@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'인하 대 병원 이 대 규모 투자 로 병원 전체 에 깨끗 한 공기 제공 을 위해 모든 공조 시스템 ( air handling system ) 을 최신형 으로 전면 교체 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '12 일 인하 대 병원 에 따르 면 2018 년 부터 시작 된 공조 시스템 교체 공사 에 는 총 32 억 원 의 예산 이 투입 됐으며 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 앞 으로 연간 필터 교체 비용 만 해도 1 억 원 이 넘 는다 .'</a>
+</body>
+</html>

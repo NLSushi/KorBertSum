@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['인천시 가 11 일 중구 하버 파크 호텔 에서 ‘ 2019 년 지방세 징수 율 제고 전략 회의 및 세무 조사 담당 공무원 역량 강화 워크숍 ’ 을 열 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이날 워크숍 에서 시 세정 담당관 은 2019 년 도 지방 세입 중간 평가 결과 를 공개 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>10 월 말 기준 남동구</a>
+</body>
+</html>

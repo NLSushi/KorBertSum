@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'광주 광산 경찰서 ( 서장 이명호 ) 는 지난 17 일 경찰 서 2 층 어등 홀 에서 여성 안심 귀갓길 환경 개선 을 위한 주민 간담회 를 개최 했 다고 18 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'간담회 에 참석 한 자율 방범대</a>
+<a name="3">[3]</a> <a href="#3" id=3>'취약 지점 방범 시설물 확충 으로 불안감 해소'</a>
+</body>
+</html>

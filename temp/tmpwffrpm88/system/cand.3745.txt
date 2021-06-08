@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 · 전남 이 대한 민국 을 이끌 어 가 는 중심 으로 성장 하 기 위해서 는 광주 형 일자리</a>
+<a name="2">[2]</a> <a href="#2" id=2>블루 이코노미 등 핵심 현안 을 공유 하 고 연대</a>
+<a name="3">[3]</a> <a href="#3" id=3>소통 하 며 미래 사회 의 중심 가치 를 창조 하 는 협력 · 혁신 의 중심지 로 발돋움 해야 한다는 목소리 가 높 다 .'</a>
+</body>
+</html>

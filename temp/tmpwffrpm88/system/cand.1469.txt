@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['오리 요리 전문점 작 은 부엌 이 지난 6 일 송산면 가곡리 에 자리 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'국내 · 외 출장 이 잦 았 던 그 는 각 지역 의 요리 를 접할 기회 가 많 았 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'“ 대학교 시절 요리 를 배우 기 위해 학원 을 다녔 어요 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['내년 부터 주행 중 보행자 발견 시 자동 감속 되 는 첨단 운전자 보조 장치 ( adas ) 기술 을 적용 한 택시 가 대구 시내 도로 를 달린다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 에 따라 택시 가 인명 피해 를 일으키 는 교통사고 가 확 줄어들 것 으로 기대 된다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'500 대 에 는 교통 정보 를 제공 하 는 기술 이 함께 적용 된다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['부산 경상 대학교 국제 교류 센터 는 1 월 7 일 부터 2 월 1 일 까지 동계 글로벌 외국어 특강 을 실시 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'기초 토익 500 정복 하 기 과정 은 toeic 500 점 미만 초급 재학 생 을 대상 으로 하 여 toeic 500 점 이상 을 목표 로 하 여 진행 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'진리 관 601 호 에서 진행 되 며 월</a>
+</body>
+</html>

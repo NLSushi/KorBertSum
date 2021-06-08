@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['셀 트리 온 헬스 케어 에서 판매 중 인 혈액 암 치료 용 바이 오 시 밀러 ‘ 트 룩 시마 ’( 성분 명 리 툭 시 맙 ) 가 유럽 에서 35 % 의 시장 점유 율 을 달성 했 다 .'</a>
+</body>
+</html>

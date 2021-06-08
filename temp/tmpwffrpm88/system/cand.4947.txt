@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대형 마트 가 ‘ 초저 가 제품 ’ 을 잇따라 내놓 는 가운데 롯데마트 가 먼저 도전장 을 내밀 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'오 는 16 일 까지 는 ‘ 통 큰 한 달 ’ 1 탄 이 진행 된다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'롯데마트 는 5 월 과 10 월</a>
+</body>
+</html>

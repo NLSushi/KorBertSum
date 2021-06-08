@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['인천 여성 가족 재단 " 2018 년 기준 ‘ 최고 안전 ’ 1 등급 은 연수구 가 유일 "'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'미추홀 · 부평 · 강화 · 옹진 4 등급 … 5 대 범죄 발생 건수 미추홀 가장 높 아'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'인천 지역 범죄 안전 수준 이 군 · 구 마다 천차만별 인 것 으로 나타났 다 .'</a>
+</body>
+</html>

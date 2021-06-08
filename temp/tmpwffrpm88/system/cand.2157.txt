@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대구 백화점 에 어른 과 아이 의 취향 을 동시 에 사로잡 은 프리미엄 놀이터 ‘ 펀 토리 하우스 ’ 가 오픈 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'펀 토리 하우스 내부 에 는 아이 들 이 좋 아 하 는 친숙 한 블럭 모양 의 인테리어 가 적용 됐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'최근 백화점 을 찾 는 고객 들 의 수요 가 쇼핑</a>
+</body>
+</html>

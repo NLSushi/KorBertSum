@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['여름 방학 ‘ 어린이 과학 체험 교실 ’ 개최'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'광주 보건 환경 연구원</a>
+<a name="3">[3]</a> <a href="#3" id=3>초등 3 ∼ 5 학년 대상 식품 의약품 · 환경 · 동물 교실 등'</a>
+</body>
+</html>

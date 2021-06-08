@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'설경구 는 18 일 서울 용산 cgv 아이파크몰 에서 설경구 와 함께 출연 한 영화 ‘ 생일 ( 이종언 감독 ) ’ 의 언론 시사회 에서 “ 처음 에 전도연 이 못 하 겠 다고 해서 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '내 감정 이 앞서 갈까 걱정 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '그게 수호 와 의 이별 을 인정 하 는 것 만 같 아서다 .'</a>
+</body>
+</html>

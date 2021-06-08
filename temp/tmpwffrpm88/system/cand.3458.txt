@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'영화 ‘ 녹 터널 애니멀 즈 ’ 는 제목 부터 호기심 을 자극 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'한 발 더 나아가 감독 이 톰 포드 라는 사실 에 기대감 이 증폭 된다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'야행성 동물 이 라는 타이틀 만 으로 는 내용 을 짐작 할 수 없 기 때문 이 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'한전 공대 설립 과 운영 계획 이 담긴 마스터플랜 이 이번 주 윤곽 을 드러낼 전망 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['한전 공대 마스터플랜 이번 주 ‘ 윤곽 ’'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'27 일 범 정부 설립 지원 委 보 고 회서 공개'</a>
+</body>
+</html>

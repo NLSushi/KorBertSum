@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['지난 29 일 광양 시청 상황실 에서 열린 ‘ 클라우드 기반</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이날 보고회 는 김명원 광양시 부시장 주재 로 과학 기술 정보 통신부 이운규 사무관</a>
+<a name="3">[3]</a> <a href="#3" id=3>'광양시 를 찾 는 관광객 들 은 앞 으로 주차 와 교통</a>
+</body>
+</html>

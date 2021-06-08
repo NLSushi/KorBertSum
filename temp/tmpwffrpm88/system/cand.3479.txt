@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광양시 여성 새로 일 하 기 센터 가 경력 단절 여성 들 의 취업 난 을 해결 하 며</a>
+<a name="2">[2]</a> <a href="#2" id=2>당당 한 미래 를 열 어 갈 수 있 도록 가이드 역할 을 톡톡히 해내 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>지금 까지 교육 생 340 명 이 과정 을 수료 했으며</a>
+</body>
+</html>

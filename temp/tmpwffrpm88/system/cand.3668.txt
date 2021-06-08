@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'‘ 2019 대구 도시 재생 한 마당 ’ 이 19 ~ 20 일 대구 삼성 창조 캠 페스 에서 열린다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'성과 의 공유 관련 다양 한 행사 가 마련 돼 대구시 가 또 한 번 도시 재생 선도 도시 로서 의 면모 를 보인다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'사진 은 대구 시청 전경 .'</a>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['자신 의 봉급 을 꾸준히 모아 육군 위국 헌신 전우 사랑 기금 에 기부 한 육군 28 사단 소속 김휘 년 일병 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'사진 = 육군 제공 " 동료 전우 들 을 위해 작 은 마음 이 라도 보태 고 싶 었 습니다 . "'</a>
+</body>
+</html>

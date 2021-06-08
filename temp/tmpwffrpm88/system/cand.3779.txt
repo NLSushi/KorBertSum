@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['내년 에 적용 될 최저 임금 이 올해 보다 2 . 9 % 오른 시간 당 8 천 590 원 으로 결정 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>근로자 안 11 표</a>
+<a name="3">[3]</a> <a href="#3" id=3>'최저임금 위원회 는 전날 오후 4 시 30 분 부터 13 시간 에 걸친 마라톤 심의 끝 에 이날 새벽 5 시 30 분 께 내년도 최저 임금 을 의결 했 다 .'</a>
+</body>
+</html>

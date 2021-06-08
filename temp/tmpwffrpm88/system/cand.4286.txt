@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>상하 이 대회 코 - 메인이벤트 … 한류 스타 가치 인정'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'‘ 사랑 이 아빠 ’ 추성훈 ( 44 ) 이 4 년 간 의 파이터 공백 에 도 상업 성 을 인정받 았 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'추성훈 이 아 길란 타니 ( 24 · 말레이시아 ) 를 상대 하 는 웰터급 매치 는 메인이벤트 바로 직전 열린다 .'</a>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['시민 사고 위험 노출 … 시 " 보행로 확보 할 것 "'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'안성시 가 교통 정체 해소 를 위해 실시 하 고 있 는 도시 계획도 로 확 · 포장 공사 가 되레 운전자 는 물론 시민 불편 을 가중 시키 고 있 어 비난 의 목소리 가 쏟아지 고 있 다 .'</a>
+</body>
+</html>

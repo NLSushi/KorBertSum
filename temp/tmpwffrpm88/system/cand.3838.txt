@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['경쟁 률 전 남대 - 호남 대 순</a>
+<a name="2">[2]</a> <a href="#2" id=2>동신 대 한 의 예 35 . 6 대 1'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'조선대 치 의 예 43 . 1 대 1</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 fc 펠리페 가 지난 7 일 광주 월드컵 경기장 에서 열린 안양 과 의 경기 에서 후반 헤더 골 을 넣 은 후 환호 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'프로 축구 광주 fc 가 6 경기 연속 무패 행진 에 도전 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'선두 는 물론 k 리그 2 에서 유일 한 무패 팀 이 다 .'</a>
+</body>
+</html>

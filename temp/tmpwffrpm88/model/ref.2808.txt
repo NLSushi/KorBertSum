@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'찬반 여론 이 극명 하 게 엇갈린 대전 유성구 매봉 근린공원 민간 특례 사업 이 사실상 무산 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '현장 방문 후 진행 된 회의 에서 도 이 같 은 의견 이 다수 나왔 다는 게 심의 참석자 의 전언 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '하지만 사업 추진 을 강하 게 요구 했 던 토지 주 들 의 반발 이 예상 되 는 만큼</a>
+</body>
+</html>

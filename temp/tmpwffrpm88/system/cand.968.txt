@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'더 뉴 그랜저 는 현대차 의 새 디자인 방향 성인 ‘ 센 슈어스 스 포티 니스 ’ 를 적용</a>
+<a name="2">[2]</a> <a href="#2" id=2>['현대차 ‘ 더 뉴 그랜저 ’ 티저 공개'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'28 일 현대 자동차 에 따르 면 최근 경기 화성 남양 연구소 디자인 센터 에서 신 차급 으로 완전히 탈바꿈 한 그랜저 의 티저 이미지 를 공개 했 다 .'</a>
+</body>
+</html>

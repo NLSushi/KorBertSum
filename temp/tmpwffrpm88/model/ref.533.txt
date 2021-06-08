@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['이마트 · 홈플러스 · 롯데마트 24 일 10 시 문화 센터 모집 대란 … 혜택 가장 많 은 곳 ?'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '우선 각 대형 마트 들 은 모집 을 온라인 과 오프라인 지점 에서 동시 에 진행 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 엘 포인트 회원 대상 < 선착순 할인 쿠폰 > 다운로드 를 진행 한다 .'</a>
+</body>
+</html>

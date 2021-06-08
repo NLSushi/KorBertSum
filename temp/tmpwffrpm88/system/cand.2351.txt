@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['제일기획 은 해외 비즈니스 지원 강화 를 위해 해외 지법 인 의 요구 를 반영 한 로컬 맞춤 형 홈페이지 ( www . cheil . com ) 로 전면 개편 했 다고 2 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'제일기획 리뉴 얼 홈페이지 메인 화면 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'제일기획 의 새 홈페이지 는 해외 지역 별 로 각기 다른 맞춤 형 콘텐츠 가 노출 되 는 것 이 가장 큰 특징 이 다 .'</a>
+</body>
+</html>

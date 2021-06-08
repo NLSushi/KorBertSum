@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 광산구 가 심의 위원 명단 유출 로 논란 이 일 었 던 1 금고 운영 기관 을 재 선정 하 기 로 했 다 .'</a>
+</body>
+</html>

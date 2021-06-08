@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['lg 전자 는 최근 6 개 공조 제품군 각각 에 대해 미국 냉동 공조 협회 ( ahri</a>
+<a name="2">[2]</a> <a href="#2" id=2>'협회 는 제품 성능 을 철저 하 게 평가 하 기 로 유명해 소비자 신뢰도 가 높 다는 게 lg 전자 설명 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>air - conditioning heating & refrigeration institute ) 가 주 는 ‘ 퍼포먼스 어워드 ( performance award ) ’ 를 수상 했 다고 1 일 밝혔 다 .'</a>
+</body>
+</html>

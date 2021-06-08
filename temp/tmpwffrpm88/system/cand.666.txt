@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ with posco 센터 ’ 신설 고객 의견 경영 층 에 직통 포스코 가 지난 11 일 서울 포스코 센터 에서 기업 시민 포스 코마 케 터 변화 실천 다짐 대회 를 개최 하 고</a>
+<a name="2">[2]</a> <a href="#2" id=2>'포스코 마케팅 이 창의 · 혁신 마인드 를 갖춘 젊 은 직원 들 주도 로 새롭 게 변화 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>끊임없이 혁신 해 고객 과 더불 어 함께 발전 할 것 을 다 짐 했 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['평택 당 진항 매립지 관할 권 분쟁 과 관련 해 최근 평택시 를 중심 으로 ‘ 평택항 수호 범 경기 도민 대책 위원회 ’ 가 지난 9 일 발족 해 논란 이 일 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 평택항 수호 범 시민운동 본부 관계자 등 25 명 이 참여 했으며 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 공재 광 평택 시장 을 선출 했 다 .'</a>
+</body>
+</html>

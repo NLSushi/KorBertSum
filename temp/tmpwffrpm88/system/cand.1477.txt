@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['육군 31 사단 강희열 대대 산불 확산 차단 기여'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'강희열 대대 는 이날 원인 미상 발생 한 산불 소식 을 접하 고 신속히 30 여 명 의 진압 팀 을 꾸려 잔불 제거 작전 에 투입 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'광양시 와 소방 당국 은 헬기 2 대 와 소방차 1 대 등 을 투입 해 진화 작업 에 나섰 고</a>
+</body>
+</html>

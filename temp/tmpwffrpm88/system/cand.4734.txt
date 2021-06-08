@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['신세계 건설 이 광주시 서구 농성동 옛 상록 회관 부지 에 최 고급 아파트 ‘ 빌리 브 트레 비체 ’ 를 분양 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'서울 의 ‘ 트리 마제 ’</a>
+<a name="3">[3]</a> <a href="#3" id=3>전용 면적 별 로 136 ㎡ 70 가구</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['sk 와이번스 와 두산 베어스 의 2018 한국 시리즈 ( ks ) 6 차 전 은 무려 5 시간 7 분 간 의 혈투 로 진행 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'그렇 다면 한국 시리즈 역대 가장 긴 승부 는 언제 일까 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'역대 한국 시리즈 사상 세 번 째 로 길 었 던 승부 였 다 .'</a>
+</body>
+</html>

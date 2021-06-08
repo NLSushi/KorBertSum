@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 당진 ] 당진 시립 노인 요양원 이 23 일 오전 10 시 30 분 김홍장 당진 시장 을 비롯 한 내 외빈 이 참석 한 가운데 개원식 을 갖 고 치매 전담 실 운영 에 돌입 했 다 .'</a>
+</body>
+</html>

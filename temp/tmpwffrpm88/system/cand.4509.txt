@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'시청 률 조사 기관 닐슨 코리아 에 따르 면</a>
+<a name="2">[2]</a> <a href="#2" id=2>['sbs ‘ 런닝맨 ’ 이 ‘ 2049 시청 률 ’ 동시 간대 1 위 를 차지 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'평균 시청 률 은 1 부 5 . 1 %</a>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['지난해 9 · 13 대책 으로 부동산 매매 시장 이 가라앉 자 국내 시중 은행 의 4 분기 전세 자금 대출 이 큰 폭 으로 늘 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 는 지난해 9 월 말 57 조 9577 억 원 에 견줘 5 조 134 억 원 늘어난 규모 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['국수 요리 전문점 다인 식당 이 지난 4 월 원당동 에 새롭 게 문 열 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'남편 의 사업 을 돕 던 그 는 지인 이 운영 하 던 카페 를 리모 델 링 해 다 인식 당 을 개업 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'남 대표 는 “ 콩국수</a>
+</body>
+</html>

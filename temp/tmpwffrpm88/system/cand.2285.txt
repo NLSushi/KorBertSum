@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['5 · 18 역사 왜곡 처벌 광주 운동 본부 가 23 일 광주시 동구 5 · 18 민주 광장 에서 기자 회견 을 열 고 5 · 18 망언 자유 한 국당 국회의원 퇴출 과 역사 왜곡 처벌 법 제정 을 촉구 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'/ 김진수 기자 jeans @ kwangju . co . kr'</a>
+</body>
+</html>

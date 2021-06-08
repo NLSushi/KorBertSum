@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['기자 대구시 가 출근 시간 ( 오전 7 ~ 9 시 ) 특정 구간 을 오가 는 ‘ 출근 버스 ’ 를 도입 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 출근 버스 는 다람쥐 가 쳇바퀴 를 돌 듯 짧 은 구간 만 반복 적 으로 운행 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'특정 시간 대 일부 구간 에 승객 들 이 몰려 빚어지 는 혼잡 현상 해소 를 위해서 다 .'</a>
+</body>
+</html>

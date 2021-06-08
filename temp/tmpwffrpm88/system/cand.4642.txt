@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'/ 사진 = 용인 시 제공'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'시 는 단순 한 절차 상 하 자라 며 확대 해석 을 경계 하 는 분위기 지만 이 문제 를 최초 로 제기 한 시 의회 는 고의 성 을 강하 게 의심 하 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>실수 가 반복 되 면 고의 가 된다 .'</a>
+</body>
+</html>

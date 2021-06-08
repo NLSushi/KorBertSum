@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['졸업식 시즌 이 다가왔 지만 대학 졸업 자 2 명 중 1 명 만 졸업식 에 참석 할 것 으로 보인다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '졸업 예정자 4 명 중 2 명 만 졸업식 참석 을 확정 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '졸업식 에 참여 하 는 가장 큰 이유 로 는 ‘ 생애 한 번 밖에 없 는 날 이 기 때문 에 ’( 24 %) 가 주된 목적 으로 손꼽혔 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대구 상공 회의소 의 회원 기업 에 대한 연구 개발 ( research and development · 이하 r & d ) 지원 사업 이 본격 시작 됐 다 .'</a>
+</body>
+</html>

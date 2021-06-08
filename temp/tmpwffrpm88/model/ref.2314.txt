@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['최저임금 부터 근로 시간 단축 까지 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 직장인 이 라면 참고 해야 할 ‘ 기 해년 노동 시장 달라지 는 10 가지 ’ 를 취업 포털 인 크루트 ( www . incruit . com ) 가 엄선 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 530 원 에서 10 . 9 % 오른 8</a>
+</body>
+</html>

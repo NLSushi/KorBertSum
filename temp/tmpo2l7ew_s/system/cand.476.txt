@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['내년 3 월 준공 예정 인 아산시 육아 종합 지원 센터 조감도 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>"- 민선 7 기 공약 ' 아이 키우 기 좋 은 아산 만들 기 ' 조성 기반 마련"</a>
+<a name="3">[3]</a> <a href="#3" id=3>지상 3 층 규모 로 실옥동 181 - 15 번지 ( 구 ) 농 촌지 도 소 부지 에 건립 된다 .'</a>
+</body>
+</html>

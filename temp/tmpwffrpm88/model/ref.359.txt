@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>롯데마트 와 상생 협약 을 체결 하 고 기념 촬영 을 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '구리시 는 지난 24 일 구리 전통 시장 상 인회 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 롯데마트 등 과 ‘ 원 도심 상권 활성 화 사업 지원 을 위한 상생 협 약식 ’ 을 가졌 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'지난해 경우 봄 가뭄 으로 인해 2016 년 18 건 ( 4 . 65 ha ) 의 산불 이 발생 했 던 것 에 비해 2 배 이상 증가 한 것 으로 집계 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['▲ 당진시 가 산불 전문 예방 진화 대 와 산불 감시원 을 조직 하 고 지난 6 일 당진 시청 중 회의실 에서 발대식 을 가졌 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>수당리 ( 2 ha )</a>
+</body>
+</html>

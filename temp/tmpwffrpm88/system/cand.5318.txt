@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>전기방석 등 이 대표 적 인 경우 이 며</a>
+<a name="2">[2]</a> <a href="#2" id=2>['김성기 인천 송도 소방서 장 / 소방정'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이 에 따라 소방서 에서 는 각종 홍보 를 통해 전 열기구 로 인한 화재 를 줄이 기 위해 노력 하 고 있 으나</a>
+</body>
+</html>

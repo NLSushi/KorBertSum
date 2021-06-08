@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['김삼호 광산구 청장 이 3 일 광주 세계 수영 선수 권 대회 개막 d - 100 일 을 맞 아 남부 대 시립 국제 수영장 에서 ‘ 대회 성공 개최 기원 현장 확대 간부회 의 ’ 를 개최 하 는 등 현장 점검 을 실시 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 어 경영 · 다이빙 · 수구 경기장</a>
+</body>
+</html>

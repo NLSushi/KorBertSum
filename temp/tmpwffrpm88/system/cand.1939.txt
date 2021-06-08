@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['전남 학교 석면 제거 율 전국 최하위권 오 명'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'올해 33 % 그쳐 … 교육 당국 의지 부족 비판 “ 학사 차질 최소 화</a>
+<a name="3">[3]</a> <a href="#3" id=3>2027 년 까지 모두 제거 ”'</a>
+</body>
+</html>

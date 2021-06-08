@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['지역 문제 를 주민 이 직접 발굴 하 고 정부 와 지자체 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '이날 행사 는 이용섭 시장 과 윤종 인 행정 안 전부 차관 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '이후 4 월 부터 5 월 까지 5 회 의 광주 혁신 플랫 폼 원탁회의 를 진행 해 사회 적 약자 를 보호 하 고 광주만 의 특성 을 반영 한 추진 의 제 15 개 를 발굴 했 다 .'</a>
+</body>
+</html>

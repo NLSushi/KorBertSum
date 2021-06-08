@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['시가총액 상위 30 대 기업 임원 의 평균 연령 은 만 52 . 9 세 였 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'취업 준비 의 시작</a>
+<a name="3">[3]</a> <a href="#3" id=3>'그 결과 75 . 8 % 가 국내 대학 출신 으로 나타났 다 .'</a>
+</body>
+</html>

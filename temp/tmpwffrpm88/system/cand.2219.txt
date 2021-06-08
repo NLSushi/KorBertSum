@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 기호일보 = 디지털 뉴스 부 ] 아이폰</a>
+<a name="2">[2]</a> <a href="#2" id=2>갤럭시 노트 8 등 삼성 갤럭시 액정 수리 를 특가 로 진행 한다고 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'지난 10 월 에 는 갤럭시 s 9</a>
+</body>
+</html>

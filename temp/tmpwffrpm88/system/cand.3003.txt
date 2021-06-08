@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'광양시 가 열악 한 광양만 권 내 기업 인 교육 인프라 를 확충 하 기 위해 ‘ 중소기업 연수원 유치 ’ 를 추진 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['타당 성 연구 용역 착수 보 고'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'오 는 11 월 까지 용역 추진'</a>
+</body>
+</html>

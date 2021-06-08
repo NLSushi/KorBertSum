@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>자원 봉사자 등 3000 여 명 이 참여 한 가운데 예산 윤봉길 체육관 에서 성황리 에 개최 됐 다 ."</a>
+<a name="2">[2]</a> <a href="#2" id=2> '사진 = 예산군 제공'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 15 개 시 · 군 장애 인 및 가족</a>
+</body>
+</html>

@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'알바 천국 이 올해 1 월 ~ 3 월 아르바이트 소득 이 있 는 전국 남녀 총 3 천 215 명 의 월평균 총 소득 과 근무 시간 을 조사 · 분석 한 결과 1 분기 아르바이트 생 평균 시급 은 8 천 645 원 으로 나타났 다 .'</a>
+</body>
+</html>

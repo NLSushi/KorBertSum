@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['▲ 강익 재 당진 시장 예비 후보 가 지난 18 일 선거 사무소 개소식 을 개최 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이날 개소식 에 는 더불 어 민주당 당원 및 지방 선거 출마 자</a>
+<a name="3">[3]</a> <a href="#3" id=3>강 후보 자신 을 소개 하 고 가족 들 이 나와 인사 하 는 시간 을 가졌 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'/ 광주시 북구 제공'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '앞서 ‘ 김정호 거리 ’ 조성 사업 대상지 인 북동 93 - 1 번지 일원 이 재 개발 지역 에 포함 돼 지난 1 월 사업 이 일시 중단 됐었 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '올해 까지 시비 3 억 원 을 들여 김정호 동산 · 김정호 스토리 길 조성</a>
+</body>
+</html>

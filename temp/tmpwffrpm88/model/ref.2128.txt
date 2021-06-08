@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'올해 주민 참여 예산제 에 는 특히 지역 청소년 들 의 참여 예산제 가 눈 에 띈다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '청소년 들 이 지역 문제 에 관심 을 가지 고 적극 참여 하 는 참여 민주주의 가치 학습 을 위해 중 · 고등학교 까지 청소년 참여 예산제 를 확대 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 모 의 참여 예산 위원회 운영</a>
+</body>
+</html>

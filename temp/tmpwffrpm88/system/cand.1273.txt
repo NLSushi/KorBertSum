@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['역사 란 우리 에게 무엇 인가 ?'</a>
+<a name="2">[2]</a> <a href="#2" id=2>과거 와 현재 의 끊임없 는 대화 ’ 라고 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'해석 의 차이 와 지혜 를 얻 는 수준 의 높낮이 는 다를 수 있 지만 역사 적 사실 은 변하 지 않 는 기록 이 고 기억 이 다 .'</a>
+</body>
+</html>

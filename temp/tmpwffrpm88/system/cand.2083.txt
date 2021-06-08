@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['두 경기 연속 ‘ 끝 내기 쇼 ’ 를 펼친 키움 히어로즈 가 ‘ 1 승 ’ 을 위해 잠실 로 간다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'안방 에서 열린 1</a>
+<a name="3">[3]</a> <a href="#3" id=3>2 차 전 을 모두 승리 로 장식 한 키움 은 플레이오프 진출 에 1 승 만 을 남겨 두 고 있 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 수영 대회 성공 개최 를 위해 국제 수영 연맹 ( fina ) 과 대회 공식 후 원사 로 참여 한 세계 적 인 기업 들 이 머리 를 맞대 는 fina 공식 후 원사 ( 파트너 ) 워크숍 이 개최 된다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 아레나 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 공식 후 원사 간 분야 별 업무 공유 의 장 으로 대회 시설 및 숙박업소 점검 과 후 원사 가 후원 하 는 공급 품목 에 대해 협의 하 게 된다 .'</a>
+</body>
+</html>

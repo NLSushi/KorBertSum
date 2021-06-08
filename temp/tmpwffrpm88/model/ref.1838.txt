@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'공무원 5 급 상당 대우 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 국공립 기관 단체 에서 최근 3 년 이내 에 징계 를 받 지 않 았 어야 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '희망자 는 오 는 15 일 부터 17 일 까지 응시 원서 를 여수시 문화예술 과 로 방문 제출 하 거나 등기우편 으로 발송 하 면 된다 .'</a>
+</body>
+</html>

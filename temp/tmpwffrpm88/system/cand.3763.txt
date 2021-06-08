@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'ebs 에서 ‘ 미녀 강사 ’ 로 유명세 를 얻 은 뒤</a>
+<a name="2">[2]</a> <a href="#2" id=2>['eebs 에서 활동 하 던 이다지 강사 모습 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>현재 메가 스터디 에서 활동 중 인 이다지 강사 와 고 아름 강사 가 교재 도용 문제 를 놓 고 설전 을 벌인 사실 이 뒤늦 게 재조명 되 고 있 다 .'</a>
+</body>
+</html>

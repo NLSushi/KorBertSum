@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대통령 이 말 하 는 제주 4 · 3</a>
+<a name="2">[2]</a> <a href="#2" id=2>그날 의 진실 은 …'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'광주 5 · 18 민주 화 운동 기록 관서 개최'</a>
+</body>
+</html>

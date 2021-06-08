@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['gist 신 소재 공학부 이광희 ( 사진 ) 교수 팀 이 초 박막 금속 투명 전극 을 이용 해 간단 한 구조 의 감성 조명 용 마이크 로 캐 비티 ( microcavity ) oled 구조 를 개발 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 는 두 개 의 반사 층 과 굴절 율 차이 가 크 게 나 는 한 개 의 중간 층 으로 이뤄진 구조 로</a>
+<a name="3">[3]</a> <a href="#3" id=3>중간층 의 두께 에 따라 빛 의 파동 이 보강간섭 또는 상쇄간섭 을 일으킨다 .'</a>
+</body>
+</html>

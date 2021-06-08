@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>대티역 1 번 출구 에서 5 분 남짓 한 거리 에 위치 해 있 는 한라 빌딩 1 층 에서 ‘ 동주 외식 조리 센터 ’ 의 개소 를 축하 하 는 개소식 을 가졌 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['동주 대학교 ( 총장 김영탁 ) 는 지난 1 월 22 일 ( 화 )</a>
+<a name="3">[3]</a> <a href="#3" id=3>부속 기관장 등 주요 인사 40 여 명 이 참석 하 였 다 .'</a>
+</body>
+</html>

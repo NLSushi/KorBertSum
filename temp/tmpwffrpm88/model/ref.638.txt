@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['1 일 오후 2 시 전주 월드컵 경기장 에서 지난 시즌 우승컵 을 든 대구 fc 와 전북 현대 가 격돌 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '지난 시즌 우승컵 을 든 두 팀 이 격돌 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '대구 fc 는 1 일 오후 2 시 전주 월드컵 경기장 에서 전북 현대 와 keb 하나 원 큐 k 리그 1 2019 1 라운드 원정 경기 를 치른다 .'</a>
+</body>
+</html>

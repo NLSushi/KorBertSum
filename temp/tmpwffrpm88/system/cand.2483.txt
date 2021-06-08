@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['먹 어도 단식 효과 가 나 는 fmd 단식 모방 식단 을 소개 한 sbs 스페셜 이 화제 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'‘ sbs 스페셜 ’ 에서 는 2 주간 ‘ 2019 끼니 반란 ’ 이 라는 주제 로 방송 되 었 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이어 2 편 < 먹 는 단식 - fmd 의 비밀 > 편 또한 시청 률 8 . 5 %( 닐슨 가구 기준</a>
+</body>
+</html>

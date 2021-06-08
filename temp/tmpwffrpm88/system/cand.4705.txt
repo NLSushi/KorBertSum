@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'‘ 근로 정신대 할머니 와 함께 하 는 시민 모임 ’ 이 문재 인 정부 의 일제 강제 동원 피해자 보상 방 안 에 대한 우려 를 표명 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['강제 동원 사죄 하 라 !'</a>
+</body>
+</html>

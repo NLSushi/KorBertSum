@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['전남 지역 22 개 모든 자치 단체 가 추석 ( 9 월 13 일 ) 전 까지 지역 화폐 를 발행 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'기존 에 는 16 개 시 · 군 이 ‘ 나주 사랑 상품권 ’</a>
+<a name="3">[3]</a> <a href="#3" id=3>판매 하 게 된다 .'</a>
+</body>
+</html>

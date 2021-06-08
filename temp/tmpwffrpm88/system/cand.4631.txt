@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 효도 수당 에 구직 활동비 에 … ’.'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'일거리 가 필요 한 노인 들 을 위하 ‘ 이야기 할머니 · 할아버지 양성 사업 ’ 도 추진 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'12 일 익산시 에 따르 면 이달 부터 4 대 가 함께 사 는 가정 에 주 는 효도 수당 의 금액 을 높이 고 지원 기준 도 완화 한다 .'</a>
+</body>
+</html>

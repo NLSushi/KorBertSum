@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['의정부 성모병원 신경 과 연구 팀 이 알츠하이머병 치매 환자 의 치료 에 사용 하 는 ‘ 도네 페질 ’ 고용량 처방 에 앞서 중간 용량 부터 선 처방 해야 부작용 을 줄일 수 있 다는 연구 결과 를 발표 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>해당 논문 내용 이 의학 분야 국제 학술지 ‘ alzheimer ‘ s research & therapy ’ 에 게재 됐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>고용량 ( 23 mg ) 의 도네 페질은 표준 용량 ( 10 mg ) 에서 인지 개선 효과 가 기대 에 못 미칠 경우 중기 또는 말기 환자 에게 주로 사용 한다 .'</a>
+</body>
+</html>

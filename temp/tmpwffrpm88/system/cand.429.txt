@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['화요일 인 22 일 은 내륙 지역 을 중심 으로 일교차 가 크 고</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이날 아침 최저 기온 은 8 ∼ 17 도</a>
+<a name="3">[3]</a> <a href="#3" id=3>'일부 내륙 지역 은 일교차 가 10 ∼ 15 도 까지 벌어지 겠 다 .'</a>
+</body>
+</html>

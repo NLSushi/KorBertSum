@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['인천 지역 외국 인 수 가 매년 증가 하 면서 외국인 강력범 죄 가 최근 4 년 간 3 배 가까이 증가 한 것 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>2016 년 2 천 45 건 등 으로 매년 증가 추세 를 보이 다 2017 년 1 천 856 건</a>
+<a name="3">[3]</a> <a href="#3" id=3>'최근 5 년 간 발생 한 외국인 범죄 는 모두 9 천 401 건 으로</a>
+</body>
+</html>

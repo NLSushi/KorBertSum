@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'공군 장병 이 디자인 한 공군 캐릭터 가 세계 적 인 디자인 공모전 에서 본상 을 수상 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> "17 일 공군 에 따르 면 공군 장병 이 임무 를 위해 착용 하 는 50 여 종 의 피복 을 캐릭터 화 한 디자인 이 지난 15 일 ( 현지 시간 ) 독일 뮌헨 비엠 더블유 벨트 에서 열리 는 ' 아이에프 디자인 어워드 ( if design award ) ' 브랜 딩 ( branding ) 부문 에서 본상 을 받 았 다 ."</a>
+<a name="3">[3]</a> <a href="#3" id=3> 독일 ' 레드 닷 디자인 어워드 ( red dot design award ) ' 와 함께 세계 3 대 디자인 공모전 으로 평가 받 는다 ."</a>
+</body>
+</html>

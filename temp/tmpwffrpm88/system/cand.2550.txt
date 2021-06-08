@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>100 억 원 씩 매년 400 억 원 을 지원 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['전 남도 가 지역 미래 성장 을 이끌 대 규모 지역 발전 프로젝트 로 ‘ 전남 형 지역 성장 전략 사업 ’ 을 본격 추진 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'매년 공모 를 시행 해 시 · 군 이 제안 한 사업 중 4 개 시 · 군 의 4 개 사업 을 선정</a>
+</body>
+</html>

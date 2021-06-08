@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['최근 축사 로 인한 민원 이 계속 해서 이어지 고 있 는 가운데 순성면 양유리 일원 에서 도 주민 들 이 피해 를 호소 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'주민 들 은 a 씨 가 그동안 돈 사 를 운영 하 면서 제대로 관리 하 지 않 아 축 분 유출 로 인한 지역 농경지 피해 와 악취</a>
+</body>
+</html>

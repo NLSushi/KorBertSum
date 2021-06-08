@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 시립 도서관 은 이용자 가 보 고 싶 은 책 을 서점 에서 바로 대출 · 반납 하 고 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 반납 된 책 은 정리 후 도서관 소장 자료 로 비치 하 는 ‘ 희망 도서 바로 대출 서비스 ’ 사업 을 내년 부터 추진 한다고 29 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '대형 체인 서점</a>
+</body>
+</html>

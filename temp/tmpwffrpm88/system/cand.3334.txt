@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['한 차례 비 소식 이 지나간 후 후덥지근 한 무더위 가 연일 이어지 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'13 년 째 우 미락 을 운영 해 오 고 있 는 백성 옥 대표 가 그동안 갈비 를 손질 한 양만 350 톤 에 이른다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'우 미락 의 대표 메뉴 는 갈비탕 이 다 .'</a>
+</body>
+</html>

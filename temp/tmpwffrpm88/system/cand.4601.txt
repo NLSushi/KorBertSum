@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 영동 ] 영동군 이 민족 대명 절인 설 을 맞 아 지역 경제 활성 화 와 전통 시장 살리 기에 나 서 눈길 을 끌 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'행사 는 올해 기후 변화 의 여파 에 따른 물가 상승</a>
+<a name="3">[3]</a> <a href="#3" id=3>'29 일 에 는 영동 전통 시장 일원 에서 박세복 군수 를 비롯 해</a>
+</body>
+</html>

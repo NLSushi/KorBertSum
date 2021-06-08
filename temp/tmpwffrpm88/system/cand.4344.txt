@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['전남 평균 어가 소득 사상 첫 5 천만 원 돌파'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'1 억 이상 고소득 2 천 413 어가 … 수산물 전국 생산량 53 %'</a>
+<a name="3">[3]</a> <a href="#3" id=3>2017 년 4 천 902 억 원</a>
+</body>
+</html>

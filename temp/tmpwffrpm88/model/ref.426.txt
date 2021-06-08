@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['시민 300 명 대상 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 도시 재생 의 올바른 이해 기자 ‘ 열린 도시 재생 아카데미 ’ 가 오 는 27 일 부터 5 주간 대구경북 디자인 센터 에서 열린다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '2011 년 시작 된 열린 도시 재생 아카데미 는 지난해 까지 6 천 100 여 명 이 참여 했 다 .'</a>
+</body>
+</html>

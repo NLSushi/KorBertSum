@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'각국 대표 팀 선수단 등 에 차량 66 대 제공'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '기아 자동차 는 10 일 ‘ 2019 fifa 프랑스 여자 월드컵 ’ 공식 후 원사 로 활동 한다고 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '기아차 는 또 fifa 와 연계 해 공식 유스 프로그램 인 ‘ 기아 오피셜 매치 볼 캐리어 ( kia ombc ) ’ 프로그램 을 운영 한다 .'</a>
+</body>
+</html>

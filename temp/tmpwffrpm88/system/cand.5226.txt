@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>시선 등 여러 방식 을 동시 에 활용 해 차량 과 커뮤니케이션 할 수 있 는 새로운 기술 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'bmw 가 스페인 바르셀로나 에서 25 ~ 28 일 ( 현지 시간 ) 까지 열리 는 ‘ 모바일 월드 콩 그 레스 2019 ( mobile world congress 2019</a>
+<a name="3">[3]</a> <a href="#3" id=3>'2021 년 출시 예정 인 bmw i 넥스트 ( inext ) 에 최초 도입 되 는 이 기술 은 운전자 가 사람 과 대화 하 듯이 음성</a>
+</body>
+</html>

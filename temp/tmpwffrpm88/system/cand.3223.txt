@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>전 망치 는 오히려 전 분기 ( 78 . 6 ) 보다 21 . 4 p 높 은 100 . 0 을 나타냈 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>경기 악화 예상 ‘ 불 확실 성 악재 ’'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'광양 지역 기업 들 이 올해 2 분기 기업 경기 가 어려울 것 이 라고 전망 했 지만</a>
+</body>
+</html>

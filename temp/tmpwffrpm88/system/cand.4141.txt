@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'부산시 교육청 은 기장군 일 광면 삼 성리 376 답 에 일광 2 초등 학교 ( 가칭 ) 를 짓 기 위한 설계 용역 계약 을 마쳤 다고 11 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'- 일광 신 도시 내 입주자 들 반발'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'- 통학 어려움 고려 해 이전 추진'</a>
+</body>
+</html>

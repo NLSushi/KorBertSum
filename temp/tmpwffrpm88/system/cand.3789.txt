@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['취업 준비 생 a 씨 는 3 년 째 전남 대 후문 원룸 촌 에서 친구 와 살 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'목표 로 하 는 직장 은 다르 지만 ‘ 취 준 생 ’ 이 라는 공통점 에 월세 도 아낄 수 있 기 때문 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'둘 다 미혼 이 라 주말 이 면 전남 지역 관광지 나 맛집 투어 를 다닌다 .'</a>
+</body>
+</html>

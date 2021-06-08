@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['회전교차로 일대 교통 체증 심화 횡단 보도 과속 방지 턱 배수 안 돼 비 내리 면 물웅덩이 등 이용 불편'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'인천 애 ( 愛 ) 뜰 조성 으로 인한 부작용 이 곳곳 에서 발견 되 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'최 유탁 기자 cyt @ kihoilbo . co . kr'</a>
+</body>
+</html>

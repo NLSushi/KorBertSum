@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'- 변재일 과기부 장관 유력 거론'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['- 우상호 문체 부 · 박영선 중기 부'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'- 주일 · 주 중대사 내 정도 발표 할 듯'</a>
+</body>
+</html>

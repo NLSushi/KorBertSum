@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['출산 후 고통 ‘ 산후풍 ’ 초기 치료 가 관건'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'40 세 김영희 ( 가명 ) 씨 는 3 개월 전 첫 아이 를 출산 한 후 몸조리 를 제대로 하 지 못해 전신 관절통 을 호소 하 며 한 의원 에 내원 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'발목 · 허리 등 관절 부위 저리 거나 시린 증상'</a>
+</body>
+</html>

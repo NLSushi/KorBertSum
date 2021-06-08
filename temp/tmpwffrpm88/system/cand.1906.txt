@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['- 이수일 kdi 교수 조사 결과'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'우리 나라 를 찾 는 외국인 관광객 수 가 연평균 10 % 대 의 증가세 를 보이 나</a>
+<a name="3">[3]</a> <a href="#3" id=3>'관광 산업 의 질 적 경쟁력 을 높이 고 지역 간 불 균형 현상 을 해소 하 려면 정부 가 관광 정책 을 대폭 수정 해야 한다는 지적 이 나왔 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'전 남도 와 한국전력 은 25 일 에너지 밸리 산학 융합 지구 준공식 과 에너지 신 산업 핵심 연구 기관 인 에너지 신 기술 연구소 착공식 을 가졌 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '지난 5 월 산학 융합 캠퍼스 와 기업 연구관 을 준공 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 실험 실습실</a>
+</body>
+</html>

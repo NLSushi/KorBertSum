@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이재명 경기 지사 의 핵심 정책 중 하나 인 ‘ 공공 개발 이익 도민 환원제 ’ 가 실행 되 기 위한 법제 화 작업 이 본격 화 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '29 일 경기도 와 더불 어 민주당 김철민 ( 안산 상록 을 ) 국회의원 에 따르 면 김 의원 은 최근 ‘ 공공 주택 특별법 ’</a>
+<a name="3">[3]</a> <a href="#3" id=3> ‘ 택지 개발 촉진 법 ’</a>
+</body>
+</html>

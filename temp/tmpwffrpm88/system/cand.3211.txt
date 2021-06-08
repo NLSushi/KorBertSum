@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'공개 된 영상 속 보육 교사 는 우 는 아동 의 입 에 밥 을 욱여넣 고 아동 이 밥 을 토해 내 자 토한 밥 을 다시 아동 의 입 에 넣 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['mbc 의 ‘ 바로 간다 ’ 에서 구미 어린이집 아동 학대 cctv 영상 이 공개 됐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'해당 영상 은 어린이집 에 가 기 싫 어 하 는 아이 들 이 늘어나 자 학부모 들 이 어린이집 cctv 영상 을 요청 해 공개 되 었 다고 mbc 는 전했 다 .'</a>
+</body>
+</html>

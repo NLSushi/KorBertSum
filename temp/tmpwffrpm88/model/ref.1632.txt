@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['금융 중심지 인 부산 남구 문현동 bifc 에서 세계 로 나아갈 스타트업 이 육성 된다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '부산시 와 한국 거래소 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '‘ ibk 창공 ’ 은 기업 은행 이 운영 하 는 창업 육성 플랫폼 으로 금융 시장 에서 소외 되 기 쉬운 초기 창업 기업 과 혁신 · 벤처 기업 등 을 지원 한다 .'</a>
+</body>
+</html>

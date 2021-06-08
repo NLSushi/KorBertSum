@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'전남 영광군 은 최근 영광 예비군 훈련장 에서 예비군 60 명 을 대상 으로 인구 ㆍ청년ㆍ일자리ㆍ결혼출산 정책 을 홍보 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>예비군 대상 찾아가 는 인구 ㆍ청년정책 등 홍보'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'청년 들 결혼 장려금 · 신생아 양육비 지원 에 관심'</a>
+</body>
+</html>

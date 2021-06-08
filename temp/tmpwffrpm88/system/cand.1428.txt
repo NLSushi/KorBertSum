@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['여성 농업 인 10 명 중 8 명 은 남성 농업 인 보다 지위 가 낮 다고 생각 하 고</a>
+<a name="2">[2]</a> <a href="#2" id=2>직업 적 지위 를 경영주 로 인식 하 는 비율 도 저조 한 것 으로 나타났 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'조사 대상 은 서울 · 광주 · 대전 을 제외 한 전국 의 만 18 세 이상 일반 여성 농업 인 1534 명</a>
+</body>
+</html>

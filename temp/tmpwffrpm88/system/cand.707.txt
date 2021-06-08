@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['홍준표 전 자유 한 국당 대표 가 경남 도 지사 재임 때 시행 한 진주 의료 원 폐업 이 합당 했 는지 밝힐 조사 위원회 가 출범 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>전 · 현직 도 의원 등 16 명 으로 구성 됐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이어 “ 폐업 논의 와 결정</a>
+</body>
+</html>

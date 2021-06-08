@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'영남대 가 새 마을 개발 적용 을 위한 정책 연수 교육 을 통해 에티오피아 남부 국가 민족 주 ( snnpr ) 의 지역 발전 을 이끄 는 데 앞장서 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '9 일 영남대 에 따르 면 에티오피아 snnpr 주지사 일행 이 지난달 25 일 부터 이날 까지 영남대 국제 개발 협력 원 이 실시 한 새 마을 개발 정책 연수 에 참여 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '특히 이번 연수 는 최근 취임 한 밀리언 마테우스 ( million mathewos ) 신임 snnpr 주지사 의 요청 에 의한 것 이 다 .'</a>
+</body>
+</html>

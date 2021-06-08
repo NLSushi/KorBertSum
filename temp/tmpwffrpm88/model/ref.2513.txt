@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'롯데 자이언츠 가 프로 야구 역대 한 이닝 최다 실점 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 피 안 타 라는 굴욕 적 인 신 기록 의 제물 이 됐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '한화 는 3 회 에 만 선발 전원 득점 도 이뤘 다 .'</a>
+</body>
+</html>

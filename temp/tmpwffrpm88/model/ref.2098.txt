@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['6 만 여 ㎡ 규모 공원 과 함께 조성 되 는 여수시 소라면 ‘ 힐 스테이트 죽림 ’ 견본 주택 이 오 는 29 일 문 을 연다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '‘ 힐 스테이트 ’ 는 ‘ 대한민국 명품 지수 아파트 부문 ’ 에 8 년 연속 1 위 에 꼽혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '이 중 141 세대 가 일반 분양 으로 나온다 .'</a>
+</body>
+</html>

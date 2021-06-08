@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'사람 들 은 땡볕 더위 를 피해 시원 한 바다 나 계곡 을 찾 아 떠나 고 있 지만 무더위 를 이겨 내 기 에 는 어림 도 없 다며 힘들 어 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['심한 화상 을 입 고 5 개월 째 피부 재생 치료 를 받 고 있 는 모습 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'폭염 이 연일 사상 최고 온도 를 갱신 하 며 맹위 를 떨치 고 있 다 .'</a>
+</body>
+</html>

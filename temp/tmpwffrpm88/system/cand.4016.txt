@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 핫식스 ’ 이정은 ( 23 ) 이 미국 여자 프로 골프 ( lpga ) 투어 무대 에 상륙 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이정은 은 14 일 호주 애들레이드 의 그레 인지 골프클럽 ( 파 72 · 6648 야드 ) 에서 막 을 올리 는 isps 한다 호주 여자 오픈 ( 총 상금 130 만 달러 ) 에서 lpga 투어 정식 데뷔 전 을 치른다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'올 시즌 lpga 신 인상 수상 여부 에 관심 이 쏠린다 .'</a>
+</body>
+</html>

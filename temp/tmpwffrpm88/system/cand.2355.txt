@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['전국 공무원 노동조합 인천 지역 본부 서구 지부 ( 노조 ) 가 ‘ 성추행 의혹 ’ 에 연루 된 이재현 서구 청장 을 고발 하 지 않 기 로 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 는 최근 구 기획 예산 실 직원 들 이 이 구청장 의 사과 를 받아들임 에 따른 결정 이 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'sk 엔카 직영 온라인 플랫 폼 sk 엔카 닷컴 ( 대표 김상범 ) 은 올 들 어 sk 엔카 플랫폼 에서 거래 된 차량 의 평균 판매 기간 을 조사 한 결과 국산 차 는 쌍용 렉스턴 스포츠</a>
+<a name="2">[2]</a> <a href="#2" id=2>수입 은 20 대 이상 판매 된 차량 들 을 대상 으로 이뤄졌 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>수입 차 는 아우디 a 4 가 가장 빨리 팔린 것 으로 나타났 다고 31 일 밝혔 다 .'</a>
+</body>
+</html>

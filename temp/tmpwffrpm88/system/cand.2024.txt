@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 영화인 들 의 비평 의 목소리 를 한 데 모은 영화 잡지 가 나왔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'( 사 ) 광주 영화 영상 인 연대 는 2016 년 조직 위 내부 갈등 으로 불거진 광주 국제 영화제 파행 사태 이후 광주 영화 씬 을 활성 화 시키 고자 출범 한 단체 로</a>
+<a name="3">[3]</a> <a href="#3" id=3>'잡지 는 광주 독립영화 관 개관</a>
+</body>
+</html>

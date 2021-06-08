@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['용인 시 가 재정 악화 로 중단 됐었 던 동백 종합 복지 회관 건립 을 확정 하 면서 동백동 주민 들 이 환영 의 목소리 를 내 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 연면적 1 만 2 천 880 ㎡ 규모 로 건립 될 예정 으로 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 주민 간담회 등 을 거쳐 주요 시설 의 대안 을 마련</a>
+</body>
+</html>

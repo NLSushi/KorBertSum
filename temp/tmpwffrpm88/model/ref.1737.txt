@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['더불 어 민주당 윤호중 ( 구리 ) 국회의원 은 수도 권 광역급행철도 ( gtx ) b 노선 예비 타당 성 조사 ( 예타 ) 결과 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 개통 시 하루 27 만 명 이 이용 하 고 연간 경제 적 편익 도 5 천 70 억 원 에 이르 는 것 으로 나타났 다고 7 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 'gtx - b 노선 이 개통 되 면 기존 일반 노선 을 이용 하 던 고속 열차 가 gtx 노선 을 이용 하 고</a>
+</body>
+</html>

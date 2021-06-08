@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>행정 안 전부 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 한국 무역 협회 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '지상 외부 에 튀어나온 일반 소화전 은 사고 가 날 수 있 어 지하 로 소화전 을 숨기 고 필요시 에 는 수압 을 이용 해 전기 없이 지상 으로 올라오 는 기술 이 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'“ 아프리카 4 개국 공무원 여러분 의 방문 을 환영 합니다 . ”'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['- 깡깡이 예술 마을 등 둘러 봐'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'전민철 기자 jmc @ kookje . co . kr'</a>
+</body>
+</html>

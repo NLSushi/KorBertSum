@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'내년 부터 대구 에서 지역 경제 활성 화 를 위한 지역 사랑 상품권 이 발행 ( 하반기 ) 되 고</a>
+<a name="2">[2]</a> <a href="#2" id=2>'대구시 는 2020 년 부터 달라지 는 제도 를 홈페이지 를 통해 알렸 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'달라지 는 제도 는 시민 생활 과 밀접 한 관련 이 있 는 일자리 · 경제</a>
+</body>
+</html>

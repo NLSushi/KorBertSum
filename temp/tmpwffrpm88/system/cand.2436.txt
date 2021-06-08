@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'kt 는 지난 30 일 부산 사직 체육관 에서 열린 2018 - 2019 skt 5 gx 프로 농구 6 강 po 4 차 전 에서 창원 lg 에 95 - 79 로 승리 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['‘ 양궁 농구 ’ 가 살아난 부산 kt 가 1</a>
+<a name="3">[3]</a> <a href="#3" id=3>'1 일 창원 lg 의 홈 코트 인 창원 체육관 에서 5 차 전 승부 를 남겨 놓 은 kt 서동철 감독 은 “ 2 연패 후 뒤집기 승리 가 0 % 였 던 po 기록 을 깨뜨리 겠 다 ” 며 전의 를 불태우 고 있 다 .'</a>
+</body>
+</html>

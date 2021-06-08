@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['나주시 는 지역 여성 농업 인 의 능력 개발 을 위한 ‘ 전통 식문화 ’ 교육 을 추진 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'교육 생 들 은 기본 조미료 인 간장</a>
+<a name="3">[3]</a> <a href="#3" id=3>'천연 양념 소스 제조 교육 은 8 월 27 일 부터 10 월 1 일 까지 매주 화요일 총 6 회 에 걸쳐 교육 생 30 명 을 대상 으로 실시 한다 .'</a>
+</body>
+</html>

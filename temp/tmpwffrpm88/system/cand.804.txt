@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['남녀 25 ㎞ 금메달 주인공 가려져 … 오픈 워터 마무리'</a>
+<a name="2">[2]</a> <a href="#2" id=2>오픈 워터 남자 25 ㎞ 우승 … 0 . 3 초 차 승리'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'내 가 2 관 왕'</a>
+</body>
+</html>

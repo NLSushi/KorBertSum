@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['- 지하 5 층 ~ 지상 15 층 총 12 개 동'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'- 만덕 3 터널 · 고속화 도로 준공 호재'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'금정산 과 백 양산 을 품 은 숲 세권 아파트 ‘ 신 만덕 베스티 움 에코 포레 ’ 가 이달 분양 을 시작 한다 .'</a>
+</body>
+</html>

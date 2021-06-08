@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>마음 으로 만 받 겠 다고 공식 적 으로 유영하 변호사 를 통해 전달 받 았 다 ” 면서 “ 박근혜 대통령 의 쾌유 와 즉각 석방 을 위해 우리 공화 당 은 최선 을 다 할 것 ” 이 라고 말 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>박근혜 대통령 께서 는 마음 써 주 신 뜻 을 잘 알 고 있 고</a>
+</body>
+</html>

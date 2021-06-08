@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['한국 금융 시장 을 감독 하 는 금융 감독원 이 개원 20 년 을 맞 았 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'금감원 은 지난 1999 년 1 월 2 일 은행 감독원 과 증권 감독원</a>
+<a name="3">[3]</a> <a href="#3" id=3>'윤석헌 금감 원장 은 이날 인사말 에서 “ 금감원 역사 는 대한민국 금융 의 역사 ” 라고 말 했 다 .'</a>
+</body>
+</html>

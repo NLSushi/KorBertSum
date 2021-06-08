@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'대학생 행정 인턴 모집 인원 은 총 100 명 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['여수시 가 사회생활 을 준비 하 는 대학생 들 에게 공직 을 경험 하 고 봉사 할 수 있 는 기회 를 제공 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>복지 관 등 에서 근무 한다 .'</a>
+</body>
+</html>

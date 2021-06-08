@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'- 세 컨 벙커 샷 후 버디 퍼트 마침표'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['- 최종일 18 번 홀 우승 앞두 고 보 기'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'- 박소연 과 13 언더 동 타 이뤄 연장'</a>
+</body>
+</html>

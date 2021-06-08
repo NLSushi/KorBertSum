@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['자유 한 국당 2 · 27 전당 대회 분위 가 달아오르 면서 부산 울산 경남 ( pk ) 출신 최고 위원 이 선출 될지 에 지역 정가 의 관심 이 쏠리 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'조 의원 은 31 일 인천 과 경남 밀양 을 찾 아 당원 간담회 를 여 는 등 광폭 행보 를 계속 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'조경태 의원 ( 왼쪽 )</a>
+</body>
+</html>

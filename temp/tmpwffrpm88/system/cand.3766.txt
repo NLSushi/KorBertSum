@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대구 직장인 들 의 올해 여름휴가 일수 는 평균 3 . 7 일 로 조사 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 는 최근 경기 부진 이 이어지 면서 생산량 이 감축 되 는 원인 이 작용 한 것 으로 분석 된다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'5 일 간 실시 하 는 업체 는 31 . 3 % 로 12 . 9 % 포인트 증가 했 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 불타 는 청춘 ’ 이 추억 과 감동 의 콘서트 무대 로 9 . 8 % 올해 자체 최고 시청 률 을 기록 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'치와 와 부부 김국진 은 강수지 에게 “ 듣 자 하 니 결혼 했 다면서요 ? ” 라며 특유 의 능청 과 만담 토크 로 친숙 한 진행 을 선보였 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'닐슨 코리아 에 따르 면</a>
+</body>
+</html>

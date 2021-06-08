@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['2019 년 1 월 1 일 부터 골프 규칙 이 많이 바뀌 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '새로 바뀌 는 세계 골프 규칙 을 10 가지 만 간추렸 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '이 정도 는 알 고 라운 딩 에 나서 자 .'</a>
+</body>
+</html>

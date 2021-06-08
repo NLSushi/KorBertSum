@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'서한 이 오 는 12 월 20 일 대구 중구 대봉동 55 - 68 번지 일원 에 지하 2 층 ~ 지상 29 층 의 아파트 469 세대 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 79 ㎡</a>
+<a name="3">[3]</a> <a href="#3" id=3> 99 ㎡ 의 모두 9 개 타입 으로 소비자 선택 의 폭 을 넓혔 다 .'</a>
+</body>
+</html>

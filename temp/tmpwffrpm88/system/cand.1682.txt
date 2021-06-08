@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['쌀값 두 고 소비자 · 생산자 온도 차 커'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'해 나 루 쌀 가격 이 5 년 사이 에 1 만 6000 원 이 상승 한 것 으로 나타났 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'쌀값 하락세 타 다 최근 상승세'</a>
+</body>
+</html>

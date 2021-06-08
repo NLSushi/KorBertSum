@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이 장 과 통장 은 지방 자치 의 최 일선 에서 주민 들 과 직접 접촉 하 면서 각종 민원 과 불편 사항 을 해결 하 고 행정 기관 의 시책 을 홍보 하 는 등 주민 과 행정 간 중요 한 가교 역할 을 수행 하 고 있 다 .'</a>
+</body>
+</html>

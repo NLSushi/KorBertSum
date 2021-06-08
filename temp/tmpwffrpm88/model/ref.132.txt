@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 시민 절반 이 청약 통장 을 가졌 고 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 전남 지역 신규 가입자 증가 율 이 전국 에서 가장 높 은 것 으로 나타났 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '청약 통장 가입자 는 지난 4 월 말 기준 광주 73 만 5822 명</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['더불 어 민주당 경기도 당 ( 위원장 국회의원 김경협 ) 은 지난 4 일 경기도 의회 대 회의실 에서 열린 상무 위원회 및 신 년하 례식 에서 2020 년 총선 승리 결의 를 위한 새해 다짐 을 함께 하 고 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 김영진 ( 수원 병 ) </a>
+<a name="3">[3]</a> <a href="#3" id=3> 신창현 ( 의왕 ㆍ과천 )</a>
+</body>
+</html>

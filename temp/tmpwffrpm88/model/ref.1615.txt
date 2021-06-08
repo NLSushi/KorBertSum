@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'광주시 는 친 일 인사 의 행적 이 검증 된 기록 을 적시 하 고 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '친 일 잔재 를 청산 하 기 위한 단죄 문 이 전국 광역 단체 중 최초 로 광주 에 세워졌 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 일제 강제 징용 피해자 와 유족</a>
+</body>
+</html>

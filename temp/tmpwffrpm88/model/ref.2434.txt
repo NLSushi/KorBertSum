@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'현대차 제공'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '박항서 베트남 축구 국가 대표 팀 감독 이 베트남 에서 현대차 싼타페 를 탄다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '현대 자동차 와 현대차 의 베트남 합작 파트너 탄 콩 ( thanh cong ) 그룹 은 지난 11 일 베트남 하노이 에 위치 한 탄 콩 그룹 사옥 에서 박항서 감독</a>
+</body>
+</html>

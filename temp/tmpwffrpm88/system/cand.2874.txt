@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>‘ 삼 삼 오 오 인생 나눔 활동 ’ 지원'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'전라북도 문화 관광 재단 ( 대표 이사 이병천</a>
+<a name="3">[3]</a> <a href="#3" id=3>'50 세 이상 소규모 그룹 대상 … 내달 12 일 까지 접수'</a>
+</body>
+</html>

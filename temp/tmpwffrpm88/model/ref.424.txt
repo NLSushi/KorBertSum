@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['5 · 18 민주 화 운동 당시 시위 대원 으로 위장 한 ‘ 계엄군 편의대 ’ 의 활동 사례 가 최초 로 공개 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> ‘ 북한 특수부대 개입 설 ’ 등 의 주장 이 허무맹랑 한 유언비어 임 을 밝힐 단초 가 될 것 으로 보인다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 우리 들 의 이야기 ’ 출판 기자 간담회 를 열 었 다 .'</a>
+</body>
+</html>

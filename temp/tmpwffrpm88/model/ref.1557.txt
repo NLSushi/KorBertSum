@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['수원시 의회 는 21 일 제 346 회 임시회 제 2 차 본회의 를 열 고 조례 안 등 21 건 의 안건 을 의결 하 고 14 일 간 의 의정 활동 을 마무리 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '이날 본회의 에서 는 조례 안 15 건 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 동의 안 2 건</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'대구 는 미드필더 ( mf ) 와 수비수 ( df ) 위주 로 신인 선수 를 선발 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['대구 fc 2019 시즌 과 미래 를 책임질 신인 선수 7 명 이 하늘색 유니폼 을 입 는다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'대구 는 자유 계약 선발 로 정영웅 ( 21 ㆍ중앙대 )</a>
+</body>
+</html>

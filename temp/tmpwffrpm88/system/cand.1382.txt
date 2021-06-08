@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'9 일 경기도 에 따르 면 ‘ 보행 친화 환경 조성 사업 ’ 은 교통 약자 등 보행자 가 보다 안 전하 고 편리 하 게 이동 할 수 있 는 사람 중심 의 도로 · 교통 환경 을 만드 는 사업 으로</a>
+<a name="2">[2]</a> <a href="#2" id=2>이재명 지사 의 민선 7 기 공약 사업 중 하나 다 .'</a>
+</body>
+</html>

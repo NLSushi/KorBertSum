@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['최근 인천 서구 청 소속 40 대 여성 공무원 의 ‘ 극단 적 선택 ’ 과 관련</a>
+<a name="2">[2]</a> <a href="#2" id=2>과중 한 업무 스트레스 로 인한 우울증 때문 이 라는 유가족 주장 이 나왔 다 .'</a>
+</body>
+</html>

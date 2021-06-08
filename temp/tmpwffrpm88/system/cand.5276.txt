@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>["[ 괴산 ] 괴산군 이 15 일 군청 대 회의실 에서 ' 2035 년 괴산 군 기본 계획 '( 이하 · 군 기본 계획 ) 에 대해 주민 의견 을 듣 는 공청회 를 열 었 다 ."</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이날 공청회 에서 는 전문가</a>
+</body>
+</html>

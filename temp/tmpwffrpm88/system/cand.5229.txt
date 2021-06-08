@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>5 월 해양 치유 식품 으로 ‘ 미역 ’ 선정'</a>
+<a name="2">[2]</a> <a href="#2" id=2>기장 등 주로 남 해안 에서 많이 생산 하 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>요오드 ( 100 mg )</a>
+</body>
+</html>

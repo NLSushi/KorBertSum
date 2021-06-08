@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 형 마을 자치 공동체 조성 사업 이 본격 화 된다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이번 공모 에서 는 부서 별 심사 위원회 심사</a>
+<a name="3">[3]</a> <a href="#3" id=3>지방 보조 금심 의 위원회 심의 등 의 절차 를 거쳐 191 개 마을 공동체 가 최종 선정 됐으며</a>
+</body>
+</html>

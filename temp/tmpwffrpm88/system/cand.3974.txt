@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'사망자 수 10 % 감축 협업 … 안전사고 예방 ‘ 총력 ’'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['전남 도 - 22 개 시군</a>
+<a name="3">[3]</a> <a href="#3" id=3>'전남 도 는 25 일 도청 서재필 실 에서 지역 안전 지수 개선 상반기 추진 상황 보고회 를 개최 했 다 .'</a>
+</body>
+</html>

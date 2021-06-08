@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['손석희 jtbc 대표 이사 측 이 최근 불거진 폭행 의혹 에 대해 반박 하 는 추가 입장 을 내놓 았 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 와 함께 이번 사안 을 둘러싼 모든 루머 작성자 와 유포 자</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>유네스코 아태 교육 원 을 통해 세계 와 만나 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'오 는 6 월 부터 3 종 세트 국제 행사 선물 용 · 웰컴 티 로 쓰여'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'국제기구 통해 세계 시민 과 소통 하 는 촉매 역활 기대'</a>
+</body>
+</html>

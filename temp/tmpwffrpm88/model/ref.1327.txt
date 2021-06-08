@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'13 일 충 남도 에 따르 면 주 52 시간 제 도입 과 관련 충남 버스 운송 사업 조합 의 요구 에 따라 도내 시내 · 농어촌 버스 운임 · 요율 산정 검증 용역 을 진행 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '현재 농어촌 버스 요금 은 1300 원 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '요금 인상 시기 는 빠르 면 8 - 9 월 로 보인다 .'</a>
+</body>
+</html>

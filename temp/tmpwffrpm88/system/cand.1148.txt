@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['사진 은 오 는 9 일 맞대결 하 는 2 위 인천 전자 랜드 와 3 위 부산 kt 간 지난 라운드 대결 모습 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>6 위 원주 db ( 15 승 16 패 ) 와 7 위 창원 lg ( 14 승 17 패 )</a>
+<a name="3">[3]</a> <a href="#3" id=3>'선두 권 1 ㆍ 2 위 의 격차 가 큰 데 반해 3 위 kt ( 17 승 13 패 ) 를 공동 4 위 인 안양 kgc 인 삼공사 와 전주 kcc ( 이상 17 승 14 패 ) 가 불과 반 경기 차 로 추격 하 고 있 고</a>
+</body>
+</html>

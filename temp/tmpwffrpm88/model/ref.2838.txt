@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'기념식 에선 박병호 행정부 지사 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '행사 는 ▲ 성 평등 한 사회 구현 에 기여 한 유공자 시상 ▲ 양성 평등 을 실현 하 기 위한 다짐 ▲ 평등 을 일상 으로</a>
+</body>
+</html>

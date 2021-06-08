@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 수도 권 매립지 또 연장 가 나 ? ] 1 . 4 자 합의</a>
+<a name="2">[2]</a> <a href="#2" id=2>'수도 권 매립지 2025 년 사용 종료 까지 6 년 1 개월 이 남 았 지만 사실 상 불 가능 하 다는 게 일반 적 인 평가 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>종착점 이 불안 하 다'</a>
+</body>
+</html>

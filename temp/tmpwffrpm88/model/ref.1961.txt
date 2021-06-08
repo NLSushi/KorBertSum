@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대중교통 ( 북구 3 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '4 월 중순 쯤 이 면 꽃 이 절정 일 것 으로 예상 하 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '원두막 2 동 과 여치 집 1 동 을 설치 해 자연미 있 는 경관 을 조성 했 고</a>
+</body>
+</html>

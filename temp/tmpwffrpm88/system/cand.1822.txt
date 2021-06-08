@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이 에 힘입 어 전체 온라인 쇼핑 거래 액 은 7 월 기준 으로 지금껏 가장 많 았 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>모든 월간 통계 를 비교 했 을 때 는 역대 3 위 기록 이 다 .'</a>
+</body>
+</html>

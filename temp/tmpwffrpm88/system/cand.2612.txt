@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['음성군 은 장마철 집중호우 시 상습 침수 지하차도 인 소이면 대장리 대장 지하차도 개선 사업 을 추진 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'사진 은 김영배 ( 가운데 ) 부 군수 와 군 관계자 들 이 현장 점검 을 하 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'군 에 따르 면 대장 지하차도 는 총연장 200 m</a>
+</body>
+</html>

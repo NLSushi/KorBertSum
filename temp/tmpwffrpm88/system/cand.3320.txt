@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['지역 잠재력 깨우 고 새 가치 창출 경북 도 가 지역 별 특성 을 고려 한 ‘ 경북 도 거점 육성 형 지역 개발 계획 ’ 을 마련</a>
+<a name="2">[2]</a> <a href="#2" id=2>향후 10 년 간 ( 2019 ~ 2028 년 ) 중점 추진 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>이 를 마무리 하 고 7 일 고시 했 다 .'</a>
+</body>
+</html>

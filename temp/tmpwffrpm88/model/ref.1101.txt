@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'그만큼 새 에게 는 상징 하 는 바 가 많 아서 인류 의 생활 과 뗄 수 없 는 관계 이 기 때문 일 것 입니다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '세이렌 ( seiren ) 이야기 는 인류 가 가지 고 있 는 오래 된 전설 중 에 하나 입니다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 뒤 의 이야기 는 보다 상위 적 인 가치 로 하위 적 인 가치 를 덮 어야 한다는 교훈 을 주 고 있 습니다 .'</a>
+</body>
+</html>

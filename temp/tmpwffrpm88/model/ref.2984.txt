@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>마련 한 수익 환원 한 행사'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '광양 중학교 ( 교장 박 영백 ) 가 지난 11 일 전교 생 이 참여 하 는 ‘ 바른 말 고운 말 행복 한 마당 행사 ’ 를 개최 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '광양 중학교 사회 적 협동조합 이 주최 한 이날 행사 는 올바른 언어 사용 문화 를 정착 시키 고</a>
+</body>
+</html>

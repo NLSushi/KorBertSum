@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['경북 도 교육청 은 올해 미세먼지 로부터 학생 건강 을 지키 기 위해 도내 모든 공 · 사립 유치원 과 초등 학교 1 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '주의보 발령 시 체육 이나 현장 학습 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '경북 도 교육청 은 6 일 교육 안전 과장 을 반장 으로 한 실무 대응 반 을 구성 해 긴급 대응 체계 를 가동 했 다 .'</a>
+</body>
+</html>

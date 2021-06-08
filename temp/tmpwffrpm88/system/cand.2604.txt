@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>정의당 광양 지역 위원장 당선'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 위원장 은 “ 광양 지역 위 투표 율 이 87 . 6 % 를 기록 했 는데</a>
+<a name="3">[3]</a> <a href="#3" id=3>'지난 8 일 부터 12 일 까지 진행 된 정의당 전국 동시 당직 선거 개표 결과</a>
+</body>
+</html>

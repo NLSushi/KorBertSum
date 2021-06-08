@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'김관용 전 경북 도 지사 “ 까마귀 날자 배 떨어진다 ”'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['정치 재개 가능 성 또는 단순 한 1 회 성 인사 ?'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'그 의 필리핀 유학길 은 영어 권 나라 에서 영어 를 익힌 뒤 새 마을 운동 을 전 세계 로 전파 하 겠 다는 일념 에서 다 .'</a>
+</body>
+</html>

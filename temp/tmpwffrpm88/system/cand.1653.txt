@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'내년 4 · 15 총선 을 앞두 고 인천 지역 13 개 선거구 에서 불꽃 튀 는 접전 이 예상 된다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'총선 을 7 개월 여 앞둔 22 일 현재 현역 의원 들 을 중심 으로 코앞 에 닥친 다양 한 상황 들 을 어떻게 극복 하 고 총선 에서 승리 할지 살펴봤 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'# 흩어지 면 죽 는다'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'부산 해경 이 절실 하 게 기다리 는 조례 는 ‘ 민간 수난 구호 참여 자 비용 지원 조례 ’ 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '민간 구조 협회 는 부산 본회 를 포함 해 전국 19 개 지부 에 1 만 5000 여 명 이 이름 을 올렸 고 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '이달 중 에 시 기획 관리 실 법무 담당관 을 방문 해 협의 도 진행 할 예정 이 다 .'</a>
+</body>
+</html>

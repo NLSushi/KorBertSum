@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['22 일 세종 시청 에서 열린 국가 균형발전 을 위한 더불 어 민주당 현장 최고 위원 회의 에 관계자 들 이 참석 해 모두 발언 을 진행 하 고 있 다 .'</a>
+</body>
+</html>

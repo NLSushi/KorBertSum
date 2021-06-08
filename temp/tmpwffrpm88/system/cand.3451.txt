@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'그런데 다 시장 금리 는 계속 오르 고 있 어 가계 의 빚 상환 부담 이 더욱 가중 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'법원 에 부채 탕감 을 신청 한 사례 도 급증 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'국제결제은행 ( bis ) 발표 에 따르 면 지난해 2 분기 말 한국 의 gdp 대비 가계 부채 비율 은 96 . 0 % 였 다 .'</a>
+</body>
+</html>

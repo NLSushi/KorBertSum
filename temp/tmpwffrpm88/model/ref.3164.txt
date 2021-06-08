@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['한국전력 의 지하 전 력구 공사 가 부곡 공단 의 지반 침하 현상 의 원인 으로 지목 되 는 가운데 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 한전 이 최근 방수 공사 를 하 겠 다고 밤 10 시 에 비대위 측 에 통보 해 공분 을 사 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '한전 전 력구 공사 비상 대책 위원회 ( 위원장 송근 상</a>
+</body>
+</html>

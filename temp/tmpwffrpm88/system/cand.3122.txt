@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['▲ 당진 소방서 의용 소방 연합 회장 이 취임식 이 지난 3 일 당진 소방서 회의실 에서 열렸 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'당진 소방서 당진 의 용소 방대 연합 회장 으로 한 충기 ( 대호지 ) 회장 이 새롭 게 취임 했 다 .'</a>
+</body>
+</html>

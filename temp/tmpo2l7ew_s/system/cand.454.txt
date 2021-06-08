@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ sky 캐슬 ’ 속 ‘ 예서 책상 ’ 을 두 고 조영구 · 신재 은 부부 가 의견 차 를 보였 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'지난달 22 일 방송 된 tvn 예능 프로그램 ‘ 둥지 탈출 3 ’ 에서 엄마 신재은 은 정우 군 에게 영재 교육 을 적극 시키 고 있 다며</a>
+<a name="3">[3]</a> <a href="#3" id=3>'집 에 이렇게 독서실 처럼 돼 있 다 .'</a>
+</body>
+</html>

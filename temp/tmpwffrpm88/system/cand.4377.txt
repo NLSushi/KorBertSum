@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['정부 의 9 · 13 부동산 대책 이후 분양 경기 가 침체 기미 를 보이 고 있 지만 대구 아파트 분양 가격 은 계속 상승 하 며 지난달 말 기준 ㎡ 당 평균 411 만 5 천 원 으로 집계 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'대구 는 지난해 5 월 말 ( 365 만 1 천 원 ) 보다 12 . 71 %</a>
+<a name="3">[3]</a> <a href="#3" id=3>'hug 는 대구 달성</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'그 때문 에 인재 관리 의 중요 성 이 부각 되 는 시점 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>스타트업 기업 에서 는 이런 인사 관리 의 사각 에 놓인 경우 가 많 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'하지만 별도 의 인사 팀 을 꾸릴 수 없 는 소기업</a>
+</body>
+</html>

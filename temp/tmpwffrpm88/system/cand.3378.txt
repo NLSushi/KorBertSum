@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['올해 남태평양 에서 우리 나라 원양어 선 이 지난해 보다 더 많 은 전갱이 를 잡 을 수 있 게 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'전년 7321 ｔ 에 비해 3 % 늘어난 것 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이중 우리나라 배정 비율 은 총 허용 어획량 의 1 . 28 % 다 .'</a>
+</body>
+</html>

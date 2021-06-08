@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['폭염 이 이어지 면서 채소 가격 이 무려 5 배 가량 치솟 았 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'폭염 이 이어진 4 일 대구 북구 한 대 형 마트 를 찾 은 이모 ( 53 · 여 ) 씨 는 열무 한 단 ( 4 ㎏) 가격 을 보 고 깜짝 놀랐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'불볕더위 가 지속 되 면서 밥상 물가 가 비상 이 다 .'</a>
+</body>
+</html>

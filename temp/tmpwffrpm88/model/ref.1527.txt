@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 8 월 29 일 ’ 경술국치 일 을 맞 아 성신 여 대 서경덕 교수 와 배우 권오중 이 의기투합 해 ‘ 아베 의 거짓말 ’ 한국어 영상 을 유튜브 ( https : / / youtu . be / s _ skblrim 2 m ) 에 공개 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '이번 영상 은 지난 광복절 에 영어 영상 ( https : / / youtu . be / hzwgh __ zxpw ) 으로 공개 해 유튜브 및 페이스북 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 인 스타 그램 등 sns 를 통해 전 세계 에 널리 퍼져 나가 고 있 는 영상 의 한국어 버전 이 다 .'</a>
+</body>
+</html>

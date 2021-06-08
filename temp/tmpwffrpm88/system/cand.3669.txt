@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'1937 년 발간 된 ‘ 광주 부세 일반 ’ 에 따르 면</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 들 은 1 년 에 321 ~ 338 일</a>
+<a name="3">[3]</a> <a href="#3" id=3>['일제 강점기 전남 은 전국 최고 의 면화 생산지 로 자리 를 잡 았 다 .'</a>
+</body>
+</html>

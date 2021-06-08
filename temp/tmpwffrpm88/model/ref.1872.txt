@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>외곽 순환도로 · 산재 병원'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '- 경제 동맥 · 의료 인프라 갖춘 산업 도시 로'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '김경수 도지사 는 “ 경남 전체 의 종합 발전 계획 인 그랜드 비전 을 빠른 시일 내 에 수립 해 남부 내륙 고속철도 가 경남 경제 재 도약 의 밑거름 이 되 도록 만들 겠 다 ” 고 말 했 다 .'</a>
+</body>
+</html>

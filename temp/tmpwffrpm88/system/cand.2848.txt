@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'인구 10 만 명 당 a 형 간염 발생 률 이 48 . 59 명 으로 전국 17 개 시 · 도 중 압도 적 인 1 위 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'오 는 13 일 이 면 tf 운영 두 달 이 되 지만 그 사이 확진 자 는 두 배 를 훌쩍 넘 었 다 .'</a>
+</body>
+</html>

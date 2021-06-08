@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>["대전시 는 숙련 기술자 중 우수 한 사람 을 명장 으로 지정 하 는 ' 대전시 명장 ' 을 시행 한다고 1 일 밝혔 다 ."</a>
+<a name="2">[2]</a> <a href="#2" id=2>우대 하 기 위한 제도 다 ."</a>
+<a name="3">[3]</a> <a href="#3" id=3>대한민국 명장 선정 경력 이 없 는 자 ' 여야 한다 ."</a>
+</body>
+</html>

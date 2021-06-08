@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'시 는 지난 20 일 ‘ 부산광역시 50 + 생애 재설 계 대학 ’ 민간 위탁 심의 위원회 를 개최 해 부산대</a>
+<a name="2">[2]</a> <a href="#2" id=2>['부산시 는 퇴직 등 생애 전환기 를 맞이 한 ‘ 50 + 세대 ’ 를 대상 으로 경력 과 역량 을 개발 하 여 재취업 과 창업</a>
+<a name="3">[3]</a> <a href="#3" id=3>오 는 3 월 중 위탁 운영 계약 을 체결 한다 .'</a>
+</body>
+</html>

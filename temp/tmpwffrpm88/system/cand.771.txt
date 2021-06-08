@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['스카이 ( sky ) 의 세 번 째 복귀 작 은 무선 충전 패드 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'착한 텔레콤 sky 멀티 파워 패드'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'9 일 크라 우드 펀딩 와 디즈 에서 공개 된 스카이 멀티 파워 패드 는 최근 애플 이 개발 중단 을 발표 한 에어 파워 ( airpower ) 의 대안 으로 꼽히 며 온라인 커뮤니티 에서 많 은 관심 을 모았 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'분야 별 로 는 일반 불공정 거래 가 전년 보다 3 % 증가 한 993 건</a>
+<a name="2">[2]</a> <a href="#2" id=2>'전년도 에 비해 건수 는 4 %</a>
+<a name="3">[3]</a> <a href="#3" id=3>['한국 공정 거래 조정원 은 지난 한 해 동안 처리 한 분쟁 조정 은 3631 건</a>
+</body>
+</html>

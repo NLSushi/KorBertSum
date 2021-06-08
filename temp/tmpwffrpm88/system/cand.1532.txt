@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['인간 과 자연 이 공존 하 는 건축 이야기'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'남 도 일보 창사 22 주년 기념 제 1 회 ‘ 류담 포럼 ’ 11 일 ‘ 나무 심 는 건 축인 ’ 공동 개최'</a>
+<a name="3">[3]</a> <a href="#3" id=3>박화수 국 도 건축 사무소 대표 가 발표 를 각각 맡 는다 .'</a>
+</body>
+</html>

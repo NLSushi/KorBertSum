@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['식목일 을 사흘 앞두 고 유통 업계 에서 잇달 아 ‘ 친환경 마케팅 ’ 을 벌인다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '이마트 는 2 일 노브랜드 롤 화장지 매출액 의 1 % 를 나무 심기 에 기부 하 는 자원 순환 캠페인 을 시작 한다고 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 1 종류 는 이마트 에서 도 판매 한다 .'</a>
+</body>
+</html>

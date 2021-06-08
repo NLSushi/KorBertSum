@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>버섯 재배 전문가 육성 앞장'</a>
+<a name="2">[2]</a> <a href="#2" id=2>버섯 재배 기술 향상 기대'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'1 일 전남 산림 자원 연구소 에 따르 면 지난 4 월 5 일 부터 5 월 31 일 까지 2 개월 간 버섯 관련 기초 이론 과 표고 · 복령 · 큰 느타리버섯 등 재배 기술</a>
+</body>
+</html>

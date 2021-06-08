@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'한샘 은 연말 을 맞 아 오 는 31 일 까지 온라인 한샘 몰 과 오프라인 매장 한샘 디자인 파크 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 한샘 인테리어 대리점 에서 가구 및 생활 용품 을 할인 해 판매 한다고 4 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> ‘ 한샘 샘 키즈 수납장 ’ 등 도 할인 된 가격 으로 구매 할 수 있 다 .'</a>
+</body>
+</html>

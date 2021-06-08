@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>["올해 12 월 준공 목표 로 건설 중 인 태안군 고남리 - 보령시 원산도리 를 잇 는 ' 솔빛 대교 ' 모습 ."</a>
+<a name="2">[2]</a> <a href="#2" id=2>"가세 로 군수 는 지난 26 일 영목항 의 ' 태안 - 보령 간 연륙교 현장 ' 을 직접 방문 해 현장 관계자 로부터 사업 진행 현황 등 을 브리핑 받 았 으며</a>
+</body>
+</html>

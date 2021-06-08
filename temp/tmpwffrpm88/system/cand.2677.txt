@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>제 5 기 남 도 일보 k 포럼 초청 특강'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'“ 긍정 적 인 마음가짐 이 창조 적 변화 만든다 ”'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'‘ 긍정 의 힘 ’ 주제 … 행복 한 삶 비결 제시'</a>
+</body>
+</html>

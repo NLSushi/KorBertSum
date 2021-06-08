@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['부산 부산 진구 의 한 아파트 입주 예정자 들 이 아파트 앞 에 흐르 는 하천 에서 악취 가 난다며 복개 해 달 라고 요구 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'부산 부산진구 범전동 ‘ 서면 골든 뷰 센트럴 파크 ’ 공사 현장 인근 전포 천 미복 개 구간 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'전민철 기자 jmc @ kookje . co . kr'</a>
+</body>
+</html>

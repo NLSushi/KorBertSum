@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['배재 대가 기존 51 개 전공 을 41 개 전공 을 축소 하 는 학제 개편 안 을 확정 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>51 전공 을 6 대학</a>
+<a name="3">[3]</a> <a href="#3" id=3>'학령 인구 감소 위기 속 에서 살 아 남 기 위한 자구책 이 지만</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'토트넘 을 챔피언 스리 그 4 강 에 올려 놓 은 손흥민 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'맨 시티 와 의 8 강 2 차 전 에서 승리 한 손흥민 의 유니폼 은 누구 에게 갔 을까 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'손흥민 의 활약 에 도 불구 하 고 토트넘 은 3 - 4 로 졌 다 .'</a>
+</body>
+</html>

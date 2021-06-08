@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['- ‘ 한국 당 해산 ’ 45 만 명 넘 어서'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'- 동조 서명 폭주</a>
+<a name="3">[3]</a> <a href="#3" id=3>'- ‘ 민주당 해산 ’ 맞불 청원 도 등장'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['2019 년 tvn 새 수목드라마 ‘ 진심 이 닿 다 ’ 의 메인 포스터 가 공개 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '이 가운데 11 일 ‘ 진심 이 닿 다 ’ 측 이 메인 포스터 를 공개 해 이목 을 집중 시켰 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '제 상사 라니 너무 좋 으시 겠 다 .'</a>
+</body>
+</html>

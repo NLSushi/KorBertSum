@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>전남 1525 . 54 원 으로 집계 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'지난 달 광주 · 전남 지역 휘발유 값 이 전국 에서 저렴 한 편 이 었 던 것 으로 나타났 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'전남 휘발유 가격 은 전국 17 개 시 · 도 가운데 10 번 째 로 높 았 고 광주 는 15 번 째 를 기록 했 다 .'</a>
+</body>
+</html>

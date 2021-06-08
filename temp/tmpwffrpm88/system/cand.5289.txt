@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['▲ 당 진항 에 야적 된 쓰레기'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'폐기물 업체 측 은 베트남 등 해외 에 수출 할 계획 이 라고 주장 하 고 있 지만</a>
+<a name="3">[3]</a> <a href="#3" id=3>'막대 한 양 의 쓰레기 를 어떻게 처리 할 것 인지</a>
+</body>
+</html>

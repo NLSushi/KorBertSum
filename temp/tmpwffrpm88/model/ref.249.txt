@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['부산 수산 정책 포럼 은 정기 총회 및 신년 인 사회 를 지난 24 일 부산 롯데호텔 에서 열 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 부경 대 김영섭 총장 등 을 비롯 해 해양 · 수산업 관계자 가 대거 참석 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 박인영 부산광역시 의회 의장</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'“ 우리 도 인간 답 게 살 고 싶 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>근로 기준 법 이 라도 지킨다면</a>
+<a name="3">[3]</a> <a href="#3" id=3>['1987 년 노동 자대 파업 이후 32 년</a>
+</body>
+</html>

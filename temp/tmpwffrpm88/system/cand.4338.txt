@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['전남 신용 보증 재단 은 사업 실패 를 겪 은 소상 공인 의 경제 적 재기 를 돕 고 정상 적 인 금융 거래 기회 를 제공 하 기 위해 ‘ 특별 채무 감면 캠페인 ’ 을 시행 한다고 30 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'그동안 전남 신보 는 일정 조건 에 따라 손해금 을 일부 감면 해왔으나</a>
+<a name="3">[3]</a> <a href="#3" id=3>'또한 fast - track 제도 도입 으로 도움 이 절실 한 기초 생활 보장 수급 자</a>
+</body>
+</html>

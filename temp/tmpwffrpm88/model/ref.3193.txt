@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['5 · 18 기념 재단 이 제네바 유엔 본부 에서 열린 포럼 에서 유엔 특별 조사 를 통한 국제 적 5 · 18 진상 규명 약속 을 받 아 냈 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '포럼 에서 는 주제 네바 대한민국 대표부 백지아 대사 의 축사 에 이 어 바실 페르난도 ( basil fernando </a>
+<a name="3">[3]</a> <a href="#3" id=3> alrc 대표</a>
+</body>
+</html>

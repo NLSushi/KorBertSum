@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'로컬 푸드 직매장 은 생산자 와 소비자 가 상시 적 으로 거래 할 수 있 는 농산물 직거래 매장 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['로컬 푸드 직매장 설치 지원 사업 을 추진 하 고 있 는 전남 도 가 오 는 16 일 까지 2020 년 사업 신청 을 받 는다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>협동조합 및 사회 적 기업</a>
+</body>
+</html>

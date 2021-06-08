@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'金 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 웃 으면서 “ 김정은 위원장 께 꼭 전달 하 겠 다 ”'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '박 의원 은 이날 광주 세계 수영 대회 와 관련</a>
+</body>
+</html>

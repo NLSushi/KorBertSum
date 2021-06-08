@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이번 대학 리그 는 한국 대학 스포츠 협의회 가 주최 하 고 한국 대학 아이스하키 연맹 이 주관 하 는 ‘ 2018 대학 아이스하키 u - 리그 ’ 로</a>
+<a name="2">[2]</a> <a href="#2" id=2>'대구 아이스하키 협회 는 지역 처음 으로 대학 리그 일부 경기 유치 에 성공</a>
+<a name="3">[3]</a> <a href="#3" id=3>'대구 에서 처음 으로 아이스하키 대학 리그 가 진행 됀 다 .'</a>
+</body>
+</html>

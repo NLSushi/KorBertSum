@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 천안 ] 백석 대학교 창업 동아리 네 곳 이 천안시 지역 청년 창업 사업 에 선정 돼 사업비 지원 으로 성장 을 도모 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>멀티미디어 를 활용 할 수 있 는 스마트 피 규 어 ' 로 2000 만 원</a>
+<a name="3">[3]</a> <a href="#3" id=3>"spk 는 ' 좋 아 하 는 연예인</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>["' 1 박 2 일 ' 김종민 이 ' 혹한기 맞춤 형 야생 텐트 취침 ' 으로 ' 야외 취침 끝판 왕 ' 에 도전 한다 ."</a>
+<a name="2">[2]</a> <a href="#2" id=2>볏짚 으로 아늑 한 침대 를</a>
+<a name="3">[3]</a> <a href="#3" id=3>"그런 가운데 김종민 이 지난주 야외 취침 을 걸 고 벌인 ' 인간 볼링 대회 ' 에서 대패</a>
+</body>
+</html>

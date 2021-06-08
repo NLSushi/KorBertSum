@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['- bifc 에 도 비슷 한 공간 계획'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'- 내실 다지기 보다 인프라 에 급급'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'기술 에 기반 한 창업 활성 화 방 안 으로 출발 한 부산 해운대구 센 탑 에 있 는 시제품 제작 공간 이 폐쇄 될 처지 에 놓였 다 .'</a>
+</body>
+</html>

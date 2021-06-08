@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'일본 의 한국 백색 국가 ( 수출 심사 우대 국가 ) 제외 로 대구 · 경북 에 는 기계 류 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 섬유 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 디스플레이 등 의 업종 에서 직 · 간접 적 인 피해 가 불가피 할 것 으로 보인다 .'</a>
+</body>
+</html>

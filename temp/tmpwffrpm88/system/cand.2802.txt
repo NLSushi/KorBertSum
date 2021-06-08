@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'부산 기반 스타트업 ㈜ 이소 누스 가 베트남 에 진출 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['- 국내 꾸준히 영업 하 며 매출 급증'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'- 베트남 첫 설치 … 태국 등 도 준비'</a>
+</body>
+</html>

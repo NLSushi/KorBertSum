@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>["[ 천안 ] 천안시 의회 가 천안시 의 시청 사 부 설주 차장 유료 화 사업 을 ' 졸속 추진 ' 이라고 강 도 높 게 질타 하 며 개선 을 촉구 했 다 < 본보 21 일자 15 면 보도 >."</a>
+<a name="2">[2]</a> <a href="#2" id=2>지상 256 면 등 총 359 면 이 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'kt 는 6 일 고양 체육관 에서 열린 2018 - 2019 프로 농구 고양 오리온 전 에서 74 - 95 로 크 게 졌 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '17 승 13 패 로 3 위 를 지켰 지만 공동 4 위 안양 kgc 와 전주 kcc 에 반 경기 차 로 추격 을 허용 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 'kt 는 2 연패 의 수렁 에 빠졌 다 .'</a>
+</body>
+</html>

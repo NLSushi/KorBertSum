@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['한 곳 당 최대 795 억 원 을 지원 하 는 스마트 축산 ict 시범 단지 조성 사업 이 본격 추진 된다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'공모 대상 축종 은 한우</a>
+<a name="3">[3]</a> <a href="#3" id=3>무허가 축사 등 축산 의 사회 적 문제 를 해결 하 기 위해 정보 통신 기술 을 접목 한 스마트 축사 와 가축 분뇨 처리 및 방역 관리 시스템 을 구축 하 는 것 이 다 .'</a>
+</body>
+</html>

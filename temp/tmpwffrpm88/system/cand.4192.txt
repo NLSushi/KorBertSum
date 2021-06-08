@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['기자 당정 청 이 자치 경찰 제 를 올해 5 개 시도 에서 시범 시행 하 고 2021 년 까지 전국 으로 확대 하 기 로 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'더불 어 민주당 과 정부</a>
+<a name="3">[3]</a> <a href="#3" id=3>'시범 실시 지역 으로 는 서울시 와 세종 시</a>
+</body>
+</html>

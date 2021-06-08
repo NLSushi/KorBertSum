@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['화성시 는 지난 28 일 동탄 신 도시 에 장애 인 종합 복지 시설 ‘ 동탄 아름 드림 센터 ’ 를 개관 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>직업 적 응 훈련 시설</a>
+<a name="3">[3]</a> <a href="#3" id=3>총면적 1 만 2 천 860 ㎡</a>
+</body>
+</html>

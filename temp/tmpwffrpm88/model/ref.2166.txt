@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['읍내동 에서 자리 하 며 오랜 시간 사랑 받 았 던 김 가네 가 송탄 부대찌개 로 바뀌 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '칼칼 하 고 진한 국물 에 소세지 와 햄 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 고기 가 듬뿍 들어간 부대찌개 는 훌륭 한 한 끼 식사 가 된다 .'</a>
+</body>
+</html>

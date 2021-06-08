@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['- 부산시 표본 조사선 33 % 로 나와'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'- 관리 직원 맨눈 점검 탓 오류 많 아'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'시 는 지역 기계식 주차장 운영 현황 에 대해 구 · 군 과 합동 점검 에 나섰 다고 21 일 밝혔 다 .'</a>
+</body>
+</html>

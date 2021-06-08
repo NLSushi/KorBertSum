@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>유임 된 국 · 실장 은 21 명 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '금감원 은 “ 부서장 80 % 가 교체 됐으며 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '금감원 측 은 세대 교체 와 유능 한 인재 의 과감 한 발탁 을 통해 조직 에 홀 력 을 불어넣 고</a>
+</body>
+</html>

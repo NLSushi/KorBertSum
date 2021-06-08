@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['석탄 화력 발전소 가 주변 지역 어린이 의 건강 에 미치 는 영향 에 대한 추적 조사 가 실시 된다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'보고회 에 는 당진 을 비롯 해 보령 과 서천</a>
+<a name="3">[3]</a> <a href="#3" id=3>중부 발전 관계자 및 전문가 등 이 참석 했 다 .'</a>
+</body>
+</html>

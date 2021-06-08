@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['▲ 대한 적십자사 당진 늘 푸른 봉 사회 2017 년 정기 총회 가 지난달 21 일 열렸 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이어진 정기 총회 에서 는 지난해 결산 보고 와 2017 년 예산안 에 대한 심의 가 이뤄졌 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'회원 들 은 부부 동반 단합 대회</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['10 일 장쯔이 가 화제 가 되 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'2008 년 규모 8 . 0 의 쓰촨 대지진 직후 모금 행사 를 개최</a>
+<a name="3">[3]</a> <a href="#3" id=3>'그녀 는 헐리우드 까지 진출 한 세계 적 인 중국 배우 이 다 .'</a>
+</body>
+</html>

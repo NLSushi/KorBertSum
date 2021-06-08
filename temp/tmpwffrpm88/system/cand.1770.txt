@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 공주 ] 구 공주 의료 원 이 이달 말 철거 를 앞두 고 있 는 가운데 이곳 에서 오 는 15 일 부터 5 일 동안 원도 심 활성 화 기원 화합 행사 가 개최 된다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>"시 에 따르 면</a>
+</body>
+</html>

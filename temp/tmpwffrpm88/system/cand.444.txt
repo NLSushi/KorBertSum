@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'그런데 다시 는 안 볼 사람 처럼 돌아섰 던 서재인 이 태도 를 바꿨 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['지난 8 일 방송 된 ‘ 리갈 하이 ’ 에서 수임료 5 억만 을 요구 하 는 괴물 변태</a>
+<a name="3">[3]</a> <a href="#3" id=3>네 ? ” 라며 애교 까지 선보이 고 있 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'- 골든 타임 놓치 는 경우 도 잦 아'</a>
+<a name="2">[2]</a> <a href="#2" id=2>심 · 뇌혈관 등 긴급 환자'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'경미 한 질환 으로 응급실 을 찾 은 환자 1 명 이 치료 를 받 고 있 을 뿐</a>
+</body>
+</html>

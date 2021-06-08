@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>"kbs 2 tv ' 볼빨간 당신 ' 이 지난 29 일 방송 을 끝 으로 시청자 와 작별 을 고했 다 ."</a>
+<a name="2">[2]</a> <a href="#2" id=2> "' 볼빨간 당신 ' 은 부모 님 의 제 2 의 인생 을 응원 하 는 자식 들 의 열혈 뒷바라지 관찰 기 ."</a>
+<a name="3">[3]</a> <a href="#3" id=3> "첫 방송 이 그러 했 듯 마지막 역시 유쾌 한 웃음</a>
+</body>
+</html>

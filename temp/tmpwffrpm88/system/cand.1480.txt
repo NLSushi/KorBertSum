@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['헝가리 유람선 침몰 실종 한국인 추정 시신 1 구 추가 수습'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'본격 선체 인양 작업 6 일 오후 시작 ‘ 전망 ’'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'최종 확정 될 경우 사망자 · 실종자 각각 13 명'</a>
+</body>
+</html>

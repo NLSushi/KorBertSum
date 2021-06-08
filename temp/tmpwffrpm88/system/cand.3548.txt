@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['▲ 건강 복지 광장 소속 시민 들 이 2 일 시청 앞 에서 성남시 공공 어린이 재활 병원 설립 촉구 기자 회견 모습 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>의료 공공 성 강화 에 대한 요구 가 타 도시 에 비해 월등히 높 고</a>
+<a name="3">[3]</a> <a href="#3" id=3>재정 자립 도 또한 충분 하 다 " 고 제안 했 다 .'</a>
+</body>
+</html>

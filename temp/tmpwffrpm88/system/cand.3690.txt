@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['해 마다 섬진강 두꺼비 로드 킬 실태 를 조사 하 고 있 는 광양만 녹색연합 이 두꺼비 로드킬 사고 가 빈번 하 게 발생 하 고 있 는 진상면 비촌 마을 앞 도로 에 두꺼비 를 보호 할 수 있 는 대책 을 하루빨리 조성 해 줄 것 을 촉구 했 다 .'</a>
+</body>
+</html>

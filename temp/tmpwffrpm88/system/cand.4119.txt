@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['- 대구 지역 행복 지수 는 ‘ 보통 ’ 수준</a>
+<a name="2">[2]</a> <a href="#2" id=2>수성구 가 가장 높 고 서구 는 가장 낮 아 기자 20 일 은 ‘ 세계 행복 의 날 ’ 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'그럼 대구 시민 들 의 행복 지수 ( 삶 의 만족 도 ) 는 어떨까</a>
+</body>
+</html>

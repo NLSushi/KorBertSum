@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['펀드 를 운용 하 는 자산 운용 사 가 주식 시장 에 미치 는 영향력 이 커지 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 지난해 말 4 . 79 % 등 으로 상승 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '1 월 말 기준 펀드 의 채권 편입 비중 은 8 . 62 % 로 지난해 8 월 말 ( 8 . 86 %) 이후 5 개월 만 의 최고 치였 다 .'</a>
+</body>
+</html>

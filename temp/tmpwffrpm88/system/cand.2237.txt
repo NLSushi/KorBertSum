@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['조웅래 ( 왼쪽 ) ㈜ 맥키스 컴퍼니 회장 이 지난 10 일 시청 응접실 에서 허태정 대전 시장 ( 대전 인 재 육성 장학 재단 이사장 ) 과 장 학기금 7 억 원 기부 를 위한 협약 을 맺 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'사진 = 대 전시 제공'</a>
+</body>
+</html>

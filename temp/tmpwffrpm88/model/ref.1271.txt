@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>바늘 점 말 ( 왼쪽 부터 ) < 조선대 제공 >'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '조선 대학교 조태오 생명 공학 과 교수 가 한국 미 기록 해조류 3 종 을 발견 하 고 환경 생물 학회지 최근호 에 보 고 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '기존 에 그리스 와 일본 에서 보 고 됐 지만</a>
+</body>
+</html>

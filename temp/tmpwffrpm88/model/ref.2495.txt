@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['이대명 과 전병 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 승인 봉황 참기름 등 이 ‘ 2 차 부산 우수 식품 ’ 에 선정 됐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 기름 에 튀기 지 않 고 직 화 로 구워 내 는 방식 을 고수 하 는 64 년 역사 를 보유 한 ㈜ 이대명 과 의 ‘ 땅콩 맛 전병 ’ ‘ 잣 맛 전병 ’ ‘ 김 파래 맛 전병 ’ ‘ 깨 땅콩 맛 전병 ’</a>
+</body>
+</html>

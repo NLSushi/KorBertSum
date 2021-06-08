@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'해 나 루 쌀 가격 이 5 년 사이 에 1 만 6000 원 이 상승 한 것 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '이 를 기준 으로 하 면 20 kg 의 경우 3 만 3000 원 에 쌀 을 판 것 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 두 배 가까이 차이 를 보이 고 있 다 .'</a>
+</body>
+</html>

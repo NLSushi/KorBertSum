@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 대학교 ( 총장 김혁종 ) 가 외국인 유학 생 들 의 학교 생활 을 돕 기 위해 팔 을 걷어붙였 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>내국 인 학생 과 외국인 학생 과 의 상호 교류 활성 화 에 도움 을 줄 것 으로 기대 하 고 있 다 .'</a>
+</body>
+</html>

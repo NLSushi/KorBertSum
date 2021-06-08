@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['중국 을 방문 한 이용섭 광주시장 이 30 일 텐 진시 중국 자동차 기술 연구 센터 와 광주 그 린카 진 흥원 과 의 업무 협약 을 체결 하 고 있 다 .'</a>
+</body>
+</html>

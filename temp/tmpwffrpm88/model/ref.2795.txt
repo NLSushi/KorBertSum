@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'윤성환 은 8 일 대구 삼성 라이온즈 파크 에서 열린 프로 야구 nc 다 이 노즈 전 에 선발 로 나 서 완 봉승 을 거뒀 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '윤성환 의 완 봉승 은 2014 년 9 월 4 일 한화 이글스 전 이후 무려 4 년 8 개월 3 일 만 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '비거리 는 110 m .'</a>
+</body>
+</html>

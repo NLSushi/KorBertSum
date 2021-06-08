@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대구 지역 건설사 의 최근 4 년 간 시공 능력 평가 현황 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>신인도 등 의 점수 를 종합 적 으로 매긴 성적표 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'시공 능력 평가 는 국토 교통부 가 해 마다 전국 건설 업체 를 대상 으로 공 사실 적</a>
+</body>
+</html>

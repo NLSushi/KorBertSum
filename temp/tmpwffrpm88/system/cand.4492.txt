@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>수험 생 특별 이벤트 가격 우대 혜택 ~ 즐길 거리 가득'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'에버랜드 가 2020 학년도 수험 생 들 을 위해 특별 이벤트 를 마련 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>주말 에 는 2 만 2 천 원 에 이용 할 수 있 다 .'</a>
+</body>
+</html>

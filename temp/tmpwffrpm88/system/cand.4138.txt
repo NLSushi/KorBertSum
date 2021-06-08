@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['합동참모본부 는 1 일 중 부전선 군사분계선 ( mdl ) 이남 에서 북한 군 1 명 의 신병 을 확보 했 다고 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'합참 의 한 관계자 는 " 당시 해당 지역 은 안개 가 끼 었 고</a>
+<a name="3">[3]</a> <a href="#3" id=3>'또 " 이 미상 인원 은 북한 군인 으로</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>국내 최대 규모 ‘ 스마트 디바이스 쇼 ’ 참가'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'팝 소켓 코리아 는 이번 전시 를 통해 신 제품 사전 공개 등 다양 한 최신 모바일 액세서리 트렌드 를 소개 및 공유 한다는 방침 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'글로벌 캐릭터 브랜드 카카오 프렌즈 와 협업 해 제작 한 2 세대 스마트폰 그립 ‘ 팝 그립 스와 퍼블 ( swappable ) ’ 6 종 으로</a>
+</body>
+</html>

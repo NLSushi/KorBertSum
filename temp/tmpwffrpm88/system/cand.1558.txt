@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'광주 광역시 가 시민 들 의 법률 고충 을 덜 어 주 기 위해 지난 2011 년 부터 운영 하 고 있 는 무료 법률 상담 실 이 9 년 간 총 3 천 120 건 의 상담 을 한 것 으로 집계 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'2016 년 부터 는 주 2 회 로 확대 해 2017 년 574 건</a>
+</body>
+</html>

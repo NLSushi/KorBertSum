@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['오늘 ( 30 일 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 수 ) 저녁 8 시 10 분 방송 되 는 tvn ‘ 수미 네 반찬 ’( 연출 문태주 ) 35 회 ‘ 설 특집 ’ 에서 는 뜯어먹 는 재미 가 있 는 la 갈비찜 을 선보인다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 건가 지</a>
+</body>
+</html>

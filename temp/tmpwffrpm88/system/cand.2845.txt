@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['최근 대구 동구 의회 가 상임 위원장 선정 문제 로 파행 을 겪 고 있 는 가운데 우리 복지 시민 연합 이 논란 의 중심 에 선 자유 한 국당 의원 들 을 향해 “ 몰상식 과 몰염치 의 극치 ” 라며 비난 했 다 .'</a>
+</body>
+</html>

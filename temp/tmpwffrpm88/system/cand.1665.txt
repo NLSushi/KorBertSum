@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'선거법 공 수처 법 등 이 패스트 트랙 에 태워 지 면서 공전 이 된 국회 일정 을 뒤 로 두 고 지역구 의원 들 이 일제히 지역민 들 과 의 접촉 을 대폭 강화 키로 한 것 이 다 .'</a>
+</body>
+</html>

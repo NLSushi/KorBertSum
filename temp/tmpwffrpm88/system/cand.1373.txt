@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'롯데 아울렛 월드컵 점 ‘ 리빙 박람회 ’ 최대 80 % 할인'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이마트 국민 가격 · 롯데마트 ‘ 통 큰 ’ 한 달 ‘ 맞불 ’'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'13 일 유통 업계 에 따르 면 롯데 아울렛 광주 월드컵 점 은 오 는 15 일 까지 홈패션 과 주방</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'15 일 서울 광화문 광장 에서 차량 공유 서비스 퇴출 을 촉구 하 는 대 규모 집회 가 열리 면서 ‘ 카카오 카풀 서비스 ’</a>
+<a name="2">[2]</a> <a href="#2" id=2> '현재 까지 는 서울 특별시 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 성남시 와 인천광역시 일부 지역 에서 출발 이 가능 한 것 으로 알려졌 다 .'</a>
+</body>
+</html>

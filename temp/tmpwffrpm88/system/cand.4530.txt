@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['일본 의 역사 왜곡 을 전 세계 에 널리 알리 고 있 는 성신 여 대 서경덕 교수 가 ‘ 아베 의 거짓말 ’ 을 주제 로 한 영어 영상 을 유튜브 ( https : / / youtu . be / hzwgh __ zxpw ) 를 통해 14 일 공개 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이번 에 제작 된 3 분 30 초 짜리 영상 은 지금 까지 일본 아베 총리 의 거짓말 발언 을 중심 으로 강제 동원</a>
+<a name="3">[3]</a> <a href="#3" id=3>침략 의 역사 에 대한 3 가지 를 집중 적 으로 다뤘 다 .'</a>
+</body>
+</html>

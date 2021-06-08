@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대구시 가 10 월 8 일 이 던 시민 의 날 을 2 월 21 일 로 바꾸 는 조례 안 을 입법 예고 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>언론 등 으로부터 의견 수렴 절차 를 밟 아 왔 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['2015 년 부터 교통 취약 마을 에 주민 들 의 교통 불편 을 해소 하 기 위해 운행 중 인 100 원 택시 를 올해 6 개 마을 을 추가 해 19 개 마을 로 확대 운행 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>옥룡면 율곡 · 남정</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이번 에 추가 된 마을 로 는 광양읍 삼성</a>
+</body>
+</html>

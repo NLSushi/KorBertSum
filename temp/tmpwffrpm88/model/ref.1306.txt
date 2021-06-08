@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 부여 ] 부여군 이 주민 들 의 군정 참여 기회 를 확대 해 나가 기 로 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> "23 일 군 에 따르 면 군 은 지난 22 일 군청 중 회의실 에서 지역 주민 들 과 전문가 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 유관 기관</a>
+</body>
+</html>

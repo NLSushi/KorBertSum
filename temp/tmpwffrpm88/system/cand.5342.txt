@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>와인 예약 서비스 ‘ 스마트 오더 ’ 도입'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'대상 상품 은 현재 2 천 480 원 짜리 ( g 7 187 ml ) ‘ 하프 보 틀 ’ 와인 부터 990 만 원 짜리 ( 테 세롱 꼬 냑 뀌 베 익스트림 ) 브랜디 까지 총 1 천 800 여 종이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'매장 에 없 는 제품 도 예약 후 수령 가능'</a>
+</body>
+</html>

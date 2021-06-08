@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['올해 부터 대 규모 점포 와 슈퍼마켓 에서 1 회 용 봉투 사용 이 원천 금지 된다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>시민 의 혼선 을 방지 하 기 위해 오 는 3 월 까지 홍보 및 계 도 활동 을 펼친다 고 10 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>종이봉투 등 을 사용 해야 한다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'극단 세 아미 의 대사 없 는 연극 공연 모습 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['- 일본 극단 ‘ 世 am i ’ 와 협연'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'세월 호 참사 희생자 의 영혼 을 위로 하 고 남 은 이 들 의 슬픔 을 달랠 춤 공연 이 열린다 .'</a>
+</body>
+</html>

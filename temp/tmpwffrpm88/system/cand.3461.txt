@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['16 일 0 시 55 분 께 인천항 해상 교통관제 센터 로 vhf ( 초단파대 무선 설비 ) 를 통해 다급 하 게 신고 가 접수 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 배 에 는 승객 150 명 ( 중국인 147 명</a>
+<a name="3">[3]</a> <a href="#3" id=3>화물칸 에 는 컨테이너 188 개 가 실려 있 었 다 .'</a>
+</body>
+</html>

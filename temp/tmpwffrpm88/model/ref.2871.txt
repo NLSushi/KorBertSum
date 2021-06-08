@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'금융 위원회 와 금융 감독원 은 ‘ 내 보험 찾 아 줌 ’( http : / / cont . insure . or . kr ) 에서 보험금 찾 기 뿐 아니 라 찾 은 보험금 을 바로 청구 할 수 있 도록 사이트 를 업그레이드 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '이 를 통해 지난달 말 까지 소비자 가 찾아간 숨 은 보험금 규모 는 약 3 조 125 억 원 ( 240 만 5 천 건 ) 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 만기 보험금 7 천 910 억 원</a>
+</body>
+</html>

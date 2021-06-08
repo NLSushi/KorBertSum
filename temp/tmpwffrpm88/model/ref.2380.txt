@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['국내 맥주 시장 1 위 업체 인 오비 맥주 매각 설 이 흘러나오 는 가운데 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 대주주 인 국제 맥주 회사 ab 인 베브 가 자산 추가 매각 가능 성 을 일축 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '오비 맥주 는 대주주 인 ab 인 베브 가 보유 지분 을 매각 하 려 한다는 소문 이 최근 업계 안팎 에서 흘러나와 관심 이 쏠렸 다 .'</a>
+</body>
+</html>

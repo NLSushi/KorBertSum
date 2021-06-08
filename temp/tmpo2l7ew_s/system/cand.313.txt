@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['다이빙 한국 첫 메달 김수지</a>
+<a name="2">[2]</a> <a href="#2" id=2>'국제 대회 에서 메달 을 수상 한 스포츠 선수 에게 주 는 체육 연금 의 정식 명칭 은 국민체육진흥공단 의 ‘ 경기력 향상 연구 연금 ’ 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'합계 20 점 넘 어야 月 30 만 원 수령'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>전자 조달 활성 화 계획 이 발표 된 가운데 충청 권 교육 계 와 급식 업계 의 이용 률 확대 가 이뤄질지 귀추 가 주목 되 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 249 억 원 의 거래 가 발생 했 고 이용 률 은 100 % 에 달했으며 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 이용률 81 % 로 나타났 다 .'</a>
+</body>
+</html>

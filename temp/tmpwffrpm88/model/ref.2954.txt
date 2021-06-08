@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>가습기 를 구매 하 는 사람 들 도 많 아 졌 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '가습 의 기능 만 가지 고 있 던 과거 와 다르 게 무드 등 가습기 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 가습기 만들 기 세트 등 다양 한 모습 으로 출시 되 어 소비자 들 의 눈길 을 끌 고 있 다 .'</a>
+</body>
+</html>

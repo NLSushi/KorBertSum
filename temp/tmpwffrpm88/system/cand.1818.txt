@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['새로운 독립 아이스하키 팀 이 탄생 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'캐나다 골 리 전문 브랜드 인 본 ( vaughn ) 의 정식 유통 사인 본 코리아 는 리틀 본</a>
+<a name="3">[3]</a> <a href="#3" id=3>팀 본 등 유소년 과 성인 동호인 팀 을 운영 중 이 다 .'</a>
+</body>
+</html>

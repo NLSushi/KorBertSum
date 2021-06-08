@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>lg 스마트폰 수리 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 갤럭시 노트 8 등 삼성 갤럭시 액정 수리 를 특가 로 진행 한다고 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 갤럭시 노트 9 모델 에 대해서 특가 수리 를 진행 해서 고객 들 의 호응 을 얻 고 있 다 ” 고 전했 다 .'</a>
+</body>
+</html>

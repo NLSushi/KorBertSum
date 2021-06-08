@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['7 월 광주 · 전남 지역 소비자 심리 지수 가 악화 하 면서 체감 경기 가 ‘ 비관 적 ’ 인 것 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 는 2017 년 4 월 ( 98 . 5 ) 이후 2 년 3 개월 만 에 가장 낮 은 수 치 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>2 포인트 하락 했 고</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이번 프로그램 은 관내 중 고등학교 의 공모 를 거쳐 조종 중 · 고등학교 학생 39 명 과 인솔 교사 6 명</a>
+<a name="2">[2]</a> <a href="#2" id=2>['가평 교육 지원 청 과 가평군 은 가평 혁신 교육 지구 사업 으로 사제동행 역사 · 독서 기행 해외 답사 프로그램 으로 ‘ 가평 의 아이 들 윤동주</a>
+<a name="3">[3]</a> <a href="#3" id=3>퉁화 ( 通化 )</a>
+</body>
+</html>

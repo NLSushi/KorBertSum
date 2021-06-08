@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['인천 지역 장애 인 시설 에서 학대 사건 이 잇달 아 발생 하 자 지역 장애 인 인권 단체 가 지원 책 을 요구 하 고 나섰 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 구청장 면담 등 을 요구 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '해당 보호 센터 는 현재 시설 폐쇄 조치 수순 을 밟 고 있 다 .'</a>
+</body>
+</html>

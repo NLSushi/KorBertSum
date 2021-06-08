@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>외야 선 베드 도 설치 … 할인 행사 도'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '국내 최초 로 야구장 물놀 이 축제 를 열 었 던 kia 타이거즈 가 휴가철 을 맞 아 또 한 번 어린이 물놀이장 을 연다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 'kia 는 오 는 8 월 3 ~ 4 일 nc 전 을 시작 으로 6 ~ 7 일 lg 전</a>
+</body>
+</html>

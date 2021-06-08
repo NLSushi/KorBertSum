@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['공군 제 5 전투 비행단 소속 병사 들 이 1400 장 의 헌혈증 을 모아 한국 백혈병 어린이 재단 에 기부 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>"' 공군 제 5 공중 기동 비행단 병사 자율 위원회 ' 는 21 일 경남 김해 비행단 대 회의실 에서</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['국가 보훈 처 가 제 74 주년 광복절 을 맞 아 나주 를 대표 하 는 학생 독립운동가 인 故 이창신 선생 의 독립 유공자 지정 을 통보 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '이창신 선생 을 독립 유공자 로 인정 을 하 면서 도 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 무기정학 처분 으로 결국 학교 를 졸업 하 지 못했 다 .'</a>
+</body>
+</html>

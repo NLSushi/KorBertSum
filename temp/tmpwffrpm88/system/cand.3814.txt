@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['올해 첫 무 등산 정상 개방 … 1 만 여 명 봄 정취 만끽'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'중증 장애 인 50 명 ‘ 동행 ’… 의미 각별'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'무등산 찾 은 시민 들'</a>
+</body>
+</html>

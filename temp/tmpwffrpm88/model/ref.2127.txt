@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['올해 부터 4 축 이상 대형 사업 용 차량 도 의무 적 으로 차 로 이탈 경고 장치 ( ldws : lane departure warning system ) 를 달 아야 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '국토 교통부 는 차 로 이탈 경고 장치 의무 장착 차량 에서 제외 됐 던 4 축 이상 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '덤프 형 화물 자동차 는 노지 에서 차 로 이탈 경고 장치 오작동 이 많 아 오히려 운전자 에게 혼란 을 초래 할 우려 가 높 아 대상 에서 제외 됐 다 .'</a>
+</body>
+</html>

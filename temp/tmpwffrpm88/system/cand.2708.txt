@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'지난 7 월 부터 는 국도 비 를 지원 받 아 10 % 할인 판매 도 실시 중 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['광양 사랑 상품권 10 % 할인'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'장보기 등 실물 경제 기여'</a>
+</body>
+</html>

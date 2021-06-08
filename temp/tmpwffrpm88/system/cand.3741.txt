@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'앞선 청와대 비서관 인사 에서 도 지역 연고 인사 가 발탁 됐 다는 소리 를 듣 지 못했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이번 차관 급 인사 때 만 그런 게 아니 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'지난 3 월 초 집권 2 기 중폭 개각 을 단행 했 을 때 도 충청 권 은 입맛 을 다셨 다 .'</a>
+</body>
+</html>

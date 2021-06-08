@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대구 fc 는 로테이션 이 가능 한 단단 한 수비진 을 구축 하 면서 k 리그 1 에서 최소 실점 을 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>아시아 챔피 언스 리그</a>
+<a name="3">[3]</a> <a href="#3" id=3>'세 징 야 - 에 드가 라는 ‘ 브라질 용병 ’ 듀오 가 있 긴 하 지만 팀 전체 적 인 전력 으로 본다면 올 시즌 대구 의 활약 은 예상 치 못한 결과 다 .'</a>
+</body>
+</html>

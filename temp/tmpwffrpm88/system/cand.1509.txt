@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'자동차 기자 협회 의 ‘ 2019 올해 의 차 ’ 는 디자인</a>
+<a name="2">[2]</a> <a href="#2" id=2>['더 뉴 cls . 메르세데스 - 벤츠 코리아 제공'</a>
+<a name="3">[3]</a> <a href="#3" id=3>브랜드 가치 등 총 19 개 의 평가 지표 를 기준 으로 지난 한 해 동안 소개 된 신차 중 에서 선정 한다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['국회 예산 동결 전제 . ..'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'공천 개혁 · 선거 연령 만 18 세 하향 도'</a>
+<a name="3">[3]</a> <a href="#3" id=3>일부 자문 위원 들 은 의원 증원 에 대해 반대 의견 을 굽히 지 않 고 권고 안 에 ' 개인 의견 ' 을 첨부 했으며</a>
+</body>
+</html>

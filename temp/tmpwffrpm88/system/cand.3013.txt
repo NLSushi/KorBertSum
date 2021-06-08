@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['故 윤 한 덕 국립 중앙 의료 원 센터 장 추모 본격화'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'전 남대 의대 동창회</a>
+<a name="3">[3]</a> <a href="#3" id=3>'/ 전 남대 병원 제공 .'</a>
+</body>
+</html>

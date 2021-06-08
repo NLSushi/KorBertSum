@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 · 전남 지역 관공서 주차장 이 부족 해 시 도민 들 의 불편 이 가중 되 고 있 는 것 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>행정 복지 센터 의 주차 면수 를 시민 수 로 나눠 분석 한 것 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'시청 주차 면수 는 지상 839 대</a>
+</body>
+</html>

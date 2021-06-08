@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>["팟 케스 트 ' 그 암 이 알 고 싶 다 ' 홍보 포스터 ."</a>
+<a name="2">[2]</a> <a href="#2" id=2>큰 인기 를 끌 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'사진 = 순천 향대 천안 병원 제공 [ 천안 ] 순천 향대 학교 부속 천안 병원 이상철 교수 ( 종양 내과 ) 가 팟캐스트 를 활용 해 암 정보 를 제공</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>위문품 을 전달 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '경북 도 의회 가 추석 을 앞두 고 소외 계층 에 대한 이웃 사랑 실천 과 나눔 문화 확산 을 위해 앞장서 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '또 어려운 여건 속 에서 도 묵묵히 섬기 고 봉사 하 는 시설 종사자 들 에게 도 감사 를 전했 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['배우 사강 이 안방 극장 복귀 를 성공 적 으로 마쳤 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '사장 은 마치 키스 를 부르 는 듯 한 입술 로 “ 방광 ~ 규 ” 라고 말 하 며 그 의 혼 을 쏙 빼놓 았 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '사장 의 치명 적 인 매력 에 갇힌 방광 규 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>센카쿠 제도 문제 그리고 독도 문제 를 중앙 정부 차원 에서 적극 적 으로 대처 해 왔으며 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '일본 아베 정권 의 노골 적 인 다케시마 교육 강화 지시 는 우리 독도 영유권 에 대한 정면 도전 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 독도 는 한국 의 고유 영토 라는 것 을 정확 하 게 세계 에 알려야 한다 .'</a>
+</body>
+</html>

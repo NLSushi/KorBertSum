@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'15 일 국회 여성 가족 위원회 인재근 더불 어 민주당 의원 이 여성 가족 부</a>
+<a name="2">[2]</a> <a href="#2" id=2>['가정폭력 에 시달리 는 광주 · 전남 다 문화 여성 이 매년 수십 명 에 달하 는 것 으로 나타났 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>전남 은 경기 ( 1736 건 )</a>
+</body>
+</html>

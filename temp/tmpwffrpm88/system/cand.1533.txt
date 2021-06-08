@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['노태 손 시 의원 임시회 서 5 분 발언'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'노태 손 ( 민 · 부평 2 ) 인 천시 의원 은 22 일 시 의회 본 회의장 에서 열린 제 257 회 임시회 제 5 차 본회의 에서 5 분 발언 을 통해 이 같이 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이 중 사립 대학 은 18 . 8 %</a>
+</body>
+</html>

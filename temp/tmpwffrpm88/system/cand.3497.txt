@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대 기업 과 중소기업 의 연봉 격차 가 좁혀 지 지 않 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'올해 대 기업 대졸 신 입직 초임 이 평균 4100 만 원 으로 집계 됐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이번 조사 는 매출액 상위 500 대 기업 중 129 개 대 기업 과</a>
+</body>
+</html>

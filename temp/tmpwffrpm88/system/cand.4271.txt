@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광양시 가 지난해 9 월 코레 일 과 업무 협약 을 맺 고 추진 해 온 철도 관광 상품 인 ‘ 5 s - train ’ 이 큰 인기 를 얻 고 있 다고 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이러 한 노력 에 힘입 어 지난해 에 는 25 회 2000 여 명 이 다녀 갔으며</a>
+<a name="3">[3]</a> <a href="#3" id=3>철도 이용객 들 이 순천 에서 다시 갈아타 는 불편 함 을 해소 하 기 위해 기존 운행 중 인 서울 ~ 순천</a>
+</body>
+</html>

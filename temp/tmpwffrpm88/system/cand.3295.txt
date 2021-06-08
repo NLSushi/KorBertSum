@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 지역 수도관 중 30 년 이 넘 은 노후 수도관 비율 이 전국 광역시 가운데 가장 높 은 것 으로 나타나 녹 과 찌꺼기 가 쌓여 만든 ‘ 붉 은 수돗물 ’ 사고 에 대한 우려 가 커지 고 있 다 .'</a>
+</body>
+</html>

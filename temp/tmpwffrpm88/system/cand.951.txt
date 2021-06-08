@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['하임 키노 3 개 부문 상 도 석 권 독일 프랑크푸르트 시내 에 위치 한 삼성 쇼 케이스 매장 에서 판매 직원 이 고객 에게 영상 · 음향 기기 전문 매체 들 로부터 호평 받 은 qled tv 를 소개 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'영국 의 권위 있 는 제품 평가 전문지 트 러스티드 리뷰 ( trusted review ) 는 최근 삼성 qled 8 k tv ( 82 q 950 r ) 에 ‘ 적극 추천 ( highly recommended ) ’ 등급 을 부여 하 며 “ 8 k 해상도 에 놀라운 밝기 와 명암 비</a>
+<a name="3">[3]</a> <a href="#3" id=3>색 표현 력 이 더해져 지금껏 본 적 없 는 최고 의 초대 형 tv ” 라고 언급 했 다 .'</a>
+</body>
+</html>

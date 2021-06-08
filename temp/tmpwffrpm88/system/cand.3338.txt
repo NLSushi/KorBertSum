@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['- 현지 언론 · 네티즌 일제히 환호'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'- sns 영상 400 만 명 시청 하 기 도'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'- “ 중국 과학 진보 시켰 다 ” 평가'</a>
+</body>
+</html>

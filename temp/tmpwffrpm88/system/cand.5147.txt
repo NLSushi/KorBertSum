@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['아베 는 사과 하 라 !'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'지난 24 일 오후 동구 금남로 에서 열린 ‘ 경제 침탈 아베 규탄</a>
+<a name="3">[3]</a> <a href="#3" id=3>'정부 의 한 · 일 군사 정보 보호 협정 ( gsomia · 지소 미아 ) 종료 선언 에 대해 광주 시민 들 이 “ 당연 한 결과 ” 라며 환영 하 고 나섰 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'앞서 국토 부 는 2014 년 부터 ‘ 저 비용 항공사 안전 강화 대책 ’ 의 일환 으로 보유 항공기 가 25 대 이상 이 되 면</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이번 점검 은 4 일 부터 8 일 까지 이 며</a>
+<a name="3">[3]</a> <a href="#3" id=3>점검 팀 은 조종</a>
+</body>
+</html>

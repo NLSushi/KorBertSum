@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['사진 : 아시아 경제 홈페이지 캡처'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'최상주 khm 아경 그룹 회장 이 아시아 경제 회장 직 에서 사퇴 해 이목 이 집중 되 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'방송 에 따르 면 최상주 회장 은 인 텍 디지털 이 라는 셋톱박스 제조 업체 의 주식 지분 83 % 를 자신 이 대주주 인 법인 kmh 와 공동 으로 2017 년 인수 했 다 .'</a>
+</body>
+</html>

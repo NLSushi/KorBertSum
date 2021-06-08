@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대전 의 아파트 매매 및 전세 가격 상승세 가 설 이후 에 도 그칠 줄 모르 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 는 전국 적 으로 아파트 매매 가 및 전세 가 하락 폭 이 커지 고 있 는 것 과 는 대조 적 이 다 .'</a>
+</body>
+</html>

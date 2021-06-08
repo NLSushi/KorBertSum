@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>["지난 11 일 천안 신라 스테이 에서 열린 ' 산학 맞춤 기술 인력 양성 사업 기업 · 학생 만남 의 장 워크숍 및 취업 간담회 ' 참석자 들 이 화이팅 을 외치 고 있 다 ."</a>
+<a name="2">[2]</a> <a href="#2" id=2>'참여 학생 들 이 기업 대표 들 에게 단체 로 세배 도 해 눈길 을 끌 었 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'중소 벤처 기업 부</a>
+</body>
+</html>

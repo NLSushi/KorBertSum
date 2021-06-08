@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'반면 충남 · 충북 의 경우 각각 20 대</a>
+<a name="2">[2]</a> <a href="#2" id=2>['전동 휠체어 를 탄 장애 인 이 턱 이 낮 은 저상버스 를 이용 하 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'사진 = 국토 부 제공 대 전시 가 올해 전기 · 수소 저상버스 를 단 1 대 도 도입 치 않 아 정부 의 친환경 정책 에 역행 하 는 것 으로 드러났 다 .'</a>
+</body>
+</html>

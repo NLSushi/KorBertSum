@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'skt 는 5 g 시대 에 본격 화 될 대용량 미디어</a>
+<a name="2">[2]</a> <a href="#2" id=2>['원 하 는 방향 확대 앵글 기능 도 sk 텔레콤 의 ‘ 5 gx 프로 야구 ’ 서비스 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>vr 기술 등 을 프로 야구 콘텐츠 에 접목 해 고객 들 이 어디 에서 나 생생 하 게 경기 를 즐길 수 있 도록 할 계획 이 다 .'</a>
+</body>
+</html>

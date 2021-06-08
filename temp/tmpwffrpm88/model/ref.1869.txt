@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'수많 은 시민 들 이 이렇게 하루 8 시간 씩 일 하 는 장애 인 들 을 일상 에서 만나 게 되 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 또는 피신처 가 만들 어 지 지 않 는 이유 는 우리 가 그 들 을 투명 인간 취급 하 기 때문 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '당연히 그 들 은 경비 를 최소 화 해야 하 기 때문 에 장애 인 을 고용 한다 .'</a>
+</body>
+</html>

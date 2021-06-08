@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 영동 ] 영동군 은 갑작스러운 위기 사유 발생 으로 어려움 에 처한 저소득층 가구 의 생활 안정 을 돕 고 따뜻 한 복지 를 실천 하 기 위해 긴급 복지 지원 제도 를 추진 한다고 18 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '긴급 복지 지원 제도 는 주 소득 자 가 사망 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 가출</a>
+</body>
+</html>

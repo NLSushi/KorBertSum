@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['김명환 민주 노총 위원장 이 폭력 시위 지시 등 의 혐의 로 구속 되 면서 민주당 과 민주 노총 의 관계 개선 에 먹구름 이 드리워졌 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 를 반영 하 듯</a>
+<a name="3">[3]</a> <a href="#3" id=3>'여권 으로선 경제 사회 노동 위원회 복귀 문제 와 탄력 근로 제</a>
+</body>
+</html>

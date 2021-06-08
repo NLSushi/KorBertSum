@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'프레스턴 터커'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 'kia 타이거즈 가 새 외국인 선수 로 외야수 프레스턴 터커 ( preston tucker 좌 투 좌 타 . 1990 년 생 ) 영입 을 추진 하 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> kia 는 결과 에 따라 터커 와 계약 을 맺 을 방침 이 다 .'</a>
+</body>
+</html>

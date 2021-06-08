@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'여수시 공무원 노동조합 이 권오봉 시장 의 부실 한 정기 인사 를 주장 하 며 강력 반발 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'“ 직렬 간 형평 성 반영 하 고</a>
+<a name="3">[3]</a> <a href="#3" id=3>'“ 승진 1 순위 를 배제 하 는 등 특정 직 에 편중 된 부 적정 한 인사 ”'</a>
+</body>
+</html>

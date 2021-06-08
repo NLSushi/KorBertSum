@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>달아난 공급 총책 1 명 추적'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'전 · 현직 연예인 매니저 가 데이트 성범죄 마약 으로 불리 는 ghb ( 일명 물뽕 ) 등 마약 류 를 중국 에서 밀반입 해 국내 에 유통 하 다 경찰 에 적발 됐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>c 씨 는 유명 연예인 의 매니저 일 을 하 다가 알 게 된 사이 다 .'</a>
+</body>
+</html>

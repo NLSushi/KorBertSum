@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 충주 ] 충주시 가 2019 년 평생 학습 도시 특성 화 지원 공모 사업 에 지난해 이 어 2 년 연속 선정</a>
+<a name="2">[2]</a> <a href="#2" id=2>6000 만 원 의 사업비 를 확보 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>이종배 국회의원 의 적극 적 인 관심 과 긴밀 한 공조 로 좋 은 성과 를 이뤘 다 .'</a>
+</body>
+</html>

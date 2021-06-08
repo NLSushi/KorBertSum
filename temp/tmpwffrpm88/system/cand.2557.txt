@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>전자 조달 활성 화 계획 이 발표 된 가운데 충청 권 교육 계 와 급식 업계 의 이용 률 확대 가 이뤄질지 귀추 가 주목 되 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'eat 는 학교 가 식 재료 공급 업체 를 선정</a>
+<a name="3">[3]</a> <a href="#3" id=3>2 조 6919 억 원 의 거래 가 이뤄졌 다 .'</a>
+</body>
+</html>

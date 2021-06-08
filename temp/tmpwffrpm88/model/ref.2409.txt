@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['동남아 3 개국 을 순방 중 인 문재 인 대통령 이 12 일 브루나이 를 떠나 두 번 째 방문 국인 말레이시아 에 도착 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '이날 공항 에 는 말레이시아 국제 통상 산업 부 장관 인 다렐 영예 수행 장관 내외 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 아 쉬리 주한 말레이시아 대사 내외</a>
+</body>
+</html>

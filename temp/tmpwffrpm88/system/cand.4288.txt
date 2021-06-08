@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'경제 대전 환위 는 김광림 최고 위원</a>
+<a name="2">[2]</a> <a href="#2" id=2>'간사 는 김종석 의원 이 맡 았 으며 위원 에 는 교수 30 명</a>
+<a name="3">[3]</a> <a href="#3" id=3>['자유 한 국당 이 문재인 정부 의 경제 정책 의 문제점 을 지적 하 고 대안 을 제시 하 기 위한 ‘ 매머드 급 조직 ’ 을 출범 하 고 정책 투쟁 에 나섰 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['추석 을 앞두 고 보이스 피싱 범죄 가 잇따라 발생 해 주의 가 요구 된다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '경찰 조사 결과 </a>
+<a name="3">[3]</a> <a href="#3" id=3> c 씨 는 d 씨 가 금감원 을 사칭 한 대만 보이스 피싱 조직 에게 속아 집 냉장고 에 넣 어 놓 은 현금 을 훔쳐 달아났 다 .'</a>
+</body>
+</html>

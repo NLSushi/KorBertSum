@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'여수 엑스포 해양 공원 에서 열리 는 광주 세계 수영 대회 오픈 워터 경기 가 하루 앞 으로 다가왔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>대회 관계자 에 무료 시티투어 제공 등 홍보 안간힘'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'특별 취재 반 / 기경 범 기자 kgb @ namdonews . com'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['을 지대 학교 병원 안 과 이수나 교수'</a>
+<a name="2">[2]</a> <a href="#2" id=2>알레르기 등 이 원인 으로 꼽힌다 ."</a>
+<a name="3">[3]</a> <a href="#3" id=3>'결막 은 눈꺼풀 의 안쪽 과 안구 의 흰 부분 을 덮 고 있 는 얇 고 투명 한 점막 으로</a>
+</body>
+</html>

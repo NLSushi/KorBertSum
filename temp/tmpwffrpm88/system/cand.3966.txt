@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['추경호 의원 6 월 설립 예정 인 한국 물 기술 인 증원 ( 이하 물 기술 인 증원 ) 의 원활 한 운영 을 위한 입법 이 추진 된다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'운영 등 에 필요 한 경비 를 국가 가 ‘ 지원 할 수 있 다 ’ 로 규정 되 어 있 다 .'</a>
+</body>
+</html>

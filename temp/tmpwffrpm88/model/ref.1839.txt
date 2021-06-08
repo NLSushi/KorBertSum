@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'롯데 자이언츠 의 특급 신인 서준원 ( 사진 ) 이 올 시즌 1 군 마운드 데뷔 를 정조준 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '가장 서 고 싶 은 자리 는 마무리 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '150 ㎞ 대 구 위 와 특유 의 ‘ 무념무상 ’ 피칭 으로 롤 모델 손승락 의 자리 까지 넘 본다는 각오 다 .'</a>
+</body>
+</html>

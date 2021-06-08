@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>["청주 시립 미술관 분관 대 청호 미술관 에서 다음 달 9 일 까지 기획 전 ' 퇴적 된 유령 들 - the accumulated ghosts ' 전 을 연다 ."</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이번 전시 에 초대 된 김원진</a>
+<a name="3">[3]</a> <a href="#3" id=3>편 대식 등 총 7 명 의 작가 는 가볍 거나 얇 은 물질 을 소재 로 반복 적 인 행위 와 노동 집약 적 인 작업 방식 으로 시간 성 을 보여준다 .'</a>
+</body>
+</html>

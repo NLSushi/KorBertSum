@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 동구 가 지역 일자리 목표 공시 제 에 따른 ‘ 민선 7 기 일자리 대책 종합 계획 ’ 을 세우 고 임기 동안 공공 부문 · 민간 지원 을 통해 일자리 2 만 5 천 여 개 를 창출 하 겠 다고 7 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>15 개 중점 추진 과제</a>
+<a name="3">[3]</a> <a href="#3" id=3>'동구 는 이 를 위해 일자리 창출</a>
+</body>
+</html>

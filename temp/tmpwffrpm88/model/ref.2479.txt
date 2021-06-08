@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'즉 실업자 와 백수 들 을 끌어들였 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '맥도날드 라이더 로 활동 하 는 박정훈 씨'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '더구나 근무 시간 도 유연 하 고 근로 기준 법 에 따라 4 시간 노동 뒤 30 분 휴게 시간 도 보장 한다 .'</a>
+</body>
+</html>

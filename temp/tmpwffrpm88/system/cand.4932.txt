@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>멘토 로 참가 해 도움 계명 대가 예비 신입 생 을 위해 spring 캠프 를 열 어 대학 생활 에 적응 할 수 있 도록 도와 주 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이번 spring 캠프 는 대학 생활 을 미리 체험 해 보 고 계획 을 세울 수 있 는 좋 은 계기 가 될 수 있 을 것 같 다 . ”'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'계명 대 에서 진행 되 고 있 는 ‘ 2019 spring 캠프 ’ 에 참가 한 김승이 ( 여 · 20 · 간호학 과 ) 학생 은 이 같이 말 했 다 .'</a>
+</body>
+</html>

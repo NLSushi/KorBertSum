@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['최근 민간 사업자 의 사업 포기 로 원점 으로 돌아간 광주 어 등산 관광 단지 조성 사업 이 내달 재 공모 에 들어간다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '도시 공사 는 우선 어 등산 관광 단지 조성 사업 과 관련 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 3 월 중 유원지 개발 민간 사업자 재공 모를 실시 하 고 6 월 중 우선 협상 대상자 선정 및 통보</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['▲ ‘ 행복 한 도전 ’ 에 나선 당진시 장애 인 복지 관 이용자 들'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'단순히 프로그램 을 통해 즐기 는 것 뿐 만 아니 라 이 를 통해 자존 감 을 높이 고 자립심 을 길러 스스로 일어날 준비 를 하 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'더 나아가 자격증 취득 으로 다른 누군가 에게 배움 을 전할 계획 이 다 .'</a>
+</body>
+</html>

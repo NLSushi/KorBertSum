@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>복합 환승 센터 등 6 천 700 만 여 명 의 유동 인구 가 움직이 는 곳 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['지하 5 층 ~ 지상 18 층 전 세대 복 층 형 오피스텔 기자 동대구 고속버스 터미널 후 적 지 개발 의 첫 사업 인 ‘ 동대구역 아 펠리체 ’ 가 본격 분양 에 들어간다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>1 호 선 동대구역</a>
+</body>
+</html>

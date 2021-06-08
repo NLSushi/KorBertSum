@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['더불 어 민주당 정당 지지 도 가 한 달 만 에 다시 40 % 선 아래 로 주저앉 았 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '손혜원 의원 의 목포 부동산 투기 의혹 이 지지율 하락 에 영향 을 끼쳤 다는 분석 이 나온다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 부정 평가 는 1 % 포인트 오른 45 % 였 다 .'</a>
+</body>
+</html>

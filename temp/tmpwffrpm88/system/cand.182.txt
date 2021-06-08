@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이중 팀장 이 업무 총괄 을 실시 하 고 있 어 이 에 자살 업무 2 명</a>
+<a name="2">[2]</a> <a href="#2" id=2>['[ 옥천 ] 옥천 정신 건강 복지 센터 가 인력 부족 으로 어려움 을 겪 고 있 다는 지적 이 다 .'</a>
+</body>
+</html>

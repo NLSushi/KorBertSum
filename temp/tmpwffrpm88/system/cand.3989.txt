@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대구 남구 청 은 10 월 25 ~ 26 일 안지 랑 곱창 골목 과 앞산 카페 거리 일원 에서 ‘ 2019 대구 할로윈 축제 ’ 를 개최 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>할로 나잇 콘서트 등 이 구성 돼 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이번 축제 는 ‘ 펀펀 할로 나 잇 ＆ 펀펀 할 로데이 ’ 를 주제 로 펼쳐진다 .'</a>
+</body>
+</html>

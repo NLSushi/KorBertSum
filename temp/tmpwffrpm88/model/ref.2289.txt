@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'광주 는 배치 율 은 비교 적 양호 했으나 비 정규 교원 이 다수 를 채운 것 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '29 일 국회 교육 위원회 소속 더불 어 민주당 조승래 의원 이 교육부 로부터 제출 받 은 자료 에 따르 면 전남 학교 수 대비 비교 과 교사 비치 율 은 전문 상담 48 . 4 %</a>
+<a name="3">[3]</a> <a href="#3" id=3> 보건 61 . 5 %</a>
+</body>
+</html>

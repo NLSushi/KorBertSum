@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>김윤아 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 송은이 광고 영상 이미지 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '오비 맥주 ( 대표 고동우 ) 는 17 일 벨기에 프리미엄 맥주 ‘ 스텔라 아르투 아 ( stella artois ) ’ 의 ‘ 꿈 은 단절 되 지 않 는다 ’ 광고 영상 이 공개 4 주 만 에 유튜브 조 회수 350 만 뷰 를 돌파 했 다고 밝혔 다 .'</a>
+</body>
+</html>

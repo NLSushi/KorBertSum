@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['건설업 계 의 고질 적 병폐 인 원 · 하도 급자 간 불공정 행위 를 근원 적 으로 제거 하 고 부실시공 을 예방 할 수 있 는 ‘ 주계약자 공동 도급제 ’ 가 지자체 의 외면 으로 겉돌 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '하지만 전남 지역 에선 사실상 유명무실 한 제도 로 전락 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 무안군</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'글로벌 철강 전문 분석 기관 wsd 선정</a>
+<a name="2">[2]</a> <a href="#2" id=2>['기업 시민 활동 적극 전개 로 투자 환경 조성</a>
+<a name="3">[3]</a> <a href="#3" id=3>'포스코 가 ‘ 세계 에서 가장 경쟁력 있 는 철 강사 ’ 에 10 년 연속 1 위 로 선정 됐 다 .'</a>
+</body>
+</html>

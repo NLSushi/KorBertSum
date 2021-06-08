@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'자전거 보험 은 시민 이 면 누구 나 별도 의 가입 절차 없이 자동 으로 피보험자 가 되 며</a>
+<a name="2">[2]</a> <a href="#2" id=2>['대전 갑천 자전거길 에서 자전거 를 타 는 시민 들 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'사진 = 대 전시 제공'</a>
+</body>
+</html>

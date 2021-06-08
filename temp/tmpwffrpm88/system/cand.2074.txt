@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['목포 출신 김세희 작가 가 첫 장편 소설 ‘ 항구 의 사랑 ’ 을 펴냈 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'소설 은 사랑 의 한 복판 에 있 었 기 에 알 수 없 었 고 또한 몰랐 기 에 더 열렬 했 던 10 대 시절 의 첫 사랑 이야기 를 담 았 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>과연 그 시절 그곳 여학생 들 을 사로잡 았 던 것 은 무엇 이 었 을까 .'</a>
+</body>
+</html>

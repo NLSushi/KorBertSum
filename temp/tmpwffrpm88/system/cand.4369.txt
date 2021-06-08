@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'30 일 전남 도 교육청 에 따르 면 이날 현재 공기 정화 장치 가 설치 된 전남 유치원</a>
+<a name="2">[2]</a> <a href="#2" id=2>'3 개 대 기업 제품 90 . 4 % 점유'</a>
+<a name="3">[3]</a> <a href="#3" id=3>['전남 학교 공기 청정기 구매 대신 ‘ 임대 ’'</a>
+</body>
+</html>

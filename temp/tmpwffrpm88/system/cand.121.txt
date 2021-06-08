@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>여름 방학 맞 아 웹툰 / 웹 소설 플랫 폼 ‘ 저 스 툰 ’ 제휴 이벤트'</a>
+<a name="2">[2]</a> <a href="#2" id=2>패키지 에 삽입 된 qr 코드 비밀 번호 를 입력 하 면 경품 이 지급 된다 .'</a>
+</body>
+</html>

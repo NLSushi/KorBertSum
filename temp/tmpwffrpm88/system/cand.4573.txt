@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>미사 강변 도시 초 · 중학교 신설 조기 확정 및 돌봄 교실 지원 확대</a>
+<a name="2">[2]</a> <a href="#2" id=2>['하남 교육 환경 개선 에 총력 을 기울여온 이현재 의원 은 지난 26 일 이재정 경기도 교육감 을 방문 해 하 남 교육 지원 센터 11 월 개소</a>
+<a name="3">[3]</a> <a href="#3" id=3>초등 학교 보안관 배치 를 건의 했 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주일보 신춘 문학회 ( 광일 문학회 ) 작가 들 의 작품집 ‘ 금남 로 가 는 길 ’( 21 호 · 심미안 ) 이 나왔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>이번 동인지 에서 도 회원 들 의 열정 이 가득 한 작품 들 을 선보였 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>소설 등 다양 한 신작 들 이 수록 돼 있 다 .'</a>
+</body>
+</html>

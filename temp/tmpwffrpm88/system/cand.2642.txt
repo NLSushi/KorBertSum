@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['안산시 외국인 주민 지원 본부 는 최근 공중 파 방송 을 통해 이색 적 인 음식 등 이 소개 된 다 문화 음식 거리 에 대한 방문객 의 관심 이 커지 고 있 다고 11 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>총 2 만 4 천 여 명 ( 외국인 2 만 1 천 여 명 ) 이 살 고 있 다 .'</a>
+</body>
+</html>

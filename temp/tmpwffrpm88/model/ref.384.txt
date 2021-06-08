@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'대구시 의회 건설 교통 위 와 경제 환경 위 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 교육위 소속 의원 들 이 일제히 현장 방문 에 나섰 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '“ 의정 활동 의 중심 은 시민 이 며</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'권역 별 호스피스 센터 지정 은 인천 지역 에서 인천 성모병원 이 처음 이 자 유일 하 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '인천 성모병원 은 권역 별 호스피스 센터 지정 으로 관련 역할 수행 과 함께 그 에 따른 통합 적 인 관리 및 지원 체계 를 갖추 게 된다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '또한</a>
+</body>
+</html>

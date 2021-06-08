@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['시설 정비 · 정주 환경 등 개선 지난 22 일 영덕군 석리 항 을 방문 한 김영춘 해양수산부 장관 이 지역 주민 들 에게 어촌 뉴딜 의 대표 브랜드 사업 에 대해 설명 하 고 있 다 .'</a>
+</body>
+</html>

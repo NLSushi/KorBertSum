@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'담당 부서 가 시 와 이해관계 가 있 는 기업 을 해당 상임 위원회 소속 의원 들 과 자리 하 도록 마련 해 준 것 인데</a>
+<a name="2">[2]</a> <a href="#2" id=2>['시장 핵심 공약 담당 하 는 쪽 에서 굳이 오해 할 만 한 자리 마련 논란'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'일부 상임위 의원 들 은 참석 안 해 부서 측 " 의회 와 소통 하 려는 절차 "'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>물탱크 실 등 이 설치 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'지난 21 일 에 는 우강 농협 하나 로 마트 준공식 이 주차장 에서 열렸 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'준공식 에서 는 풍물놀이 와 악기 연주 등 의 축하 공연 과 경과보고</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['올해 는 읍 면 동 지역 회의 가 대구 시내 전체 동 으로 확대 된다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'올해 주민 참여 예산제 에 는 특히 지역 청소년 들 의 참여 예산제 가 눈 에 띈다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'사진 은 대구시 북구 동천동 에서 열린 주민 참여 예산 4 차 지역 회의 모습 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'광주 광역 시청 청사 전경 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '광주 광역시 는 지역 경제 활력 을 제고 하 고 일자리 창출 을 위해 재정 신속 집행 을 적극 추진 한 결과 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 행정 안 전부 목표 액 을 초과 달성 했 다고 7 일 밝혔 다 .'</a>
+</body>
+</html>

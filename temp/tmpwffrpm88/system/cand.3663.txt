@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>농작물 재해 보험료 지원 확대'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'전남 장성군 이 자연재해 로 인한 농작물 피해 를 최소 화 하 고 농가 의 안정 적 인 영농 활동 을 뒷받침 하 기 위해 ‘ 농작물 재해 보험 ’ 지원 을 확대 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'사진 은 지난해 한 농가 의 벼 수확 모습 .'</a>
+</body>
+</html>

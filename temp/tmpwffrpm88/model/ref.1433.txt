@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['수원시 는 오 는 8 월 31 일 까지 곳곳 에서 무료 물놀이장 을 운영 한다고 7 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '물놀이장 은 일월 · 샘 내 공원 ( 장안구 ) </a>
+<a name="3">[3]</a> <a href="#3" id=3> '매일 새로운 물 로 교체 하 며</a>
+</body>
+</html>

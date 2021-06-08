@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'13 일 업계 에 따르 면 음료 는 얼음 이 들어간 차가운 음료 가 인기 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['아이스 아메리카노 매출 도 ↑ 식품 업계 에 도 계절 과 상관없 는 ‘ 시즌 리스 ( season - less ) ’ 바람 이 불 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'겨울 에 도 아이스 음료 나 빙수 · 아이스크림 등 을 찾 는 소비자 들 이 늘 면서 업계 는 신 제품 경쟁 이 치열 하 다 .'</a>
+</body>
+</html>

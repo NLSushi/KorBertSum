@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['임준현 감독 과 김주희 씨 가 필리핀 의 한국인 슈바이처 故 박 누가 원장 의 삶 을 재 조명 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'( 사진 = kbs )'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'그 이후 결심 하 셨 다 .'</a>
+</body>
+</html>

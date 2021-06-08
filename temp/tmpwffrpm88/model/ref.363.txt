@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'허석 순천 시장 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '순천시 는 지난달 27 일 조례 호수 도서관 에서 ‘ 순천시 도서관 의 과거 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 함돈균 평론가</a>
+</body>
+</html>

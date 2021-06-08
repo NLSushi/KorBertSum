@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['최근 sns ( 사회관 계망 서비스 ) 에서 유명세 를 탄 다이어트 보조 식품 일부 가 안전 기준 을 어긴 것 으로 조사 돼 보건 당국 이 회수 조치 를 내렸 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '식품 의 약 품안 전처 는 18 일 sns 마켓 에서 판매 중 인 ‘ 다이어트 ’</a>
+<a name="3">[3]</a> <a href="#3" id=3> ‘ 헬스 ’</a>
+</body>
+</html>

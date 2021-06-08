@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'익숙 함 은 편안 함 을 주 지만 변화 를 이끌 어 내지 는 못 합니다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '그리고 힘 을 모아 고기 를 잡 아 산모 를 먹였 습니다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '또 한 사람 이 죽 어 갔 습니다 .'</a>
+</body>
+</html>

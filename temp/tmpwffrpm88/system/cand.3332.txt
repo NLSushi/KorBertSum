@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['헝가리 다뉴브강 유람선 참사 뉴스 가 tv 에 보도 될 때 마다 강가 에 놓인 꽃 들 이 클로즈업 되 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'국화 와 장미 가 주 를 이뤘 는데</a>
+<a name="3">[3]</a> <a href="#3" id=3>'헝가리인 들 이 한국인 의 정서 를 고려 해 하얀 마거리트 를 놓 은 것 으로 보인다 .'</a>
+</body>
+</html>

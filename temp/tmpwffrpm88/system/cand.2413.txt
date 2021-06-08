@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 · 전남 주요 대학 정시 모집 에서 대학 마다 인기 학과 로 쏠림 현상 이 눈 에 띄 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>수시 이월 농어촌 전형 6 명 포함 ) 에 4 천 830 명 이 지원 해 4 . 11 대 1 의 경쟁 률 을 보였 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>여수 지역 은 4 . 53 대 1 이 다 .'</a>
+</body>
+</html>

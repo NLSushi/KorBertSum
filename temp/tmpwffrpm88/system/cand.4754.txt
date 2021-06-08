@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['지난 6 일 부터 9 일 까지 엑스코 에서 개최 된 ‘ 제 6 회 대구 국제 차 · 공예 박람회 ’ 에 참가 한 박영숙 천 년 의 빛깔 쪽빛 노을 대표 가 여성 계량 한복 의 우수 성 을 설명 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'부스 마다 블랙 티</a>
+<a name="3">[3]</a> <a href="#3" id=3>금속 공예 등 다양 한 제품 이 전시 됐 다 .'</a>
+</body>
+</html>

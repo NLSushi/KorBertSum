@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['동신 대 ‘ 담배 연기 없 는 캠퍼스 만든다 ’'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'전남 도 금연 사업 수행 대학 선정 … 서포터 즈 발대식'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'동신 대 ( 총장 최일 ) 는 지난 7 일 대학 정보 전산 센터 2 층 세미나 실 에서 ‘ 대학생 금연 서포터 즈 발대식 및 간담회 ’ 를 가졌 다고 8 일 밝혔 다 .'</a>
+</body>
+</html>

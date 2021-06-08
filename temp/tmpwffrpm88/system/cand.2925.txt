@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>여수 · 광양 · 순천 에서 참전 용사 증언 청취 회 실시'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이번 행사 는 사전 조사 활동 을 통해 신뢰 성 이 검증 된 전남 동부 지역 120 여 명 의 참전 용사 의 증언 에 중점 을 두 고 참전 당시 의 · 식 · 주 관련 확인 표 ( check - list ) 를 활용 한 기초 자료 수집 과 병행 해 진행 될 예정 이 다 .'</a>
+</body>
+</html>

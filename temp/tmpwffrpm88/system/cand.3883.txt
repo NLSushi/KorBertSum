@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['인천시 강화군 은 강화읍 월곳리 에 자연 장 으로 장사 할 수 있 는 공설 자연 장지 를 개장 ( 開場 ) 하 고</a>
+<a name="2">[2]</a> <a href="#2" id=2>'묘지 제도 는 장례 의 관행 을 존중 하 는 문화 에 따른 보편 적 인 장사 의 형태 였으나</a>
+<a name="3">[3]</a> <a href="#3" id=3>'‘ 국토 공간 을 효율 적 으로 활용 하 면서</a>
+</body>
+</html>

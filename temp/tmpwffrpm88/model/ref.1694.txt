@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['올해 3 분기 대구 · 경북 의 경제 가 1 년 사이 더욱 악화 된 것 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '건설 수주 는 감소 전환 하 고 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 취업자 수 의 감소세 가 지속 됐 다 .'</a>
+</body>
+</html>

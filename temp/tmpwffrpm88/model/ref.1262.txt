@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'안 전한 시력 교정술 에 대해 알아본다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 상피 재생 을 위한 보호용 콘택트렌즈 를 착용 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '아울러 검사 나 수술 전 에 는 렌즈 착용 을 중단 해야 한다 .'</a>
+</body>
+</html>

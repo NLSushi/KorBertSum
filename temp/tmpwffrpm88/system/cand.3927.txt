@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['외국 계 은행 4 곳 이 6000 억 원 규모 의 외환 파생 상품 을 담합 거래 한 혐의 로 6 억 9300 만 원 의 과징금 처분 을 받 았 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>시정 명령 과 함께 과징금 을 부과 했 다고 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'통화 스와프 선물환 외환 스와프 가 이 에 해당 된다 .'</a>
+</body>
+</html>

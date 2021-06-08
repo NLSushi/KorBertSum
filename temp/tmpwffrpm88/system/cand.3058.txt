@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>메리 츠 화재 도 4 . 4 % 인상 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'먼저 16 일 에 대형 4 개 사 중 db 손해 보험 이 3 . 5 %( 이하 개인 용 기준 )</a>
+</body>
+</html>

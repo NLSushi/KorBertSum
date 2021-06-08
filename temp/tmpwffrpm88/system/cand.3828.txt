@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['성석제 지음 / 문학 동네 / 423 쪽 / 1 만 4500 원'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'조선 숙종 대 를 배경 으로</a>
+<a name="3">[3]</a> <a href="#3" id=3>2 ) ' 는 문학 동네 네이버 카페 에서 전반부 를 연재 한 뒤 오랜 시간 을 들여 후반부 를 새로 쓰 고 대폭 개고 해 단행본 으로 선보인 신간 이 다 ."</a>
+</body>
+</html>

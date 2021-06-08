@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>농가 인력 · 구직자 일자리 연결 35 개소 본격 운영'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['농번기 일손 부족 해결사 ‘ 농촌 인력 지원 센터 ’'</a>
+<a name="3">[3]</a> <a href="#3" id=3>구직자 에게 일자리 를 연결 해 주 기 위해 지난 2017 년 전국 최초 로 시행 한 사업 이 다 .'</a>
+</body>
+</html>

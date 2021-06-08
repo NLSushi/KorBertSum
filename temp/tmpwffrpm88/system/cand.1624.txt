@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['추석 이 4 일 앞 으로 바짝 다가왔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'추석 이 다가오 면 늘 주부 들 의 걱정 이 시작 된다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'다행 인 것 은 지난해 에 비해 백화점 과 대형 마트 등 의 가격 이 오른 가운데 그나마 전통 시장 의 가격 은 하락 했 다는 점 이 다 .'</a>
+</body>
+</html>

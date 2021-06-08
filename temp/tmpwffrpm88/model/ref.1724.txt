@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주시 는 민주 인권 평화 국장 ( 3 급 ) 윤목현 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 대변인 ( 4 급 ) 김옥조 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '윤 국장 은 전 남대 대학원 행정학 석사 · 박사 를 취득 하 고 동강 대 평생 교육 원장 등 을 역임 했 다 .'</a>
+</body>
+</html>

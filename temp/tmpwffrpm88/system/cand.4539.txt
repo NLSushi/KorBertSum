@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['태양광 · 지열 설비 3 . 7 메가와트 용량 규모 로</a>
+<a name="2">[2]</a> <a href="#2" id=2>'대구시 가 산업 통상 자원 부 에 응모 한 ‘ 신재 생 에너지 융 복합 지원 사업 ’ 에 선정 돼 국비 37 억 원 을 확보 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>시비 20 ~ 35 % 지원 자부담 은 15 ~ 30 %'</a>
+</body>
+</html>

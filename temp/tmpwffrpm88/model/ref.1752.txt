@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'차기 세계 수영 선수 권 대회 개최 도시 인 일본 후쿠오카 조직 위원회 가 2019 광주 세계 수영 선수 권 대회 가 열리 는 광주 를 방문 해 시설 을 둘러보 며 본격 적 인 대회 준비 에 나섰 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '준 비단 은 남부 대학교 mpc ( main press center ) 를 찾 아 미디어 라 운지 와 기자 회견장 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 믹스 드 존 등 의 부대시설 과 구성 · 동선</a>
+</body>
+</html>

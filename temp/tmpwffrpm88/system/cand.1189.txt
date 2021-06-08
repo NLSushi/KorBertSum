@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>러시아 의료 시장 개척 ‘ 속도 ’'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'제 1 - 제 3 시립 병원 등 네트워크 강화 도'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이르쿠츠크 방문 … 현지 환자 무료 진료'</a>
+</body>
+</html>

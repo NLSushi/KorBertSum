@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['“ 읍내 갈 때 경운기 말 고 ‘ 마실 버스 ’ 나 ‘ 마실 택시 ’ 를 이용 하 세요 . ” 울산 시 가 대중교통 이 취약 한 농촌 지역 인 울주군 의 주민 을 위한 마실 버스 를 도입 해 오 는 6 월 부터 운행 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '시 와 울주군 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 병원 등 에 갈 때 걷 거나 경운기 를 탄다 .'</a>
+</body>
+</html>

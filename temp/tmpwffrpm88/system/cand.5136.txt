@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['市 보상 안 철회 요구 속 소상 공인 들 도 지급 시기 등 놓 고 이견 제시 붉 은 수돗물 사태 가 2 라운드 로 접어들 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'시 가 내놓 은 보상 안 을 일부 지역 주민 과 소상 공인 등 피해 당사자 들 이 받아들이 지 못하 고 있 기 때문 이 다 .'</a>
+</body>
+</html>

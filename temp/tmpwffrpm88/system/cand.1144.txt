@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>학생 부 중심 대입 전형 연수'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'전남 도 교육청 이 서울 대학교 와 공동 으로 30 일 부터 31 일 까지 학생 과 교사</a>
+<a name="3">[3]</a> <a href="#3" id=3>'연수 첫날 인 30 일 오후 2 시 에 는 신안 안좌 고등학교 에서 학생 대상 학생 부 종합 전형 설 명회 가 열리 고</a>
+</body>
+</html>

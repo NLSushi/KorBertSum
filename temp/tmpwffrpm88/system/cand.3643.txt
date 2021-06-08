@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'지난 19 일 오후 3 시 30 분 국회 농림 축산 식품 해 양수산 위원회 소 회의실 에서 ( 사 ) 한국 마늘 산업 연합회</a>
+<a name="2">[2]</a> <a href="#2" id=2>6 월 중 마늘 2 만 t 긴급 수매'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'풍작 으로 인한 마늘 가격 폭락 으로 시름 에 빠져 있 는 마늘 재배 농가 들 에게 희소식 이 나왔 다 .'</a>
+</body>
+</html>

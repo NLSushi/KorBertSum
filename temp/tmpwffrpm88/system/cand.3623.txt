@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['日 수출 규제 광주 · 전남 지역 경제 영향 미미'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'일본 이 규제 한 tv · 스마트폰 액정 에 쓰이 는 플루오린 폴리 이미드 ( fpi )</a>
+<a name="3">[3]</a> <a href="#3" id=3>수입 비중 30 %… 국내 · 유럽 등 대체 가능'</a>
+</body>
+</html>

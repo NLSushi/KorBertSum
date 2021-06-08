@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['" 소통 협력 관 과 충분 한 협업 을 통해 시너지 효과 를 내 도록 하 겠 습니다 . "'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이날 의원 들 은 균형발전 정무 부시장 직 의 정무 기능 약화 에 대한 우려 를 표명 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>업무 중첩 논란 이 제기 됐 기 때문 이 다 .'</a>
+</body>
+</html>

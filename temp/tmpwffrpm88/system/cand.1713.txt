@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>관광객 37 명 이 부상 을 당했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['지난 14 일 오후 울릉읍 봉래 폭포 인근 도로 에서 관광버스 2 대 가 충돌 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이 사고 로 버스 두 대 가 크 게 파손 됐 고</a>
+</body>
+</html>

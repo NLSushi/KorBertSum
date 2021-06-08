@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['최용락 [ 음성 ] 음성군 이 관리 하 는 산업단지 관리 소장 이 군 퇴직 공무원 들 의 재취업 자리 로 전락 하 면서 빈축 을 사 고 있 다 .'</a>
+</body>
+</html>

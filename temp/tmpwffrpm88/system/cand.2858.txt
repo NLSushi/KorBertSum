@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['남 도 일보 임직원 역량 강화 교육 ‘ 성 료 ’'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'남 도 일보 는 16 일 최혁 주필 과 김용석 편집국장 을 비롯 한 전 직원 을 대상 으로 역량 강화 를 위한 사내 교육 을 가졌 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'전 직원 대상 스마트폰 활용 사진 동영상 촬영 교육'</a>
+</body>
+</html>

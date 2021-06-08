@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>2040 세대 맞춘 캐릭터 체크카드 3 종 출시'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'2040 세대 의 취향 에 맞춰 세 가지 의 디자인 으로 선보인 ‘ 신협 어부바 체크카드 ’ 는 2040 세대 의 라이프 스타일 을 고려 한 맞춤 혜택 을 담 았 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이용빈 도 높 은 가맹점 할인 혜택 에 집중'</a>
+</body>
+</html>

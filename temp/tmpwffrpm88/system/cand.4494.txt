@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['지멘스 와 초음파 진단 기 협약 도 미국 을 방문 한 이철우 경북 도 지사 가 미주 진출 기업 들 과 간담회 를 갖 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>국제 전자 제품 박람회 ( ces 2019 ) 참가 와 지멘스 헬 시니어 스와 의 협력 강화 등 을 통해 경북 먹거리 발굴 에 큰 힘 이 됐 다는 평가 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>라스베이거스 글로벌 기업 방문</a>
+</body>
+</html>

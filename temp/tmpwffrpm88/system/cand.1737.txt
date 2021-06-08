@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'gtx - b 노선 이 개통 되 면 기존 일반 노선 을 이용 하 던 고속 열차 가 gtx 노선 을 이용 하 고</a>
+<a name="2">[2]</a> <a href="#2" id=2>['더불 어 민주당 윤호중 ( 구리 ) 국회의원 은 수도 권 광역급행철도 ( gtx ) b 노선 예비 타당 성 조사 ( 예타 ) 결과</a>
+<a name="3">[3]</a> <a href="#3" id=3>일반 노선 은 용 산행 경춘선 일반 전동차 가 20 회 추가 투입 될 예정 으로 경춘선 배차 간격 도 축소 될 것 으로 전망 된다 .'</a>
+</body>
+</html>

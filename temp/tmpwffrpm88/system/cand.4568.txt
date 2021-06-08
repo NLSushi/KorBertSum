@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>극 과 극 분위기 를 내뿜 는 두 사람 의 모습 이 코믹 함 을 선사 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'오 는 6 일 수요일 첫 방송 되 는 tvn 새 수목드라마 ‘ 진심 이 닿 다 ’ 는 어느 날</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이동욱 - 유인나 가 주연 을 맡 고 박준화 감독 이 연출 을 맡 아 시청자 마음 에 닿 을 드라마 로 기대 를 모으 고 있 다 .'</a>
+</body>
+</html>

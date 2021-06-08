@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['dgb 대구은행 은 창립 52 주년 을 기념 해 비대 면 대출 가입 고객 을 대상 으로 다양 한 경품 을 추첨 하 는 ‘ 핫 한 dgb 가 모바일 대출 고객 52 명 에게 쏩니다 ’ 이벤트 를 진행 한다고 1 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'lg 퓨리 케어 공기 청정기 30 평 형 ( 1 등 1 명 )</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이번 이벤트 는 대구은행 인터넷 뱅킹</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이날 김성 의 남 도 일보 사장 과 홍성길 광주시 배드민턴 협회 장</a>
+<a name="2">[2]</a> <a href="#2" id=2>'/ 임문 철 기자 35 mm @ namdonews . com'</a>
+<a name="3">[3]</a> <a href="#3" id=3>['남 도 일보 · 광주광역시 배드민턴 협회'</a>
+</body>
+</html>

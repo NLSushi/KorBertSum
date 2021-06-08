@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['▲ 이랑 이 의왕시 의회 의원 " 중학교 가 없 어서 이사 갑니다 . "'</a>
+<a name="2">[2]</a> <a href="#2" id=2>다른 중학교 는 직선거리 만 1 . 8 ㎞ 로</a>
+<a name="3">[3]</a> <a href="#3" id=3>내손 1 동 은 2 만 1 천 명 의 인구 에 갈 뫼 중학교 가 있 고</a>
+</body>
+</html>

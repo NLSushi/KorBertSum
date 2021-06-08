@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['이낙연 국무총리 가 세계 최초 5 g 상용 화 를 앞둔 수원 삼성전자 5 g 통신 장비 생산 현장 을 찾 아 관계자 들 을 격려 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 총리 는 10 일 삼성전자 수원 사업장 에서 이재용 삼성전자 부회장 을 비롯 한 삼성 임원진 들 을 만나 5 g 및 반도체 사업 현황 을 들 었 다 .'</a>
+</body>
+</html>

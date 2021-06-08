@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광명시 는 지난 2 일 시청 대 회의실 에서 발달 장애 인 및 부모 와 관계자 100 여 명 이 참석 한 가운데 ‘ 발달 장애 인 일자리 보고대회 ’ 를 가졌 다 .'</a>
+</body>
+</html>

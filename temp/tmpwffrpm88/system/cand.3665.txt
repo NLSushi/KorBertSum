@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['기자 저 출생 문제 의 해법 을 일 과 생활 의 균형 에서 찾 아 한다는 연구 결과 가 발표 됐 다 .'</a>
+</body>
+</html>

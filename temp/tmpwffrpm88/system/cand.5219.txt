@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['경기도 가 축산 분야 유관 기관 들 을 대상 으로 아프리카 돼지 일병</a>
+<a name="2">[2]</a> <a href="#2" id=2>'협의회 는 도내 가축 방역 대책 을 논의 하 는 협의 체로</a>
+<a name="3">[3]</a> <a href="#3" id=3>'경기도 동물 위생시험소 는 9 일 오후 시험소 내 대 회의실 에서 도 및 시 · 군</a>
+</body>
+</html>

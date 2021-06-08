@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['최 연소 비 전향 장기수 였 던 보안관 찰 법 폐지 운동가 강용주 ( 57 ) 씨 가 ‘ 제 15 회 박종철 인권 상 ’ 수상자 로 4 일 선정 됐 다 .'</a>
+</body>
+</html>

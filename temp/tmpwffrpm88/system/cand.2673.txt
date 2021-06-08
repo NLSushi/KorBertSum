@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['올해 부산 불꽃 축제 의 좌석 은 8300 석 으로 지난해 보다 300 석 줄 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'부산시 는 다음 달 부터 유료 좌석 6000 석 을 판매 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'티켓 의 판매 규모 는 테이블 · 의자 를 갖춘 r 석 ( 1200 석 ) 과 의자 만 제공 하 는 s 석 ( 4800 석 ) 등 6000 석 이 다 .'</a>
+</body>
+</html>

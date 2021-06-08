@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>연말 정산 ‘ 절세 팁 ’ 영상 배포'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'잘 공제 하 면 13 월 의 월급 을 기대 할 수 도 있 는 연말 정산 절세 팁 을 이른바 ‘ 짤 ( 짧 은 동영상 콘텐츠 ) ’ 로 만들 어 대 공개 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'국세청 이 유튜브 로 월급쟁이 들 의 연말 정산 을 돕 는다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['자유 한 국당 이 2 주 연속 문재 인 정부 를 규탄 하 는 장외 집회 를 열 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'구호 를 외칠 때 마다 태극기 와 성조기 가 물결쳤 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>"참석자 들 은 대부분 한국 당 상징 색인 빨간색 옷 을 입 었 고 ' 독재 타 도 헌법 수호 '</a>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 왕 이 된 남자 ’ 측 이 여진구 ( 하선 / 이 헌 1 인 2 역 ) 의 25 종 표정 모음 을 공개 해 눈길 을 끈다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>양 극단 에 서 있 는 두 인물 을 완벽 하 게 소화 해 내 며 시청자 들 을 전율 케 하 고 있 다 .'</a>
+</body>
+</html>

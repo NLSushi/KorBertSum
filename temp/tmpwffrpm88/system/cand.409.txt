@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'프로야구 삼성 라이온즈 가 선발 진 재 편성 으로 반전 을 꾀한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'삼성 은 올 시즌 새 외국인 투수 덱 맥과이어 와 저스틴 헤일리 를 필두 로 백정현</a>
+<a name="3">[3]</a> <a href="#3" id=3>최채 흥 으로 이어지 는 5 선 발진 을 구성 했 다 .'</a>
+</body>
+</html>

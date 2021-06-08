@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['전 남도 가 해양 레저 스포츠 활성 화 를 위해 교육 · 스포츠 · 시설 · 관광 분야 등 20 개 전략 과제 를 발굴 해 추진 하 기 로 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '전남 의 비교 우위 천연자원 인 섬 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 갯벌</a>
+</body>
+</html>

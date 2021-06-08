@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>"승리 가 운영 하 는 클럽 ' 버 닝 썬 ' 에 관련 해 yg 엔터 테 인 먼 트 양현석 대표 가 대신 해명 하 자</a>
+<a name="2">[2]</a> <a href="#2" id=2>사실 확인 을 하 는 데 도 많 은 어려움 이 있 었 다 " 고 입장 발표 가 늦 어 진 점 에 대해 설명 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이날 양 대표 는 폭행 논란 에 대해 사건 당일 승리 는 오전 3 시 까지 현장 에 있 었 으며</a>
+</body>
+</html>

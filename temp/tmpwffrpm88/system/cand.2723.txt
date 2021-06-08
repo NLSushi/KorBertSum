@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['공사 기간 3 년 … 사전 얘기 도 없 어 날림 먼지 · 진동 · 안전 문제 등 우려 시 행사 " 협의 체 구성 논의 하 겠 다 "'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'사진 = 신선 초교 학부모 제공'</a>
+<a name="3">[3]</a> <a href="#3" id=3>갑자기 학교 바로 옆 에 39 층 건물 을 올리 겠 다니 말 이 안 됩니다 .'</a>
+</body>
+</html>

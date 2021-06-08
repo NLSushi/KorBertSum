@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'서평택 환경 위원회 와 평택 환경 시민 행동 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '또 평택 은 기초자치단체 로 연평균 미세먼지 농도 가 전국 최상위 에 자리 하 며 경기 남부 지역 대기 오염원 으로 낙인찍힌 지 이미 오래 됐 고 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 상주 는 하 되 정주 하 고 싶 지 않 는 곳 이 되 었 다고 주장 했 다 .'</a>
+</body>
+</html>

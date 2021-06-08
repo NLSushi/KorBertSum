@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['한국전력 의 지하 전 력구 공사 가 부곡 공단 의 지반 침하 현상 의 원인 으로 지목 되 는 가운데</a>
+<a name="2">[2]</a> <a href="#2" id=2>다음 날 새벽 6 시 40 분 에 긴급회의 를 소집</a>
+<a name="3">[3]</a> <a href="#3" id=3>이하 비대위 ) 는 지난 3 일 밤 이 같 은 통보 를 받 고</a>
+</body>
+</html>

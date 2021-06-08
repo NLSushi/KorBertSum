@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'계간 ‘ 문학 동네 ’ 겨울 호 는 10 일 신작 장편 소설 ‘ 작별 하 지 않 는다 ’ 첫 회분 원고 를 지면 에 실 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '작가 가 새 장편 소설 을 선보이 는 것 은 지난 2016 년 ‘ 흰 ’ 을 출간 한 이후 3 년 만 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '이번 작품 에 는 제주 4 · 3 항쟁 이 등장 하 며</a>
+</body>
+</html>

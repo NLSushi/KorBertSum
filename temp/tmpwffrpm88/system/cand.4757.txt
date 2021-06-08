@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>부산진구 청 홈페이지 ( http : / / www . busanjin . go . kr )</a>
+<a name="2">[2]</a> <a href="#2" id=2>303 필지 의 지번 별 ㎡ 당 가격 이 며</a>
+<a name="3">[3]</a> <a href="#3" id=3>부산진구 토지 정보과 를 통해 개별 공시지가 를 확인 할 수 있 다 .'</a>
+</body>
+</html>

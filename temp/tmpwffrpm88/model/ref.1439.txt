@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'< 기호일보 db >'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '수도 권 매립지 가 2025 년 사용 이 종료 될 것 이 라고 보 는 이 들 은 많 지 않 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '그때 까지 만 사용 할 계획 이 었 으니 당연 한 일 이 었 다 .'</a>
+</body>
+</html>

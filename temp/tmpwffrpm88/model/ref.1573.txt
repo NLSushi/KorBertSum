@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'16 경기 연속 무패 를 기록 중 인 프로 축구 광주 fc 가 창단 첫 4 연승 에 도전 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '광주 는 29 일 오후 7 시 대전 월드컵 경기장 에서 대전 과 k 리그 2 17 라운드 원정 경기 를 치른다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '하지만 상대 는 깐깐 한 대전 이 다 .'</a>
+</body>
+</html>

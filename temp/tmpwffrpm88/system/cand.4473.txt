@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['인천 경총 · 본보 주최 ‘ ceo 포럼 ’'</a>
+<a name="2">[2]</a> <a href="#2" id=2>물류비 등 가격 경쟁력 이 확보 되 고 국내 기업 의 탈 한국 방지 와 기존 해외 투자처 의 유턴 효과 가 있 다고 예측 했 다 .'</a>
+</body>
+</html>

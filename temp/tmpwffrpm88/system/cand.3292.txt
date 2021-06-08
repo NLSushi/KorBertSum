@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'애 슬 레저 리딩 브랜드 안 다르 가 10 일 오전 10 시 부터 단 하루</a>
+<a name="2">[2]</a> <a href="#2" id=2>['안 다르 ‘ 바캉스 특가 타임 세일 프로모션 ’ 진행'</a>
+<a name="3">[3]</a> <a href="#3" id=3>동시 에 안 다르 뮤즈 들 이 추천 하 는 바캉스 룩 과 휴가 지원금 을 받 아 볼 수 있 는 ‘ 여름휴가 지원금 이벤트 ’ 도 실시 한다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'사진 은 지난 2 일 대전면 대치 성당 앞 에서 공장 폐쇄 와 이전 촉구 관련 주민 서명 운동 을 펼치 고 있 는 모습 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['담양군 주민 들 ‘ 뿔 났 다 ’'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'주민 들 “ 악취 · 분진 으로 더 이상 못 살 겠 다 ” 대국민 호소'</a>
+</body>
+</html>

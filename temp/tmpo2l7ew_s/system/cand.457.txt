@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'금융 위원회 는 28 일 이 같 은 내용 을 담 은 ‘ 설 연휴 금융 분야 민생 지원 방안 ’ 을 발표 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['정부 가 설 연휴 를 맞 아 정책금융 기관 을 통해 총 12 조 7200 억 원 규모 의 특별 자금 대출 및 보증 을 공급 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'경영난 을 겪 는 중소기업 에 운전 자금</a>
+</body>
+</html>

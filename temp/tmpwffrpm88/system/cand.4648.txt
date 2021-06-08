@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'주택 행정 평가 는 도내 지자체 의 주택 관련 사업 을 점검 하 고 성과 를 분석 · 공유 하 기 위해 매년 실시 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['남양주시 가 경기도 에서 올해 주택 행정 을 잘 한 지역 으로 꼽혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>우수 상 은 부천시</a>
+</body>
+</html>

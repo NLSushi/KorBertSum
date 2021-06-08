@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'복지 관 은 지역 어르신 들 이 생활 권 내 에서 다양 한 교육 을 학습 할 수 있 도록 다양 한 프로그램 을 발굴 · 지원 해 삶 의 미학 과 함께 하 는 문화 예술 향유 기회 를 확대 해 나가 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'19 일 복지 회관 에 따르 면 색소폰 교실</a>
+<a name="3">[3]</a> <a href="#3" id=3>알 기 쉬운 생활 풍수</a>
+</body>
+</html>

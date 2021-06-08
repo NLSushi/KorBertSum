@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['기술보증기금 이 ec ( european commission</a>
+<a name="2">[2]</a> <a href="#2" id=2>유럽 연합 집행 위원회 ) 가 추진 하 는 ‘ 혁신 중소기업 금융 지원 관련 의사 결정 과정 의 지원 을 위한 데이터 기반 평가 모형 의 개발 ’ 프로젝트 인 ‘ 이노 레이트 ( innorate ) ’ 의 핵심 파트너 로 개발 을 주도 하 게 됐 다고 27 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'기보 는 최근 그리스 테살로니키 에서 ec 와 ‘ ec 프로젝트 관련 보조금 협약 ’ 체결 및 ec 로부터 개발 비용 전액 을 지원 받 고 eu ( european union</a>
+</body>
+</html>

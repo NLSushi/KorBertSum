@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['기자 대구시 와 대구 테크노 파크 ( 이하 대구 tp ) 가 지난 8 일 ‘ 2018 년 도 기술 거래 촉진 네트워크 사업 ’ 을 수행 한 전국 9 개 컨소시엄 을 대상 으로 한 평가 에서 최 우수 인 ‘ s 등급 ’ 에 선정 됐 다 .'</a>
+</body>
+</html>

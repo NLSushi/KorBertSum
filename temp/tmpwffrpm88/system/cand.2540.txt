@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>직장 인 73 . 5 % ‘ 존 버 중 ’…‘ 인간 관계 스트레스 ’'</a>
+<a name="2">[2]</a> <a href="#2" id=2>잡 코리아 가 최근 아르바이트 대표 포털 알바 몬 과 함께 직장 인 1 천 49 명 을 대상 으로 ‘ 직장 생활 에 지칠 때 ’ 를 주제 로 설문 조사 를 실시 한 결과 이 같이 나타났 다고 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이 직 준비 의 시작</a>
+</body>
+</html>

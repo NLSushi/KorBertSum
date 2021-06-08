@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'가수 먼데이키즈 ( 이진성 ) 가 콘서트 를 통해 선보인 신곡 라이브 영상 을 선 공개 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>"지난해 12 월 단독 콘서트 ' 너 라는 세상 romantic miracle ' 서울 공연 을 통해 신곡 ' 겨울 이 라 이런 거 면 좋 겠 다 ' 를 선 공개 한 먼데이키즈 는 후반 작업 을 거쳐 오 는 11 일 발매 를 확정 지 었 고</a>
+</body>
+</html>

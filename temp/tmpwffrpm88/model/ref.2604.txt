@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>정의당 광양 지역 위원장 당선'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '이어 “ 영입 정치인 이 다 보 니 지난 6 . 13 지방 선거 때 비례 대표 에 근소 한 표차 로 낙선 했 는데 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 이번 에 는 경선 으로 당선 된 만큼 자신감 도 붙 었 다 ” 며 “ 그동안 시민 과 정의당 의 기대 에 부응 하 기 위해 노력 해 왔 고</a>
+</body>
+</html>

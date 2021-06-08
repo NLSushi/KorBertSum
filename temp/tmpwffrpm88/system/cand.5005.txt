@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['자유 한 국당 문재인 정권 의 사법 장악 저지 및 사법부 독립 수호 특별 위원회 ( 위원장 주호영 의원 ) 가 김영식 청와대 법무 비서관 의 임명 철회 를 촉구 했 다 .'</a>
+</body>
+</html>

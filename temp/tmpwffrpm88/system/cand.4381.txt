@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['mbc 캡처 클럽 버 닝 썬 과 아레나 에서 미성년자 성매매 정황 이 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이날 ‘ 스트레이트 ’ 취재 팀 은 두 클럽 에서 vip 고객 을 위한 미성년자 성 접대 정황 을 전했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'취재진 에 따르 면 강남 클럽 에 는 미성년자 들 이 md 들 의 보증 하 에 신분증 검사 없이 통과 할 수 있 는 하이패스 가 존재 했 다 .'</a>
+</body>
+</html>

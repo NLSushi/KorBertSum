@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['유준상 은 지난 9 일 방송 된 kbs 2 tv 드라마 ‘ 왜 그래 풍상 씨 ’ 첫 회 에서 동생 바보 풍상 씨 를 완벽 하 게 소화 해냈 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'장례식장 까지 빚쟁이 들 을 찾아오 게 만든 둘째 진상 ( 오지호 분 )</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이 날 방송 에서 는 아버지 의 죽음 으로 장례식장 에 모인 풍상 씨네 의 모습 이 그려졌 다 .'</a>
+</body>
+</html>

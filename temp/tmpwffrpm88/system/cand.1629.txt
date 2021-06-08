@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 도시 공사 는 동구 산수동 에 도시 재생 시범 사업 으로 추진 한 호두 메마 을 71 가구 에 대해 8 일 부터 일반 분양 에 나선다고 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'분양 물량 은 71 가구 이 며</a>
+<a name="3">[3]</a> <a href="#3" id=3>84 ㎡( 34 형 타입 ) 59 가구 이 다 .'</a>
+</body>
+</html>

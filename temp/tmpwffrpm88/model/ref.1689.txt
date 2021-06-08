@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['5 월 법정 공휴일 은 어린이날 ( 5 . 5 ) 과 부처 님 오 신 날 ( 5 . 12 ) 이틀 이 지만 올해 모두 일요일 과 겹쳐 휴일 이 하루 줄게 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '부처 님 오 신 날 은 어린 이날 과 달리 대체 공휴 일제 적용 대상 이 아니 기 때문 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 3 · 1 절</a>
+</body>
+</html>

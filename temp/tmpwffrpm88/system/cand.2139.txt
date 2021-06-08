@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'또 한 방 최성옥 과 절친 인 송선미 의 방 417 호 에 는 곽 주아</a>
+<a name="2">[2]</a> <a href="#2" id=2>['기숙사 에서 가장 중요 한 것 은 함께 생활 하 는 룸메이트 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'자신 의 의사 와 는 무관 하 게 배정 되 지만 한 방 을 쓰 는 이 들 은 서로 영향 을 주고받 을 수 밖에 없 다 .'</a>
+</body>
+</html>

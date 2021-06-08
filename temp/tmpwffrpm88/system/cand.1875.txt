@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['문재인 대통령 은 10 일 일본 의 수출 규제 조치 와 관련 해 “ 정부 는 외교 적 해결 을 위해 최선 을 다 하 고 있 다 ” 며 “ 일본 정부 도 화답 해 주 기 를 바라 며</a>
+<a name="2">[2]</a> <a href="#2" id=2>더 이상 막다른 길 로 가 지 않 길 바란다 ” 고 말 했 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'광주 민족 미술 협회 ( 회장 박태규 ) 는 5 · 18 광주 민중 항쟁 제 39 주년 을 맞 아 양림 미술관 에서 민중 미술 특별 전시 ‘ 한 · 길 展 ’ 을 개최 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '이번 전시 는 광주 에서 활동 하 는 한국화 허달용 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 임남진</a>
+</body>
+</html>

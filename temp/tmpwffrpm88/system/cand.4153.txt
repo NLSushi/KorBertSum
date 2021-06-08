@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 서산 ] 서산시 가 26 일 담화문 을 발표 하 고</a>
+<a name="2">[2]</a> <a href="#2" id=2>'시 는 담화문 에서 기존 자원 회수 시설 의 민간 투자 방식 에서 시 가 비용 을 직접 부담 하 는 재정 투자 방식 으로 전환 하 고</a>
+<a name="3">[3]</a> <a href="#3" id=3>더 책임 감 있 게 운영 하 겠 다 " 고 다짐 했 다 .'</a>
+</body>
+</html>

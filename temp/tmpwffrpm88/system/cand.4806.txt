@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['진도군 의 비전 2030 과 현안 과제 청사진 이 제시 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>번영 하 는 진도 ’ 란 슬로건 으로 군정 비전 및 군정 운영 방향</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이동진 진도 군수 는 지난 2 일 대 회의실 에서 ‘ 민선 7 기 희망찬 군민</a>
+</body>
+</html>

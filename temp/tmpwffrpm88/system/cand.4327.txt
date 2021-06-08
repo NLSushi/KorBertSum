@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대구 남구 청 이 다음 달 27 일 까지 ‘ 교통사고 사례 사진 전시회 ’ 를 개최 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'‘ 아빠 의 난폭 운전 ! ’</a>
+<a name="3">[3]</a> <a href="#3" id=3>'사진 은 대명사 회복 지관 에 전시 된 초등학생 들 의 교통사고 관련 그림 이 전시 된 모습 .'</a>
+</body>
+</html>

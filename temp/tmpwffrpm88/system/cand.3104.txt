@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['전남 에 사 는 만 12 세 이하 어린이 와 청소년 들 이 인구 대비 전국 에서 충치 환자 가 가장 많 을 뿐 만 아니 라 치료 를 제때 받 지 못하 고 있 는 것 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'전국 평균 은 56 . 4 % 였 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>부산 ( 63 . 1 %)</a>
+</body>
+</html>

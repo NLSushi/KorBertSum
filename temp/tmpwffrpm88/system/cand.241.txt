@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['나주시 가 중소 벤처 기업 부 가 주관 하 는 제 2 차 규제 자유 특구 에 지정 되 는 쾌거 를 이뤘 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'규제 자유 특구 란 4 차 산업 시대 국가 성장 동력인 혁신 기술 을 규제 없이 연구</a>
+<a name="3">[3]</a> <a href="#3" id=3>'시 는 이번 특구 지정 으로 내년 1 월 부터 2023 년 말 까지 4 년 간 빛 가람 혁신 도시</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'당진 중증 장애 인 자립생활 센터</a>
+<a name="2">[2]</a> <a href="#2" id=2>['몇 년 전 부터 당진 시내 에 장애인 이 보이 기 시작 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'당진 시내 의 차도 에 만들 어 진 유료 주차장 의 주차 관리 를 장애 인 들 이 맡 고 있 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['최연숙 당진시 의회 의원 이 당진시 교육 경비 확대 및 지원 을 촉구 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>당진시 보다 재정 규모 가 열악 한 보령시</a>
+</body>
+</html>

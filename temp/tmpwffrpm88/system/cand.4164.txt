@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>환기팬 은 1 ℃ 의 온도 를 떨어뜨렸 고 공기 중 분무 한 미세 한 물 입자 를 기화 해 온도 를 낮추 는 저압 포그 시스템 은 4 ℃</a>
+<a name="2">[2]</a> <a href="#2" id=2>['도 농기 원 엽채류 생산 성 비교 생산량 최대 10 배 까지 늘어나'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'22 일 경기도 농업 기술원 에 따르 면 환기팬</a>
+</body>
+</html>

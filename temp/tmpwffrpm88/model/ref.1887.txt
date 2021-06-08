@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'제 27 회 충남 학생 체전 수영 경기 가 당진 에서 열린 가운데 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 중 등부 로 나뉘 어 남녀 별 로 경기 가 진행 됐으며 충남 14 개 시 · 군 에서 355 명 의 학생 들 이 출전 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '하지만 이번 대회 를 두 고 아쉬움 의 목소리 가 일 었 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'국제 신문 db'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '문화재청 은 구 동래 역사 와 냉전 시대 아픔 과 평화 의 염원 을 담 은 고성 동해안 감시초 소 ( gp ) 등 4 건 을 등록 문화재 로 등록 예고 했 다고 8 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 오랫동안 새벽 장터 로 지역민 들 의 애환 을 간직 한 곳 이 다 ’ 고 등록 이유 를 밝혔 다 .'</a>
+</body>
+</html>

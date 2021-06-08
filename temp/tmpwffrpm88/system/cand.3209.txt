@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['지난 13 일 나주 종합 스포츠 파크 종합 운동장 에서 열린 제 3 회 광주 컵 외국인 자선 축구 대회 참가자 들 이 기념 사진 을 찍 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'국내 에서 활동 하 는 내 · 외국인 들 이 축구 를 통해 친목 과 화합 을 도모 하 는 뜻 깊 은 행사 가 열렸 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'/ 광주 lnter fc 제공'</a>
+</body>
+</html>

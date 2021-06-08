@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>범죄 발생 55 일 만 일 단락'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'a 씨 는 b ( 39 ) · c ( 30 ) 씨 와 함께 지난 3 월 15 일 오전 1 시 35 분 께 전남 함평 에 위치 한 황금박쥐 생태 전시관 에 침입</a>
+<a name="3">[3]</a> <a href="#3" id=3>'범행 후 약 두 달 여 만 이 다 .'</a>
+</body>
+</html>

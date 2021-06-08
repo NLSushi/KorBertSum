@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['▲ 바른 미래 당 소속 으로 지난해 지방 선거 에 출마 했 던 5 명 이 자유 한 국당 에 입당 하 고 지난 14 일 기자 회견 을 개최 했 다 .'</a>
+</body>
+</html>

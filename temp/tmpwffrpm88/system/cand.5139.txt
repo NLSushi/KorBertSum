@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'- 대국 끝난 뒤 친선경기 도 치러'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'- 최 9 단의 아내 윤지희 3 단 은'</a>
+<a name="3">[3]</a> <a href="#3" id=3>['- 접전 끝 흑 송 기우 회장 불계승'</a>
+</body>
+</html>

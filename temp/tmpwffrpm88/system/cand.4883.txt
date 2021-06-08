@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['기자 대구 fc 세 징 야 가 동점 골 에 성공 한 뒤 환호 하 고 있 다 . 2019 시즌 프로 축구 ‘‘ 돌풍 의 주인공 ’ 대구 fc 가 시즌 5 경기 무패 행진 을 이 어 갔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'지난 시즌 부터 는 무려 14 경기 째 무패 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>2 라운드 제주 를 상대 로 는 2 - 0 완파</a>
+</body>
+</html>

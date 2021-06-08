@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'신고 내용 을 각 기관 이 이첩 하 는 과정 에서 a 군 체육회 측 에 내부 비리 신고자 인 b 씨 의 개인 정보 가 노출 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>전남 도 등 에 재발 방치 대책 을 마련 토록 하 고 국민 권익 위원회 에 는 시스템 개선 을 권고 했 다 .'</a>
+</body>
+</html>

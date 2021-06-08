@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['국내 최대 규모 의 디저트 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 푸드 디자인 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 플라워 등 라이프 스타일 디자인 전문 교육 그룹 인 loy 문화 예술 실용 전문학교 ( 학장 정지수 ) 가 지난 1 일 제 1 디자인 캠퍼스 에서 디저트 제 과 제빵 과정 1 학년 학생 들 을 대상 으로 제 2 회 켄 우드 베이 킹 경연 대회 를 개최 했 다 .'</a>
+</body>
+</html>

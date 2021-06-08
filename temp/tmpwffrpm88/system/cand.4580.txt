@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['71 주년 을 맞 은 ‘ 여순 사건 ’ 은 민간인 등 1 만 1000 여 명 이 희생 된 한국 근현 대사 를 대표 하 는 비극 으로</a>
+<a name="2">[2]</a> <a href="#2" id=2>협조 · 부역자 색출 과정 에서 ‘ 손가락 총 ’ 으로 지목 당한 사람 은 즉결 처분 됐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'여순 사건 을 주제 로 하 는 창작가 요제 가 열린다 .'</a>
+</body>
+</html>

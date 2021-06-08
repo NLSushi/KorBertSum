@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'< 화성시 제공 >'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '화성시 와 경기도 교육청 이 지역 내 교육 도서관 건립 을 위해 힘 을 모으 기 로 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '24 일 시 에 따르 면 서철모 시장 과 이재정 교육감</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'- 1 심 때 제기 됐 던 7 . 6 ㎞ 아닌'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'- 3 . 73 ㎞ 불과 한 것 으로 밝혀져'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'부산 기장군 고리 원자력 발전소 인근 주민 의 갑상샘암 피해 와 관련 해 한국 수력 원자력 의 배상 책임 을 따지 는 이른바 ‘ 균 도 네 소송 ’ 이 새로운 국면 을 맞 았 다 .'</a>
+</body>
+</html>

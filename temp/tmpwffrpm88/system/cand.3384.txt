@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['“ ‘ 세 자매 무대 에 오를 연기자 를 찾 습니다 ”'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'광주 시립 극단 제 14 회 정기 공연 배우 공모'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'22 일 까지 접수 · 24 일 오디션 … 18 여 명 선발'</a>
+</body>
+</html>

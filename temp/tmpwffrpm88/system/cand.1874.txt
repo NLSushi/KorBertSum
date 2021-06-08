@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['인천 지역 예술인 의 절반 이상 이 월 소득 150 만 원 이하 인 것 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'버 는 돈 이 한 푼 도 없 는 예술인 도 많 아 사회 안전망 이 시급 하 다는 지적 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'인천 연구원 ( 연구원 ) 은 14 일 인천 예술인 1 천 명 을 대상 으로 예술 활동 과 환경</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'전남 도 는 청소년기 부터 올바른 안전 지식 을 습득</a>
+<a name="2">[2]</a> <a href="#2" id=2>청소년 안전 문화 운동 프로그램 사업 본격화'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'영광 청소년 수련 원 등 5 개 단체 별 안전 의식 함양 교육 운영'</a>
+</body>
+</html>

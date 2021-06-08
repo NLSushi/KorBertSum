@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'- 지역 세수 증대 · 고용 확대 등 기대'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '경남 양산시 의회 가 노사정 소비자 협약 을 통해 지역 기업 돕 기 에 나섰 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '이번 협약 은 양산시 의회 김효진 ( 물금읍 원동면 ) 부의장 의 주도 로 이뤄졌 다 .'</a>
+</body>
+</html>

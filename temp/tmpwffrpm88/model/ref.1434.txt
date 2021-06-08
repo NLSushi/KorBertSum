@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'광양시 에 거주 하 는 청년 과 중 장년 등 을 대상 으로 창작 체험 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 문화 기획 자 양성 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 연구 활동 을 지원 하 는 ‘ 광양 상상 캠퍼스 ’ 는 민간단체 인 ‘ 큰 그림 기획 연구소 가 광양시 공모 사업 에 선정</a>
+</body>
+</html>

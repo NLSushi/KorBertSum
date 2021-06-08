@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'수도 권 이외 의 매장 오픈 은 이번 이 처음 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '이마트 는 1 일 부산 사하구 하단동 아트 몰링 6 층 에 ‘ 삐 에로 쑈 핑 ’ 을 연다고 30 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '삐 에로 쑈 핑 은 ‘ 펀 앤 크레이지 ( fun & crazy ) ’ 를 표방 하 는 만물 상 개념 의 디스카운트 스토어 다 .'</a>
+</body>
+</html>

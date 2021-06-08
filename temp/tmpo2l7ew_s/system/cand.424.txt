@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>류 병 송 ㈜ 송림 수산 대표 이사</a>
+<a name="2">[2]</a> <a href="#2" id=2>['왼쪽 부터 황규홍 동아 대 대외 협력 처장</a>
+<a name="3">[3]</a> <a href="#3" id=3>'동아 대 경영 대학원 최고 경영자 과정 ( amp ) 을 수료 하 고 제 32 대 amp 동문 회장 을 역임 키 도 한 류 대표 는 35 년 간 몸담 아 온 수산 식품 업계 의 선두 주자 로 꼽힌다 .'</a>
+</body>
+</html>

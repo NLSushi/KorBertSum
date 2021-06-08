@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'인천 국제공항 이 수하물 처리 시설 ( bhs ) 에 300 억 원 가량 을 투입 해 개선 사업 을 추진 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '용역 에 별도 의 기술 지원 협약 사항 을 추가 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '공사 는 여객 이 위탁 한 수하물 을 자동 감지 · 식별 해 최적 의 운송 경로 를 확보 하 는 bhs 시설 로 구축 한다는 계획 이 다 .'</a>
+</body>
+</html>

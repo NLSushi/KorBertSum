@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['▲ 당진시 가 아프리카 돼지 열 병 유입 을 차단 하 고자 도로 에서 긴급 방역 을 실시 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'당진시 는 관련 부서 긴급 대책 회의 를 진행 하 고 비상 대책 상황실 을 가동 해 24 시간 비상 연락 체계 를 구축 했으며</a>
+<a name="3">[3]</a> <a href="#3" id=3>물품 에 대한 이동 중지 등 을 요구 했 다 .'</a>
+</body>
+</html>

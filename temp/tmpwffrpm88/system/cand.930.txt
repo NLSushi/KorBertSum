@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'대구시 가 성 서열 병합 발전소 사업 시행 기간 변경 을 위해 관련 부서 의 의견 을 모으 고 있 지만 대부분 부정 적 이 기 때문 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['- 대구시 관련 부서 및 달서 구청</a>
+</body>
+</html>

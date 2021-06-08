@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>qled 8 k tv 로 중남미 시장 본격 공략'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'브라질 상파울루 서 업계 전문가 와 미디어 초청</a>
+<a name="3">[3]</a> <a href="#3" id=3>'테크 세미나 는 지역 별 로 영상 · 음향 분야 전문 매체 와 업계 전문가 들 을 초청 해 삼성 tv 의 최신 기술 과 서비스 를 소개 하 고 참석자 들 의 다양 한 의견 을 청취 하 기 위해 매년 개최 하 는 행사 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대구 cctv 관제 사 노조 와 8 개 구 · 군청 의 2 차 실무 협상 이 결렬 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'노조 측 이 제시 한 방안 은 정부 가이드라인 과 대구시 표준 임금 체계 안 등 의 적용 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'직무급 제 임금 체계 를 2 등급 1 단계 적용 을 요구 했 다 .'</a>
+</body>
+</html>

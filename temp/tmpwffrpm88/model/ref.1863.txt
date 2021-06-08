@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>대회 관계자 에 무료 시티투어 제공 등 홍보 안간힘'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '여수시 는 막바지 대회 준비 에 행정력 을 집중 하 고 있 다고 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '14 일 는 여자 10 km 결승</a>
+</body>
+</html>

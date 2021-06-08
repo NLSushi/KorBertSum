@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['사회 복지 법인 희망 송산 ( 이사장 이재상 ) 이 마실 노인 복지 센터 ( 센터 장 김기창 ) 를 지난 17 일 개원 하 며 우리 동네 복지 마을 의 시작 을 알렸 다 .'</a>
+</body>
+</html>

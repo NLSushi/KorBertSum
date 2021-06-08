@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['20 개 무인 단속 카메라 로 단속 실시 . ..'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'사진 은 배출 가스 단속 모습 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'대구시 가 내년 7 월 부터 미세먼지 경보 발령 시 운행 하 는 배출 가스 5 등급 차량 에 대해 무인 단속 을 실시 한다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이 는 지난해 12 월 둘째 주 ( 1451 . 73 원 ) 이후 최고 치 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['전국 의 휘발유 가격 이 국제 유가 상승 등 으로 4 개월 만 에 가장 높 은 수준 을 기록 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'부산 지역 휘발유 가격 은 지난 1 월 넷째 주 이후 14 주 연속 오름세 를 나타냈 다 .'</a>
+</body>
+</html>

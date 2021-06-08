@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['2019 시즌 k 리그 누적 관중 수 가 200 만 명 을 돌파 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'뜨거운 순위 경쟁 속 팬 친화 정책 등 이 맞물리 면서 k 리그 인기 가 확산 하 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'k 리그 2 5 경기 에 는 2 만 1272 명 이 찾 았 다 .'</a>
+</body>
+</html>

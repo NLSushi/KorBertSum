@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['특히 이번 입지 지역 의 규모 가 1 차 발표 ( 12 만 2 천 가구 ) 에 견주 는 11 만 가구 로 책정</a>
+<a name="2">[2]</a> <a href="#2" id=2>유력 후보지 로 거론 되 는 광명 ㆍ시흥 등 에 관심 이 쏠리 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'아울러 동탄 등 의 주민 도 소외 된 2 기 신 도시 교통망 을 호소 했 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['- 업종 중복 3 ~ 16 층 영업 허가 못 받 아'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'부산 부산진구 서면 의 복합 쇼핑몰 인 ‘ 피에스타 ’ 를 인수 한 삼정 이 주변 지하상가 와 상생 발 전기금 지급 규모 를 두 고 협의 를 벌이 고 있 으나</a>
+<a name="3">[3]</a> <a href="#3" id=3>양측 이견 이 커 피에스타 개장 이 지연 되 고 있 다 .'</a>
+</body>
+</html>

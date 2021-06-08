@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['박기태 작 ‘ 걷 는 여인 들 ’'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'미용실 과 주택 이 딸린 15 평 규모 의 공간 에서 는 앞 으로 전시 를 비롯 해 다양 한 문화 행사 가 펼쳐질 예정 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'주민 들 의 동네 사랑 방 역할 을 했 던 미용실 이 전시장 으로 변신 했 다 .'</a>
+</body>
+</html>

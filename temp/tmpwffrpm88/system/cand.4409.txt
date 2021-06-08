@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 백종원 의 골목 식당 ’ 이 ‘ 지역상 권 살리 기 ’ 에 나섰 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'거 제도 는 대한민국 에 두 번 째 로 큰 섬 이 자</a>
+<a name="3">[3]</a> <a href="#3" id=3>'그동안 거제 는 ‘ 불황 무풍지대 ’ 라고 불렸 지만</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['인하 대 병원 은 최근 방글라데시 의료진 에게 뇌사 장기 기증 활성 화 를 위한 의료 시스템 견학 및 교육 시간 을 가졌 다고 26 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '한국 장기 조직 기증 원 ( koda ) 으로부터 뇌사 장기 기증 활성 화 의 모범 적 체계 를 갖춘 병원 으로 선정 된 인하 대 병원 은 방글라데시 의료진 에게 체계 적 인 ‘ 뇌 사추 정자 스크리닝 시스템 ( indr </a>
+<a name="3">[3]</a> <a href="#3" id=3> inha donation rounding ) ’ 을 소개 하 고 직접 참여 토록 했 다 .'</a>
+</body>
+</html>

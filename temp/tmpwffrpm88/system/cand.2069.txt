@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'로또 당첨 번호 6 개 를 모두 맞힌 1 등 당첨자 는 11 명 으로 각각 17 억 1655 만 3637 원 을 받 게 된다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'2 등 64 명 4917 만 원 씩</a>
+<a name="3">[3]</a> <a href="#3" id=3>["로또 864 회 당첨 번호 ' 3</a>
+</body>
+</html>

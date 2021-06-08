@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'국민 의 따가운 시선 을 받 고 있 고 국회 파행 이 더 길 어 지 면 안 된다는 점 에 공감 하 고 있 다는 점 에서 조만간 극 적 인 타협 이 이뤄질 수 있 다는 전망 도 나온다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['국회 정상 화 언제 쯤 … 막바지 협상 ‘ 진통 ’'</a>
+<a name="3">[3]</a> <a href="#3" id=3>정상 화 는 언제 쯤 ?'</a>
+</body>
+</html>

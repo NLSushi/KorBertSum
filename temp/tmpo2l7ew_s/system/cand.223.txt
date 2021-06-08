@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['하루 만 에 떼 죽음 시 현장 조사 진행'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'< 화성 환경운동연합 제공 >'</a>
+<a name="3">[3]</a> <a href="#3" id=3>과수원 등 이 위치 하 고 있 는데 군부대 쪽 에서 유입 되 는 배수관 주변 으로 악취 와 부유물 이 심했 고</a>
+</body>
+</html>

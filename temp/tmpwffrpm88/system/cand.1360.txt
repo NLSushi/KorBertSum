@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 대학교 ( 총장 김혁종 ) 학생 들 이 지역 내 중소기업 의 해외 판로 개척 을 위해 도우미 로 나선다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 에 앞서 광주대 gtep 사업단 소속 주진우 ( 경영학 과 · 4 년 ) 학생 등 17 명 은 지난달 31 일 까지 세계 36 개국 이 참여 한 인도 뭄바이 안나푸르나 식품 전시회 ( mumbai annapoorna in india 2019 ) 에서 마케팅 활동 을 벌였 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이번 해외 전시회 에서 광주대 학생 들 은 제품 수출 을 위한 바 이 어 상담 과 시장 조사</a>
+</body>
+</html>

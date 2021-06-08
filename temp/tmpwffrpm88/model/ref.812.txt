@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이 자료 에 따르 면 창 업진 흥원 이 주관 하 는 창업 선도 대학 등 창업 지원 사업 대부분 은 수도 권 중심 으로 이뤄지고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '특히 고급 기술 의 창업 활성 화 를 위한 사업 인 tips 운영 사 는 광주 에 단 한 곳 도 없 었 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '2018 년 예산 이 536 억 원 에 달했 던 tips ( tech incubator program for startup ) 는 창업 팀 을 선별 해 민간 투자 와 정부 r & d 를 연계 지원 하 고 고급 기술 인력 의 창업 을 지원 하 는 사업 이 다 .'</a>
+</body>
+</html>

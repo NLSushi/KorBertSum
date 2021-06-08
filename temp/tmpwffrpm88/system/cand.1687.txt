@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['생활 물가 에 비상 등 이 켜졌 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'서민 의 술 로 대표 되 는 소주 부터 삼겹살</a>
+<a name="3">[3]</a> <a href="#3" id=3>'1 분기 경제 성장 률 이 마이너스 성장 을 기록 한 가운데 가격 인상 에 따른 소비 위축 심화 로 서민 경제 는 더 악화 될 것 이 라는 우려 가 쏟아진다 .'</a>
+</body>
+</html>

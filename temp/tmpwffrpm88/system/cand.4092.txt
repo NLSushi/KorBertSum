@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['영주 한국 선비 문화 축제 가 어린 이날 연휴 를 맞 아 가족 단위 관광객 들 로 대성황 을 이뤘 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'낮 시간 에 는 다소 더웠 지만</a>
+<a name="3">[3]</a> <a href="#3" id=3>'지난 3 일 개막 해 6 일 까지 영주 선비 촌</a>
+</body>
+</html>

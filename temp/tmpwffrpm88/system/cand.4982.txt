@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['창립 50 주년 을 맞 은 삼성전자 가 사물 인터넷 ( iot ) ㆍ 5 g ( 5 세대 이동 통신 ) ㆍ인공지능 ( ai ) 기술 을 통해 지능 화 된 초 연결 사회 를 앞당기 겠 다는 의지 를 표명 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'ai 역량 을 위해 전 세계 7 개 ai 센터 와 삼성 넥스트</a>
+</body>
+</html>

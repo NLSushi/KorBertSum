@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>f 조 선두 굳히기 각오 올해 k 리그 와 acl 에서 돌풍 을 일으키 고 있 는 대구 fc 공격 3 인방 김대원</a>
+<a name="2">[2]</a> <a href="#2" id=2>'대구 fc 는 10 일 오후 7 시 일본 히로시마 광역 공원 육상 경기장 에서 열리 는 2019 afc 챔피 언스 리그 ( 이하 acl ) 조별 리그 f 조 3 차 전 에서 산 프레 체 히로시마 와 격돌 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'대구 는 인상 적 인 acl 데뷔 시즌 을 치르 고 있 다 .'</a>
+</body>
+</html>

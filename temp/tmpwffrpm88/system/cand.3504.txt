@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['10 대 들 의 sns 중독 이 심각 한 것 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>381 명 이 참여 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'하루 평균 이용 시간 이 3 시간 을 초과 했 고</a>
+</body>
+</html>

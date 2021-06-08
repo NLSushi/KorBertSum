@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 상무 중 과 치 평 중 의 통합 적정 규모 학교 육성 사업 추진 상황 보 고 공동 기자 회견 이 22 일 오후 광주시 교육청 에서 열려 장휘국 시교 육감 과 서대석 서구 청장 등 이 입장 을 밝히 고 있 다 .'</a>
+</body>
+</html>

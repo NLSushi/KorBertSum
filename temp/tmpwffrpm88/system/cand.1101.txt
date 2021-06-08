@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'서양 에서 는 건축물 위 에 도 새 조형물 이 올라가 있 고</a>
+<a name="2">[2]</a> <a href="#2" id=2>'우리 나라 만 하 더라도 옛 건물 이나 절 의 추녀 부분 에 나무 로 만든 봉황 이 들어가 있 고</a>
+<a name="3">[3]</a> <a href="#3" id=3>['심후섭 아동 문학가 교육학 박사 동서양 을 막론 하 고 옛 이야기 속 에 는 새 들 이 많이 등장 합니다 .'</a>
+</body>
+</html>

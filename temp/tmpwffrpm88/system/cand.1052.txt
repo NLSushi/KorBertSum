@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['- 英 언론 “ 몸값 1484 억 원 넘 을 듯 ”'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'- 토트넘 은 덴마크 스코 브 에 관심'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'- psg 도 영입 적극 적 2 파전 양상'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'제작진 에 따르 면 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 가수 정준영 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 모델 이철우 는 서로 의 존재 를 모른 채 여자 연예인 과 함께 하 는 리얼리티 촬영 을 내심 기대 하 며 첫 만남 을 위해 모였 다 .'</a>
+</body>
+</html>

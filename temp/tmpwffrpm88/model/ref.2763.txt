@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'따라서 내수 시장 에서 가격 경쟁력 을 잃 고 있 는 것 은 누구 나 알 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '그러면 내수 시장 확보 로 섬유 산업 재 도약 은 불 가능 한 것 인가 ?'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 클러스터</a>
+</body>
+</html>

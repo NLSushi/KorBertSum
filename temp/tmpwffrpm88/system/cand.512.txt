@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대구 북구 청 이 지역 현안 의제 해결 을 위해 지역민 과 의 소통 의 장 을 마련 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'12 일 북 구청 에 따르 면 지난 3 ~ 12 일 7 개 권역 별 로 나눠 동 순회 방문 을 통해 지역구 시 의원 과 구 의원</a>
+<a name="3">[3]</a> <a href="#3" id=3>기관 · 단체 대표</a>
+</body>
+</html>

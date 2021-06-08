@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'대구 는 현재 k 리그 1 과 afc 챔피 언스 리그 ( 이하 acl ) 를 병행 하 는 힘든 일정 을 소화 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['이상환 수원 fc 와 32 강전 ‘ 디펜 딩 챔피언 ’ 대구 fc 가 fa 컵 수성 에 나선다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'k 리그 1 에서 승점 10 점 으로 5 위</a>
+</body>
+</html>

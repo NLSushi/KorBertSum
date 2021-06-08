@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대구시 교육청 과 국제 바칼로레아 교육 과정 운영 주체 인 ib 본부 의 회장단 이 20 일 경북 대 사범 대학 부설 초등 학교 를 찾 아 시설 을 둘러보 고 수업 도 참관 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'국제 바칼로레아 ( international baccalaureate</a>
+</body>
+</html>

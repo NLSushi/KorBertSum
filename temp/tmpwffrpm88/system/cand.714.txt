@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['여야 가 1 일 국회 정상 화 를 놓 고 막판 기싸움 을 벌였 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'지난 29 일 문재인 대통령 의 한국 당 비판 에 대한 반발 성격 이 짙 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'민주당 은 한국 당 을 뺀 여야 4 당</a>
+</body>
+</html>

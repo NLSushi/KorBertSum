@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대구 fc 는 지난 6 일 메디컬 테스트 를 거쳐 브라질 출신 히우 두 영입 을 확정 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '그 는 산투스 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '승점 30 점 으로 4 위 자리 를 지켰 지만 5 위 강원 ( 승점 28 점 ) 의 격차 는 벌리 지 못했 다 .'</a>
+</body>
+</html>

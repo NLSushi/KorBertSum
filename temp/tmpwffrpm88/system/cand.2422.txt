@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['차준택 인천 부평 구청장 의 공약 이행 이 순조 롭 게 진행 되 는 것 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'점 검결 과 민선 7 기 부평구 1 년 차 공약 사항 전체 추진 현황 은 전체 36 건 중 완료 3 건</a>
+<a name="3">[3]</a> <a href="#3" id=3>진행 중 32 건</a>
+</body>
+</html>

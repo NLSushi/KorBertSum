@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>친환경 제품 앞세워 ‘ 착한 소비 ’ 앞장'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'환경 의 달 맞 아 관련 상품 출시 · 캠페인 진행'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'정부 1 회 용품 규제 강화 영향 점차 확산 추세'</a>
+</body>
+</html>

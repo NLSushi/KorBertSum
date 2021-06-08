@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 라디오스타 ’ 를 찾 은 이주연 이 박한별</a>
+<a name="2">[2]</a> <a href="#2" id=2>'그녀 는 mc 김구라 의 말문 을 막히 게 하 고 윤종신 이 인정 한 4 차원 신 예능 캐릭터 로 시선 을 강탈 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>안 우연 네 사람 이 출연 하 는 ‘ 주연 즈음 에 ’ 특집 으로 꾸며졌 다 .'</a>
+</body>
+</html>

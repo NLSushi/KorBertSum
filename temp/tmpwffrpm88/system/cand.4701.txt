@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'또 이 들 에게 명의 를 대여 한 변호사 b ( 45 ) 씨 와 법무사 c ( 79 ) 씨 등 4 명</a>
+<a name="2">[2]</a> <a href="#2" id=2>'명의 대여 변호사 등 도 불 구속 기소'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'광주 지검 특수 부 ( 부장 검사 허정 ) 는 자격 없이 개인 회생 및 파산 사건 339 건 을 대리 하 면서 증빙 자료 를 변조</a>
+</body>
+</html>

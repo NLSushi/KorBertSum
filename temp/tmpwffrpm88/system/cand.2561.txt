@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['15 일 오전 8 시 40 분 부터 채널 cgv 에서 영화 ‘ 죽 은 시인 의 사회 ’ 가 방영 돼 화제 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'영화 는 입시 위주 의 교육 으로 인한 학생 들 의 압박감 인성 파괴 등 현대 교육 의 모순 을 지적 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'‘ 카르페 디엠 ( carpe diem ) ’ 이 라는 라틴어 도 영화 를 통해 알려 지 게 됐 다 .'</a>
+</body>
+</html>

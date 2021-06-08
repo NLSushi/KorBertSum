@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['영남대 신 소재 공학부 고영건 ( 42 · 사진 ) 교수 가 국제 저명 학술지 ‘ 저널 오브 머 터리 얼스 사이언스 앤드 테크놀로지 ’( journal of materials science & technology </a>
+<a name="2">[2]</a> <a href="#2" id=2> 영향력 지수 ( if ) 3 . 609 ) 의 최 우수 논문 상 ( excellent article award ) 을 수상 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 이 를 통해 가공 경화 ( 금속 에서 외부 변형 량 이 증가 할수록 내부 강도 가 증가 하 는 현상 으로 특정 미세 조직 을 가질 때 효과 적 으로 발생 ) 현상 의 극대 화 를 달성 함 으로써 고강도 를 확보 하 는 데 성공 했 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['의성군 의회 무 소속 최훈식</a>
+<a name="2">[2]</a> <a href="#2" id=2>박영문 상주 군위 의 성 청송 당 협 위원장 에게 입당 원서 를 제출 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>민주당 2 석 으로 자유 한 국당 이 확연 한 차이 의 다수 의 석 을 확보 하 게 됐 다 .'</a>
+</body>
+</html>

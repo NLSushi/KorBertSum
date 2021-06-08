@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'부산시 가 끝내 지역 학교 의 다목 적 강당 건설 지원 예산 을 한 푼 도 편성 하 지 않 은 것 으로 확인 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '시 는 올해 본예산 에서 전액 삭감 한 다목 적 강당 지원 비 법정 전 입금 을 추가경정예산 에 도 포함 하 지 않 았 다고 19 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 2017 년 13 개</a>
+</body>
+</html>

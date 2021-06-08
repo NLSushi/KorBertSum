@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>상반기 자동차세 16 억 1 천 6 백만 원 부과'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'제 1 기분 자동차세 는 연세 액 의 절반 으로</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이번 자동차세 는 6 월 1 일 기준 으로 보성군 에 사용 본 거지 를 둔 자동차 등록 원부 상 의 소유자 에게 부과 되 며</a>
+</body>
+</html>

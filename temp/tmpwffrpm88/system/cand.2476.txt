@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>민주당 은 이해찬 대표 가 직접 나 서 ‘ 국가원수 모독 죄 ’ 로 국회 윤리 위원회 에 제소 키로 하 는 등 정국 은 순식간 에 얼어붙 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'- 靑 도 “ 유감 ” 대국민 사과 요구'</a>
+<a name="3">[3]</a> <a href="#3" id=3>['- 민주당 “ 그만 해 ” 고성 · 삿대 질'</a>
+</body>
+</html>

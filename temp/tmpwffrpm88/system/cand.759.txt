@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'- 금정구 “ 위약금 부과 등 검토 ”'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'3 개 의 사무실 과 1 곳 의 공동작 업장 이 마련 됐 지만 문 을 열 어 놓 고 있 는 곳 은 없 었 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'아무 도 없 는 한 사무실 의 창가 에 는 커튼 이 내려져 어두컴컴 했 고</a>
+</body>
+</html>

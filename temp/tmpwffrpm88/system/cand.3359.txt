@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['송민 헌 대구 지방 경찰 청장 이 지난 23 일 달서 구청 cctv 관제 센터 를 방문 해 지난 19 일 절도범 검거 에 도움 을 준 직원 에게 표창장 을 수여 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'한 남성 이 분식 점 출입문 을 부수 고 침입 하 고 있 었 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>음 주운 전자 등 범인 을 신속 하 게 검거 하 는 사례 가 늘 고 있 다 .'</a>
+</body>
+</html>

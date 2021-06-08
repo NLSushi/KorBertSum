@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>수사 결과 의 타당 성</a>
+<a name="2">[2]</a> <a href="#2" id=2>['경찰 이 수사 권 조정 을 앞두 고 수사 의 책임 성 과 신뢰도 를 높이 기 위해 일선 수사 부서 과 · 팀장 의 수사 지휘 역량 평가 시스템 을 구축 하 기 로 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>대전 대 산학 협력 단 이 연구 에 착수 했 다 ” 고 13 일 밝혔 다 .'</a>
+</body>
+</html>

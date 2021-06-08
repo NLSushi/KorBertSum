@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['영산강 의 올 여름 녹조 ( 유해 남조류 ) 피해 는 거의 발생 하 지 않 은 것 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '폭염 일수 와 강수량 의 감소 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 보 개방 등 이 원인 으로 꼽힌다 .'</a>
+</body>
+</html>

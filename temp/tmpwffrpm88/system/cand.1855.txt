@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>["[ 태안 ] 태안군 이 건전 한 소비문화 조성 과 물가 안정 을 위해 ' 착한 가격 업소 ' 지원 에 적극 나선다 ."</a>
+<a name="2">[2]</a> <a href="#2" id=2>더 많 은 업소 가 지원 받 을 수 있 도록 사업 을 확대 운영 한다 ."</a>
+</body>
+</html>

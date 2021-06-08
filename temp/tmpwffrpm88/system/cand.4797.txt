@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['▲ 부곡 공단 일원 에서 열 관 이 터지 면서 지름 50 cm 가량 의 싱크홀 이 발생 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'지난 6 일 저녁 6 시 30 분 경 한국 전력 이 진행 중 인 전 력구 공사 현장 인근 에 열 관 에 균열 이 생기 면서</a>
+</body>
+</html>

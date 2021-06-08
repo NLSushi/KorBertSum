@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['슬릿 스코프 작 ‘ 아이 퀘 스 천 2 . 0 ’'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'인공지능 과 예술 에 대한 이야기 를 나누 는 것 이 가능 할까 ?'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'또한 인간 의 얼굴 을 세모</a>
+</body>
+</html>

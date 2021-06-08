@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'순천만 에서 월동 하 는 철새 들 의 모습 은 그 자체 로 도 훌륭 한 생태 관광 자원 으로 각광 받 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 주암 댐 · 영산강 · 대 동저 수지 · 고천 암 등 12 곳 을 ‘ 중 위험 ’ 철새 도래지 로 분류 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '이 는 과거 ai 발생 상황 과 야생 조류 검출 현황</a>
+</body>
+</html>

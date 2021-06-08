@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'안 중열 ( 24 ) 김준태 ( 25 ) 나 종덕 ( 21 ) 정보근 ( 20 ) 등 젊 은 포수 진이 스프링 캠프 에서 치열 한 경쟁 을 벌였 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['- 팀 4 승 기여 … 투수 실점 낮춰'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'10 경기 가 치러진 4 일 현재 주전 포수 마스크 는 김준태 에게 돌아가 는 형국 이 다 .'</a>
+</body>
+</html>

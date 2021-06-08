@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'인천 지역 대학 졸업 자 의 타 지역 이탈 률 이 경기 · 서울 에 비해 매우 높 은 편 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['전국 기준 충남 · 세종 이 어 3 번 째 1 인 당 개인 소득 낮 아 떠나 는 듯'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'경기 · 서울 로 인력 이 유출 되 고 비 수도권 에서 인력 이 충원 되 는 모양새 다 .'</a>
+</body>
+</html>

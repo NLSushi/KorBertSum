@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['김홍장 당진 시장 이 취임 3 주년 을 맞 아 기자 회견 을 열 고 자치 와 분권 을 다시 한 번 강조 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 어 기자 들 과 질 의 응답 시간 을 가졌 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'김 시장 은 지난달 29 일 당진 시청 중 회의실 에서 열린 기자 회견 에서 지난 3 년 을 되돌아보 고</a>
+</body>
+</html>

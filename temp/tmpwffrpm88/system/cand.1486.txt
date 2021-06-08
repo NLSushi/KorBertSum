@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>상반기 재정 신속 집행 목표 초과 달성'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'광주 광역 시청 청사 전경 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'일자리 사업 집행 률 전국 1 위 … 행안 부 인센티브 2 억 원 도'</a>
+</body>
+</html>

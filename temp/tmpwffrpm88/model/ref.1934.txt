@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'아프리카 돼지 열 병 ( asf ) 이 인천 강화군 까지 확산 되 면서 대 규모 지역 축제 들 이 줄줄이 취소 되 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '시 는 아프리카 돼지 열 병 확산 을 막 기 위해 지역 축제 를 자제 하 라는 행정 안 전부 요청 을 10 개 군 · 구 에 전달 했으며 </a>
+<a name="3">[3]</a> <a href="#3" id=3> ‘ 인천 송도 불빛 축제 ’ 등 도 일정 조정 을 검토 중 이 다 .'</a>
+</body>
+</html>

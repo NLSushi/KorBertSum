@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'수성구 학모 사이 에 가장 확실 한 학군 입지 는 ‘ 범 4 만 3 ’ 으로 통한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'학군 때문 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>['‘ 만촌역 서한 포레스트 ’ 항공 조감도 .'</a>
+</body>
+</html>

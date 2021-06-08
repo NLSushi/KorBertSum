@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['11 년 전 미제 로 남 은 성폭행 사건 용의자 가 최근 또 다른 성범죄 를 저지르 려다 담배꽁초 에 남겨진 유전자 ( dna ) 정보 로 인해 덜미 가 잡혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '당시 경찰 은 범행 도구 에서 이 씨 의 dna 를 확보 했 지만 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '이 씨 는 b 씨 의 머리채 를 붙잡 고 다른 곳 으로 끌 고 가 려다 b 씨 가 소리 를 지르 며 완강히 반항 하 자 도주 했 다 .'</a>
+</body>
+</html>

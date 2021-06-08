@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이날 체결 한 협약 에 따르 면 안면 읍지 역사 회보 장협 의체 는 식품 제공 이 필요 한 대상자 발굴</a>
+<a name="2">[2]</a> <a href="#2" id=2>물품 전달 등 의 행정 사항 을 담당 하 며</a>
+<a name="3">[3]</a> <a href="#3" id=3>"' 안면읍 행복 나눔 냉장고 ' 는 롯데슈퍼 안면 도 가맹점 이 냉장고 2 대 를 기증 해 안면읍 행정 복지 센터 민원실 입구 에 놓여 있 으며</a>
+</body>
+</html>

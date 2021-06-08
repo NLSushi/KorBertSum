@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'광양 지역 경로당 과 마을 회관 등 이 겨울철 보일러 사고 에 취약 한 것 으로 드러나 행정 의 관심 이 필요 하 다는 지적 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 46 곳 에서 각종 우려 사항 이 발견 된 것 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 가스 밸브 자동차 단장 치 미설치 등 을 이유 로 화재</a>
+</body>
+</html>

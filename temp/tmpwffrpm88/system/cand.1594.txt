@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['- 에어부산 옵션 묶 은 패키지 출시'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'- 제주항공 간격 넓힌 뉴 클래스 제'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'- 기내 좌석 판매 도 곧 재개 예정'</a>
+</body>
+</html>

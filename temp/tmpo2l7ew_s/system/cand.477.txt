@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'- 사냥 용 골각기 30 여 점 출토'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'김해시 유하리 유적지 에서 출토 된 골각기 류 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'- 대형 고상 건물 지 함께 발견'</a>
+</body>
+</html>

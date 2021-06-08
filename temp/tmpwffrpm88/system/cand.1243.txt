@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'다양 한 볼거리 · 놀 거리 제공'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이번 에 지정 된 ‘ 섬진강 끝 들 마을 ’ 은 2013 년 부터 2018 년 까지 권역 단위 종합 정비 사업 으로 진월 중학교 를 리모 델 링 해 섬유 · 세라믹 공예 체험</a>
+<a name="3">[3]</a> <a href="#3" id=3>운동 기구 가 구비 된 건강 관리 센터</a>
+</body>
+</html>

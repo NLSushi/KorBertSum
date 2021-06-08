@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>수영 선수 권 대회 앞두 고 시민 서포터 즈 교육'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'5 차례 걸쳐 … 기본 교육 · 응원 교육 · 안전교육 등'</a>
+<a name="3">[3]</a> <a href="#3" id=3>오 는 15 일 까지 5 차례 에 걸쳐 교육 을 실시 한다 .'</a>
+</body>
+</html>

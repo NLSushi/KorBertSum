@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['# 40 대 중반 기혼 남성 인 a 씨 는 도박 중독 에 빠져 3 억 원 의 빚 을 지 게 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>법원 에 개인 회생 을 신청 해 빚 을 갚 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'빚 때문 에 경제 적</a>
+</body>
+</html>

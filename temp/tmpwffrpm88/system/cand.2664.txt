@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['농협 손해 보험 경북 총국 이 ‘ 벼 ’ 농작물 재해 보험 을 판매 한다고 23 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>도열병 등 기존 병해충 6 종 에 세균 성 벼 알 마름 병 을 추가 해 모두 7 종 의 병해충 도 보장 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'또 기후 변화 등 으로 병해충 피해 가 증가 하 는 것 을 고려 해 벼멸구</a>
+</body>
+</html>

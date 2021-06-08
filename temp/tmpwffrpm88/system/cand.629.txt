@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>광양읍 서 천변 소무 대 무료 보수'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'광양시 는 광양읍 서천 변 소 무대 < 사진 > 보수 공사 가 지난 25 일 끝 나 시민 들 의 품 으로 돌아왔 다고 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'숯불 구이 축제 등 각종 행사 에 유용 하 게 사용'</a>
+</body>
+</html>

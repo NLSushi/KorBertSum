@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'금융 위원회 와 금융 감독원 은 ‘ 내 보험 찾 아 줌 ’( http : / / cont . insure . or . kr ) 에서 보험금 찾 기 뿐 아니 라 찾 은 보험금 을 바로 청구 할 수 있 도록 사이트 를 업그레이드 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'소비자 가 찾아가 지 않 은 보험금 이 약 9 조 8 천억 원 에 이르 는 것 으로 나타났 다 .'</a>
+</body>
+</html>

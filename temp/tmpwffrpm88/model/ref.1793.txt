@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['부산 과 경남 지역 프리미엄 고속버스 노선 이 확대 되 고 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 기존 노선 은 운행 횟수 가 늘어난다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '부울 경 지역 에서 는 부산 이 광주 ( 4 회 ) 전주 ( 2 회 ) 인천 ( 2 회 ) 청주 ( 2 회 )</a>
+</body>
+</html>

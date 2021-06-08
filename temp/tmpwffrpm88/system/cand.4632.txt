@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주시 보건 환경 연구원 은 여름철 물놀이 형 수경 시설 14 곳 의 수질 안전성 검사 를 실시 한다고 13 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'현재 광주 지역 에 는 상무 시민 공원</a>
+<a name="3">[3]</a> <a href="#3" id=3>폭포 등 의 시설물 중 이용자 의 신체 와 직접 접촉 해 물놀이 가 가능 한 시설 이 다 .'</a>
+</body>
+</html>

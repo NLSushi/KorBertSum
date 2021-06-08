@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'20 일 밤 방송 된 sbs ‘ 그것 이 알 고 싶 다 ’ 에서 는 프랑스 파리 에 위치 한 한 한인 교회 에서 목회 하 는 송 목사 가 저지른 성폭행 을 집중 조명 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '최지민 씨 는 “ 행위 자체 가 더러웠 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '정상 적 이 지 는 않 았 다 .'</a>
+</body>
+</html>

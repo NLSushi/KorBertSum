@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['나주시 가 중소 벤처 기업 부 가 주관 하 는 제 2 차 규제 자유 특구 에 지정 되 는 쾌거 를 이뤘 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '나주시 에 따르 면 시 는 지난 12 일 국무총리 주재 로 열린 규제 자유 특구 위원회 심의 에서 에너지 신 산업 규제 자유 특구 지정 사업 ( 대용량 분산 전원 연계 mvdc 실증 ) 이 최종 선정 됐 다고 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 영산강 저류지 등 ( 총면적 20 ㎢) 에 대용량 분산 전원 연계 ± 35 kv 급 mvdc ( medium voltage direct current ) 실증 인프라 구축 에 나선다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['강화 된 공천 기준 발표 " 현역 50 % 이상 물갈이 "'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'자유 한 국당 이 입시</a>
+<a name="3">[3]</a> <a href="#3" id=3>'전희경 의원 은 " 우리 사회 모든 부모 님 께 큰 박탈감 을 안겨 줬 던 조국형 범죄 는 더욱더 철저 한 검증 을 해 부적격자 를 원천 배제 할 예정 " 이라고 말 했 다 .'</a>
+</body>
+</html>

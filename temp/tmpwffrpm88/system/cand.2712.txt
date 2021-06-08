@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 학교 공간 혁신 ’ 전남 교육청 교사 건축 학교 운영'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'1 박 2 일 간 학습 자 중심 공간 혁신 교육'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'한국교육개발원 ( kedi )</a>
+</body>
+</html>

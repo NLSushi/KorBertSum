@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광양 평화 의 소녀 상 건립 위치 를 광양역 사문 화관 으로 정하 고</a>
+<a name="2">[2]</a> <a href="#2" id=2>건립 장소 는 sns 등 을 통한 온라인 조사 와 지역 거점 별 오프라인 조사 등 의 시민 여론 조사 결과 를 집계 해 결정 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'추진 위 에 따르 면 소녀 상 조형물 은 전국 공모 를 통해 김대승 작가 의 입상 ( 立像 ) 작품 을 선정 했으며</a>
+</body>
+</html>

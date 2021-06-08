@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'건설업 채용 시장 이 크 게 위축 돼 있 지만 필수 인력 중심 의 경력직 채용 은 계속 되 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '13 일 건설 취업 포털 건설 워커 에 따르 면 대림산업 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '모집 부문 은 안전 관리</a>
+</body>
+</html>

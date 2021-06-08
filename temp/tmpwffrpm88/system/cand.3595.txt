@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['합덕읍 석우리 에 위치 한 종계 농가 에서 ai 가 발생 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'종계 2 만 4400 수 를 기르 던 이 농가 에서 는 지난 4 일 오전 70 마리 의 종계 가 폐사 한 채 로 발견 됐 다 .'</a>
+</body>
+</html>

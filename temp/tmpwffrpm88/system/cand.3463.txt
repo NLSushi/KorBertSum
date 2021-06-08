@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대구 의 5 개 상급 종합 병원 ( 경북대병원</a>
+<a name="2">[2]</a> <a href="#2" id=2>칠곡 경북대병원 ) 을 포함 한 전국 42 개 상급 병원 이 유방암 · 위암 치료 모두 잘 하 는 모두 1 등급 으로 평가 됐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>경기 권 22 개</a>
+</body>
+</html>

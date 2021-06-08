@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>2020 년 부터 취 · 창업 프로그램 위주 로 운영 하 고 예술 · 교양 분야 는 평생 학습원 및 권역 별 도서관 에서 진행 한다고 8 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['광명시 는 여성 비전 센터 교육 프로그램 을 개편</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이 는 증가 하 는 시민 들 의 일자리 관련 프로그램 수요 를 반영 한 것 으로</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>한미정상회담 평가 여야 는 지난 12 일 미국 워싱턴 dc 에서 열린 문재 인 대통령 과 도널드 트럼프 미국 대통령 의 정상 회담 결과 에 대해 다른 평가 를 내놓 았 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>의미 있 는 회담 이 었 다 ” 고 평가 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>제 1 야당 인 자유 한 국당 은 ‘ 부실 한 회담 ’ 이 었 다며 날 을 세웠 다 .'</a>
+</body>
+</html>

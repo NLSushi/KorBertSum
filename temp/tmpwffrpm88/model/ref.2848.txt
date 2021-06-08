@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대 전시 가 태 스 크 포스 ( tf ) 까지 구성 하 면서 a 형 간염 확산 방지 에 나서 고 있 지만 추가 감염자 가 속출 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '오 는 13 일 이 면 tf 운영 두 달 이 되 지만 그 사이 확진 자 는 두 배 를 훌쩍 넘 었 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '시 는 예방 접종 을 독려 하 고 개인위생 관리 에 철저 할 것 을 당부 하 고 있 다 .'</a>
+</body>
+</html>

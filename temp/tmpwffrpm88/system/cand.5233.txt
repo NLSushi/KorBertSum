@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['▲ 당찬 사람 들 윤경한 관장 캡처 사진'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'윤 관장 이 복싱 에 입문 한 것 은 그 가 중학교 에 다닐 때 였 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'지난 2014 년 선수 생활 을 은퇴 한 그 는 당진시 체육회 복싱 코치 로 활동 하 며 지도자 생활 을 시작 했 다 .'</a>
+</body>
+</html>

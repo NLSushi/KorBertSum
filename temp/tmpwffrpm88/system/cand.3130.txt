@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['미세먼지 가 연일 사회 이슈 로 부각 되 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 에 따라 매일 아침 일기 예보 에서 대기 환경 정보 및 날씨 를 확인 하 는 것 은 일상 이 되 었 고 마스크 는 일상 의 필수품 이 되 었 다 .'</a>
+</body>
+</html>

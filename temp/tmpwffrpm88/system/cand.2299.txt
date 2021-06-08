@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'‘ 여자 양궁 사관 학교 ’ 광주 여대 가 제 36 회 회장 기 전국 대학 · 실업 양궁 대회 에서 여자 대학 부 단체전 준우승 을 차지 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['광주 여대 회장 기 양궁 단체전 준우승'</a>
+<a name="3">[3]</a> <a href="#3" id=3>단체 3 위 · 강수 빈 70 m 서 공동 1 위'</a>
+</body>
+</html>

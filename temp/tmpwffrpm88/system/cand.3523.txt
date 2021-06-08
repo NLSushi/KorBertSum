@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'균형 위 가 최근 확정 해 발표 한 ‘ 생활 soc 복합 화 사업 선정 가이드라인 ’ 에 따르 면 생활 soc 복합 화 사업 은 한 부지 에 문화</a>
+<a name="2">[2]</a> <a href="#2" id=2>['대통령 직속 국가 균형발전 위원회 ( 위원장 송재호</a>
+<a name="3">[3]</a> <a href="#3" id=3>'생활 soc 9 종 시설 이 란 공공 도서관</a>
+</body>
+</html>

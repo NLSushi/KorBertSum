@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'대구시 신 청사 입지 선정 과 관련 해 탈락 한 지역 의 반발 이 만만찮 을 것 으로 예상 됐으나</a>
+<a name="2">[2]</a> <a href="#2" id=2>발표 이후 해당 지역구 단체장 들 은 ‘ 대승 적 수용 의사 ’ 를 밝혀</a>
+<a name="3">[3]</a> <a href="#3" id=3>당초 걱정 했 던 후폭풍 은 없 을 듯 보인다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['최종구 금융 위원장 은 25 일 금융 결 제망 을 핀테크 기업 과 은행 상호 간 전면 적 으로 개방 하 고</a>
+<a name="2">[2]</a> <a href="#2" id=2>결제 시스템 이용료 를 10 분 의 1 수준 으로 대폭 낮추 겠 다고 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'현재 은행 들 은 공동 결제 시스템 을 구축</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'최근 잡 코리아 조사 에 따르 면 상반기 신입 사원 채용 을 계획 하 는 중소기업 은 60 . 7 % 로 5 곳 중 3 곳 에 그쳤 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '취업 포털 잡 코리아 ( www . jobkorea . co . kr ) 가 직원 수 300 인 미만 의 중소기업 을 대상 으로 < 올해 상반기 중기 신입 사원 채용 계획 > 에 대해 설문 조사 를 실시 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '1 개 사 평균 5 명 의 신입 사원 을 채용 할 계획 인 것 이 다 .'</a>
+</body>
+</html>

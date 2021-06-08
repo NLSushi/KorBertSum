@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['마시 기 만 해도 살 이 빠진다고 알려진 ‘ 방탄 커피 ’ 등 다이어트 특효 식품 광고 와 화장품 광고 5 건 중 1 건 은 허위 로 드러났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>725 곳 ( 19 . 8 %) 을 적발 했 다 ” 고 8 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>가슴 크림 등 을 대상 으로 점검 을 추진 했 다 .'</a>
+</body>
+</html>

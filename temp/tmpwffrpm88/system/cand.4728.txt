@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이날 구잘 은 “ 한국 생활 을 시작 한 지 15 년 정도 됐 다 ” 며 “ 법 적 으로 한국 사람 ” 이 라고 밝혀 눈길 을 끌 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'외국인 이 대한민국 국적 을 취득 하 려면 국적법 에 따라 5 년 이상 국내 에서 거주 해야 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'kbs 2 tv ‘ 해피 투게더 4 ’ 에 는 ‘ 나 한국 산다 ’ 특집 으로 로버트 할리 와 샘 해밍턴</a>
+</body>
+</html>

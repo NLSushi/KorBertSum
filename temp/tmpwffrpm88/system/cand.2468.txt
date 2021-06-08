@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>20 개 세부 이행 과제 를 제시 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['인천 시설 공단 은 ‘ 차세대 시스템 구축 을 위한 정보 화 전략 계획 ( isp ) 수립 ’ 을 완료 했 다고 28 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'주요 이행 과제 로 ‘ 차세대 통합 정보 시스템 구축 ’</a>
+</body>
+</html>

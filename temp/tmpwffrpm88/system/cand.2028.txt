@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'광양 대표 작물 인 매실 이 해 마다 가격 하락 과 농업 인구 의 감소 등 의 이유 로 침체 되 고 있 는 가운데</a>
+<a name="2">[2]</a> <a href="#2" id=2>['지역 특화 작물 육성 … 판로 확대 ? 고부 가 가치 창출 기대'</a>
+<a name="3">[3]</a> <a href="#3" id=3>지난 5 월 중 간 보고회 를 가진 바 있 다 .'</a>
+</body>
+</html>

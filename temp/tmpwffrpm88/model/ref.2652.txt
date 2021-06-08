@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이 쯤 되 면 누구 나 더위 와 일상 의 스트레스 로부터 벗어나 기 위해 시원 한 곳 을 찾 아 산 과 바다 로 떠나 고 싶 은 마음 이 간절 하 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 여름 해수욕장 이나 계곡 등지 에서 자주 발생 하 는 카메라 등 이용 촬영 범죄 에 대한 대비 는 필수 적 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '따라서</a>
+</body>
+</html>

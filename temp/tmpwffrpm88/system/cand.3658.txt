@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'사진 = 경기도 청 전경 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['경기도 214 개 운영 ‘ 광역 단체 2 위 ’ 25 % 는 개점휴업 … 회의 개최 ‘ 0 ’'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'도 는 전국 광역 단체 중 처음 으로 법 적 설치 기준 이 없 는 위원회 를 취합 해 ‘ 분과 별 통합 위원회 ’ 로 흡수</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['자유 한 국당 을 뺀 여야 4 당 이 소집 요구 한 6 월 임시 국회 가 20 일 개막 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '3 월 임시 국회 의 마지막 본회의 ( 4 월 5 일 ) 이후 76 일 만 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '6 월 국회 는 정부 가 제출 한 6 조 7 천억 원 규모 의 추가경정예산 ( 추경 ) 안 을 비롯 해 각종 민생 경제 법안</a>
+</body>
+</html>

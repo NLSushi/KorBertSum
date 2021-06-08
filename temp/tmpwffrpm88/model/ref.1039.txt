@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['인천 중구 가 발전상 과 미래상 을 내놨 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '중구 는 최근 구청 월 디관 에서 ‘ 개항 문화 미래 도시 사람 사 는 복지 중구 ’ 라는 비전 아래 구정 철학 과 5 대 구 정목 표 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 12 대 전략 을 발표 하 는 비 전선 포식 을 했 다고 27 일 밝혔 다 .'</a>
+</body>
+</html>

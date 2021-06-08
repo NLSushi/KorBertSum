@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주시 교육청 공립 유치원 이 오 는 3 월 부터 유아 하원 시간 을 오후 7 시 까지 연장 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '또한 통학 버스 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '25 일 시 교육청 에 따르 면 최근 광주 교육 노동조합 일동 과 ‘ 유아 교육 공공 성 강화 및 공립 유치원 서비스 질 향상 ’ 을 위한 공동 합의 문 에 서명 했 다 .'</a>
+</body>
+</html>

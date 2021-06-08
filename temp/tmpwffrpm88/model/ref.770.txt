@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'16 일 방송 된 kbs 2 tv ‘ 살림 하 는 남자 들 시즌 2 ’( 이하 ‘ 살림 남 2 ′) 에서 는 김성수 가 혜빈 의 방 을 새롭 게 꾸며 준 일 로 인해 두 부녀 가 크 게 갈등 하 는 모습 이 그려졌 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '뛸 듯이 좋 아 하 는 딸 을 보 며 아빠 김성수 역시 흐뭇 한 미소 를 지 었 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '그러나 기쁨 도 잠시</a>
+</body>
+</html>

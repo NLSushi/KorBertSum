@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이 두 경기 결과 에 따라 올 시즌 k 리그 1 잔류 여부 가 어느 정도 판가름 날 것 으로 보인다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이미 4 일 성남 fc 전 ( 0 - 1 ) 과 10 일 수원 삼성 전 ( 1 - 0 ) 전 에서 1 승 1 패 ( 승점 3 ) 를 거두 며 18 일 리그 최하위 제주 유나이티 드 와 의 홈경기</a>
+<a name="3">[3]</a> <a href="#3" id=3>'인천 은 8 월 총 4 경기 를 펼친다 .'</a>
+</body>
+</html>

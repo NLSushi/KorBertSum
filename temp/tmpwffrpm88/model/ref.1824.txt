@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['대구 fc 의 시민 후원 단체 인 대구 fc 엔 젤 클럽 ( 회장 이호경 ) 은 지난 30 일 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '이렇게 되 기 까지 엔젤 클럽 의 숨 은 공로 가 크 다고 들 었 다 ” 며 “ 대구 변호사 협회 와 힘 을 합해 이 기운 이 대구 경제 로 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 8 개 공증 인가 합동 법률 사무소</a>
+</body>
+</html>

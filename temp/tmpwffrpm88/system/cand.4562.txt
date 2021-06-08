@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['지역 시설물 등 환경 정화 포항 제철소 제 선부 와 환경 자원 그룹 직원 등 이 지난 19 일 지역 복지 관 과 무료 급식소 등 을 찾 아 배식 봉사 활동 을 펼치 고 있 다 .'</a>
+</body>
+</html>

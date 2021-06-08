@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'누가 찾 지 않 아도'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'어디 선가 너 를 위해 핀'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'물론 그렇게 하 지 않 으면 아무것 얻 을 수 없 는 시대 탓 도 있 지만 단지 그것 만 이 전부 는 아닐 것 이 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'올 시즌 프로 야구 판도 는 2018 년 한국 시리즈 정상 에 오른 sk 와이번스 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 꾸준 함 을 무기 로 정규 시즌 우승 을 차지 한 두산 베어스 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '김 성효 전문 기자 kimsh @ kookje . co . kr'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>이번 대회 는 버밍엄 에서 펼쳐진다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['북미 2 위 ‘ 벨 라토르 버밍엄 ’… 5 일 프리머스 vs 와일드 맞대결'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'북미 2 위 격투 단체 인 벨라 토르 가 사상 두 번 째 유럽 대회 를 개최 한다 .'</a>
+</body>
+</html>

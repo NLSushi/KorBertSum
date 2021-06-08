@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'인 셀 ( 주 ) 등 지역 업체 16 개 사 참여 … 기업 홍보 및 수출 상담 진행'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '광주 지역 에너지 기업 들 이 베트남 호치민 에서 열린 ‘ 베트남 - 한국 스마트 전력 에 너 지전 ’ 에 참여 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 40 만 달러 상당 의 수출 양해 각서 ( mou ) 를 체결 하 고 기업 홍보 를 통해 베트남 수출 길 을 확대 했 다 .'</a>
+</body>
+</html>

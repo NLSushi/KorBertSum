@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'올해 대구 치맥 페스티벌 에 는 유명 유 튜버 가 치킨 먹 기 대회 를 중계 하 고 로봇 이 닭 을 튀기 는 등 한층 업그레이드 된다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '대구 치맥 페스티벌 이 오 는 17 ∼ 21 일 두류 공원 과 평화 시장 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 이월드 일원 에서 열린다 .'</a>
+</body>
+</html>

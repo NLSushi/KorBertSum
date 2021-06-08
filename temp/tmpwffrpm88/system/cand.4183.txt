@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['금호 타이어 가 독일 의 프리미엄 완성 차 브랜드 메르세데스 벤츠 의 뉴 g - 클래스 ( new g - klasse ) 에 ‘ oe ( 신차 용 타이어 ) ’ 를 공급 중 이 라고 10 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'솔 루스 kl 21 는 다양 한 도로 환경 에 적합 한 타이어 로 높 은 내구 성 과 내마모성 을 갖췄으며</a>
+<a name="3">[3]</a> <a href="#3" id=3>탁월 한 주행 안정 성 및 정숙 성 등 이 특징 이 다 .'</a>
+</body>
+</html>

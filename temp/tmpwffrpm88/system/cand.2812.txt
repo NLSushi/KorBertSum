@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주시 체육회 는 신나 는 주말 체육 학교 프로그램 을 전담 주말 스포츠 강사 교육 을 마치 고 오 는 6 일 부터 일선 현장 에 투입 한다고 1 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'주말 스포츠 강사 200 여 명 이 참석 한 이번 교육 은 스포츠 윤리 와 인성</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['온라인 몰 원더 쇼핑 이 애플 에어 팟 2 를 50 % 할인 판매 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '원더 쇼핑 은 8 일 오전 10 시 부터 에어 팟 2 를 13 만 8450 원 에 판매 한다고 이날 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '오전 10 시 부터 매시간 정각 50 개 씩 만 한정 판매 하 는 방식 이 다 .'</a>
+</body>
+</html>

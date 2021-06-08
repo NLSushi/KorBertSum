@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'2019 년 보건 사회 연구원 의 보건 복지 포럼 에 의하 면 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '노인 주거 환경 과 대학 간 의 연계 성 을 찾 으며 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '우리 나라 도 오 는 2030 년 에 는 총 인구 대비 고령 인구 가 약 24 % 를 넘 어 초 고령 사회 진입 이 예상 된다 .'</a>
+</body>
+</html>

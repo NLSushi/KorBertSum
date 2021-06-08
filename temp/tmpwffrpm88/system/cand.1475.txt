@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 아산 ] 아산시 가 민간 위탁 사업 관리 를 한층 강화 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>사후 평가 까지 추진 단계 별 로 세부 기준 을 마련 한 민간 위탁 사무 관리 지침 을 마련 해 체계 적 으로 운영 할 방침 이 라고 7 일 밝혔 다 .'</a>
+</body>
+</html>

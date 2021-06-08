@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'호남 대 펜싱 부 양예 솔 ( 3 년 )</a>
+<a name="2">[2]</a> <a href="#2" id=2>김정미 ( 1 년 ) 는 해남군 동백 체육관 에서 지난 23 일 ∼ 25 일 까지 열린 이 대회 여자 사브르 개인전 에서 각각 2 위 와 3 위 를 차지 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'< 호남 대 제공 >'</a>
+</body>
+</html>

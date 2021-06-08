@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>수상 스포츠 메카 ‘ 자리매김 ’'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'20 일 ~ 22 일 대통령 기 시도 대항 대회 열려'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'사진 은 장성호 나무 데크 길 과 어우러진 조정 경기장 모습 .'</a>
+</body>
+</html>

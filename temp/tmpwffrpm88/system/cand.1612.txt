@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'사진 은 지난 6 월 16 일 광주 월드컵 경기장 에서 열린 부천 fc 와 의 경기 를 관람 하 고 있 는 축구 팬 들 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['k 리그 2 전반기 18 경기 무패 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'유망주 엄 원상 u - 20 맹활약 등 화제'</a>
+</body>
+</html>

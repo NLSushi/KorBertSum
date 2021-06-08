@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이번 ‘ 집 고쳐 주 기 봉사 활동 ’ 은 농림 축산 식품 부 주최 국비 ( 3000 만 원 )</a>
+<a name="2">[2]</a> <a href="#2" id=2>마을 경로당 1 가구 ) 의 주거 환경 개선 활동 을 펼쳤 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>총 7 가구 ( 주택 6 가구</a>
+</body>
+</html>

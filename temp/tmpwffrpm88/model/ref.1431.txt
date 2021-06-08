@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['글로벌 그룹 아이즈 원 ( iz * one ) 이 국내 에 이어 일본 음반 차트 까지 점령 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '지난 10 일 일본 최대 음반 판매량 집계 사이트 오리콘 이 발표 한 해외 앨범 차트 에 따르 면 아이즈 원 의 두 번 째 미니 앨범 ‘ 하트 아이즈 ( heart * iz ) ’ 는 4 월 첫째 주 ( 2019 . 4 . 1 . ~ 2019 . 4 . 7 ) 주간 앨범 랭킹 1 위 를 차지 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '한편</a>
+</body>
+</html>

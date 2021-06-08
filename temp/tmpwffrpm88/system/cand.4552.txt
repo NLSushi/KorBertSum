@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['지난해 열린 전국 학교 스포츠 클럽 핸드볼 대회 광주 영천 중 과 충북 일신 여중 의 경기 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>고 등부 장덕 고 선수 들 도 출전 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'전국 학교 클럽 에서 활동 하 는 핸드볼 선수 들 이 광주 에서 기량 을 겨룬다 .'</a>
+</body>
+</html>

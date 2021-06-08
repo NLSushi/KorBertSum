@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'( 재 ) 대구 오페라 하우스 가 헝가리 국민 오페라 ‘ 반크 반 ( bank ban ) ’ 을 한국 최초 공연 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '공연 은 17 일 오후 7 시 대구 오페라 하우스 에서 무료 로 열린다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '이번 공연 은 한국 과 헝가리 의 수교 30 주년 을 기념 하 는 첫 공식 행사 이 자 헝가리 국립 오페라 극장 과 의 상호 교류 프로그램 이 다 .'</a>
+</body>
+</html>

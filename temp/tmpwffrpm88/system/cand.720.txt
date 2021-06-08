@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['경기도 의회 더불 어 민주당 ( 대표 염종현 ) 이 자유 한 국당 일부 국회의원 의 5 ㆍ 18 민주 화 운동 에 대한 발언 에 대해 사과 를 촉구 했 다 .'</a>
+</body>
+</html>

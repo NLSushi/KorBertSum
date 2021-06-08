@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광양시 가 국가 등록 문화 재인 ‘ 서울대 학교 남부 연습림 관사 ’ 를 관광 자원 으로 개발 하 기 위해 필요 한 국비 확보 에 적극 나섰 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>발전 방향 에 대해 적극 적 으로 설명 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이번 방문 에서 시 는 관사 관광 자원 개발 사업 의 추진 배경 과 필요 성</a>
+</body>
+</html>

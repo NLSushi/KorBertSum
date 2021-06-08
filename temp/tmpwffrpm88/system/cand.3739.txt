@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'시 는 행정 안 전부 에서 실시 한 ‘ 국민 디자인 단 서비스 디자이너 지원 과제 ’ 공모 에서 ‘ 세상 이 학교 인 아이 들</a>
+<a name="2">[2]</a> <a href="#2" id=2>'대구시 가 정부 공모 사업 에 잇따라 선정 돼 국비 지원 사업 이 늘 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'시 는 학교 밖 청소년 들 과 부모</a>
+</body>
+</html>

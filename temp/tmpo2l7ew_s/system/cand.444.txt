@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['중견 건설사 “ 신입 · 경력 사원 뽑 아요 ” … 서희 · 서한 · 경동 · 선원 건설 등'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'5 일 건설 취업 포털 건설 워커 에 따르 면 서희 건설</a>
+<a name="3">[3]</a> <a href="#3" id=3>선원 건설 등 이 신입 및 경력 사원 채용 을 진행 한다 .'</a>
+</body>
+</html>

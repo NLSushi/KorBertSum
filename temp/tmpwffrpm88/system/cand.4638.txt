@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'사진 은 남산 둘레길 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'우선 군 은 8 억 원 을 들여 관내 전역 122 ha 면적 에 경제 수</a>
+<a name="3">[3]</a> <a href="#3" id=3>['홍성군 이 명품 숲 조성 사업 에 박차 를 가하 고 있 다 .'</a>
+</body>
+</html>

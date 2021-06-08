@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['추가 연구 통해 개발 응용 기대 경북 대 생명 과학부 조동형 교수 ( 사진 ) 팀 이 알츠하이머 치매 와 연관 된 신규 자 가 포식 조절 인자 를 발굴 하 고 작용기 전 을 규명 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '알츠하이머 치매 ( alzheimer disease ) 는 기억력 소실 이 가장 큰 특징 이 며 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '고령화 에 따른 치매 인구 는 급증 하 고 있 지만</a>
+</body>
+</html>

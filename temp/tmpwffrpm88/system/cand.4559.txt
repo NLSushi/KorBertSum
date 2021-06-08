@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['지금 우리 사회 는 저성장 과 양극 화 등 으로 어려움 에 처해 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'많 은 전문가 들 은 저성장</a>
+<a name="3">[3]</a> <a href="#3" id=3>'양극 화 와 불 평등 은 우리 사회 전체 의 효율 성 과 생산 성 을 마비 시키 는 악순환 의 고리 를 만든 다 .'</a>
+</body>
+</html>

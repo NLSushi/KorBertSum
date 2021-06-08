@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주시 가 역점 추진 중 인 광주 형 일자리 와 노사 상생 도시 에 대한 공감대 를 확산 하 고 시민 들 의 적극 적 인 참여 를 촉진 하 기 위한 광주 시민 노동 학교 가 개설 된다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'광주시 는 한국노총 광주 지역 본부</a>
+</body>
+</html>

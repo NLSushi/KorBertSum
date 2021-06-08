@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['순창군 특산품 이 대형 마트 내 특설 매장 에 전시 < 사진 > 되 며 도시민 들 로부터 눈길 을 얻 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>생활 자기 등 순창군 에서 생산 되 는 특산품 이 전시 됐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'순창군 에 따르 면 지난달 광주 롯데마트 첨단 점 1 층 에 고추장 부터 발효 커피</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'28 일 방송 된 sbs 예능 프로그램 ‘ 미운 우리 새끼 ’ 에 는 김지석 이 스페셜 mc 로 출연 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '신동엽 은 “ 재미있 는 게 할아버지 의 작명 센스 ” 라고 말문 을 열 었 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '아버지 가 3 형제 인데 둘째 는 장충동 에서 태어나 서 김 장충</a>
+</body>
+</html>

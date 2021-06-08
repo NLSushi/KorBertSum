@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['kt 는 14 일 열린 ‘ 2019 마 이런 부산 ’ 에서 ‘ 리얼 360 라이브 중계 ’ ‘ 5 g 스카 이 십 고공 중계 ’ 및 ‘ 5 g 특화 서비스 ’ 등 kt 의 5 g 기술 을 선보였 다고 이날 밝혔 다 .'</a>
+</body>
+</html>

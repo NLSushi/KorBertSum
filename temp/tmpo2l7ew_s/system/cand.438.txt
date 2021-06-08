@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'부산 두 드림 센터 관계자 가 14 일 센터 에 설치 된 ai 자기소개 분석기 를 시험 가동 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['- 40 만 건 이상 빅 데이터 기반'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'인공지능 ( ai ) 기반 취업 서비스 전용 센터 가 부산 에 생긴다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['설 을 앞두 고 부산 지역 유통 경기 전망 이 크 게 나빠졌 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'지수 가 100 미만 이 면 경기 를 부정 적 으로 보 는 시각 이 많 고 100 이상 이 면 긍정 적 으로 본다는 의미 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>직전 분기 보다 는 2 포인트 하락 했 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'노후 수도관 개량비 율 향상 등 경영 수지 개선 노력 인정'</a>
+<a name="2">[2]</a> <a href="#2" id=2>공기업 경영 평가 역대 최대 ‘ 우수 ’ 등급'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'광주광역시 상수도 사업 본부 가 행정 안 전부 의 지난해 지방 공기업 경영 실적 평가 에서 ‘ 나 ’ 등급 을 받 아 우수 기관 으로 선정 됐 다 .'</a>
+</body>
+</html>

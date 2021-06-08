@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['가족 의 소중 함 을 되새기 는 5 월 가정 의 달 을 맞이해 패션 그룹 형지 가 ‘ 우리 가족 인생 샷 프로젝트 ’ 를 진행 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '다음 달 1 일 부터 31 일 까지 여성복 크로커다일 레이디 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 올리비아 하슬러 의 전국 1000 여 개 매장 에서 20 만 원 이상 구매 시 자동 응모 되 며</a>
+</body>
+</html>

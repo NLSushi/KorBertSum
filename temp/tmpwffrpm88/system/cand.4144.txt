@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['당진시 지역 사회 보장 협의 체 ( 민간 공동 위원장 신기원</a>
+<a name="2">[2]</a> <a href="#2" id=2>이하 지사 협 ) 가 당진시 사회 복지 사 등 의 처우 개선 을 위한 준비 위원회 ( 위원장 신기원</a>
+<a name="3">[3]</a> <a href="#3" id=3>이하 준비 위 ) 를 발족 했 다 .'</a>
+</body>
+</html>

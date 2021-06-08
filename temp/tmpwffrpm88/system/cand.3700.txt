@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'경남 양산시 상북면 석계 일반 산업단지 의 지원 시설 인 지역 주택 조합 아파트 를 건립 하 는 사업 이 또 다시 무산 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['- 2 년 전 엔 주택 조합 계약 틀어져'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'- 입주 할 업체 직원 3000 명 비상'</a>
+</body>
+</html>

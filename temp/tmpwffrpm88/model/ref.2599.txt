@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'세 명 의 작가 가 그린 것 같 지만 모두 한 작가 의 손 에서 탄생 한 작품 들 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '박 화가 의 개인전 이 지난 16 일 부터 29 일 까지 순성 미술관 에서 열렸 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '특히 지난 20 일 에 는 오프닝 을 진행 해 지역 문화 예술인 들 이 참여 해 박 화가 의 전시 를 축하 했 다 .'</a>
+</body>
+</html>

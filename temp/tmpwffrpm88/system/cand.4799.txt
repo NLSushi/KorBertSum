@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'메르세데스 - 벤츠 코리아 ㈜ 는 최근 보험 개발 원 에서 실시 한 차량 모델 등급 평가 결과</a>
+<a name="2">[2]</a> <a href="#2" id=2>s - 클래스 등 을 비롯 한 주요 차종 의 차량 등급 이 상향 되 었 다고 25 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'e - 클래스 및 기타 주요 모델 은 1 등급 상향 을 통해 각각 13 등급 과 14 등급 으로 조정 됐 다 .'</a>
+</body>
+</html>

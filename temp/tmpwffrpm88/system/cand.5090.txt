@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 천안 ] 천안 지역 시민 단체 들 이 근로 계약 해지 후 고용 및 생계 불안 을 감수 하 며 두 달 넘 게 무급 노동 을 하 고 있 는 천안 시내버스 청소 노동자 들 의 문제 해결 에 천안시 책임 을 촉구 했 다 < 본보 2 월 25 일자 11 면 보도 >.'</a>
+</body>
+</html>

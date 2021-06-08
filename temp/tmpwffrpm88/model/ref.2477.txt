@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'다음 달 16 일 부터 장성역 이 ktx 정차 역 으로 운영 되 면서 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '지난 2015 년 호남고속철도 개통 으로 정차 가 중단 된 지 4 년 여 만 으로 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 장성군 은 ktx 정차 를 계기 로 지역 경제 활성 화 에 도움 이 될 수 있 도록 공 을 쏟 고 있 다 .'</a>
+</body>
+</html>

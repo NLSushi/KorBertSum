@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'당시 중동 을 방문 하 고 돌아온 감염자 로 인해 바이러스 가 급속히 전파 된 탓 이 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>우리 나라 는 메르스 사태 로 그야말로 초긴장 상태 였 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이 같 은 충격 은 메르스 사태 때 뿐 아니 라 사스 ( 2003 년 )</a>
+</body>
+</html>

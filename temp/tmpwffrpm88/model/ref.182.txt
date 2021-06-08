@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 옥천 ] 옥천 정신 건강 복지 센터 가 인력 부족 으로 어려움 을 겪 고 있 다는 지적 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '또 정신 장애 인 관리 사업 ( 주간 재활 보호 15 명 ) 담당자 를 제외 하 고 남 는 인원 은 단 2 명 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 가정 방문</a>
+</body>
+</html>

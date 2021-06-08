@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이날 오후 전 씨 의 사자 명예 훼손 사건 재판 증인 으로 광주 지법 에 출석 한 조 신부 는 취재진 과 만나 “ 조비오 신부 뿐 만 아니 라 많 은 사람 이 침묵 을 깨 고 5 · 18 헬기 사격 목격 사실 을 증언 하 고 있 다 ” 며 이 같이 말 했 다 .'</a>
+</body>
+</html>

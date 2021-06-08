@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>여름 방학 알 바 채 용관 오픈'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이번 채 용관 은 여름 시즌 가장 인기 가 많 은 업종 을 ‘ 액티비티 알 바 딱 ! ’</a>
+<a name="3">[3]</a> <a href="#3" id=3>휴양지 및 테마파크 내 에서 안내 요원</a>
+</body>
+</html>

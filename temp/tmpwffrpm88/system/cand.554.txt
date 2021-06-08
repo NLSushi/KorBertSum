@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['건설 경기 어렵 지만 경력직 채용 은 계속 … 대림산업 · 한화건설 · 태영 건설 등 모집'</a>
+<a name="2">[2]</a> <a href="#2" id=2>반 도 건설 등 이 경력 사원 채용 에 나서 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'◆ 대림산업 건설 사업 부가 경력 사원 을 모집 한다 .'</a>
+</body>
+</html>

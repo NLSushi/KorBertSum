@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'대구 약령시 에 지난 6 월 준공 한 한방 의료 체험 타운 에 청년 들 이 입점 할 수 있 는 ‘ 복합 청년 몰 ’ 이 들어선다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '복합 청년 몰 사업 에 는 앞 으로 2 년 간 총 예산 15 억 원 이 투입 된다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '한방 의료 체험 타운 2 층</a>
+</body>
+</html>

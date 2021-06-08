@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['부천 시 가 문화 도시 로 집중 육성 된다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>부산 영도구 등 7 곳 을 지정 했 다고 30 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'문화 도시 는 문화 자원 을 활용 해 고령 화 와 산업 구조 변화 로 쇠퇴 해 가 는 지역 을 되살리 기 위한 사업 으로</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 서천 ] 서천군 은 지난 12 일 2020 년 정부 예산 확보 에 대한 정책 적 지원 과 협조 를 구하 기 위해 김태흠 국회의원 등 을 초청 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 정책 간담회 를 개최 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '이날 노박래 군수 와 김태흠 국회의원</a>
+</body>
+</html>

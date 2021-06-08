@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['7 일 남성 의류 쇼핑몰 아보 키 의 박태준 이 간 이 회생 을 신청 했 다고 알려 지 며 과거 이 를 신청 했 던 유명 인 들 이 관심 을 받 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'김혜선 의 전 남편 은 재혼 후 사업 을 위해 금전 적 인 요구 를 하 기 시작 했 고</a>
+<a name="3">[3]</a> <a href="#3" id=3>'김혜선 은 1995 년 결혼 해 8 년 만 에 이혼 했 고</a>
+</body>
+</html>

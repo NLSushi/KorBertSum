@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>진 삼환 . ..'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '다양 한 제품 개발 로 발효 홍삼 선도 기업 위상 공고히'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '[ 기호일보 = 디지털 뉴스 부 ] 발효 홍삼 기업 한국 야쿠르트 가 출시 한 프리미엄 발효 홍삼 ‘ 발휘 ’ 가 부쩍 추워진 날씨 에 눈길 을 끌 고 있 다 .'</a>
+</body>
+</html>

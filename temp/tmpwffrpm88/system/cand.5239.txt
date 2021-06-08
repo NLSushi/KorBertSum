@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'포스코 광양제철 소 포스 넵 공장 폭발 사고 와 관련 해 민주 노총 전남 본부</a>
+<a name="2">[2]</a> <a href="#2" id=2>['광양제철 소 사고 관련 민주 노총 등 3 개 노동 단체 3 일 기자 회견'</a>
+<a name="3">[3]</a> <a href="#3" id=3>유가족 의견 들 은 뒤 향후 대책 및 입장 발표'</a>
+</body>
+</html>

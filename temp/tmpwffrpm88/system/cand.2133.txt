@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['2010 년 대 초 프로 야구 kbo 리그 를 호령 하 던 삼성 라이온즈 83 라인 이 2018 시즌 을 끝 으로 와해 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'견고 했 던 이 들 은 삼성 왕조 를 이끌 며 통합 4 연패 로 삼성 왕조 를 구축 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'2011 ~ 2015 년 삼성 의 주축 이 었 던 장원삼</a>
+</body>
+</html>

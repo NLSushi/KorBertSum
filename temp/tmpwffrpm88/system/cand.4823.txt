@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['‘ 클레멘타인 ’ 을 잇 는 한국 영화 의 상징 같 은 영화</a>
+<a name="2">[2]</a> <a href="#2" id=2>'카지노 ‘ 시에스타 ’ 오픈 을 앞둔 조직 의 보스 장태영 ( 김수현 ) 앞 에 암흑가 대부 조원근 ( 성동일 ) 이 카지노 의 소유 권 을 주장 하 며 나타난다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>‘ 리얼 ’ 이 새벽 3 시 10 분 채널 cgv 에서 방영 한다 .'</a>
+</body>
+</html>

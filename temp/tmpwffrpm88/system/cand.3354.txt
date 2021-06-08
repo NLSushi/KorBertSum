@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['태국 · 타이완 스타 들 경기도 촬영 러시 태국 과 타이완 스타 들 이 잇따라 경기도 를 방문</a>
+<a name="2">[2]</a> <a href="#2" id=2>'▲ 태국 스타 커플 펙 ( peck ) 과 낫 ( natcha ) 의 웨딩 화보 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'< 경기 관광공사 제공 >'</a>
+</body>
+</html>

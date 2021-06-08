@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['김영록 전남 지사 가 민선 7 기 출범 이후 줄곧 전국 광역자치단체 장 가운데 높 은 지지 를 유지 하 고 있 는 것 으로 조사 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '경전선 전철 화 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 무안 공항 활주로 연장</a>
+</body>
+</html>

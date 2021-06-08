@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'당진시 볼링 협회 ( 회장 전 순철 ) 가 제 3 회 당진시 볼링 협회 장기 클럽 대항 볼링 대회 를 지난 19 일 대호 볼링 센터 에서 개최 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'또한 남자 개인전 에서 는 이정섭 ( 송악 b . c ) 씨 가 704 점 을</a>
+<a name="3">[3]</a> <a href="#3" id=3>'올해 대회 에 는 78 개 볼링 동호인 팀 이 출전 해 열띤 경기 를 펼쳤 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'해외 장내 파생 상품 이 란 해외 거래소 에서 거래 되 거나 귀금속 ( 금</a>
+<a name="2">[2]</a> <a href="#2" id=2>'개인 투자자 의 1 인 당 거래 액 은 2017 년 한 해만 3878 만 달러 ( 약 436 억 원 ) 에 달했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>이 가운데 개인 투자자 는 94 . 2 % 인 4 만 5978 명 으로 집계 됐 다 .'</a>
+</body>
+</html>

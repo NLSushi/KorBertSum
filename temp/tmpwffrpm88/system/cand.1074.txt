@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 서구 가 시범 적 으로 추진 한 ‘ 여성 공무원 숙직 업무 ( 야간 당직 ) 투입 ’ 이 일방통행 식 행정 이 라는 지적 이 제기 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>개선 방안 을 마련 했 다고 는 하 지만 ‘ 요식 행위 ’ 에 그쳤 다는 비판 이 나온다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'남녀 균 등 숙직 근무 시행 을 위해 t / f 팀 을 구성</a>
+</body>
+</html>

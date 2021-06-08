@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'24 일 광주시 · 전남 도 교육청 에 따르 면 광주시 교육청 은 오 는 26 일 부터 8 월 2 일 일정 으로 예정 돼 있 던 한 · 일 청소년 평화교 류 10 기 교류 단 일본 방문 일정 을 취소 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '시 교육청 은 근로 정신대 할머니 와 함께 하 는 시민 모임 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 일본 나 고 야소 송지 원단</a>
+</body>
+</html>

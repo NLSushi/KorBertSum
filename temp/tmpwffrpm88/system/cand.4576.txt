@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['오 는 5 월 25 일 준공 후 하반기 정식 개원 을 앞둔 대전 숲 체 원 조감도 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>전북 지역 등 배후 수요 가 몰려 ' 대전 방문 의 해 ' 와 연계 한 타 지역 방문객 의 인프라 로 활용 될 수 있 다 ."</a>
+</body>
+</html>

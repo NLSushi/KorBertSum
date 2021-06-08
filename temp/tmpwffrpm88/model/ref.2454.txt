@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'올 시즌 프로 농구 부산 kt 의 가드 진 은 롤러코스터 를 탄 듯 요동쳤 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 저스틴 덴트 몬 새 얼굴 들 의 합류 와 부상 복귀 로 겨우 반 등 에 성공 한 7 일 현재 남 은 경기 수 는 13 게임 ( 총 54 경기 ) .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '김윤태</a>
+</body>
+</html>

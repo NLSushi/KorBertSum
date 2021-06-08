@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 경인 아라뱃길 의 민낯 ] 1 . 경인 아라뱃길 의 탄생'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'운하 를 통한 화물 · 여객 처리 실적 이 예상 치 를 훨씬 밑돌 고</a>
+<a name="3">[3]</a> <a href="#3" id=3>'결국 은 ‘ 수조 원 을 들여 만든 거대 한 자전거 도로 ’ 라는 오명 을 쓴 지 오래 다 .'</a>
+</body>
+</html>

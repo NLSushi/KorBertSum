@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['제 846 회 차 로또 당첨 번호 가 공개 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '16 일 제 846 동행 복권 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '총 13 게임 이 1 등 에 당첨 됐 다 .'</a>
+</body>
+</html>

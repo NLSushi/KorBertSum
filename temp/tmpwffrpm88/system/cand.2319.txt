@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['경북 지역 내 빈 집 이 전국 에서 2 번 째 로 많 은 것 으로 나타났 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 어 경남 ( 13 만 1 천 870 가구 )</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이 조사 에서 ‘ 빈 집 ’ 의 기준 은 지방 자치 단체 의 빈집 실태 조사 결과 1 년 이상 아무 도 살 지 않 는 주택 을 말 한다 .'</a>
+</body>
+</html>

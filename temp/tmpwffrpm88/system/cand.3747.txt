@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['교육부 는 세 종시 교육청</a>
+<a name="2">[2]</a> <a href="#2" id=2>'한국 - 독일 학생 평화통일 교류 는 전국 시 · 도 교육청 에서 선발 한 고등학생 68 명 을 대상 으로 독일 · 폴란드 등 의 역사</a>
+<a name="3">[3]</a> <a href="#3" id=3>한국교육개발원 과 함께 3 일 부터 13 일 까지 독일</a>
+</body>
+</html>

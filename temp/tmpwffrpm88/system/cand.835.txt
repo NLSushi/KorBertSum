@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>선거법 개정 에 대한 시민 사회 의 목소리 는 높 아 지 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['▲ △ 당진 ymca △ 당진 참여연대 △ 당진 환경운동연합 △ 당진 여성 유권자 연맹 이 선거법 개정 을 요구 하 며 지난 22 일 구 터미널 로터리 에서 기자 회견 을 열 었 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'대선 까지 불과 40 여 일 밖 에 남 지 않 은 상황 이 지만</a>
+</body>
+</html>

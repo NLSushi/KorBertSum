@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 서천 ] 서천군 이 메가 시티투어 운영 으로 수학 여 행단 등 대 규모 관광객 유치 에 탄력 을 받 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>국립 해 양 생물 자원 관</a>
+<a name="3">[3]</a> <a href="#3" id=3>지난 1 일 부터 3 일 까지 서대전 고 수학여행 단 275 명</a>
+</body>
+</html>

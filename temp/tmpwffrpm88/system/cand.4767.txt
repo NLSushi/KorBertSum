@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['전남 서남 권 서 펼쳐지 는 축제 의 향연'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'신안 증도 서 ‘ 섬 갯벌 축제 ’ 내달 2 일 부터 10 일 간 열려'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'사진 은 최근 신안군 에서 열린 축제 모습 .'</a>
+</body>
+</html>

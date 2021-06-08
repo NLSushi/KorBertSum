@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>내년 부터 는 강력히 단속 하 겠 다는 방침 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'광양시 가 백 운산 4 대 계곡 피서객 이 매년 감소 하 는 주요 원인 으로 ‘ 불법 평상 영업 과 바가지요금 ’ 도 큰 영향 을 끼친다는 판단 아래</a>
+<a name="3">[3]</a> <a href="#3" id=3>['市 “ 적법 한 규제 마련 해 강력 단속 할 것 ”'</a>
+</body>
+</html>

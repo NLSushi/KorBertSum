@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'백화점 프라자 점 지하 1 층 식품 관 에선 내달 7 일 까지 ‘ 대구 의 봄 을 열 다 ’ 라는 주제 로 핑크 빛 벚꽃 상품 전 을 진행 한다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '식품 관 이벤트 장 에 는 봄 한정판 제품 들 로 채웠 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '또 프라자 점 4 층 에 는 나 들 이 기분 을 위한 벚꽃 길 을 만들 었 다 .'</a>
+</body>
+</html>

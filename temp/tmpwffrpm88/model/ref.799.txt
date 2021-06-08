@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['15 일 배달 어 플 요기 요가 bbq 멕시카나 피자헛 등 일부 업체 50 % 할인 쿠폰 을 제공 하 면서 많 은 관심 을 받 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '이 이벤트 는 15 일 하루 지만 이 외 에 도 이용자 들 이 받 을 수 있 는 혜택 은 더 많 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '요기 요 에 따르 면 요일 마다 업체 들 이 번갈 아 가 며 할인 을 진행 한다 .'</a>
+</body>
+</html>

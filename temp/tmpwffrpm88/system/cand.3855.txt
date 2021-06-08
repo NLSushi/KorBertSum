@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['경남 창원시 ( 시장 허성무 ) 는 19 일 창원 청년 독립 회 유일 한 생존자 오경 팔 ( 90 ) 옹 에게 감사패 를 수여 했 다 .'</a>
+</body>
+</html>

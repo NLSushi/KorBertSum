@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['포스 텍 철강 대학원 김낙준 교수 가 미국 금속 · 재료 학회 tms ( the minerals</a>
+<a name="2">[2]</a> <a href="#2" id=2>metals & materials society ) 최고 영예 인 펠로우 ( 석학 회원 · fellow ) 에 선임 됐 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'14 일 포스 텍 에 따르 면 김 교수 는 신 철강 소재 개발</a>
+</body>
+</html>

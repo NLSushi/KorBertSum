@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['▲ 지난 3 일 열린 왜목 마을 바다 축제 에서 삼 봉고 들 빼 기 영농 조합 법인 회원 들 이 삼봉 고들빼기 시식회 를 열 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '가을 이 제철 로 알려져 있 지만 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '한 의학 적 으로 고들빼기 는 설사 를 멎 게 하 고 부기 를 가라앉히 는 효능 이 있 다 .'</a>
+</body>
+</html>

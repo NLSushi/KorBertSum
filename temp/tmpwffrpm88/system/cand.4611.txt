@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['추사 특유 의 예서 기법 잘 표현 파주 에서 확인 된 추사 김정희 선생 이 쓴 비문 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'추사 비문 은 그동안 전북 완주 ㆍ구례군 등 호남 ㆍ충 청 지역 에 10 개 정도 남 아 있 지만 도내 에서 는 처음 발견 된 것 이 어서</a>
+</body>
+</html>

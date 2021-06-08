@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'주요 상승 지역 은 과천</a>
+<a name="2">[2]</a> <a href="#2" id=2>'과천 ( 0 . 46 %→ 0 . 51 %) 은 매매 가 상승 폭 이 지난주 보다 확대</a>
+<a name="3">[3]</a> <a href="#3" id=3>['매매 · 전세 상승 률 견인 수원 팔달 은 보합 전환'</a>
+</body>
+</html>

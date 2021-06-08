@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>청와대 는 이 와 관련 해 “ 전혀 예상 하 지 못했 다 ” 는 짧막 한 입장 을 내놨 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 이 에 문 대통령 은 특별 한 언급 없이 침묵 을 지켰 던 것 으로 전해졌 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '청와대 가 이날 짧 은 입장 문 외 에 구체 적 인 반응 을 내놓 지 않 은 가운데</a>
+</body>
+</html>

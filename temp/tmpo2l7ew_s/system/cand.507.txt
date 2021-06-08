@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['- 非 서울 · 非 4 년 제 · 非 국공립 대학 선택 . ..'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'3 · 1 절 앞두 고 독립운동가 설립 대학 의미 도'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'문재인 대통령 은 21 일 대학 졸업 생 들 에게 " 기성 세대 가 만든 높 은 장벽 에 좌절 해 도전 을 포기 하 지 는 않 길 바란다 " 고 말 했 다 .'</a>
+</body>
+</html>

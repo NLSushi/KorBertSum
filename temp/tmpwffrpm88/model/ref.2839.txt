@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'대구시 가 ‘ 대구시 지방 대학 및 지역 균형 인 재 육성 지원 협의회 ’ 를 확대 · 구성 하 고 30 일 첫 회의 를 연다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '그러나 협의회 정기 회의 가 연 1 회 로 예정 돼 있 어 쌓여 있 는 현안 을 협의 · 지원 할 수 있 을지 의문 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 상공 회의소 사무처 장 에서 대학 총장</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 원동기 판매 · 수리 업체 인 강전 사 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '중소 벤처 기업 부 는 올해 3 차 ‘ 백 년 가게 ’ 로 전국 54 개 업체 를 선정 했 다고 16 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 광주 1 곳 등 이 다 .'</a>
+</body>
+</html>

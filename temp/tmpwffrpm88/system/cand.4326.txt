@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>사진 = 부여군 제공 [ 부여 ] 전국 유일무이 한 부여군 의 신 개념 테마 버스 인 부여 백 시 달 ( 백제 의 시간 을 달린다 ) eq ( education quiz ) 버스 가 겨울 방학 기간 부여 를 찾 는 관광객 들 에게 큰 즐거움 을 선사 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'코스 로 는 정림사지</a>
+<a name="3">[3]</a> <a href="#3" id=3>23 일 운행 이 예약 됐으며 이후 에 도 지속 적 으로 운행 될 예정 이 다 .'</a>
+</body>
+</html>

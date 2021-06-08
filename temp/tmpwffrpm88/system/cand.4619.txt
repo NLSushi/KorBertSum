@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'5 일 첫 삽 을 뜨 는 광주 도시 철도 2 호 선 의 길이 는 마라톤 풀코스 ( 42 . 195 ㎞) 에 조금 못 미치 는 41 . 843 ㎞ 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'2025 년 완전 개통 이 목표 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>모두 36 대 가 타원 형 노선 을 순환 한다 .'</a>
+</body>
+</html>

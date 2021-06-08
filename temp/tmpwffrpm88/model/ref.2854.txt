@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'전대 결과 는 예견 된 대로 황교안 전 총리 가 득표율 1 위 를 기록 해 보수 야당 의 당권 을 거머쥐 게 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> "경선 과정 서 잡 음 과 마찰 이 없 지 도 않 았 지만 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '한국 당 을 둘러싼 정국 현실 은 녹록 지 않 다 .'</a>
+</body>
+</html>

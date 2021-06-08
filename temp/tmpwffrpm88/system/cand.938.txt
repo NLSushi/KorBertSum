@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'인천 부평 문화 재단 의 비정규직 노동자 들 이 정규직 전환 과정 에서 부당 한 해고 를 당했 다고 주장 하 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'김유리 기자 kyr @ kihoilbo . co . kr'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'민주 노총 인천 본부 는 27 일 오전 11 시 부평 구청 앞 에서 규탄 기자 회견 을 열 고 해 고자 원직 복직 을 위해 구청 이 적극 나서 야 한다고 요구 했 다 .'</a>
+</body>
+</html>

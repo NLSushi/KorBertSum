@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['- “ 간호사 되 면</a>
+<a name="2">[2]</a> <a href="#2" id=2>'금남 ( 禁男 ) 학과 로 여겨졌 던 간호학 과 에 재학 중 인 동명 대 남학생 이 영어 와 러시아어 통역 등 국내외 에 걸친 10 여 년 간 의 왕성 한 나눔 활동 으로 대학 봉사 왕 이 되 는 등 큰 주목 을 받 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>영어 러시아어 통역 경험 도 나누 고파 ”'</a>
+</body>
+</html>

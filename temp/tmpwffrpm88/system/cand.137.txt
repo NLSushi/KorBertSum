@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>마 성희 플랜트 건설 노조 전 남동 부경 남서부 지부장 등 13 명 이 참석 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이번 협약 으로 시 에서 는 기능 향상 교육 훈련 사업 을 위한 사업 으로 보조금 1 억 원 을 지원 한다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'협 약식 에 는 정 현복 시장</a>
+</body>
+</html>

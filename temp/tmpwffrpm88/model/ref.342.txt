@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'방탄소년단 의 데뷔 싱글 ‘ 2 cool 4 skool ’ 의 수록 곡 ‘ we are bulletproof pt . 2 ’ 뮤직 비디오 는 29 일 오후 1 시 14 분경 유튜브 조 회수 1 억 건 을 넘 었 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '이 는 원더 케이 ( 1 thek ) 유튜브 계정 에 올라온 ‘ we are bulletproof pt . 2 ’ 뮤직 비디오 의 단독 조 회수 로 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 방탄소년단 의 소속 사 빅 히트 엔터 테 인 먼 트 공식 유튜브 계정 의 뮤직 비디오 조 회수 와 합산 하 면 1 억 1940 만 건 을 넘 는다 .'</a>
+</body>
+</html>

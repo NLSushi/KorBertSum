@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'검찰 에 기소 돼 첫 재판 을 앞둔 이재명 경기도지사 가 자신 이 받 고 있 는 혐의 를 토건 비리 사 ( 史 ) 와 엮 어 언급 </a>
+<a name="2">[2]</a> <a href="#2" id=2> 눈길 을 끌 었 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 대장동 개발 혁명 을 지나 이제 건설 공사 원가 공개</a>
+</body>
+</html>

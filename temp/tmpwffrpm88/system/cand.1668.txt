@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'시 가 주최 하 고 아트 팩 터리 ( art factory ) 청춘 이 주관 하 는 이번 사업 은 대구 시민 과 외국인 이주민 이 함께 어울려 소통 하 고</a>
+<a name="2">[2]</a> <a href="#2" id=2>['김주오 올해 외국인 주민 대상 대구 알리 기 사업 추진 대구시 는 대구 에 거주 하 는 외국인 주민 을 대상 으로 대구 의 맛 과 멋</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이번 ‘ 베터 투게더 ( better together ) ’ 는 다음 달 27 일 대봉동 근대 골목 투어 를 시작 으로 11 월 까지 총 6 회 로 진행 될 예정 이 다 .'</a>
+</body>
+</html>

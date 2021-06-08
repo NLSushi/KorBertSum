@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['당진 출신 으로 올해 스무 살 이 된 a 는 여전히 고통 속 에 산다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'고등학생 1 학년 이 었 던 지난 2014 년 a 는 타 학교 남학생 b 에게 성폭력 을 당했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'‘ 그 일 ’ 이 있 은 지 벌써 3 년 이나 지났 다 .'</a>
+</body>
+</html>

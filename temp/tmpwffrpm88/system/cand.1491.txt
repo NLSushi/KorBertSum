@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['김기덕 대전선 병원 건강 검진 센터 장 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'기침 이나 재채기 를 할 때 나오 는 호흡기 분비물 이나 수두 에 걸린 환자 와 의 직접 적 인 접촉 을 통해 감염 되 며</a>
+<a name="3">[3]</a> <a href="#3" id=3>'특히 겨울 부터 이른 봄 사이 에 많 은 환자 가 발생 하 기 때문 에 감염 예방 을 위한 각별 한 주의 가 필요 하 다 .'</a>
+</body>
+</html>

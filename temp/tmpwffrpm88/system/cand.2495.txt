@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>승인 봉황 참기름 등 이 ‘ 2 차 부산 우수 식품 ’ 에 선정 됐 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'부산시 는 지역 4 개 기업 이 생산 하 는 10 개 상품 을 부산 시장 이 인증 하 는 우수 식품 으로 선정 하 고 인증서 를 교부 했 다고 30 일 밝혔 다 .'</a>
+</body>
+</html>

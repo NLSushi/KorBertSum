@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['“ 빙상 장 에서 사람 들 과 함께 어울려 즐겁 게 스케이트 를 타 는 게 너무 좋 아요 . ”'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이 윤서 와 강진 은 이번 대회 에서 빙상 쇼트트랙 여자 동호인 부 500 m ㆍ 1 천 ｍ db ( 청각 장애 ) 와 여자 소년부 500 ㆍ 1 천 ｍ idd ( 지적 장애 ) 종목 에 각각 출전 한다 .'</a>
+</body>
+</html>

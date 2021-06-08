@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['전남 도 교육청 이 지역 사회 와 연계 한 교육 복지 우선 지원 사업 을 통해 교육 취약 계층 지원 에 앞장서 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>교육 의 기회균등 을 실현 하 기 위한 사업 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이후 연차 적 으로 시 · 군 및 대상 학교 를 확대 해 2019 년 현재 89 개 학교 ( 초 50 교</a>
+</body>
+</html>

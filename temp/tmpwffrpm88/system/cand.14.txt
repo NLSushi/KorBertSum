@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>농가 는 안정 된 수익 을 창출 할 수 있 는 산지 직거래 가 백화점 · 마트 등 대형 매장 까지 확대 되 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'소비자 는 신선 하 고 안전 한 먹거리 를 챙기 고</a>
+<a name="3">[3]</a> <a href="#3" id=3>'함평 무화과 를 산지 직거래 로 선보이 고 있 는 ㈜ 광주신세계 .'</a>
+</body>
+</html>

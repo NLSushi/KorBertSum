@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['낙상 · 익사 등 분야 ‘ 4 등급 ’ 취약 최상 등급 1 등급 없 어 대안 필요'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'인천시 가 ‘ 생활 안전 ’ 에 취약 한 것 으로 나타났 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'행정 안 전부 는 10 일 이 같 은 내용 이 담긴 ‘ 2019 년 전국 지역 안전 지수 ’( 2018 년 통계 기준 ) 를 발표 했 다 .'</a>
+</body>
+</html>

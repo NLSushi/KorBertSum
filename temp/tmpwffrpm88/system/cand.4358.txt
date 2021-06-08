@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>지역 평생 교육 거점 대학 ‘ 자리매김 ’'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'교육부 지원 사업 3 년 연속 선정 … 미래 사회 융합 대학 설립 “ 4 차 산업 혁명 시대 기술 혁신 주도 하 는 인력 양성 ”'</a>
+<a name="3">[3]</a> <a href="#3" id=3>신 산업 융합 학부 ) 에 6 개 전공 ( 지식 자산 컨설팅 전공</a>
+</body>
+</html>

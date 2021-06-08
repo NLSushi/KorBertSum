@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['당진시 와 당진 소방서 가 동절기 취약 가구 발굴 과 지원 을 협업 에 나섰 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '이 를 통해 총 66 가구 를 발굴 한 뒤 기초 소방 시설 설치 와 화재 위험 요인 및 유사시 탈출 로 확보 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 소방 안전 교육 등 화재 예방 대책 을 추진 했 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['앞 으로 원자력 발전소 에서 안전 사고 가 발생 해 국민 이 피해 를 입 으면 원자력 사업자 는 ‘ 전액 배상 ’ 의무 를 지 게 된다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'2021 년 에 는 방사능 대응 능력 을 강화 하 기 위한 시설물 이 울산 에 설립 되 고</a>
+<a name="3">[3]</a> <a href="#3" id=3>'원전 에 사고 가 나 면 한국 수력 원자력 ( 한 수원</a>
+</body>
+</html>

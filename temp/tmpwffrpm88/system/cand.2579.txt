@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'국회 국토 교통 위원회 법안 심사 소위 는 10 일 출퇴근 시간 대 카풀 을 허용 하 는 ‘ 여객 자동차 운수 사업 법 개정안 ’ 을 통과 시켰 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>오후 6 ∼ 8 시 에 만 영업 이 허용 된다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'또 법인 택시 사납금 제도 를 없애 고 택시 월급제 시행 을 담 은 법안 도 가결 됐 다 .'</a>
+</body>
+</html>

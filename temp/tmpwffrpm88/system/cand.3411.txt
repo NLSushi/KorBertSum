@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>신도 주민 들 의 소음 피해 가 다소 해결 될 전망 이 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>['항공기 소음 에 시달리 는 옹진군 장봉 도</a>
+<a name="3">[3]</a> <a href="#3" id=3>'국토 교통부 는 27 일 인천 국제 공항 주변 가구 에 소음 차단 기능 이 뛰어난 시스템 창호 를 달 아 주 는 내용 등 을 담 은 공항 소음 대책 시설 기준 을 28 일 부터 적용 한다 .'</a>
+</body>
+</html>

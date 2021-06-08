@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['봄맞이 차량 무료 업그레이드 이벤트 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'해외 렌터카 전문 ‘ 알라모 렌터카 한국 총판 ’ 이 봄맞이 무료 차량 업그레이드 이벤트 ( free upgrade event ) 를 오 는 30 일 까지 실시 한다고 3 일 밝혔 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'이번 프로모션 은 12 월 19 일 ( 여름 성수기 7 월 15 ~ 8 월 31 일 제외 ) 까지 미국 과 하와이 지역 의 렌터카 이용 예정 인 회원 고객 을 대상 으로 진행 한다 .'</a>
+</body>
+</html>

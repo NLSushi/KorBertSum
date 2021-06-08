@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['- 양상문 ‘ 근성 야구 ’ 포부 무색'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'한화 는 3 회 초 에 만 1 시간 가까이 공격 을 했 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'한화 는 7 번 타자 지성 준 부터 타순 은 두 번 을 완전히 돈 뒤 8 번 장진혁 타석 에서 야 공격 을 끝냈 다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'대구 시청 전경 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '대구시 가 세금 낭비 우려 가 제기 된 ‘ 택시 환승 할 인제 ’ 와 관련 해 시민 의견 에 따라 도입 여부 를 결정 하 기 로 해 ‘ 책임 떠넘기 기 행정 ’ 이 라는 지적 을 받 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> 이번 에 는 친절 ( ? ) 하 게 도 시민 의 의견 을 충분히 듣 겠 다는 것 .'</a>
+</body>
+</html>

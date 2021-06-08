@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이재용 삼성전자 부회장 이 20 일 미래 사업 핵심 인재 를 양성 하 는 광주 교육 센터 를 찾 아 현장 경영 행보 를 이 어 갔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> 5 년 간 총 1 만 명 의 소프트웨어 전문 인력 양성 을 목표 로 하 고 있 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3> '그 는 “ 소프트웨어 인재 양성 은 정보 기술 ( it ) 생태 계 저변 확대 를 위해 필수 다 .'</a>
+</body>
+</html>

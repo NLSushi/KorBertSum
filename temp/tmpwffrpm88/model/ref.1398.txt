@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['평택시 는 지난해 부터 운영 하 고 있 는 ‘ 찾아가 는 생활 민원 sos 서비스 ’ 가 시민 들 에게 좋 은 반응 을 얻 고 있 다고 13 일 밝혔 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '2018 년 11 월 부터 현재 까지 찾아가 는 생활 민원 sos 서비스 를 운영 한 결과 </a>
+<a name="3">[3]</a> <a href="#3" id=3> '분야 별 로 는 경로당 및 마을 회관 155 건</a>
+</body>
+</html>

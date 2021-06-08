@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['설렘 반 </a>
+<a name="2">[2]</a> <a href="#2" id=2> '새롭 게 지 어 진 기지 유치원 에서 열리 는 첫 입학식 으로 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 아직 은 유치원 이 익숙 하 지 않 은 아이 들 이 다 .'</a>
+</body>
+</html>

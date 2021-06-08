@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['올해 광주 지역 민간 아파트 공급 물량 이 대폭 늘어날 것 으로 보인다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>지역 주택 조합 등 이 대거 일반 분양 에 나서 며 대 규모 단지 공급 역시 크 게 증가 할 전망 이 다 .'</a>
+<a name="3">[3]</a> <a href="#3" id=3>'지난해 시행 된 부동산 정책 등 의 영향 으로 밀린 물량 이 적 지 않 은 데 다 재 개발 사업 구역</a>
+</body>
+</html>

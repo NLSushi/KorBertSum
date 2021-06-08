@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>'이 시장 은 이날 화요 간부 회의 에서 최근 당원 모집 등 과 관련 해 광주시 몇몇 공직자 등 에 대해 검찰 이 수사 중 이 라는 점 을 거론 하 며 유감 을 표명 했 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2> '이 시장 은 “ 헌법 </a>
+<a name="3">[3]</a> <a href="#3" id=3> 국가 공무원 법</a>
+</body>
+</html>

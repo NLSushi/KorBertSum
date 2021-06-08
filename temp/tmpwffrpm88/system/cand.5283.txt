@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['[ 아산 ] 아산시 보건소 중독 관리 통합 지원 센터 가 알코올 중독 문제 해결 을 위해 앞장서 고 있 다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'알코올 중독 은 일반 사회 에서 허용 되 는 양 과 용도 이상 의 음주 를 계속 함 으로써 신체 적</a>
+<a name="3">[3]</a> <a href="#3" id=3>금단 증상 이 발생 한다 .'</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>dummy title</title>
+</head>
+<body bgcolor="white">
+<a name="1">[1]</a> <a href="#1" id=1>['광주 · 전남 에서 연말연시 이웃 돕 기 캠페인 인 ‘ 희망 2020 나눔 캠페인 ’ 이 73 일 간 의 대장정 에 들어간다 .'</a>
+<a name="2">[2]</a> <a href="#2" id=2>'이날 행사 에 는 김영록 전남 지사 와 노동일 전남 공동 모금 회장</a>
+<a name="3">[3]</a> <a href="#3" id=3>공무원 등 3 천 여 명 이 참석 했 다 .'</a>
+</body>
+</html>
