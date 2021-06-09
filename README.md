@@ -56,8 +56,6 @@
 [list(filter(None, text.split('\n')))[i] for i in sum_list[0][:SENTENCE_LENGTH]]
 ```
 위 코드에서 SENTENCE_LENGTH를 조정하면 됩니다.
-* `MODEL_PATH` is the directory of saved checkpoints
-* `RESULT_PATH` is where you want to put decoded summaries (default `../results/cnndm`)
 
 ## Refference
 * https://github.com/raqoon886/KorBertSum
