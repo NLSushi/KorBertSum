@@ -10,96 +10,52 @@
 
 **Work Flow는 Jupyter Notebook을 이용하시면 됩니다.**
 
-Results on CNN/Dailymail (25/3/2019):
-
-|  Models| ROUGE-1 | ROUGE-2 |ROUGE-L
-| :---         |     :---      |         :--- |          :--- |
-| Transformer Baseline   | 40.9     | 18.02    |37.17    |
-| BERTSUM+Classifier     | 43.23       | 20.22    |39.60      |
-| BERTSUM+Transformer     | 43.25      | 20.24    |39.63     |
-| BERTSUM+LSTM     | 43.22       |  20.17    |39.59      |
-
-**Python version**: This code is in Python3.6
-
-**Package Requirements**: pytorch pytorch_pretrained_bert tensorboardX multiprocess pyrouge
-
-Some codes are borrowed from ONMT(https://github.com/OpenNMT/OpenNMT-py)
-
-## Data Preparation For CNN/Dailymail
-### Option 1: download the processed data
-
-download https://drive.google.com/open?id=1x0d61LP9UAN389YN00z0Pv-7jQgirVg6
-
-unzip the zipfile and put all `.pt` files into `bert_data`
-
-### Option 2: process the data yourself
-
-#### Step 1 Download Stories
-Download and unzip the `stories` directories from [here](http://cs.nyu.edu/~kcho/DMQA/) for both CNN and Daily Mail. Put all  `.story` files in one directory (e.g. `../raw_stories`)
-
-####  Step 2. Download Stanford CoreNLP
-We will need Stanford CoreNLP to tokenize the data. Download it [here](https://stanfordnlp.github.io/CoreNLP/) and unzip it. Then add the following command to your bash_profile:
-```
-export CLASSPATH=/path/to/stanford-corenlp-full-2017-06-09/stanford-corenlp-3.8.0.jar
-```
-replacing `/path/to/` with the path to where you saved the `stanford-corenlp-full-2017-06-09` directory. 
-
-####  Step 3. Sentence Splitting and Tokenization
+## How to Test ?
+모델을 만들고 테스트하는 방법은 BertSum_test Jupyter Notebook을 활용하시면 됩니다.
+아래의 기사를 입력시 
 
 ```
-python preprocess.py -mode tokenize -raw_path RAW_PATH -save_path TOKENIZED_PATH
+[이데일리 박지혜 기자] 조상호 더불어민주당 전 부대변인이 결국 “천안함 함장이 부하들을 수장시켰다”는 발언에 대해 사과했다.
+
+조 전 부대변인은 9일 페이스북을 통해 “제 주변 분들의 애정 어린 권고가 있었다”고 운을 뗐다.
+
+그러면서 “제 표현 중 혹여 순국한 46 용사의 유가족, 특히 아직도 시신조차 거두지 못한 6인의 유가족과 피해 장병들에게 고통스런 기억을 떠올리게 한 부분이 있다는 지적, 깊게 받아드린다”며 “상처로 떠올리신 유가족과 피해 장병께는 진심으로 사죄드린다”고 전했다.
+
+이어 “다시 한 번 46 용사의 명복을 빈다”고 덧붙였다.
+
+
+조상호 더불어민주당 전 부대변인 (사진=채널A 방송 캡처)
+앞서 조 전 부대변인은 지난 7일 오후 종합편성채널 채널A ‘뉴스톱10’에서 “최원일 전 함장이라는 예비역 대령, 그분도 승진했다. 그런데 그분은 그(처우 관련) 말을 할 자격이 없다”며 “최 전 함장이 그때 당시 생때같은 자기 부하들을 다 수장시켜 놓고 이후에 제대로 된 책임이 없었다”고 말했다.
+
+당시 방송하던 진행자와 다른 출연자들이 최 함장이 수장시킨 건 아니라며 발언을 제지했지만, 조 전 부대변인은 주장을 굽히지 않았다. 이후 자신의 페이스북에도 “도대체 뭐가 막말이냐”는 글을 올렸다.
+
+그는 또 “작전에 실패한 군인은 몰라도 경계에 실패한 군인은 용서할 수 없다는 군사 격언이 있다”며 “심지어 당시는 한미연합훈련 중이었다. 하지만 함장 지휘관이 폭침으로 침몰 되는데도 뭐에 당했는지도 알지 못 했다”고 했다.
+
+그러면서 “결국 46명의 젊은 목숨을 잃었다. 근데 함장이 책임이 없나”고 반문했다.
+
+한편, 송영길 민주당 대표도 이날 조 전 부대변인의 발언에 항의한 최 전 함장과 유가족에게 “죄송하다”고 사과했다.
+
+최 전 함장과 천안함 유가족은 이날 여의도 국회를 찾아 송 대표를 면담하고 공식 사과를 요구했다.
+
+송 대표는 이 자리에서 “당 대표로서 죄송하다”며 “조 전 부대변인의 잘못된 언어 사용에 대해서 유감을 표명한다”고 밝힌 것으로 전해졌다.
+
+고용진 수석대변인은 이날 면담 후 “조 전 대변인은 아무 당직 없이 당적만 보유한 분이며, 그분의 의견은 당과는 전혀 관련없는 의견”이라고 설명했다.
+
+그는 “함장이 수장시켰다는 식으로 발언한 것은 사과해야 한다고 (조 전 대변인에게) 요구하고 있다”며 “김병주 의원도 참석했는데, 국방위에서 천안함 폭침이 분명히 북한 소행이라는 점을 말할 것”이라고 전했다.
+
+박지혜 (noname@edaily.co.kr)
 ```
-
-* `RAW_PATH` is the directory containing story files (`../raw_stories`), `JSON_PATH` is the target directory to save the generated json files (`../merged_stories_tokenized`)
-
-
-####  Step 4. Format to Simpler Json Files
- 
 ```
-python preprocess.py -mode format_to_lines -raw_path RAW_PATH -save_path JSON_PATH -map_path MAP_PATH -lower 
+['[이데일리 박지혜 기자] 조상호 더불어민주당 전 부대변인이 결국 “천안함 함장이 부하들을 수장시켰다”는 발언에 대해 사과했다.',
+ '그러면서 “제 표현 중 혹여 순국한 46 용사의 유가족, 특히 아직도 시신조차 거두지 못한 6인의 유가족과 피해 장병들에게 고통스런 기억을 떠올리게 한 부분이 있다는 지적, 깊게 받아드린다”며 “상처로 떠올리신 유가족과 피해 장병께는 진심으로 사죄드린다”고 전했다.',
+ '당시 방송하던 진행자와 다른 출연자들이 최 함장이 수장시킨 건 아니라며 발언을 제지했지만, 조 전 부대변인은 주장을 굽히지 않았다. 이후 자신의 페이스북에도 “도대체 뭐가 막말이냐”는 글을 올렸다.']
 ```
-
-* `RAW_PATH` is the directory containing tokenized files (`../merged_stories_tokenized`), `JSON_PATH` is the target directory to save the generated json files (`../json_data/cnndm`), `MAP_PATH` is the  directory containing the urls files (`../urls`)
-
-####  Step 5. Format to PyTorch Files
+위와 같은 결과물을 얻을 수 있습니다.
+결과물의 길이는
 ```
-python preprocess.py -mode format_to_bert -raw_path JSON_PATH -save_path BERT_DATA_PATH -oracle_mode greedy -n_cpus 4 -log_file ../logs/preprocess.log
+[list(filter(None, text.split('\n')))[i] for i in sum_list[0][:SENTENCE_LENGTH]]
 ```
-
-* `JSON_PATH` is the directory containing json files (`../json_data`), `BERT_DATA_PATH` is the target directory to save the generated binary files (`../bert_data`)
-
-* `-oracle_mode` can be `greedy` or `combination`, where `combination` is more accurate but takes much longer time to process 
-
-## Model Training
-
-**First run**: For the first time, you should use single-GPU, so the code can download the BERT model. Change ``-visible_gpus 0,1,2  -gpu_ranks 0,1,2 -world_size 3`` to ``-visible_gpus 0  -gpu_ranks 0 -world_size 1``, after downloading, you could kill the process and rerun the code with multi-GPUs.
-
-
-To train the BERT+Classifier model, run:
-```
-python train.py -mode train -encoder classifier -dropout 0.1 -bert_data_path ../bert_data/cnndm -model_path ../models/bert_classifier -lr 2e-3 -visible_gpus 0,1,2  -gpu_ranks 0,1,2 -world_size 3 -report_every 50 -save_checkpoint_steps 1000 -batch_size 3000 -decay_method noam -train_steps 50000 -accum_count 2 -log_file ../logs/bert_classifier -use_interval true -warmup_steps 10000
-```
-
-To train the BERT+Transformer model, run:
-```
-python train.py -mode train -encoder transformer -dropout 0.1 -bert_data_path ../bert_data/cnndm -model_path ../models/bert_transformer -lr 2e-3 -visible_gpus 0,1,2  -gpu_ranks 0,1,2 -world_size 3 -report_every 50 -save_checkpoint_steps 1000 -batch_size 3000 -decay_method noam -train_steps 50000 -accum_count 2 -log_file ../logs/bert_transformer -use_interval true -warmup_steps 10000 -ff_size 2048 -inter_layers 2 -heads 8
-```
-
-To train the BERT+RNN model, run:
-```
-python train.py -mode train -encoder rnn -dropout 0.1 -bert_data_path ../bert_data/cnndm -model_path ../models/bert_rnn -lr 2e-3 -visible_gpus 0,1,2  -gpu_ranks 0,1,2 -world_size 3 -report_every 50 -save_checkpoint_steps 1000 -batch_size 3000 -decay_method noam -train_steps 50000 -accum_count 2 -log_file ../logs/bert_rnn -use_interval true -warmup_steps 10000 -rnn_size 768 -dropout 0.1
-```
-
-
-* `-mode` can be {`train, validate, test`}, where `validate` will inspect the model directory and evaluate the model for each newly saved checkpoint, `test` need to be used with `-test_from`, indicating the checkpoint you want to use
-
-## Model Evaluation
-After the training finished, run
-```
-python train.py -mode validate -bert_data_path ../bert_data/cnndm -model_path MODEL_PATH  -visible_gpus 0  -gpu_ranks 0 -batch_size 30000  -log_file LOG_FILE  -result_path RESULT_PATH -test_all -block_trigram true
-```
-* `MODEL_PATH` is the directory of saved checkpoints
-* `RESULT_PATH` is where you want to put decoded summaries (default `../results/cnndm`)
+위 코드에서 SENTENCE_LENGTH를 조정하면 됩니다.
 
 ## Refference
 * https://github.com/raqoon886/KorBertSum
