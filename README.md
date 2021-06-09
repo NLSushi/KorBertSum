@@ -12,6 +12,7 @@
 
 ## How to Test ?
 모델을 만들고 테스트하는 방법은 BertSum_test Jupyter Notebook을 활용하시면 됩니다.
+
 아래의 기사를 입력시 
 
 ```
