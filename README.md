@@ -59,6 +59,13 @@
 ```
 위 코드에서 SENTENCE_LENGTH를 조정하면 됩니다.
 
+```
+input_data = txt2input(text)
+sum_list = test(args, input_data, -1, '', None)
+sum_list[0]
+```
+인풋데이터의 요약 순위를 확인할 수 있습니다.
+
 ## Refference
 * https://github.com/raqoon886/KorBertSum
 * https://github.com/huggingface/transformers
