@@ -67,6 +67,7 @@ sum_list[0]
 인풋데이터의 요약 순위를 확인할 수 있습니다.
 
 ## Refference
+* https://velog.io/@dev_halo/BertSum
 * https://github.com/raqoon886/KorBertSum
 * https://github.com/huggingface/transformers
 * https://github.com/SOMJANG/Mecab-ko-for-Google-Colab
